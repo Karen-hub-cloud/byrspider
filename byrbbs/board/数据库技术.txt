@@ -1,0 +1,575 @@
+【文章标题】：[范文]数据库往何处去 (转载) 【文章地址】：https://bbs.byr.cn/article/Database/11 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: Database
+标  题: [范文]数据库往何处去
+发信站: 北邮人论坛 (Tue Sep  5 19:12:45 2006), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: cher (车车), 信区: Board_Apply
+标  题: [范文]数据库往何处去
+发信站: 北邮人论坛 (Mon Jun 12 23:16:25 2006), 站内
+
+                      数据库往何处去
+                         作者：fk
+                     1999/11/20于笑书亭
+    我想在下一个十年，数据库的发展很难再现前两年那种迅猛的势头
+了。数据库系统的技术已经非常成熟，虽然仍然在不断进步，但是所增
+加的，往往只是一些用户并不常使用的细枝末节，很难有大的突破；大
+型数据库服务器已经趋于饱和，市场需求增加缓慢。数据库到底往何处
+去，是我们每个关心数据库发展的人必须认真思考的问题。
+    另一方面，随着“后PC”时代的来临，PC机将逐渐从我们的日常生
+活中消失，取而代之的，是各种功能更为集中，结构更加简单的智能设
+备。这一趋势势必对今后数据库的发展产生极大的影响，基于此，我认
+为：在未来几年里，数据库的发展应主要在以下两个方向：
+    一）嵌入式数据库
+    什么是嵌入式数据库？单从字面上解释，就是将数据库代码作为库
+函数同应用程序一起编译，这有点象我们原来在VFP上干的事。嵌入式 
+数据库一般是个人数据库，但不应把它理解为单用户数据库，它应具有
+完整的数据库的全部功能。
+    为什么要用嵌入式数据库？主要还是由于各种移动设备、信息家电
+的普及。为这些设备编写专门的面向应用的代码显然是耗时耗力的，因
+此需要引入统一的数据管理机制，说穿了，还是软件抽象的思想。
+    那么嵌入式数据库应该解决哪些问题呢？我想主要有以下两点：一
+是嵌入式数据库的代码应该非常精简（普通的信息设备不可能有象服务
+器那样的处理能力和存储容量），这就要求数据库应该是模块化，可以
+根据应用的要求而拆卸的；二是嵌入式数据库必须是可自我管理、自我
+调节的（大型数据库往往需要专人来维护，这对于嵌入式数据库的应用
+环境来说是不可想象的），这就要求数据库能够更加智能，关于这方面
+的研究，国外进行的很多，不过目前还没有看到实用化的结果。
+    二）移动数据库
+    移动数据库是随着移动信息设备（如掌上电脑等）和无线数字通信
+的发展而逐渐兴起的，下个世纪的计算环境中将有很大一部分是移动计
+算。
+    移动数据库要解决的主要问题是：每个移动设备在网络中没有固定
+的位置和网络地址，它们只能通过卫星通信或其它方式与数据库服务器
+相连。这使得路由和查询处理变得非常复杂，具体地说，我们平常用数
+据库时，如果你在执行一查询后又执行同一查询，假设两次查询之间， 
+数据库的状态未发生变化，我们能够预期查询的结果将保持不变；但在
+移动环境下，这是不成立的。想象你正坐在一辆车上，询问最近的医院
+在哪里，很显然，随着你位置的变化，尽管数据库的状态未变化，但每
+次查询的结果是完全有可能不同的。因此查询时，必须将你当前的位置
+作为参数，这种位置相关的查询对传统数据库的查询处理和事务模型提
+出了新的要求。
+    当然，不管数据库如何发展，其基本问题都是不变的，只不过随着
+应用和硬件环境的变化而变化为另一种形式，从而产生出不同的解决方
+法和技术罢了。
+    另外和数据库发展紧密相关的方向包括数据挖掘和数据仓库，从目
+前的发展状况来看，数据挖掘仍然停留在研究阶段，而数据仓库已经开
+始实用化了。
+    电子商务的兴起，对数据库的影响也是不可忽视的。
+    此外，包括中间件应用服务器、WEB数据库等的发展，都是我们值
+得关注的方向。
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：[求助]excel数据导入SQLserver，NULL问题 【文章地址】：https://bbs.byr.cn/article/Database/2135 【创建时间】：2008-04-18 【作者】：blueskyjr 【评论】：4 【内容】：发信人: blueskyjr (欧若拉), 信区: Database
+标  题: [求助]excel数据导入SQLserver，NULL问题
+发信站: 北邮人论坛 (Fri Apr 18 11:56:26 2008), 站内
+
+想将Excel中数据导入已经存在的一个表，表中设了主键ID，
+在导入时候报错：目的不允许在列ID中出现NULL，就是excel最后有很多空着的，到时候它也会导进去。
+该怎样解决呢？是要在excel中设置一个像结束标志一样的东西还是要在SQL server里导入时候设置？多谢~
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.224.*]
+ 
+【文章标题】：请问:SQL Server2000中数据库中的一个表怎么复制到另一个数据库 【文章地址】：https://bbs.byr.cn/article/Database/2077 【创建时间】：2008-04-02 【作者】：DingDang 【评论】：1 【内容】：发信人: DingDang (叮当), 信区: Database
+标  题: 请问:SQL Server2000中数据库中的一个表怎么复制到另一个数据库中.
+发信站: 北邮人论坛 (Wed Apr  2 10:56:34 2008), 站内
+
+在2000中,对应着每个表有"复制"的选项,但是没有"粘贴",不知道怎么复制过去.
+麻烦大家了.
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.224.162.*]
+ 
+【文章标题】：【再次求助】excel长文本读取 【文章地址】：https://bbs.byr.cn/article/Database/2094 【创建时间】：2008-04-08 【作者】：grapple 【评论】：0 【内容】：发信人: grapple (/、暴走族 /、 代理族长), 信区: Database
+标  题: 【再次求助】excel长文本读取
+发信站: 北邮人论坛 (Tue Apr  8 17:17:45 2008), 站内
+
+            string strCon = " Data Source  =54B1FF1DE68C9A1 ; Initial Catalog =cnc-ID;Integrated Security=SSPI;";
+            SqlConnection myConn = new SqlConnection(strCon);
+            myConn.Open();
+             string strCom2 = "SELECT * INTO table12 FROM OPENROWSET('Microsoft.Jet.OLEDB.4.0','Excel 8.0;Database=G:/OSS_China-Mainland_NetcomGroup200802.xls;IMEX=1',[Sheet1$])";
+           SqlDataAdapter myCommand2 = new SqlDataAdapter(strCom2, myConn);      
+       SqlCommandBuilder scb2 = new SqlCommandBuilder(myCommand2);
+            DataSet etsDataset2 = new DataSet();
+             myCommand2.Fill(etsDataset2, "[Sheet1$]");
+运行不通过，怀疑是excel中长文本的问题，那位高人帮忙看看，指点一下，不胜感激！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+ 
+【文章标题】：【求助】excel表格处理的问题 【文章地址】：https://bbs.byr.cn/article/Database/2086 【创建时间】：2008-04-05 【作者】：grapple 【评论】：0 【内容】：发信人: grapple (/、暴走族 /、 代理族长), 信区: Database
+标  题: 【求助】excel表格处理的问题
+发信站: 北邮人论坛 (Sat Apr  5 16:08:33 2008), 站内
+
+主要有两个问题：
+1、excel的某几个区域的数据如何导入sql server
+2、一行中这样“2131, 2136, 21398, 21399”的数据如何分成几行
+--
+还望各位大侠多多指教，不胜感激！
+※ 修改:·grapple 于 Apr  5 16:10:20 修改本文·[FROM: 59.64.132.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+ 
+【文章标题】：关于Mysql的集合运算问题 【文章地址】：https://bbs.byr.cn/article/Database/2071 【创建时间】：2008-03-28 【作者】：LOOKYOU 【评论】：0 【内容】：发信人: LOOKYOU (ZE), 信区: Database
+标  题: 关于Mysql的集合运算问题
+发信站: 北邮人论坛 (Fri Mar 28 15:24:21 2008), 站内
+
+  想问一下各位:为什么Mysql中union运算没问题,可是intersect,except却不行呢?
+--
+在胜负的世界里，独创性就是生命
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.194.*]
+ 
+【文章标题】：SQL语句中的Open()和Execute()有什么区别 【文章地址】：https://bbs.byr.cn/article/Database/2088 【创建时间】：2008-04-07 【作者】：Murphy 【评论】：1 【内容】：发信人: Murphy (murphy), 信区: Database
+标  题: SQL语句中的Open()和Execute()有什么区别
+发信站: 北邮人论坛 (Mon Apr  7 10:25:41 2008), 站内
+
+请问这两个函数在执行SQL语句时有什么区别，如
+$sql = "select * from record_table ";
+
+$rs-&gt;Open("$sql","$dbc",1,3);
+和
+$rs = $dbc-&gt;Execute($sql);
+
+在网上查了一下，说的不是很清楚，呵呵，请教各位了
+--
+我的生命因你而精彩
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.155.*]
+ 
+【文章标题】：请问有人用case studio吗 【文章地址】：https://bbs.byr.cn/article/Database/2098 【创建时间】：2008-04-09 【作者】：Ronaldo 【评论】：0 【内容】：发信人: Ronaldo (罗纳尔多), 信区: Database
+标  题: 请问有人用case studio吗
+发信站: 北邮人论坛 (Wed Apr  9 13:19:19 2008), 站内
+
+可否推荐个教程什么的，，，我第一次接触这东西，但好像找不到教程啥的。谢谢
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.214.*]
+ 
+【文章标题】：求教关于SQL Server2000中查询及格率的问题 【文章地址】：https://bbs.byr.cn/article/Database/2069 【创建时间】：2008-03-28 【作者】：easylove 【评论】：0 【内容】：发信人: easylove (简单的幸福), 信区: Database
+标  题: 求教关于SQL Server2000中查询及格率的问题
+发信站: 北邮人论坛 (Fri Mar 28 10:32:38 2008), 站内
+
+    
+学生情况表（XS）
+学号    姓名    性别    出生日期    专业    总学分    备注
+4102101    王林    1    1983-1-23    计算机    40    NULL
+4102102    吴荣华    0    1984-3-28    计算机    44    NULL
+4202103    张强    1    1981-11-19    电子    NULL    NULL
+4202110    王向荣    1    1980-12-9    电子    50    NULL
+4202221    李丽    0    1982-7-30    电子    NULL    NULL
+4302101    刘明    1    1982-10-18    自控    38    NULL
+4402130    叶凡    1    1983-11-18    数学    46    转专业学习
+课程表（KC）
+课程号    课程名    开课学期    学时    学分
+101    计算机基础    1    48    3
+102    C语言    2    80    5
+103    数据库    4    64    4
+201    离散数学    6    64    4
+202    计算机网络    7    64    4
+301    软件工程    6    64    4
+
+
+学生与课程表（XS_KC）
+学号    课程号    成绩
+4102101    101    80
+4102101    102    89
+4102101    103    78
+4102102    101    57
+4102102    102    67
+4202103    103    90
+4202110    101    85
+4202110    102    91
+4202221    101    69
+4402130    101    78
+4402130    103    74
+
+如何查询“计算机基础”成绩的及格率？
+只会查询选了这门课的总人数和及格人数，不知如何算出及格率
+能帮忙写下SQL语句吗？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.204.102.*]
+ 
+【文章标题】：小弟初次使用数据库，麻烦大侠传个基本的小程序吧 【文章地址】：https://bbs.byr.cn/article/Database/2074 【创建时间】：2008-03-30 【作者】：talentlin8 【评论】：0 【内容】：发信人: talentlin8 (常藤屋), 信区: Database
+标  题: 小弟初次使用数据库，麻烦大侠传个基本的小程序吧
+发信站: 北邮人论坛 (Sun Mar 30 16:31:43 2008), 站内
+
+c#和access的，只要能够通过c#向access写入数据，或者读取数据，能够保存就行了
+多谢啦。
+--
+3.15真是个好日子
+要是一直这样该有多好啊
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.138.143]
+ 
+【文章标题】：【求助】Mac下怎么卸载MySql啊 【文章地址】：https://bbs.byr.cn/article/Database/7475 【创建时间】：2013-05-06 【作者】：xhlzyllx 【评论】：1 【内容】：发信人: xhlzyllx (larrycan), 信区: Database
+标  题: 【求助】Mac下怎么卸载MySql啊
+发信站: 北邮人论坛 (Mon May  6 15:40:15 2013), 站内
+
+百度上貌似都是些停止进程，感觉没有卸载啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.39.*]
+ 
+【文章标题】：Mysql脚本问题--alter语句中如何使用变量 【文章地址】：https://bbs.byr.cn/article/Database/7398 【创建时间】：2013-04-09 【作者】：xwl1119 【评论】：0 【内容】：发信人: xwl1119 (一米阳光), 信区: Database
+标  题: Mysql脚本问题--alter语句中如何使用变量
+发信站: 北邮人论坛 (Tue Apr  9 17:11:44 2013), 站内
+
+使用存储过程写一个sql脚本，实现修改数据库表主键的功能，下面是简单测试的脚本，alter语句中使用变量出问题，请问怎么破？exec直接提示出错。。
+下面是测试脚本：
+
+DELIMITER //
+DROP PROCEDURE IF EXISTS chgkey //
+
+CREATE PROCEDURE chgkey()
+BEGIN    
+    SET @curID = 2;
+    
+        //查表，将查询结果赋值给变量
+    SELECT table_prikey FROM acc_temp WHERE id = @curID;
+    SELECT @prikey := table_prikey FROM acc_temp WHERE id = @curID;
+    SELECT @tablename := table_name FROM acc_temp WHERE id = @curID;
+
+        //测试变量是否赋值成功
+    SELECT * FROM acc_temp WHERE table_prikey = @prikey;
+    SELECT * FROM acc_temp WHERE table_name = @tablename;
+    SELECT @prikey;
+    SELECT @tablename;
+    
+        //更新表主键
+    ALTER TABLE @tablename DROP PRIMARY KEY,ADD PRIMARY KEY (@prikey, adapt_point);
+     
+END;//
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.142.70.*]
+ 
+【文章标题】：新手求问，sql语句返回表的所有字段名 【文章地址】：https://bbs.byr.cn/article/Database/7352 【创建时间】：2013-03-04 【作者】：bixucainiao 【评论】：5 【内容】：发信人: bixucainiao (梦醒少年), 信区: Database
+标  题: 新手求问，sql语句返回表的所有字段名
+发信站: 北邮人论坛 (Mon Mar  4 10:47:23 2013), 站内
+
+--
+
+我想查询表的所有字段名，网上查的代码是   select * from syscolumns where id = object_id('TableName')   但是总是提示 syscolumns doesn't exist   有没人知道是什么情况啊。。
+※ 修改:·bixucainiao 于 Mar  4 10:49:12 2013 修改本文·[FROM: 10.108.95.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.95.*]
+ 
+【文章标题】：ldap和database之间有什么联系吗？ 【文章地址】：https://bbs.byr.cn/article/Database/7359 【创建时间】：2013-03-08 【作者】：silvermoon 【评论】：2 【内容】：发信人: silvermoon (床边的苹果), 信区: Database
+标  题: ldap和database之间有什么联系吗？
+发信站: 北邮人论坛 (Fri Mar  8 11:26:32 2013), 站内
+
+ldap服务的directory和database有什么区别吗？
+新手刚学，搞不太懂它们之间的关系区别什么的..
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.108.130.*]
+ 
+【文章标题】：MySQL->SQLite 【文章地址】：https://bbs.byr.cn/article/Database/7364 【创建时间】：2013-03-11 【作者】：wulin 【评论】：0 【内容】：发信人: wulin (123), 信区: Database
+标  题: MySQL-&gt;SQLite
+发信站: 北邮人论坛 (Mon Mar 11 15:35:08 2013), 站内
+
+大家都用什么软件来转换数据库呢？比如将MySQL转换为SQLite
+ESF Database Migration Toolkit的功能满足要求，但是是收费软件。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 159.226.43.*]
+ 
+【文章标题】：关于Access 【文章地址】：https://bbs.byr.cn/article/Database/7363 【创建时间】：2013-03-10 【作者】：i09211404 【评论】：1 【内容】：发信人: i09211404 (私酿以自醉), 信区: Database
+标  题: 关于Access
+发信站: 北邮人论坛 (Sun Mar 10 20:09:01 2013), 站内
+
+帮同学做点东西  他们用Access
+但是不会执行Sql语句  尤其是建表之类的
+建模弄好导出来的语句更是不知道去哪里执行- -
+
+
+求好心人
+弄了一天好纠结 [望天
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：自己改写的适合EditPlus的sql语法stx文件 【文章地址】：https://bbs.byr.cn/article/Database/7366 【创建时间】：2013-03-12 【作者】：sue891206 【评论】：2 【内容】：发信人: sue891206 (我是一个小小的版主~yeah), 信区: Database
+标  题: 自己改写的适合EditPlus的sql语法stx文件
+发信站: 北邮人论坛 (Tue Mar 12 11:13:00 2013), 站内
+
+网上有的不太全~ 自己又添加了一些标识符
+把这个拷贝到EditPlus文件夹下~
+然后工具--&gt;参数设置--&gt;语法，添加sql文件即可，扩展名可以写sql;db2;...;
+以分号隔开~
+
+不能添加附件？？
+那我粘上代码吧：
+sql.stx
+--------以下为内容
+#TITLE=SQL  
+; SQL syntax file written by MM.  
+  
+#DELIMITER=,(){}[]-+*%/="'~!&amp;|&lt;&gt;?:;. 
+#QUOTATION1=' 
+#QUOTATION2="  
+#LINECOMMENT=--
+#COMMENTON=/*
+#COMMENTOFF=*/
+  
+#SPECIAL_STX=SQL  
+  
+#KEYWORD=SQL Tags  
+;VAR  
+sql_variant  
+datetime  
+smalldatetime  
+float  
+real  
+decimal  
+money  
+smallmoney  
+bigint  
+int  
+number
+smallint  
+tinyint  
+bit  
+ntext  
+text  
+image  
+integer  
+timestamp  
+uniqueidentifier  
+nvarchar  
+nchar  
+varchar
+varchar2
+char  
+CHARACTER  
+varbinary  
+binary  
+#KEYWORD=Reserved words  
+ADD  
+ALL  
+ALTER  
+AND  
+ANY  
+AS  
+ASC  
+AUTHORIZATION  
+AVG  
+BACKUP  
+BEGIN  
+BETWEEN  
+BREAK  
+BROWSE  
+BULK  
+BY  
+CASCADE  
+CASE  
+CHECK  
+CHECKPOINT  
+CLOSE  
+CLUSTERED  
+COALESCE  
+COLUMN  
+COMMIT  
+COMMENT  
+COMMITTED  
+COMPUTE  
+CONFIRM  
+CONNECT  
+CONSTRAINT  
+CONTAINS  
+CONTAINSTABLE  
+CONTINUE  
+CONTROLROW  
+CONVERT  
+COUNT  
+CREATE  
+CROSS  
+CURRENT  
+CURRENT_DATE  
+CURRENT_TIME  
+CURRENT_TIMESTAMP  
+CURRENT_USER  
+CURSOR  
+DATABASE  
+DBCC  
+DEALLOCATE  
+DECLARE  
+DEFAULT   
+DELETE  
+DENY  
+DESC  
+DISK  
+DISTINCT  
+DISTRIBUTED  
+DOUBLE  
+DROP  
+DUMMY  
+DUMP  
+ELSE  
+END  
+ERRLVL  
+ERROREXIT  
+ESCAPE  
+EXCEPT  
+EXEC  
+EXECUTE  
+EXISTS  
+EXIT  
+FETCH  
+FILE  
+FILLFACTOR  
+FLOPPY  
+FOR  
+FOREIGN  
+FREETEXT  
+FREETEXTTABLE  
+FROM  
+FULL  
+GOTO  
+GRANT  
+GROUP  
+HAVING  
+HOLDLOCK  
+IDENTITY  
+IDENTITY_INSERT  
+IDENTITYCOL  
+IF  
+IN  
+INDEX  
+INNER  
+INSERT  
+INTERSECT  
+INTO  
+IS  
+ISOLATION  
+JOIN  
+KEY  
+KILL  
+LEFT  
+LEVEL  
+LIKE  
+LINENO  
+LOAD
+LOOP
+MAX  
+MIN  
+MIRROREXIT  
+NATIONAL  
+NOCHECK  
+NONCLUSTERED  
+NOT  
+NULL  
+NULLIF  
+OF  
+OFF  
+OFFSETS  
+ON  
+ONCE  
+ONLY  
+OPEN  
+OPENDATASOURCE  
+OPENQUERY  
+OPENROWSET  
+OPTION  
+OR  
+ORDER  
+OUTER  
+OVER  
+PERCENT  
+PERM  
+PERMANENT  
+PIPE  
+PLAN  
+PRECISION  
+PREPARE  
+PRIMARY  
+PRINT  
+PRIVILEGES  
+PROC  
+PROCEDURE  
+PROCESSEXIT  
+PUBLIC  
+RAISERROR  
+READ  
+READTEXT  
+RECONFIGURE  
+REFERENCES  
+REPEATABLE  
+REPLICATION  
+RESTORE  
+RESTRICT  
+RETURN  
+REVOKE  
+RIGHT  
+ROLLBACK  
+ROWCOUNT  
+ROWGUIDCOL  
+RULE  
+SAVE  
+SCHEMA  
+SELECT  
+SERIALIZABLE  
+SESSION_USER  
+SET  
+SETUSER  
+SHUTDOWN  
+SOME  
+STATISTICS  
+SUBSTR  
+SUM  
+SYSTEM_USER  
+TABLE  
+TAPE  
+TEMP  
+TEMPORARY  
+TEXTSIZE  
+THEN  
+TIMESTAMP  
+TO  
+TOP  
+TRAN  
+TRANSACTION  
+TRIGGER  
+TRUNCATE  
+TSEQUAL  
+UNCOMMITTED  
+UNION  
+UNIQUE  
+UPDATE  
+UPDATETEXT  
+USE  
+USER  
+USING  
+VALUES  
+VARYING  
+VIEW  
+WAITFOR  
+WHEN  
+WHERE  
+WHILE  
+WITH  
+WORK  
+WRITETEXT  
+--
+※ 修改:·sue891206 于 Mar 12 11:14:59 2013 修改本文·[FROM: 211.103.249.4]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.103.249.4]
+ 
+【文章标题】：oracle数据库内存管理的问题，大牛请进 【文章地址】：https://bbs.byr.cn/article/Database/7369 【创建时间】：2013-03-14 【作者】：llbupt 【评论】：2 【内容】：发信人: llbupt (求Offer), 信区: Database
+标  题: oracle数据库内存管理的问题，大牛请进
+发信站: 北邮人论坛 (Thu Mar 14 09:49:33 2013), 站内
+
+最近系统总是出现下面的问题：
+严重: Servlet.service() for servlet action threw exception
+java.sql.SQLException: ORA-04030: 在尝试分配 58380 字节 (QERGH hash-agg,kllcqc:kllcqslt) 时进程内存不足
+上网查了一下需要重新配置SGA,PGA两个参数的值，请教大牛应该如何设置
+
+服务器64位，oracle11gR1 32位的，应该怎么设置啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.215.2.*]
+ 
