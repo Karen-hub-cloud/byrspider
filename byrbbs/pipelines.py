@@ -82,13 +82,15 @@ class ElasticsearchPipeline(object):
         # 将数据传入es
         # jobType继承自DocType，所以DocType有的函数，它都有。
         # save就是DocType定义的将类中的各成员变量打包成数据插入操作，进行数据插入的函数
-        bbs_info.section_name = item['section_name']
-        bbs_info.article_title = item['article_title']
-        bbs_info.article_createtime = item['article_createtime']
-        bbs_info.article_url = item['article_url']
-        bbs_info.article_author = item['article_author']
-        bbs_info.article_comment = item['article_comment']
-        bbs_info.article_content = item['article_content']
+        bbs_info.partion = item['section_name']
+        bbs_info.title = item['article_title']
+        bbs_info.send_time = item['article_createtime']
+        bbs_info.url = item['article_url']
+        bbs_info.sender = item['article_author']
+        bbs_info.reply_count = item['article_comment']
+        bbs_info.content = item['article_content']
+        bbs_info.latest_reply_time = "2020-01-11"
+
         bbs_info.save()
 
         #仍返回item，使得运行窗口能看到爬到的数据

@@ -16,19 +16,20 @@ es = connections.create_connection(host="127.0.0.1")
 class bbsType(Document):
 
     # TODO:fileds定义
-    section_name = Keyword() #板块名称？
-    article_title = Text(analyzer = "ik_max_word")#标题
-    article_url = Keyword() #链接
-    article_createtime = Date() #日期
-    article_author = Keyword() #作者
-    article_comment = Integer() #评论个数
-    article_content = Text(analyzer = "ik_smart") #内容
+    partion = Keyword() #板块名称？
+    title = Text(analyzer = "ik_max_word")#标题
+    url = Keyword() #链接
+    send_time = Date() #日期
+    sender = Keyword() #作者
+    reply_count = Integer() #评论个数
+    content = Text(analyzer = "ik_smart") #内容
+    latest_reply_time = Date()
 
     # suggest = Completion(analyzer=ik_analyzer)  # 搜索建议
 
     # 设置index名称和document名称
     class Index:
-        name = "byrbbs"
+        name = "byr"
         # type = "article"
         doc_type = "article"
         # settings = {
