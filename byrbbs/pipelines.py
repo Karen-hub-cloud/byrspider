@@ -78,17 +78,17 @@ class ElasticsearchPipeline(object):
 
     def process_item(self, item, spider):
         # 生成bbs对象
-        bbs_info = bbsType()# 将item转换为es所需格式
+        bbs_info = bbsType(item)# 将item转换为es所需格式
         # 将数据传入es
         # jobType继承自DocType，所以DocType有的函数，它都有。
         # save就是DocType定义的将类中的各成员变量打包成数据插入操作，进行数据插入的函数
-        bbs_info.partion = item['section_name']
-        bbs_info.title = item['article_title']
-        bbs_info.send_time = item['article_createtime']
-        bbs_info.url = item['article_url']
-        bbs_info.sender = item['article_author']
-        bbs_info.reply_count = item['article_comment']
-        bbs_info.content = item['article_content']
+        bbs_info.partion = item['partion']
+        bbs_info.title = item['title']
+        bbs_info.send_time = item['send_time']
+        bbs_info.url = item['url']
+        bbs_info.sender = item['sender']
+        bbs_info.reply_count = item['reply_count']
+        bbs_info.content = item['content']
         bbs_info.latest_reply_time = "2020-01-11"
 
         bbs_info.save()

@@ -32,33 +32,35 @@ class ByrSectionSpider(scrapy.Spider):
         body = response.body_as_unicode()
         data = body.replace(r'\"', '"') #原始形式为“/board/BTadvice\”，需删除尾部的\
         results = re.findall(self.pat, data, re.I)   #re,I 忽略大小写
-        print("result",results)
+        print("results:",results)
         for result in results:
-            url = result[0]
-            title = result[1]
-            rs = re.findall(self.section_pat, url, re.I)
+            section_url = result[0]
+            partion = result[1]
+            rs = re.findall(self.section_pat, section_url, re.I)
+            print("rs",rs)
             if rs:
+                print("2")
                 next_url = 'http://bbs.byr.cn/section/ajax_list.json?uid='+LOGIN_FORMDATA['id']+'&root=sec-%s' % rs[0]
                 yield scrapy.Request(next_url, meta={'cookiejar': response.meta['cookiejar'],'item':response.meta['item']}, headers=HEADERS, callback=self.parse)
             else:
+                print("1")
                 item = ByrSectionItem()
-                item['section_url'] = url
-                item['section_name'] = title
+                item['section_url'] = section_url
+                item['partion'] = partion
                 item['top_section_num'] = top_section_num
                 item['top_section_name'] = top_section_name
                 # yield item    #传出/存储于本地文件，用于测试
-                yield scrapy.Request(response.urljoin(url), meta={'cookiejar': response.meta['cookiejar'], 'item': item}, headers=HEADERS,callback=self.parse_article_total)
+                print("item",item)
+                yield scrapy.Request(response.urljoin(section_url), meta={'cookiejar': response.meta['cookiejar'], 'item': item}, headers=HEADERS,callback=self.parse_article_total)
 
     def parse_article_total(self,response):
         section_article_total = response.xpath('//*[@class="t-pre-bottom"]/div[1]/ul[1]/li[1]/i/text()').extract()
         item = response.meta['item']
         item['section_article_total'] = section_article_total[0]
-        print("item['section_article_total']",item['section_article_total'])
-        print("item",item)
         fileName = '学术科技讨论区所有板块.txt'  # 爬取的内容存入文件，文件名为：作者-语录.txt
         f = open(fileName, "a+", encoding='gbk')  # 追加写入文件
         f.write('【版面地址】：' + item['section_url'] +' ')
-        f.write('【版面名称】：' + item['section_name'] + ' ')
+        f.write('【版面名称】：' + item['partion'] + ' ')
         f.write('【文章总数】：' + item['section_article_total'] + ' ')
         f.write('【隶属的讨论区】：' + item['top_section_name'] + ' ')
         f.write('\n')
