@@ -1,0 +1,33 @@
+【文章标题】：数据库管理员一般都多少money 【文章地址】：https://bbs.byr.cn/article/Database/6422 【创建时间】：2012-04-09 【作者】：buptlyc 【评论】：1 【内容】：发信人: buptlyc (学徒), 信区: Database
+标  题: 数据库管理员一般都多少money
+发信站: 北邮人论坛 (Mon Apr  9 23:11:12 2012), 站内
+
+如题，那位大虾给讲讲...
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.249.210.*]
+ 
+【文章标题】：宏 【文章地址】：https://bbs.byr.cn/article/Database/6549 【创建时间】：2012-05-01 【作者】：wanghongna 【评论】：2 【内容】：发信人: wanghongna (牟牟), 信区: Database
+标  题: 宏
+发信站: 北邮人论坛 (Tue May  1 22:13:17 2012), 站内
+
+请教一下：能够将EXCEL中的宏直接运用于SQL SERVER中的SSIS中作为一个子进程吗。。。
+怎样实现。
+
+
+已经有个在Excel表格中录制好的宏，想对每个文件都执行同样的宏操作，且这个操作只是作为一个ETL
+流程中的一部分。。。应该怎样实现呢。。。
+请高人指点。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.5.*]
+ 
+【文章标题】：Re: hibernate jdbc 事务的回滚的作用？ 【文章地址】：https://bbs.byr.cn/article/Database/6437 【创建时间】：2012-05-03 【作者】：原帖已删除 【评论】：5 【内容】：发信人: OK608 (Van Helsing), 信区: Database
+标  题: Re: hibernate jdbc 事务的回滚的作用？
+发信站: 北邮人论坛 (Sat Apr 14 09:58:46 2012), 站内
+
+回滚除了回滚已经操作过的数据外还有回滚待执行的语句，因为hibernate的jdbc事务出错后是不会去commit转而执行回滚，这个回滚就是回滚flush到数据库中的语句。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.34.*]
+ 
