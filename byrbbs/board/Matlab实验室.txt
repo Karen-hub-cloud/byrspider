@@ -1,0 +1,4038 @@
+【文章标题】：【求助】opnet应该怎么入门学习啊,有高手能说两句么[求助] 【文章地址】：https://bbs.byr.cn/article/Matlab/889 【创建时间】：2007-05-15 【作者】：ibelieve9 【评论】：1 【内容】：发信人: ibelieve9 (十包耗子药), 信区: Matlab
+标  题: 【求助】opnet应该怎么入门学习啊,有高手能说两句么[求助]
+发信站: 北邮人论坛 (Tue May 15 11:26:47 2007), 站内
+
+身边的同学都不熟悉,希望高手能给指点一下,谢谢了
+--
+不 矢口 亻十 么 日寸 候 亻奄 口斤 言兑 言仑 土云 有 辶寸 氵虑 敏 感 字 白勺 言兑 氵去 , 于 是 , 亻奄 学 会 了 扌斥 字 ， 后 来 ， 亻奄 米青 礻申 分 歹刂 了
+
+※ 修改:·physics 于 Jan  9 01:41:04 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.140.*]
+ 
+【文章标题】：【求助】大家帮帮忙! 【文章地址】：https://bbs.byr.cn/article/Matlab/906 【创建时间】：2007-05-17 【作者】：majun 【评论】：2 【内容】：发信人: majun (我走我路), 信区: Matlab
+标  题: 【求助】大家帮帮忙!
+发信站: 北邮人论坛 (Thu May 17 10:04:17 2007), 站内
+
+一共有3个问题: 
+1   我写了一个M程序,运行时,出现这样的错误:??? Subscript indices must either be real positive integers or logicals.这是什么意思?该如何修改源程序? 
+2    如何将M文件源程序与SIMULINK模块图进行相互转化,也即如何画出一段写好的M文件源程序的SIMULINK模块图,应该有什么方式可以直接一下子转化过来吧,就像QUARTUS一样,当然,反之,如何一下子根据SIMULINK模块转化出其源程序? 
+3 谁知道OFDM的频偏估计中的精频估计,粗频估计到底有何不同,具体的程序有哪些修改? 
+谢谢! 
+<img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+--
+
+※ 修改:·physics 于 Jan  9 01:40:47 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.202.12.*]
+ 
+【文章标题】：【求助】matlab能进行网络仿真吗 【文章地址】：https://bbs.byr.cn/article/Matlab/951 【创建时间】：2007-05-19 【作者】：CrystalWall 【评论】：1 【内容】：发信人: CrystalWall (FB|然后红牌罚下), 信区: Matlab
+标  题: 【求助】matlab能进行网络仿真吗
+发信站: 北邮人论坛 (Sat May 19 17:34:38 2007), 站内
+
+    老师要我仿真出网络的时延和链路利用率，但工具箱中没有路由器、交换机等模型，想请教一下matlab能实现这些功能吗
+--
+void！另一种独特的方式谢幕
+
+※ 修改:·physics 于 Jan  9 01:39:44 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.219.*]
+ 
+【文章标题】：【求助】急求牛人帮忙! 【文章地址】：https://bbs.byr.cn/article/Matlab/1008 【创建时间】：2007-05-22 【作者】：majun 【评论】：1 【内容】：发信人: majun (我走我路), 信区: Matlab
+标  题: 【求助】急求牛人帮忙!
+发信站: 北邮人论坛 (Tue May 22 10:40:36 2007), 站内
+
+for   k=0:(L-1); 
+rl(k)=r(k)*conj(r(k+ N));
+rm(t+1)=sum(rl);p(t+1)=abs(r(k),r(k+N));
+end
+如上的一段程序,每次运行时,都有如下的错误:
+??? Subscript indices must either be real positive integers or logicals.
+实在搞不懂咋回事,急求牛人帮忙!
+--
+
+※ 修改:·physics 于 Jan  9 01:39:10 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.202.12.*]
+ 
+【文章标题】：【求助】哪位高手用MATLAB做过用户界面，拜托指教一下。 【文章地址】：https://bbs.byr.cn/article/Matlab/922 【创建时间】：2007-05-18 【作者】：lwydz13 【评论】：2 【内容】：发信人: lwydz13 (北邮人), 信区: Matlab
+标  题: 【求助】哪位高手用MATLAB做过用户界面，拜托指教一下。
+发信站: 北邮人论坛 (Fri May 18 09:29:16 2007), 站内
+
+毕设只差最后一步了，可是搞了好几天还是没能把用户界面搞定。
+也没有找到相关的资料，问问哪位高手做过。或者哪位大虾有相关的资料推荐一下。
+非常感谢！！
+
+--
+
+※ 修改:·physics 于 Jan  9 01:40:38 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：【建议】给大家们一些建议 【文章地址】：https://bbs.byr.cn/article/Matlab/923 【创建时间】：2007-05-18 【作者】：bebekifis 【评论】：2 【内容】：发信人: bebekifis (肥狗), 信区: Matlab
+标  题: 【建议】给大家们一些建议
+发信站: 北邮人论坛 (Fri May 18 15:58:01 2007), 站内
+
+自己经常用matlab，这个软件估计学校的每个人都应该会使用，其重要性我就不说了。只是想说一下大家遇见问题的时候的解决办法。
+1，最权威的资料，matlab的自带帮助文件。一开始可能有很多同学说自己看不懂英文或是看不懂函数什么的，我觉得这都是一个过程，慢慢的就好了。它自带的help中很多都是有例子的，你可以把例子拿出了跑一跑，跟踪一下运行情况就能明白这个函数大概是怎么用的了
+2，baidu一下，这可绝对是个好东西，因为matlab的应用面是在是太广了，任何你坑可能用到的函数基本上每天都有无数人在用，也就有无数人会遇到和你一样的问题，网上自然就有无数的详尽的解答。
+3，我们的matlab版。
+我不是高手的说，这些只是自己用matlab的一些方法。
+--
+您的总成绩：254
+
+听力：53
+阅读：85 
+综合：66
+写作：50
+
+※ 修改:·physics 于 Jan  9 01:40:23 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 159.226.21.*]
+ 
+【文章标题】：【范文】请教知道了m序列生成多项式用MATLAB怎样比较简单实现 ( 【文章地址】：https://bbs.byr.cn/article/Matlab/14 【创建时间】：2007-03-26 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: Matlab
+标  题: 【范文】请教知道了m序列生成多项式用MATLAB怎样比较简单实现 (
+发信站: 北邮人论坛 (Mon Mar 26 22:13:43 2007), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: sunmoonstar (帅猪), 信区: Board_Apply
+标  题: 〖范文〗请教知道了m序列生成多项式用MATLAB怎样比较简单实现
+发信站: 北邮人论坛 (Mon Mar 26 22:02:37 2007), 站内
+
+thank you 
+
+global dt df t f N 
+close all 
+ 
+n=input('输入移位寄存器级数n（2~9）：'); 
+if n==[],n=9;end 
+M=2^n-1; 
+L=64; 
+N=M*L; 
+Ts=1; 
+dt=Ts/L; 
+df=1/(N*dt); 
+T=N*dt; 
+Fh=1/Ts; 
+Bs=N*df/2; 
+jc=ones(1,n); 
+by=zeros(1,10); 
+m=zeros(1,M); 
+ 
+t=[-T/2+dt/2:dt:T/2];%时域横坐标 
+f=[-Bs+df/2:df:Bs]; 
+ 
+figure(1) 
+set(1,'Position',[50,300,800,500]) 
+ 
+ 
+switch n 
+case 2 
+by=[1,1,1,0,0,0,0,0,0,0] 
+case 3 
+by=[1,1,0,1,0,0,0,0,0,0] 
+case 4 
+by=[1,1,0,0,1,0,0,0,0,0] 
+case 5 
+by=[1,0,1,0,0,1,0,0,0,0] 
+case 6 
+by=[1,1,0,0,0,0,1,0,0,0] 
+case 7 
+by=[1,0,0,1,0,0,0,1,0,0] 
+case 8 
+by=[1,0,1,1,1,0,0,0,1,0] 
+case 9 
+by=[1,0,0,0,1,0,0,0,0,1] 
+    otherwise 
+    by=by 
+end 
+ 
+for loop=1:M, 
+  temp=jc(1), 
+  jc(1)=xor(by(2)*jc(1),by(3)*jc(2)), 
+    for loop1=2:n-1, 
+      jc(1)=xor(jc(1),by(loop1+2)*jc(loop1+1)), 
+    end 
+  m(loop)=jc(n), 
+  jc(3:n)=jc(2:n-1) 
+  jc(2)=temp, 
+end 
+ 
+m_=zeros(L,M); 
+for loop2=1:L,m_(loop2,:)=m;end 
+m_=reshape(m_,1,N); 
+ 
+figure(1) 
+plot(t,m_,'b'); 
+grid 
+axis([-2^(n-1),2^(n-1),-0.5,1.5]) 
+xlabel('t  (us)') 
+ylabel('m(t) (V)') 
+title('m序列时域波形') 
+
+--
+熊对能说：穷成这样啦，四个熊掌全卖了；
+兵对丘说：兄弟，踩上地雷了吧，两腿咋都没了？
+王对皇说：当皇上有什么好处，你看，头发都白了；
+口对回说：亲爱的，都怀孕这么久了，也不说一声；
+果对裸说：哥们儿，你穿上衣服还不如不穿！
+比对北说：夫妻何必闹离婚呢？
+
+
+※ 修改:·physics 于 Jan  9 01:44:55 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.179.*]
+ 
+【文章标题】：【求助】~= 这两个符号在一起是什么意思 【文章地址】：https://bbs.byr.cn/article/Matlab/998 【创建时间】：2007-05-21 【作者】：yihang 【评论】：1 【内容】：发信人: yihang (Goodluckfly), 信区: Matlab
+标  题: 【求助】~= 这两个符号在一起是什么意思
+发信站: 北邮人论坛 (Mon May 21 07:53:06 2007), 站内
+
+rt  ，谢谢
+例 if  value ~= 1,
+       ss=2;
+    end;
+--
+
+※ 修改:·physics 于 Jan  9 01:39:21 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：求教：Matlab手绘单条曲线 【文章地址】：https://bbs.byr.cn/article/Matlab/8712 【创建时间】：2012-02-16 【作者】：ccy 【评论】：1 【内容】：发信人: ccy (ccy), 信区: Matlab
+标  题: 求教：Matlab手绘单条曲线
+发信站: 北邮人论坛 (Thu Feb 16 19:53:57 2012), 站内
+
+求教：如何用Matlab直接手绘任意一个图？谢谢~~~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.4.*]
+ 
+【文章标题】：matlab怎么做系统间仿真啊？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10447 【创建时间】：2013-10-28 【作者】：lawrence 【评论】：8 【内容】：发信人: lawrence (乐观自信爱), 信区: Matlab
+标  题: matlab怎么做系统间仿真啊？
+发信站: 北邮人论坛 (Mon Oct 28 17:12:33 2013), 站内
+
+请教大家，我现在要做LTE和wcdma系统间的干扰，收集一些类似误码率参数等统计，用matlab要怎么做啊？还要做加上滤波器之后对干扰减小产生的影响。
+
+做完这个，估计还得做LTE和gsm、cdma200等系统的仿真。
+请问工作量大？ 
+有什么文献书籍参考下啊？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.159.*]
+ 
+【文章标题】：请问入门使用什么样的matlab教材好啊 【文章地址】：https://bbs.byr.cn/article/Matlab/8694 【创建时间】：2012-01-19 【作者】：adelinez 【评论】：8 【内容】：发信人: adelinez (缥缈孤鸿影), 信区: Matlab
+标  题: 请问入门使用什么样的matlab教材好啊
+发信站: 北邮人论坛 (Thu Jan 19 19:46:47 2012), 站内
+
+ＲＴ　
+谢谢～～
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 113.235.139.*]
+ 
+【文章标题】：【求助】扩频通信大作业，用matlab，真心求助请吃饭 【文章地址】：https://bbs.byr.cn/article/Matlab/8669 【创建时间】：2011-12-18 【作者】：missg1 【评论】：0 【内容】：发信人: missg1 (【意涵团】offer-加油啊), 信区: Matlab
+标  题: 【求助】扩频通信大作业，用matlab，真心求助请吃饭
+发信站: 北邮人论坛 (Sun Dec 18 15:19:02 2011), 站内
+
+那位matlab高手有时间能帮帮我吗？
+主要是扩频知识的一道大作业
+26之前交，因为大家都在考研没时间做，如果哪位可以帮忙，lz请吃饭
+lz的QQ：516729169
+真心求助啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.113.191.*]
+ 
+【文章标题】：要人命的MATLAB，初学菜鸟要怎么办呀！！ 【文章地址】：https://bbs.byr.cn/article/Matlab/8653 【创建时间】：2011-12-14 【作者】：ctzyjl 【评论】：7 【内容】：发信人: ctzyjl (春天在眼睛里|要人命的MATLAB), 信区: Matlab
+标  题: 要人命的MATLAB，初学菜鸟要怎么办呀！！
+发信站: 北邮人论坛 (Wed Dec 14 11:48:04 2011), 站内
+
+RT
+
+要用MATLAB建模，一点思路也没有，怎么办！！！
+
+怎么把那个该死的模型和MATLAB的代码联系起来呀！！！！
+
+看什么书可以找点儿灵感呀！！！
+
+呜，明天就要交代码了，这不是让我去撞豆腐吗！！！！
+
+有没有人搭理我一下呀！！！
+
+<img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.117.47.*]
+ 
+【文章标题】：[求助]关于发表一篇运动模糊图像恢复的文章 【文章地址】：https://bbs.byr.cn/article/Matlab/10194 【创建时间】：2013-08-25 【作者】：znll2001 【评论】：0 【内容】：发信人: znll2001 (znll2001), 信区: Matlab
+标  题: [求助]关于发表一篇运动模糊图像恢复的文章
+发信站: 北邮人论坛 (Sun Aug 25 11:11:05 2013), 站内
+
+关于发表一篇运动模糊图像恢复的文章，qq2494215613，重谢啊。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 159.226.234.*]
+ 
+【文章标题】：如何用matlab求与一个多维向量的欧氏距离为一定值的向量 【文章地址】：https://bbs.byr.cn/article/Matlab/8848 【创建时间】：2012-03-25 【作者】：fiying 【评论】：0 【内容】：发信人: fiying (四海为家), 信区: Matlab
+标  题: 如何用matlab求与一个多维向量的欧氏距离为一定值的向量
+发信站: 北邮人论坛 (Sun Mar 25 15:01:29 2012), 站内
+
+如何用matlab求与一个多维向量的欧氏距离为一定值的向量
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.76.*]
+ 
+【文章标题】：【求指点】AOMDV在切换备份路径时对传输层来说是可知的吗？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10076 【创建时间】：2013-06-20 【作者】：buptmuye 【评论】：0 【内容】：发信人: buptmuye (BUPT_木叶), 信区: Matlab
+标  题: 【求指点】AOMDV在切换备份路径时对传输层来说是可知的吗？
+发信站: 北邮人论坛 (Thu Jun 20 14:43:21 2013), 站内
+
+小弟在做AOMDV方向的研究，想知道AOMDV在切换备份路径时对上层（例如：应用层、传输层）来说是可知的吗？还是说透明的，上层不管网络层的这些变化。求师兄师姐指点！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.4.*]
+ 
+【文章标题】：各位大神指导一下 【文章地址】：https://bbs.byr.cn/article/Matlab/10631 【创建时间】：2014-02-20 【作者】：xiaoyinghua 【评论】：2 【内容】：发信人: xiaoyinghua (小樱花), 信区: Matlab
+标  题: 各位大神指导一下
+发信站: 北邮人论坛 (Thu Feb 20 20:24:29 2014), 站内
+
+求各位大神给一个好的matlab的视频或者讲义，或者链接也行，谢谢啦
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.165.*]
+ 
+【文章标题】：跪求软件学院的“数值与符号计算”的期末作业完整版 【文章地址】：https://bbs.byr.cn/article/Matlab/10080 【创建时间】：2013-06-24 【作者】：clli0104 【评论】：1 【内容】：发信人: clli0104 (神马玩意), 信区: Matlab
+标  题: 跪求软件学院的“数值与符号计算”的期末作业完整版
+发信站: 北邮人论坛 (Mon Jun 24 10:26:03 2013), 站内
+
+在此小弟先谢谢各位大侠了  <img src="/img/ubb/ema/0.gif" alt="ema0" style="display:inline;border-style:none"> 望大侠相助，感激涕零~~<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.65.*]
+ 
+【文章标题】：[问题]【求助】关于fmincon的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10458 【创建时间】：2013-10-31 【作者】：jessie3311 【评论】：5 【内容】：发信人: jessie3311 (), 信区: Matlab
+标  题: [问题]【求助】关于fmincon的问题
+发信站: 北邮人论坛 (Thu Oct 31 20:24:55 2013), 站内
+
+求最优化问题
+
+比如
+for i=1:10
+
+[x,fval]=fmincon(fun,x0,[],[],[],[],[],[],nonlcon)
+
+end
+
+nonlcon中的约束条件个数随着循环数i变化,如何实现这种功能？
+求高手解答~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.145.*]
+ 
+【文章标题】：matlab如何标注三维曲面的最值点或者区间？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10448 【创建时间】：2013-10-29 【作者】：ykgaoshou 【评论】：9 【内容】：发信人: ykgaoshou (心有猛虎), 信区: Matlab
+标  题: matlab如何标注三维曲面的最值点或者区间？
+发信站: 北邮人论坛 (Tue Oct 29 11:45:47 2013), 站内
+
+求解。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.149.*]
+ 
+【文章标题】：[问题]求解怎么转换txt文档中的内容 【文章地址】：https://bbs.byr.cn/article/Matlab/10801 【创建时间】：2014-04-14 【作者】：wlflying1991 【评论】：4 【内容】：发信人: wlflying1991 (沧浪之水), 信区: Matlab
+标  题: [问题]求解怎么转换txt文档中的内容
+发信站: 北邮人论坛 (Mon Apr 14 13:53:50 2014), 站内
+
+txt文档中内容是纯数据的，而且有两列多行，请问怎么实现第二列数据从上到下的反转？？我原本想用fopen()来实现的，不知还有什么别的方法？？用excel不知怎么实现一列数据的从上到下的反转
+举个例子吧：
+假设原始数据是   1  0.1
+               2  0.2
+               3  1.5
+               4  3.8
+处理之后的数据   1  3.8
+               2  1.5
+               3  0.2
+               4  0.1 
+ 
+--
+※ 修改:·wlflying1991 于 Apr 14 14:05:16 2014 修改本文·[FROM: 223.68.162.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 223.68.162.*]
+ 
+【文章标题】：取出元胞数组 某一位置的元素 【文章地址】：https://bbs.byr.cn/article/Matlab/8735 【创建时间】：2012-02-25 【作者】：xuyu 【评论】：2 【内容】：发信人: xuyu (xuyu), 信区: Matlab
+标  题: 取出元胞数组 某一位置的元素
+发信站: 北邮人论坛 (Sat Feb 25 22:31:25 2012), 站内
+
+
+比如 每个元胞数组长度100 每个元胞都是一个2*2矩阵
+如何取出每个元胞的第一行 第一列 的值 组成一个1*100的数组
+如 a{1}=[1 2 ;3 4]   a{2}=[3 4 ;5 4 ]  a{3}=[8 4; 5 7] ……
+结果就是 1 3 8……。共一百个。
+谢谢高手指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.183.*]
+ 
+【文章标题】：探讨贴：关于Matlab GUI中edit text控件使用的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8755 【创建时间】：2012-02-29 【作者】：Lu9936 【评论】：0 【内容】：发信人: Lu9936 (指间岁月 坍塌年华), 信区: Matlab
+标  题: 探讨贴：关于Matlab GUI中edit text控件使用的问题
+发信站: 北邮人论坛 (Wed Feb 29 21:03:47 2012), 站内
+
+一个项目涉及的，在GUI中有一edit text控件（可编辑文本），想要的功能是读入.m文件或者.txt文件，当
+
+然也可以手动输入，并显示在edit text中，以上已实现，下面我想做的是运行edit text中的代码，尝试了
+
+下str=get(handle.edittext,'string');并eval(str)，但是有些可行（ezplot什么的）有些报错，报错原
+
+因是The expression to the left of the equals sign is not a valid target for an assignment。
+
+报错行是eval(str),有没有大神遇到过类似问题，求思想，同时想问“先读取edittext内容，再执行”的思
+
+想可不可行，或者我应该直接run读入的.m文件？
+
+<img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none"><img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none">
+--
+※ 修改:·Lu9936 于 Feb 29 21:04:19 2012 修改本文·[FROM: 10.205.28.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.28.*]
+ 
+【文章标题】：64-bit ubuntu 下安装 matlab 7.0 r14 的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8753 【创建时间】：2012-02-29 【作者】：frip 【评论】：2 【内容】：发信人: frip (FripAria), 信区: Matlab
+标  题: 64-bit ubuntu 下安装 matlab 7.0 r14 的问题
+发信站: 北邮人论坛 (Wed Feb 29 19:00:47 2012), 站内
+
+执行 /mnt/cdrom/install 后出现如下错误= =
+我是挂载的iso安装的。。。
+
+cp: cannot stat `/mnt/cdrom/update/bin/glnxa64/*': No such file or directory
+Error writing to /tmp/2733tmwinstall
+The installer is unable to copy files to /tmp.
+Make sure that /tmp exists, is writable, and has
+at least 5 megabytes of available space.
+
+第一行里能找到 /mnt/cdrom/update/bin/glnx64/ 有什么不同么……
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.143.133.*]
+ 
+【文章标题】：求助一个有关拉氏算子和图像自相关的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8758 【创建时间】：2012-03-01 【作者】：xingxing815 【评论】：0 【内容】：发信人: xingxing815 (candy), 信区: Matlab
+标  题: 求助一个有关拉氏算子和图像自相关的问题
+发信站: 北邮人论坛 (Thu Mar  1 19:23:15 2012), 站内
+
+我写的代码如下，但是微分过后再求自相关得到的三维图像并不是所期望的。希望高人可以指点一下，感激不尽。
+=imread('cameraman.tif');
+I=im2double(I);
+PSF = fspecial('disk',9); %散焦模糊
+D = imfilter(I,PSF,'circular','conv');
+h = [1 1 1;1 -8 1;1 1 1];
+D = double(D);
+J = conv2(D,h,'same');  %拉普拉斯算子微分
+IP=abs(fft2(J));
+S=fftshift(real(ifft2(IP)));         %图像自相关函数
+figure,mesh(S); %显示自相关的三维图像
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.33.*]
+ 
+【文章标题】：基于matlab的OFDM系统仿真设计，求助师兄、师姐 【文章地址】：https://bbs.byr.cn/article/Matlab/8760 【创建时间】：2012-03-03 【作者】：cxg2009byr 【评论】：0 【内容】：发信人: cxg2009byr (SWAT小分队), 信区: Matlab
+标  题: 基于matlab的OFDM系统仿真设计，求助师兄、师姐
+发信站: 北邮人论坛 (Sat Mar  3 18:58:37 2012), 站内
+
+有关系统部分模块的设计问题，感激不尽！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.5.185.*]
+ 
+【文章标题】：本人菜鸟，求大神相助，感激不尽!! 【文章地址】：https://bbs.byr.cn/article/Matlab/8759 【创建时间】：2012-03-03 【作者】：chaoyonghui 【评论】：2 【内容】：发信人: chaoyonghui (迷茫的小羊), 信区: Matlab
+标  题: 本人菜鸟，求大神相助，感激不尽!!
+发信站: 北邮人论坛 (Sat Mar  3 12:49:05 2012), 站内
+
+现有17块牛肉，每次可以选择吃一块或者两块，问要把17块牛肉全吃完共有多少种吃法？用matlab编程实现。（例如若有三块牛肉可以每次只吃一块，也可以先吃1块再吃2块，也可以先吃2块再吃1块共三种吃法）
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.79.*]
+ 
+【文章标题】：求关于网络编码的MATLAB仿真程序 【文章地址】：https://bbs.byr.cn/article/Matlab/8764 【创建时间】：2012-03-05 【作者】：yayapipi 【评论】：0 【内容】：发信人: yayapipi (海燕), 信区: Matlab
+标  题: 求关于网络编码的MATLAB仿真程序
+发信站: 北邮人论坛 (Mon Mar  5 10:31:52 2012), 站内
+
+用matlab对多用户多中继的网络进行网络编码的仿真，怎么实现呢？跪求大牛指导！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.151.*]
+ 
+【文章标题】：谁有汉明码的matlab程序 【文章地址】：https://bbs.byr.cn/article/Matlab/8765 【创建时间】：2012-03-06 【作者】：lvjingyi123 【评论】：0 【内容】：发信人: lvjingyi123 (《花儿帮》岁月婧好@skating), 信区: Matlab
+标  题: 谁有汉明码的matlab程序
+发信站: 北邮人论坛 (Tue Mar  6 09:56:25 2012), 站内
+
+帮外校同学问的
+坐等好心人哪 ~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.119.249.*]
+ 
+【文章标题】：mac 系统安装matlab遇到问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8767 【创建时间】：2012-03-07 【作者】：mick 【评论】：0 【内容】：发信人: mick (mick), 信区: Matlab
+标  题: mac 系统安装matlab遇到问题
+发信站: 北邮人论坛 (Wed Mar  7 19:26:11 2012), 站内
+
+在byrbt下了2011b和2010b两个版本的，unix系统的，点击installformac后，就是一个小图标在那跳啊 跳啊~~~然后就没反应了？怎么回事？求大牛
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.13.*]
+ 
+【文章标题】：追赶法 求矩阵的解。  帮忙来看看吧 【文章地址】：https://bbs.byr.cn/article/Matlab/8768 【创建时间】：2012-03-08 【作者】：sharonyue 【评论】：2 【内容】：发信人: sharonyue (电动猪), 信区: Matlab
+标  题: 追赶法 求矩阵的解。  帮忙来看看吧
+发信站: 北邮人论坛 (Thu Mar  8 15:26:58 2012), 站内
+
+a=[136.1,90.860,0,0;90.860,98.810,-67.590,0;0,-67.590,132.01,46.260;0,0,46.260,177.17]
+[m,n]=size(a)
+d=[-33.254;49.709;28.067;-7.324]
+[l,u]=lu(a)
+y(1)=d(1)
+for i=2:n
+ y(i)=d(i)-l(i,i-1)*y(i-1)
+end
+x(4)=y(4)/u(4,4)
+for i=3:-1:1
+ x(i)=(y(i)-u(i,i+1)*x(i+1))/u(i,i)
+end
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.4.156.*]
+ 
+【文章标题】：[Help!]函数型数据分析的MATLAB实现 【文章地址】：https://bbs.byr.cn/article/Matlab/8772 【创建时间】：2012-03-09 【作者】：foxyang 【评论】：0 【内容】：发信人: foxyang (foxyang), 信区: Matlab
+标  题: [Help!]函数型数据分析的MATLAB实现
+发信站: 北邮人论坛 (Fri Mar  9 10:08:11 2012), 站内
+
+各位大牛，我是经管的研究生，现在在研究函数型数据分析（functional data analysis）的应用，但在MATLAB程序实现上遇到了很大的障碍。
+我的编程基于J.O.Ramsay发布的MATLAB程序包，因程序包使用的函数（如data2fd）往往是基于其他函数，当运行出现错误时，很难定位错误产生的原因，致使无法得知如何修正。
+坛子里相关领域的研究者？希望能够向你请教，大家学习交流，一同进步！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.186.*]
+ 
+【文章标题】：第一次用plot就出现问题了 【文章地址】：https://bbs.byr.cn/article/Matlab/8776 【创建时间】：2012-03-09 【作者】：hackmonster 【评论】：2 【内容】：发信人: hackmonster (breeze), 信区: Matlab
+标  题: 第一次用plot就出现问题了
+发信站: 北邮人论坛 (Fri Mar  9 11:56:44 2012), 站内
+
+做赫兹实验要求画的那图要描的点太多了，而且横轴还是小数点后三位，懒得手工了，想起matlab，于是开始上网查查咋个画图。。。。。。（此处省略几个字儿）。。。
+
+最后我的输入是这样的：
+x =[0.5,1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,
+5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0,9.5,10.0,
+10.5,11.0,11.5,12.0,12.5,13.0,13.5,14.0,14.5,15.0,
+15.5,16.0,16.5,17.0,17.5,18.0,18.5,19.0,19.5,20.0,
+20.5,21.0,21.5,22.0,22.5,23.0,23.5,24.0,24.5,25.0,
+25.5,26.0,26.5,27.0,27.5,28.0,28.5,29.0,29.5,30.0,
+30.5,31.0,31.5,32.0,32.5,33.0,33.5,34.0,34.5,35.0,
+35.5,36.0,36.5,37.0,37.5,38.0,38.5,39.0,39.5,40.0,
+40.5,41.0,41.5,42.0,42.5,43.0,43.5,44.0,44.5,45.0,
+45.5,46.0,46.5,47.0,47.5,48.0,48.5,49.0,49.5,50.0,
+50.5,51.0,51.5,52.0,52.5,53.0,53.5,54.0,54.5,55.0,
+55.5,56.0,56.5,57.0,57.5,58.0,58.5,59.0,59.5,60.0,
+60.5,61.0,61.5,62.0,62.5,63.0,63.5,64.0,64.5,65.0,
+65.5,66.0,66.5,67.0,67.5,68.0,68.5,69.0,69.5,70.0,
+70.5,71.0,71.5,72.0,72.5,73.0,73.5,74.0,74.5,75.0,
+75.5,76.0,76.5,77.0,77.5,78.0,78.5,79.0,79.5,80.0];
+
+y = [0,0,0,0,0,0,0,0,0,0.006,
+0.014,0.024,0.033,0.044,0.059,0.077,0.104,0.125,0.155,0.183,
+0.214,0.241,0.259,0.244,0.252,0.258,0.271,0.283,0.301,0.315,
+0.326,0.335,0.341,0.347,0.348,0.352,0.258,0.364,0.370,0.375,
+0.370,0.366,0.372,0.376,0.376,0.379,0.374,0.379,0.397,0.435,
+0.495,0.555,0.596,0.635,0.667,0.691,0.708,0.727,0.740,0.757,
+0.767,0.747,0.721,0.685,0.654,0.596,0.548,0.503,0.463,0.440,
+0.450,0.500,0.566,0.629,0.684,0.732,0.778,0.819,0.853,0.884,
+0.906,0.926,0.973,1.005,1.013,0.983,0.934,0.859,0.771,0.694,
+0.621,0.586,0.637,0.706,0.776,0.844,0.926,1.005,1.052,1.092,
+1.134,1.160,1.180,1.196,1.206,1.198,1.202,1.226,1.222,1.176,
+1.109,1.008,0.910,0.857,0.892,0.987,1.101,1.213,1.321,1.432,
+1.510,1.588,1.637,1.672,1.682,1.687,1.657,1.600,1.564,1.548,
+1.620,1.587,1.524,1.436,1.322,1.213,1.154,1.167,1.232,1.321,
+1.395,1.426,1.451,1.479,1.530,1.581,1.625,1.693,1.713,1.715,
+1.709,1.699,1.711,1.680,1.633,1.578,1.515,1.492,1.469,1.469];
+
+plot(x,y);
+
+然后输出的图像居然是这样的：
+
+http://hi.baidu.com/hackmonster/album/item/a56575006e061d95101fc0807bf40ad163d9ca9d.html#
+
+不明白为什么会有这么多条线，不是应该只有一条的吗？
+
+还请高手指教指教，第一次用这东西，还是很手生啊，呵呵。。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.6.*]
+ 
+【文章标题】：寻找会matlab的 【文章地址】：https://bbs.byr.cn/article/Matlab/8746 【创建时间】：2012-02-29 【作者】：sharonyue 【评论】：14 【内容】：发信人: sharonyue (电动猪), 信区: Matlab
+标  题: 寻找会matlab的
+发信站: 北邮人论坛 (Wed Feb 29 15:45:40 2012), 站内
+
+学习计算方法，数值分析。
+
+就是对 29/71 * 29/70 * 29/69 *.......* 29/1=？
+
+类似这种很简单很简单的小题。
+
+怎么做呢？
+
+有个人这么写的
+i=71;
+s=1;
+for i=71:-1:1
+    s=s*29/i;
+end
+
+我复制进去没有结果
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 221.223.85.*]
+ 
+【文章标题】：如何用matlab建虚拟摄像机？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8789 【创建时间】：2012-03-09 【作者】：MarshallB 【评论】：0 【内容】：发信人: MarshallB (slimshady), 信区: Matlab
+标  题: 如何用matlab建虚拟摄像机？
+发信站: 北邮人论坛 (Fri Mar  9 21:08:25 2012), 站内
+
+要做一个虚拟摄像机，语言编程不会，matlab可以做出来吗？有谁尝试过，拜托跟我说说成不？不甚感激。
+
+毕业要用的，拜托了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.6.242]
+ 
+【文章标题】：Re: 求教subplot画图长宽比问题~ 【文章地址】：https://bbs.byr.cn/article/Matlab/8773 【创建时间】：2012-03-10 【作者】：原帖已删除 【评论】：0 【内容】：发信人: yanglei5658 (灿烂星空), 信区: Matlab
+标  题: Re: 求教subplot画图长宽比问题~
+发信站: 北邮人论坛 (Sat Mar 10 10:18:18 2012), 站内
+
+等图显示出来后，手动修改图的大小如何？
+【 在 echoyami 的大作中提到: 】
+: 求助呀~~长宽比例4:3的就行~~ 
+: 麻烦各位路过的大牛了 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.126.50.*]
+ 
+【文章标题】：GSM信号频谱怎么画？急！！！ 【文章地址】：https://bbs.byr.cn/article/Matlab/8795 【创建时间】：2012-03-11 【作者】：c5201314789 【评论】：0 【内容】：发信人: c5201314789 (阿秀), 信区: Matlab
+标  题: GSM信号频谱怎么画？急！！！
+发信站: 北邮人论坛 (Sun Mar 11 12:37:20 2012), 站内
+
+现在有了GMSK基带信号，怎么频谱搬移，变成完整的GSM信号，画出频谱图？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.29.*]
+ 
+【文章标题】：有一段代码，关于cost 207 信道模型，不知道参数NK什么意思。 【文章地址】：https://bbs.byr.cn/article/Matlab/8796 【创建时间】：2012-03-11 【作者】：xiaomengone 【评论】：0 【内容】：发信人: xiaomengone (xiaomengtree), 信区: Matlab
+标  题: 有一段代码，关于cost 207 信道模型，不知道参数NK什么意思。
+发信站: 北邮人论坛 (Sun Mar 11 14:42:03 2012), 站内
+
+也没有代码注释~应该求信道增益，谢谢解答~~~
+--
+
+<a href="/att/Matlab/0/8796/397" target="_blank" color="blue">附件(426B)  channel_un.m</a>
+※ 修改:·xiaomengone 于 Mar 11 21:09:39 2012 修改本文·[FROM: 59.64.151.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.151.*]
+ 
+【文章标题】：求教 为什么时域图是这个颜色的… 【文章地址】：https://bbs.byr.cn/article/Matlab/8798 【创建时间】：2012-03-11 【作者】：Charliebob 【评论】：0 【内容】：发信人: Charliebob (turfLIFE), 信区: Matlab
+标  题: 求教 为什么时域图是这个颜色的…
+发信站: 北邮人论坛 (Sun Mar 11 21:36:03 2012), 站内
+
+
+<a target="_blank" href="/att/Matlab/0/8798/326"><img border="0" title="untitled.jpg" src="/att/Matlab/0/8798/326" alt="untitled.jpg" class="resizeable"></a>
+--
+※ 修改:·Charliebob 于 Mar 11 21:36:31 2012 修改本文·[FROM: 219.143.130.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.143.130.*]
+ 
+【文章标题】：小弟急求啊。 大神们过来看下 【文章地址】：https://bbs.byr.cn/article/Matlab/8802 【创建时间】：2012-03-12 【作者】：qq521 【评论】：0 【内容】：发信人: qq521 (飞飞一世界), 信区: Matlab
+标  题: 小弟急求啊。 大神们过来看下
+发信站: 北邮人论坛 (Mon Mar 12 16:14:41 2012), 站内
+
+%嵌人水印信息
+J=im2bw(J);%转化为二值图像
+tem=1;
+k=M/M1;% DCT分块大小
+for m=1:M1 
+    for n=1:N1
+        x=(m-1)*k+1;
+        y=(n-1)*k+1;
+        block=I(x:x+k-1,y:y+k-1);
+        block=dct2(block);
+        if J(m,n)==0;
+            a=-1;
+        else
+            a=1;
+        end
+        block(2,1)= block(2,1)*(1+a*0.1);%水印嵌入位置为每块(2,1)
+        block1=idct2(block);
+        I1(x:x+k-1,y:y+k-1)=block1;
+        tem=tem+1;
+    end 
+end
+这个基于DCT的水印嵌入算法的 依据是什么？？？？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 115.53.227.*]
+ 
+【文章标题】：关于数组乘法的问题，不难，求解答...ORZ... 【文章地址】：https://bbs.byr.cn/article/Matlab/8732 【创建时间】：2012-02-23 【作者】：wm199061 【评论】：1 【内容】：发信人: wm199061 (青蛙子子), 信区: Matlab
+标  题: 关于数组乘法的问题，不难，求解答...ORZ...
+发信站: 北邮人论坛 (Thu Feb 23 10:54:40 2012), 站内
+
+我有一个关于数组乘法的问题不明白，又不知道哪个版块儿问最好，就只有发在这里了...
+是这样的，已知s1和s2是两个向量，b11,b12,b21,b22是四个矩阵，求问
+
+为什么
+（s1)T(b11 b12)（s1)=s2Tb22s2+2s2Tb21s1+s1Tb11s1
+ (s2) (b21 b22) (s2)
+
+式子中T就是求转置，本来是大括号不会写就用两个小括号代替了...
+求问求问...正在做毕设不会呀...
+不是应该得s1s1b11+s1s2b21+s1s2b12+s2s2B22吗，怎么就是上面的式子了，
+不好意思楼主是小白，灰常感谢<img src="/img/ubb/ema/11.gif" alt="ema11" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.181.153.*]
+ 
+【文章标题】：JM+MATLAB仿视频编码？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8804 【创建时间】：2012-03-12 【作者】：XBIRDBUPT 【评论】：0 【内容】：发信人: XBIRDBUPT (XBIRD), 信区: Matlab
+标  题: JM+MATLAB仿视频编码？
+发信站: 北邮人论坛 (Mon Mar 12 22:04:06 2012), 站内
+
+RT    
+求JM达人。。。 如图 肿么情况？  
+
+<a target="_blank" href="/att/Matlab/0/8804/267"><img border="0" title="" src="/att/Matlab/0/8804/267" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.40.*]
+
+ 
+【文章标题】：[求助]看到如下matlab的报错该怎么办，N能改到多大？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8814 【创建时间】：2012-03-14 【作者】：Rvtea 【评论】：3 【内容】：发信人: Rvtea (爱Hebe爱dyb), 信区: Matlab
+标  题: [求助]看到如下matlab的报错该怎么办，N能改到多大？
+发信站: 北邮人论坛 (Wed Mar 14 18:21:48 2012), 站内
+
+Maximum recursion limit of 500 reached. Use set(0,'RecursionLimit',N) to change the limit. Be aware that exceeding your available stack space can crash MATLAB and/or your computer.
+
+上面的报错说明递归的限制超过了，那么该把N调到多大呢？
+机器装着3G内存，我调试了N=1000还是会报错，那继续调大能调到多少呢？会不会把操作系统和电脑损坏？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.209.10.*]
+ 
+【文章标题】：SCILAB竞赛 【文章地址】：https://bbs.byr.cn/article/Matlab/8830 【创建时间】：2012-03-19 【作者】：fuying 【评论】：0 【内容】：发信人: fuying (fuying), 信区: Matlab
+标  题: SCILAB竞赛
+发信站: 北邮人论坛 (Mon Mar 19 16:20:01 2012), 站内
+
+有没有人想参加或者参加过的，求指导，求组队
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.19.*]
+ 
+【文章标题】：请问如何控制小数点后的位数？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8835 【创建时间】：2012-03-20 【作者】：flyemirates4 【评论】：0 【内容】：发信人: flyemirates4 (flyemirates4), 信区: Matlab
+标  题: 请问如何控制小数点后的位数？
+发信站: 北邮人论坛 (Tue Mar 20 15:00:07 2012), 站内
+
+比如pi=3.1415926，想得到pi=3.14，怎么办？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 166.111.68.*]
+ 
+【文章标题】：求解【超越方程】大神 【文章地址】：https://bbs.byr.cn/article/Matlab/10191 【创建时间】：2013-08-20 【作者】：qq1014315175 【评论】：3 【内容】：发信人: qq1014315175 (阿浪护肤-<a target="_blank" href="http://alanghufu.taobao.com">http://alanghufu.taobao.com</a>), 信区: Matlab
+标  题: 求解【超越方程】大神
+发信站: 北邮人论坛 (Tue Aug 20 16:11:51 2013), 站内
+
+  
+如题所示，最近我在科研过程中遇到一个化简后求方程的问题，这个方程是这样的： 
+a*sqrt(b*x*x-y*y)*tan(sqrt(b*x*x-y*y)*0.6pi)=-sqrt(x*x-y*y)*tan(sqrt(x*x-y*y)*0.4pi) 
+不过很难求解啊，用matlab的ezplot之后，发现有虚根，不知哪位大神肯伸手相助 
+我的qq1014315175，Tel:13661386304 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.52.*]
+ 
+【文章标题】：开发工具和软/硬件环境--关于matlab 【文章地址】：https://bbs.byr.cn/article/Matlab/10197 【创建时间】：2013-08-27 【作者】：zhugg 【评论】：2 【内容】：发信人: zhugg (why), 信区: Matlab
+标  题: 开发工具和软/硬件环境--关于matlab
+发信站: 北邮人论坛 (Tue Aug 27 13:41:04 2013), 站内
+
+使用matlab和mathematica做了一些研究，主要是用它来计算一些东西。
+那项目中需要填的开发工具以及软、硬件环境应该怎么填呢？
+谢谢啦~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.69.*]
+ 
+【文章标题】：【求助】帮忙看下哪里出错了 【文章地址】：https://bbs.byr.cn/article/Matlab/8846 【创建时间】：2012-03-23 【作者】：thumbup 【评论】：1 【内容】：发信人: thumbup (o∩_∩o), 信区: Matlab
+标  题: 【求助】帮忙看下哪里出错了
+发信站: 北邮人论坛 (Fri Mar 23 14:53:12 2012), 站内
+
+如下程序：
+A=[];
+i=0;
+for R1=3735:20:30000
+        for theta=0:pi/360:pi/3
+          if((R1+5500)*sin(theta)+100+1025-6500-(R1^2-(R1-(R1+5500)*(1-cos(theta))+1765+0)^2)^(1/2)&lt;=0......
+              &amp;R1-(R1+5500)*(1-cos(theta))+0+1765+3500-((R1+1765)^2+(2510+855)^2)^(1/2)&gt;=0......
+              &amp;(R1+5500)*(1-cos(theta))-1765&gt;0) 
+               i=i+1;      
+               A(i,1)=(R1+5500)*sin(theta)+100+1025-5500;
+               A(i,2)=(R1+5500)*(1-cos(theta))-1765-0;
+          end
+       end
+end
+我是个菜鸟，不知为什么matlab运行结果A只是一个1行2列的矩阵，计算得到的应该不止一行才对，不知哪里出错了？
+谁能帮忙解答下么？谢谢了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.124.19.*]
+ 
+【文章标题】：由fig文件获取图像坐标~ 【文章地址】：https://bbs.byr.cn/article/Matlab/10207 【创建时间】：2013-08-29 【作者】：dongbenxipao 【评论】：2 【内容】：发信人: dongbenxipao (东奔西跑), 信区: Matlab
+标  题: 由fig文件获取图像坐标~
+发信站: 北邮人论坛 (Thu Aug 29 13:52:21 2013), 站内
+
+有一个fig文件，想获取曲面的离散坐标值，怎么获取啊？愁大了
+<a href="/att/Matlab/0/10207/291" target="_blank" color="blue">附件(2.9MB)  </a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.23.*]
+
+ 
+【文章标题】：[求助]关于中继的中断概率该怎么实现？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8851 【创建时间】：2012-03-26 【作者】：llwpiao 【评论】：0 【内容】：发信人: llwpiao (piao), 信区: Matlab
+标  题: [求助]关于中继的中断概率该怎么实现？
+发信站: 北邮人论坛 (Mon Mar 26 22:25:06 2012), 站内
+
+关于中继的中断概率该怎么实现？有高手能讲一下方法和要点么。或者有个可以给个代码参考一下的
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.26.*]
+ 
+【文章标题】：如何使用.mexw32的函数文件 【文章地址】：https://bbs.byr.cn/article/Matlab/8853 【创建时间】：2012-03-27 【作者】：chenyuan 【评论】：1 【内容】：发信人: chenyuan (coco), 信区: Matlab
+标  题: 如何使用.mexw32的函数文件
+发信站: 北邮人论坛 (Tue Mar 27 10:06:06 2012), 站内
+
+RT
+
+是这样的，在matlab的仿真链路里，有个函数mexFunction总是显示找不到该函数，但是在../tools/文件夹里有mexFunction.mexw32文件，应该是matlab和C一起编译生成的吧，但是这个怎么用呢
+
+
+求高人指点，谢谢
+--
+※ 修改:·chenyuan 于 Mar 27 10:06:52 2012 修改本文·[FROM: 114.80.140.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.80.140.*]
+ 
+【文章标题】：LDPC问题 【文章地址】：https://bbs.byr.cn/article/Matlab/7916 【创建时间】：2011-03-18 【作者】：TMac1 【评论】：2 【内容】：发信人: TMac1 (Curry), 信区: Matlab
+标  题: LDPC问题
+发信站: 北邮人论坛 (Fri Mar 18 17:30:42 2011), 站内
+
+matlab里自带的LDPC编解码器好像不是很好用啊，仿真出的结果好像很不靠谱。不知有没同学做过类似的仿真，求指教
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.178.*]
+ 
+【文章标题】：matlab读取float数据文件 【文章地址】：https://bbs.byr.cn/article/Matlab/10202 【创建时间】：2013-08-28 【作者】：zj123 【评论】：4 【内容】：发信人: zj123 (水瓶座的橙子), 信区: Matlab
+标  题: matlab读取float数据文件
+发信站: 北邮人论坛 (Wed Aug 28 20:16:21 2013), 站内
+
+数据文件格式如下：
+3F 0B C6 A8                //float的四个字节
+3F 7B E7 6D
+
+数据保存在一个txt文件中
+现在问题是如何用matlab按照float格式进行读取。试了下fread，结果不对，或许是用错了。请指教啊。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.66.*]
+ 
+【文章标题】：大牛帮帮忙啊！！ldpc的问题！！ 【文章地址】：https://bbs.byr.cn/article/Matlab/7032 【创建时间】：2010-05-15 【作者】：tboliu 【评论】：1 【内容】：发信人: tboliu (rabbit), 信区: Matlab
+标  题: 大牛帮帮忙啊！！ldpc的问题！！
+发信站: 北邮人论坛 (Sat May 15 23:21:55 2010), 站内
+
+最近毕设一直没有头绪，好不容易把程序写出来了。现在发现R=1/2，2/3,3/4时误码性能都还不错。但问题是随着码率增加误码性能也增加了。这正好和理论（误码性能随码率增加下降）相反啊！！各位大牛帮个忙吧，看看什么地方出问题了？
+在下线谢谢各位好心人了。附件里是源程序，运行decodeber.m，输出误码率图。将n,m按码率1/2,2/3,3/4对应设定，码率=（n-m）/n。结果就出问题了。
+
+大牛帮帮忙啊！BG大果粒！<img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+<a href="/att/Matlab/0/7032/717" target="_blank" color="blue">附件(47.5KB)  </a>
+--
+
+[upload=1][/upload]
+※ 修改:·tboliu 于 May 15 23:25:30 2010 修改本文·[FROM: 118.229.160.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.160.*]
+ 
+【文章标题】：【求教】画三维图怎么让坐标交点是三个轴的零点? 【文章地址】：https://bbs.byr.cn/article/Matlab/8826 【创建时间】：2012-03-17 【作者】：byr66 【评论】：1 【内容】：发信人: byr66 (byr66), 信区: Matlab
+标  题: 【求教】画三维图怎么让坐标交点是三个轴的零点?
+发信站: 北邮人论坛 (Sat Mar 17 23:28:03 2012), 站内
+
+
+matlab很菜，这么个问题百度了半天也不知道咋弄，麻烦版上的兄弟姐妹帮帮忙哈~~~
+还有，就是x+y+z=一个常数，但是三个变量都要大于零，这样的曲线怎么用matlab画出来呀？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.215.5.*]
+ 
+【文章标题】：求中继选择各种经典算法Matlab程序~ 【文章地址】：https://bbs.byr.cn/article/Matlab/8847 【创建时间】：2012-03-25 【作者】：yongheng 【评论】：1 【内容】：发信人: yongheng (【意涵团】幸福猫), 信区: Matlab
+标  题: 求中继选择各种经典算法Matlab程序~
+发信站: 北邮人论坛 (Sun Mar 25 09:26:25 2012), 站内
+
+毕业设计在做中继选择的算法改进，才疏学浅。。。求高人指导~~~~~必有重谢~~~~
+站内联系
+多谢多谢：）
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.2.*]
+ 
+【文章标题】：simulink仿真时遇到问题，请大牛指导 【文章地址】：https://bbs.byr.cn/article/Matlab/8810 【创建时间】：2012-03-13 【作者】：icold 【评论】：1 【内容】：发信人: icold (i冷冷), 信区: Matlab
+标  题: simulink仿真时遇到问题，请大牛指导
+发信站: 北邮人论坛 (Tue Mar 13 15:49:19 2012), 站内
+
+这事一个卷积码通信系统的仿真，期间出现问题，不知道如何修改参数，坐等牛人解答
+<a href="/att/Matlab/0/8810/408" target="_blank" color="blue">附件(31.8KB)  convolutional.mdl</a>
+<a href="/att/Matlab/0/8810/33002" target="_blank" color="blue">附件(708B)  convolutional1.m</a>
+--
+
+※ 修改:·icold 于 Mar 13 15:50:02 2012 修改本文·[FROM: 59.64.136.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.136.*]
+ 
+【文章标题】：[求助]Matlab如何实现变数重循环 【文章地址】：https://bbs.byr.cn/article/Matlab/8771 【创建时间】：2012-03-09 【作者】：Rvtea 【评论】：17 【内容】：发信人: Rvtea (爱Hebe爱dyb), 信区: Matlab
+标  题: [求助]Matlab如何实现变数重循环
+发信站: 北邮人论坛 (Fri Mar  9 09:49:15 2012), 站内
+
+RT，小弟折腾半天没有找到比较好的解决办法，求大牛现身指点~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.209.10.*]
+ 
+【文章标题】：maple 15安装不到matlab R2010a上~~求助 【文章地址】：https://bbs.byr.cn/article/Matlab/8815 【创建时间】：2012-03-14 【作者】：jessia 【评论】：2 【内容】：发信人: jessia (爱你就是爱自己||2012直到永远), 信区: Matlab
+标  题: maple 15安装不到matlab R2010a上~~求助
+发信站: 北邮人论坛 (Wed Mar 14 23:11:21 2012), 站内
+
+BT上下载了maple 15~~在一个matlab论坛上搜到说maple 可以直接安装为matlab 2010a的内核中，结果安装了好久都没有成功，总是在最后打开界面计算时候报错~~貌似是licence有个错误。。。看不懂啊~
+话说maple直接安装可以使用，可是和matlab交互时怎么那么麻烦呢？╮(╯▽╰)╭
+有谁安装成功了呢~~求助啊~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.142.153]
+ 
+【文章标题】：【求助】输出个数问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8859 【创建时间】：2012-03-28 【作者】：icold 【评论】：2 【内容】：发信人: icold (i冷冷), 信区: Matlab
+标  题: 【求助】输出个数问题
+发信站: 北邮人论坛 (Wed Mar 28 10:42:55 2012), 站内
+
+输入过个x值，根据公式应该有多个输出y值，仿真图上确实有多个点，但是数值是一样的，求牛人解答
+<a href="/att/Matlab/0/8859/312" target="_blank" color="blue">附件(183B)  atber.m</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.136.*]
+
+ 
+【文章标题】：matlab做属性聚类（Cash reward） 【文章地址】：https://bbs.byr.cn/article/Matlab/8852 【创建时间】：2012-03-26 【作者】：kicheer 【评论】：2 【内容】：发信人: kicheer (黑魔王), 信区: Matlab
+标  题: matlab做属性聚类（Cash reward）
+发信站: 北邮人论坛 (Mon Mar 26 22:54:59 2012), 站内
+
+有没有同学会用matlab做属性聚类啊，请教一下，如果能帮上忙的话可以现金报酬~~
+--
+※ 修改:·kicheer 于 Mar 26 22:59:27 2012 修改本文·[FROM: 202.112.90.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.112.90.*]
+ 
+【文章标题】：[求助]matlab中瑞利信道仿真 【文章地址】：https://bbs.byr.cn/article/Matlab/8877 【创建时间】：2012-04-01 【作者】：xiaohongchen 【评论】：2 【内容】：发信人: xiaohongchen (回忆是红色的天空), 信区: Matlab
+标  题: [求助]matlab中瑞利信道仿真
+发信站: 北邮人论坛 (Sun Apr  1 16:34:03 2012), 站内
+
+
+<a href="/att/Matlab/0/8877/1825" target="_blank" color="blue">附件(416.6KB)  _Synchronization_Based_on_Cyclic_Prefix_for_OFDM_Systems.pdf</a>
+
+各位好：
+    想咨询一个matlab仿真瑞利信道的问题。
+    最近在学习文章《Blind Symbol Synchronization Based on Cyclic Prefix for OFDM Systems》，文章在附件中。
+    该文章是关于OFDM的同步的，仿真条件中使用了两种信道，分别是平坦瑞利信道和频率选择性衰落信道。两种信道的参数文章中是这样描述的：
+    Flat Rayleigh-fading channels (L=0) were first considerde, and the channel response h(0) was randomly generated as a complex Gaussian variable with zero mean and a variance of 2.
+    
+    Next, frequency-selective fading channels with 12 independent sample-spaced Rayleigh-fading taps(L=11) were considered. In detail, the channel responses h(0)-h(11) were modeled as independent and complex Gaussian random variables with zero mean and variances of [1.9560, 1.8287, 1.6321, 1.3868, 1.1172, 0.8481, 0.6007, 0.3911, 0.2281, 0.1136, 0.0434, 0.0090], respectively.
+    没有选择matlab自带的rayleighchan函数，因为在频率选择性衰落信道里面参数我还不会配置。
+    我的程序就是产生一帧OFDM信号，假设为s,仿真平坦瑞利信道时，产生和s同长度的复高斯，然后将s和复高斯对应相乘，这样得到的信号是不是就是经过了平坦瑞利信道呢？ 而频率选择性衰落信道是不是可以每一径使用不同的variable产生复高斯，然后将信号与复高斯对应相乘，累加就可以了呢？
+    如下所示：
+    x = randn(1,length(s)); y = randn(1,length(s));    
+    r_rl = x + j*y;          %构造复高斯
+    y=s.*r_rl;               %经过平坦瑞利信道的信号
+    但是这样做了以后，同步会出现问题，而算法在高斯信道下同步是正常的，所以还是觉得这样经过瑞利信道是不是有些问题呢？还望达人指点。我不知道是不是我的瑞利复高斯的点数比较少的缘故。迷惑中。还望达人指点。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 119.78.248.*]
+
+ 
+【文章标题】：有没有simulink大神啊？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8829 【创建时间】：2012-03-19 【作者】：hwb745 【评论】：9 【内容】：发信人: hwb745 (小Hu), 信区: Matlab
+标  题: 有没有simulink大神啊？
+发信站: 北邮人论坛 (Mon Mar 19 10:22:13 2012), 站内
+
+rt。。。想请教两个毕设的小问题..
+bg，请吃饭，报酬什么都行！
+
+先谢谢了！
+--
+※ 修改:·hwb745 于 Mar 19 10:44:07 2012 修改本文·[FROM: 10.206.28.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.28.*]
+ 
+【文章标题】：【菜鸟求助】语音信号如何进行matlab仿真并且画出频谱？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8801 【创建时间】：2012-03-12 【作者】：ggmain 【评论】：1 【内容】：发信人: ggmain (一帆风顺), 信区: Matlab
+标  题: 【菜鸟求助】语音信号如何进行matlab仿真并且画出频谱？
+发信站: 北邮人论坛 (Mon Mar 12 10:56:01 2012), 站内
+
+本人菜鸟一个，毕设遇到点难题，求大牛帮助啊！
+感激不尽！！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.28.*]
+ 
+【文章标题】：【求助】Matlab 7.0中没有gmdistribution怎么办 【文章地址】：https://bbs.byr.cn/article/Matlab/8886 【创建时间】：2012-04-05 【作者】：ifnot 【评论】：0 【内容】：发信人: ifnot (believe), 信区: Matlab
+标  题: 【求助】Matlab 7.0中没有gmdistribution怎么办
+发信站: 北邮人论坛 (Thu Apr  5 16:28:27 2012), 站内
+
+我的matlab7.0中没有函数gmdistribution,有谁知道怎么加上去呀？谢谢啦～
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.151.*]
+ 
+【文章标题】：【求助】如何把for循环产生的矩阵都分别存起来，以便后面用呢？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8885 【创建时间】：2012-04-04 【作者】：huaxiehuakai 【评论】：1 【内容】：发信人: huaxiehuakai (花谢花开), 信区: Matlab
+标  题: 【求助】如何把for循环产生的矩阵都分别存起来，以便后面用呢？
+发信站: 北邮人论坛 (Wed Apr  4 12:43:31 2012), 站内
+
+RT
+不知哪位大侠可以帮忙呀？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.152.*]
+ 
+【文章标题】：怎样提高BP神经网络预测精度 【文章地址】：https://bbs.byr.cn/article/Matlab/8888 【创建时间】：2012-04-06 【作者】：Sahar 【评论】：5 【内容】：发信人: Sahar (子兰), 信区: Matlab
+标  题: 怎样提高BP神经网络预测精度
+发信站: 北邮人论坛 (Fri Apr  6 10:16:32 2012), 站内
+
+学习样本很小 只有11组 在这种小样本条件下  怎样才能提高预测精度呢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.16.*]
+ 
+【文章标题】：求助:采集数据求不了平均？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8897 【创建时间】：2012-04-08 【作者】：SweetPain 【评论】：0 【内容】：发信人: SweetPain (table), 信区: Matlab
+标  题: 求助:采集数据求不了平均？
+发信站: 北邮人论坛 (Sun Apr  8 15:08:37 2012), 站内
+
+RT，采集的信号,数据中的最大值max和最小值min都是有界的，为什么用mean命令得到的数却是NAN呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.152.*]
+ 
+【文章标题】：【菜鸟求助】 【文章地址】：https://bbs.byr.cn/article/Matlab/8891 【创建时间】：2012-04-06 【作者】：JamesLove 【评论】：1 【内容】：发信人: JamesLove (mingtiannihao), 信区: Matlab
+标  题: 【菜鸟求助】
+发信站: 北邮人论坛 (Fri Apr  6 17:47:49 2012), 站内
+
+如何建立一个10X10阶对称矩阵，对角线元素都是0，其余元素是事先已求出的。具体是这样的：我事先已经求出p(i)、q(r)和s(r)的值了，一共44个数
+i=1:4;
+p(i)；
+r=1:20;
+q(r)；
+s(r)；
+该怎样定义一个10x10对称阵，对角线元素都是0，并填入这45个数作为元素呢？
+还望高手不吝指教~<img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.211.8.*]
+ 
+【文章标题】：有关FFT算法的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8900 【创建时间】：2012-04-08 【作者】：yunmi 【评论】：0 【内容】：发信人: yunmi (may), 信区: Matlab
+标  题: 有关FFT算法的问题
+发信站: 北邮人论坛 (Sun Apr  8 22:45:17 2012), 站内
+
+自己写了一段实现FFT算法的代码，8点时结果还是正确的，但是16点时结果就与实际出现了偏差。但是不知道错误出在哪里，望各位多多指点~~~~~~~~~ 
+代码如下：
+
+clear;
+N=32;     %FFT点数
+M=25;     %序列点数
+Q=0.9+0.3i;
+n=0:(M-1);
+x=[Q.^n,zeros(1,N-M)];
+W=exp(-2i*pi/N);
+X=(1-Q^M)./(1-Q*W.^n);   %理论上的结果
+
+m=0:(N/2-1);
+Wm=W.^m;
+
+%反转
+o=0:(N-1);
+MH=[zeros(1,N/2),ones(1,N/2)];
+ML=rem(o,2);
+O=o-ML*1-MH*(N/2)+ML*(N/2)+MH*1;
+y(o+1)=x(O+1);
+
+temp=zeros(1,N);
+for m=1:log2(N)             %m为蝶形运算的重数
+   for p=1:2^m:N            %p为各重运算中，各组的第一个信号的序号
+       for q=0:2^(m-1)-1    %q为各组运算中，其他信号偏离第一个信号的位置数
+           l=q*N/(2^m)+1;       %l为Wm因子的下标
+           temp(p+q)         =y(p+q)+y(p+q+2.^(m-1))*Wm(l);
+           temp(p+q+2.^(m-1))=y(p+q)-y(p+q+2.^(m-1))*Wm(l);
+       end
+   end
+   y=temp;
+end
+n1=0:(N-1);
+subplot(2,1,1);
+stem(n,abs(X));
+subplot(2,1,2);
+stem(n1,abs(y));
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.11.*]
+ 
+【文章标题】：linux环境下可以将matlab生成的m文件编译成动态链接库么？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8915 【创建时间】：2012-04-09 【作者】：llchen 【评论】：0 【内容】：发信人: llchen (风雨如晦，鸡鸣不已), 信区: Matlab
+标  题: linux环境下可以将matlab生成的m文件编译成动态链接库么？
+发信站: 北邮人论坛 (Mon Apr  9 15:11:49 2012), 站内
+
+这是网上的说法：
+
+1. 设定编译器为gcc
+先输入：mex  -setup
+然后选择gcc
+然后输入：mbuild -setup
+同样选择gcc
+2. 生成链接库
+（1）生成c++链接库
+mcc -W cpplib:libemailSend -T link:lib emailSend.m
+其中cpplib表示生成c++链接库，libemailSend是库的名称
+（2）生成c链接库
+mcc -W lib:libemailSend -T link:lib emailSend.m
+ 
+这样的话，就能在linux的C++程序中调用matlab的库函数了么？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 119.78.208.*]
+ 
+【文章标题】：求教FSK调制问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8895 【创建时间】：2012-04-07 【作者】：Charliebob 【评论】：5 【内容】：发信人: Charliebob (turfLIFE), 信区: Matlab
+标  题: 求教FSK调制问题
+发信站: 北邮人论坛 (Sat Apr  7 14:34:40 2012), 站内
+
+为什么把调制频率改成3.5KHz 就Index exceeds matrix dimensions.
+
+Fc=3500  ;   %载频
+Fs=7000;   %系统采样频率
+Fd=100;      %码元速率
+N=Fs/Fd;
+df=10;
+numSymb=20;%进行仿真的信息代码个数
+M=2;       %进制数
+SNRpBit=60;%信噪比
+SNR=SNRpBit/log2(M);
+numPlot=20;
+
+x=randsrc(numSymb,1,[0:M-1]);
+figure(1)
+stem([0:numPlot-1],x(1:numPlot),'bx');
+title('二进制随机序列')
+xlabel('Time');
+ylabel('Amplitude');
+
+%调制
+y=dmod(x,Fc,Fd,Fs,'fsk',M,df);
+t=(0:numPlot*Fs-1)./Fs;
+
+figure(2)
+plot(t,y(1:length(t)),'b-');
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 162.105.192.*]
+ 
+【文章标题】：求助用MATLAB实现模拟退火算法（急） 【文章地址】：https://bbs.byr.cn/article/Matlab/8925 【创建时间】：2012-04-09 【作者】：tanglaoya 【评论】：0 【内容】：发信人: tanglaoya (tanglaoya), 信区: Matlab
+标  题: 求助用MATLAB实现模拟退火算法（急）
+发信站: 北邮人论坛 (Mon Apr  9 19:02:07 2012), 站内
+
+求高手指点下哪些地方需要修改，感激
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.16.*]
+
+
+<a href="/att/Matlab/0/8925/259" target="_blank" color="blue">附件(8KB)  </a> 
+【文章标题】：matlab 神经网络实现根据用户关键词对用户聚类的问题。。。求教 【文章地址】：https://bbs.byr.cn/article/Matlab/8929 【创建时间】：2012-04-10 【作者】：niu3509 【评论】：0 【内容】：发信人: niu3509 (叮铛), 信区: Matlab
+标  题: matlab 神经网络实现根据用户关键词对用户聚类的问题。。。求教
+发信站: 北邮人论坛 (Tue Apr 10 14:32:07 2012), 站内
+
+问题是，每个用户有多个关键词，然后我现在要根据用户的关键词 对用户进行聚类。
+比如
+甲用户关键词“篮球、足球、乒乓球”，
+乙用户关键词“羽毛球、篮球”，
+丙用户关键词“咖啡、牛奶”，
+上面的例子就把甲乙分到一个用户群里面，乙单独列出，算法完成后，在来新的用户丁“牛奶”就会跟乙放在一个群里面。。基本就是这个思路。我现在能把每个关键词的相似度得出。但是不知道怎么利用神经网络进行聚类。
+救命啊！~大神。纯小白求带啊！~~能帮忙实现的请吃教工餐厅一顿啊。。
+qq：350958678.
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.9.*]
+ 
+【文章标题】：时域叠加信号求频谱 和叠加前没有变化 是什么情况 【文章地址】：https://bbs.byr.cn/article/Matlab/8930 【创建时间】：2012-04-10 【作者】：Charliebob 【评论】：0 【内容】：发信人: Charliebob (turfLIFE), 信区: Matlab
+标  题: 时域叠加信号求频谱 和叠加前没有变化 是什么情况
+发信站: 北邮人论坛 (Tue Apr 10 20:27:38 2012), 站内
+
+
+<a target="_blank" href="/att/Matlab/0/8930/290"><img border="0" title="p1.jpg" src="/att/Matlab/0/8930/290" alt="p1.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/Matlab/0/8930/20375"><img border="0" title="p2.jpg" src="/att/Matlab/0/8930/20375" alt="p2.jpg" class="resizeable"></a>
+到底什么问题呢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 101.5.118.*]
+
+ 
+【文章标题】：matlab求助 【文章地址】：https://bbs.byr.cn/article/Matlab/8918 【创建时间】：2012-04-09 【作者】：wenxuan0727 【评论】：3 【内容】：发信人: wenxuan0727 (wenxuan), 信区: Matlab
+标  题: matlab求助
+发信站: 北邮人论坛 (Mon Apr  9 16:32:27 2012), 站内
+
+有x和y的方程。Excel中有一千组的X值，如何导入到matlab中求出对应的一千组y值然后导入到excel中。谢谢大家！
+※ 修改:·wenxuan0727 于 Apr  9 17:09:51 2012 修改本文·[FROM: 222.199.193.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.199.193.*]
+ 
+【文章标题】：【菜鸟求助】matlab生成的exe文件 闪一下就没了 【文章地址】：https://bbs.byr.cn/article/Matlab/8939 【创建时间】：2012-04-13 【作者】：million 【评论】：0 【内容】：发信人: million (【意涵团】分队小队长||Nolife), 信区: Matlab
+标  题: 【菜鸟求助】matlab生成的exe文件 闪一下就没了
+发信站: 北邮人论坛 (Fri Apr 13 13:30:35 2012), 站内
+
+闪一下就没了 肿么办
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.9.*]
+ 
+【文章标题】：Matlab二次开发团队招人 【文章地址】：https://bbs.byr.cn/article/Matlab/8896 【创建时间】：2012-04-07 【作者】：USRP 【评论】：18 【内容】：发信人: USRP (泡泡龙), 信区: Matlab
+标  题: Matlab二次开发团队招人
+发信站: 北邮人论坛 (Sat Apr  7 20:45:24 2012), 站内
+
+
+
+
+
+<b>目开发方向</b>：无线通信（软件无线电）HIL(Hardware In Loop)实时快速仿真原型开发
+<b>开发手段及具体内容</b>：
+          Matlab平台下的接口编程,包括Simulink模块的S函数编程（主要使用C/C++）和图形界面的开发，注意一般是用Java（现在的Matlab就是使用Java开发图形界面），请注意这个项目不是简单地matlab仿真模型，而是要通过matlab控制软件无线电平台。但绝对不是对NI或者卡鲁的仿制。
+
+现有条件：
+        1 USRPN210开发平台及全部配套射频子板、传输线缆、天线等等
+        2 完整安捷伦测试环境（矢量网络分析仪100k-40G、信号发生器100k-26.5G、矢量信号分析仪等等）
+        3 微波暗室等
+
+期待人选：
+        Java牛人、C/C++牛人、微波技术牛人、宣讲牛人等等
+        （实话讲有能耐，想参与就和我们联系一下，人数不限，但求高人）
+联系方式：
+         zhengnvyou@163.com
+         dulei@itsc.cn
+         请在信件中简要介绍你的经历、能力、希望和问题，需要面谈的我们再另约，谢谢！
+
+PS:本人是北邮在读博士，现在导师（北邮兼职教授）指导下组织相关课题研究，偶然的机会获得了很多资源，希望能够在母校里找到志同道合的人。因为曾在一家公司实习过9个月，所以实在是想自己创业。希望有志之士，一起来做一番事业！
+        
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.131.101.*]
+ 
+【文章标题】：有没有谁用matlab编写过谱相关函数 【文章地址】：https://bbs.byr.cn/article/Matlab/8838 【创建时间】：2012-03-20 【作者】：sjy1989 【评论】：0 【内容】：发信人: sjy1989 (sjy1989), 信区: Matlab
+标  题: 有没有谁用matlab编写过谱相关函数
+发信站: 北邮人论坛 (Tue Mar 20 21:07:21 2012), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.152.*]
+ 
+【文章标题】：有人用matlab做过chord或者CAN的仿真吗？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8843 【创建时间】：2012-03-22 【作者】：fiying 【评论】：0 【内容】：发信人: fiying (四海为家), 信区: Matlab
+标  题: 有人用matlab做过chord或者CAN的仿真吗？
+发信站: 北邮人论坛 (Thu Mar 22 11:09:18 2012), 站内
+
+求代码或者伪代码
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.117.165.*]
+ 
+【文章标题】：[问题]同一版本matlab不同电脑 程序运行出错 【文章地址】：https://bbs.byr.cn/article/Matlab/10541 【创建时间】：2013-12-17 【作者】：zhangqian81 【评论】：5 【内容】：发信人: zhangqian81 (qianqian), 信区: Matlab
+标  题: [问题]同一版本matlab不同电脑 程序运行出错
+发信站: 北邮人论坛 (Tue Dec 17 14:54:10 2013), 站内
+
+各位大师，虾米有个情况，自己都不能解决。各位路过的麻烦看一眼，指点指点。
+    这样，有个科研软件指定要在matlab2011a及更新的版本上运行。本人lab的pc装的是2012b，结果运行的很好。自己也都有点小得意，终于搞出来了哈。结果放在老师的电脑上，蒙了，提示something went wrong.开始以为版本不对，老师装了n个版本。2011a,2012a，2013a.结果都不行。然后自己不信了，在自己的note上又装了个2012b（之前有个07的版本），还是something went wrong。
+    确定note中matlab2012b的服务已开。所以就有了疑问：为什么一个程序同个版本不同电脑上运行结果不一向呢？还是因为老师和自己的note装了多个版本的matlab,所以出错，但不应该呀？
+    so,望指点。感激不尽……
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.142.219.*]
+ 
+【文章标题】：求教~ 【文章地址】：https://bbs.byr.cn/article/Matlab/8824 【创建时间】：2012-03-17 【作者】：millet1221 【评论】：6 【内容】：发信人: millet1221 (millet), 信区: Matlab
+标  题: 求教~
+发信站: 北邮人论坛 (Sat Mar 17 15:09:27 2012), 站内
+
+请问在matlab中，求定积分，如果被积分函数是x*f(x),其中f(x)是正态分布函数，这个要怎么做呢？
+
+菜鸟，求助，感激不尽！！！
+谢谢了~~~<img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.4.250.*]
+ 
+【文章标题】：pudn 会员 求 助 【文章地址】：https://bbs.byr.cn/article/Matlab/10521 【创建时间】：2013-12-02 【作者】：lucky0926 【评论】：1 【内容】：发信人: lucky0926 (ladyfuck), 信区: Matlab
+标  题: pudn 会员 求 助
+发信站: 北邮人论坛 (Mon Dec  2 17:38:11 2013), 站内
+
+能帮我下几个程序吗
+ <a target="_blank" href="http://www.pudn.com/downloads372/sourcecode/book/detail1610059.html">http://www.pudn.com/downloads372/sourcecode/book/detail1610059.html</a>
+ <a target="_blank" href="http://www.pudn.com/downloads145/sourcecode/math/detail631591.html">http://www.pudn.com/downloads145/sourcecode/math/detail631591.html</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.16.131.*]
+ 
+【文章标题】：菜鸟安装，求指导。谢谢啦。 【文章地址】：https://bbs.byr.cn/article/Matlab/8793 【创建时间】：2012-03-10 【作者】：hdj 【评论】：3 【内容】：发信人: hdj (Ace), 信区: Matlab
+标  题: 菜鸟安装，求指导。谢谢啦。
+发信站: 北邮人论坛 (Sat Mar 10 19:54:30 2012), 站内
+
+安装到这里，不会了。
+--
+
+
+<a target="_blank" href="/att/Matlab/0/8793/320"><img border="0" title="" src="/att/Matlab/0/8793/320" alt="" class="resizeable"></a>
+※ 修改:·hdj 于 Mar 10 19:55:51 2012 修改本文·[FROM: 10.206.13.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.13.*]
+ 
+【文章标题】：[合集] 急！求助：定积分（200元酬金） 【文章地址】：https://bbs.byr.cn/article/Matlab/8845 【创建时间】：2012-03-23 【作者】：Sophieyue 【评论】：0 【内容】：发信人: Sophieyue (葡萄小仙|兄弟会|河蟹队小鬼), 信区: Matlab
+标  题: [合集] 急！求助：定积分（200元酬金）
+发信站: 北邮人论坛 (Fri Mar 23 10:58:31 2012), 站内
+
+☆─────────────────────────────────────☆
+   mmyy1986 (mmyy1986) 于  (Sat Mar 17 08:47:07 2012)  提到:
+
+做定积分，要求写出完整结果，题目在附件中，200元酬金。联系地址：教三 TEL：15210903362   邮箱：xbc1111@126.com
+
+
+☆─────────────────────────────────────☆
+   xiangyang (向阳) 于  (Sat Mar 17 10:33:18 2012)  提到:
+
+lz,没附件啊
+
+
+☆─────────────────────────────────────☆
+   c5201314789 (阿秀) 于  (Sat Mar 17 10:33:27 2012)  提到:
+
+楼主不至于吧
+
+
+☆─────────────────────────────────────☆
+   never11 (麦芽) 于  (Sat Mar 17 12:39:57 2012)  提到:
+
+这···BD吧
+
+
+☆─────────────────────────────────────☆
+   grapland (grapland) 于  (Sat Mar 17 21:44:58 2012)  提到:
+
+200块求个积分，我第一次感觉到数学居然是可以产生直接价值的，。。
+
+
+☆─────────────────────────────────────☆
+   wu093 (陈迹) 于  (Sun Mar 18 10:02:41 2012)  提到:
+
+C[i] = (1/2)*(int(23.42427896*ln(1+z)*(exp(-4.684855793*z)+3.162277660*10^7*exp(-4.684855793*z)*(int(.1062414643*exp(1.960461353*10^7*x)*sqrt(1.000000000*10^16*x^2+1.481481481*10^9*x)*BesselK(1., .1062414643*sqrt(1.000000000*10^16*x^2+1.481481481*10^9*x)), x = 0 .. 1.481481481*10^(-7)*z))-1.573947619*exp(-1.780468603*z)*sqrt(z^2+z)*BesselK(1., 1.573947619*sqrt(z^2+z)))*(exp(-4.684855793*z)+3.162277660*10^7*exp(-4.684855793*z)*(int(.1062414643*exp(1.960461353*10^7*x)*sqrt(1.000000000*10^16*x^2+1.481481481*10^9*x)*BesselK(1., .1062414643*sqrt(1.000000000*10^16*x^2+1.481481481*10^9*x)), x = 0 .. 1.481481481*10^(-7)*z)))^4/ln(2), t = 0 .. infinity))
+介个神题
+
+
+ 
+【文章标题】：求助！matlab和C++混合编程问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10524 【创建时间】：2013-12-03 【作者】：byrfei 【评论】：9 【内容】：发信人: byrfei (芒果), 信区: Matlab
+标  题: 求助！matlab和C++混合编程问题
+发信站: 北邮人论坛 (Tue Dec  3 14:36:46 2013), 站内
+
+在matlab中调用C++函数时，报错Unexpected Standard exception from MEX file.
+What() is:bad allocation
+网上查了半天也没搞清楚是什么问题~~求大牛相助~~拜谢！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.102.7.*]
+ 
+【文章标题】：pudn会员请进 【文章地址】：https://bbs.byr.cn/article/Matlab/10107 【创建时间】：2013-07-04 【作者】：gatusokaka 【评论】：2 【内容】：发信人: gatusokaka (北京溜), 信区: Matlab
+标  题: pudn会员请进
+发信站: 北邮人论坛 (Thu Jul  4 17:14:33 2013), 站内
+
+哪位好心人帮忙给下两个小程序程序哈，下面是下载页链接
+http://www.pudn.com/downloads299/sourcecode/math/detail1337967.html
+http://www.pudn.com/downloads299/sourcecode/math/detail1337974.html
+下载完后发送到 personlv@sina.com，不胜感激
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.142.22.*]
+ 
+【文章标题】：[求助]用matlab解决hill密码问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10574 【创建时间】：2013-12-27 【作者】：zjx 【评论】：6 【内容】：发信人: zjx (晨暮), 信区: Matlab
+标  题: [求助]用matlab解决hill密码问题
+发信站: 北邮人论坛 (Fri Dec 27 21:50:04 2013), 站内
+
+有个神奇的小伙伴不知是幸是悲啊！！！！小伙伴发来一串用hill加密过的密码……你二阶加一下就好了嘛，你还来三阶，你三阶好歹用简单一点的密钥啊！！！！然后，还在大一并学渣的我就完全无力了！
+密钥是（25 9 23  12 14 13  10 4 24）三阶方阵，逆矩阵是个悲催的分数表我就不写了，然后
+密文是(NXG)(转置符号不标了是列向量）(SSC)(WSW)(DTQ)(SCI)(AVK)(GIO)(PPG)(JHS)(MWQ)(WIQ),密文mod26然后就学渣了，除了穷举感觉只有计算机能担当这个重任了！
+可是，我连C++还木有学好嘛！
+其实最简单的办法是问小伙伴啦，但小伙伴是个神奇的人，他本来也没打算让我解开密码，但好奇心太重实在不是一件好事啊！！！！！！！！！
+所以万能的论坛啊！万能的学长啊！能不能帮一帮忙呢<img src="/img/ubb/em/17.gif" alt="em17" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">拜托
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.201.141.*]
+ 
+【文章标题】：如何画出矩形周期脉冲 【文章地址】：https://bbs.byr.cn/article/Matlab/10558 【创建时间】：2013-12-23 【作者】：zhurui 【评论】：11 【内容】：发信人: zhurui (小猪), 信区: Matlab
+标  题: 如何画出矩形周期脉冲
+发信站: 北邮人论坛 (Mon Dec 23 21:20:02 2013), 站内
+
+已知周期矩形脉冲信号周期为4，脉宽为1，求出傅里叶谱系数，并画出信号的双边频谱。
+跪求答案
+用了square(t,DUTY)函数，发现差距太大了，不太适合周期过大的函数，可是用rectpuls(t,w)只能产生一个单脉冲，不知道周期性的怎么写，捉摸了很久还是没弄出来，求大神指导呀<img src="/img/ubb/emb/7.gif" alt="emb7" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.7.*]
+ 
+【文章标题】：[问题]【求助】如何用matlab实现最速下降法 测试函数是三元函数 【文章地址】：https://bbs.byr.cn/article/Matlab/10593 【创建时间】：2013-12-30 【作者】：chenyuntc 【评论】：4 【内容】：发信人: chenyuntc (cbyr), 信区: Matlab
+标  题: [问题]【求助】如何用matlab实现最速下降法 测试函数是三元函数
+发信站: 北邮人论坛 (Mon Dec 30 17:11:11 2013), 站内
+
+以下是本人根据网上修改的代码  但无法顺利运行 ，求破 
+若有大神能告诉我三元函数的最速下降法怎么写  甚佳
+在线等 求破
+
+        
+matlab最速下降法
+function x=fsxsteep(f,e,a,b,c)
+% fsxsteep函数 最速下降法
+% x=fsxsteep(f,e,a,b)为输入函数 f为函数 e为允许误差 (a,b)为初始点;
+% fsx TJPU 2008.6.15
+x1=a;x2=b,x3=c;
+Q=fsxhesse(f,x1,x2,x3);
+x0=[x1 x2 x3]';
+fx1=diff(f,'x1'); %对x1求偏导数
+fx2=diff(f,'x2'); %对x2求偏导数
+fx3=diff(f,'x3');
+g=[fx1 fx2 fx3]'; %梯度
+g1=subs(g); %把符号变量转为数值
+d=-g1;
+while (abs(norm(g1))&gt;=e)
+t=(-d)'*d/((-d)'*Q*d);t=(-d)'*d/((-d)'*Q*d); %求搜索方向
+x0=x0-t*g1; %搜索到的点
+v=x0;
+a=[1 0 0]*x0;
+b=[0 1 0]*x0;
+c=[0 0 1]*x0;
+x1=a;
+x2=b;
+x3=c;
+g1=subs(g);
+d=-g1;
+end;
+x=v;
+
+function x=fsxhesse(f,a,b,c)
+% fsxhesse函数 求函数的hesse矩阵；
+% 本程序仅是简单的求二次函数的hesse矩阵！；
+% x=fsxhesse(f)为输入函数 f为二次函数 x1,x2为自变量；
+% fsx TJPU 2008.6.15
+x1=a;x2=b;x3=c;
+fx=diff(f,'x1');     %求f对x1偏导数
+fy=diff(f,'x2');     %求f对x2偏导数
+fz=diff(f,'x3');     %求f对x2偏导数
+fxx=diff(fx,'x1');   %求二阶偏导数 对x1再对x1
+fxy=diff(fx,'x2');   %求二阶偏导数 对x1再对x2
+fxz=diff(fx,'x3');
+
+fyx=diff(fy,'x1');   %求二阶偏导数 对x2再对x1
+fyy=diff(fy,'x2');   %求二阶偏导数 对x2再对x2
+fyz=diff(fy,'x3');
+
+fzx=diff(fz,'x1');
+fzy=diff(fz,'x2');
+fzz=diff(fz,'x3');
+
+fxx=subs(fxx);       %将符号变量转化为数值
+fxy=subs(fxy);
+fxz=subs(fxz);
+fyx=subs(fyx);
+fyy=subs(fyy);
+fyz=subs(fyz);
+fzy=subs(fzy);
+fzx=subs(fzx);
+fzz=subs(fzz);
+
+x=[fxx,fxy,fxz;fyx,fyy,fyz;fzx,fzy,fzz]; %求hesse矩阵
+
+测试函数
+syms x1 x2 x3;
+X=[x1,x2,x3];
+fx=X(1)^2+2*X(2)^2+X(3);
+z=fsxsteep(fx,0.001,1,1,1)
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：[问题]新手求教，MATLAB如何把n个数不重复地随机分为m组 【文章地址】：https://bbs.byr.cn/article/Matlab/10598 【创建时间】：2014-01-02 【作者】：dinglei0719 【评论】：1 【内容】：发信人: dinglei0719 (觉今非而昨是), 信区: Matlab
+标  题: [问题]新手求教，MATLAB如何把n个数不重复地随机分为m组
+发信站: 北邮人论坛 (Thu Jan  2 09:59:20 2014), 站内
+
+RT
+例如a =[1:100]
+想把a近似随机地分为10组，但是不能重复取数，应该怎么操作？
+
+谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.27.*]
+ 
+【文章标题】：【公告】任命【bison】为【Matlab】版版主 (转载) 【文章地址】：https://bbs.byr.cn/article/Matlab/10600 【创建时间】：2014-01-02 【作者】：icyfox 【评论】：0 【内容】：发信人: icyfox (换个名字换个名字), 信区: Matlab
+标  题: 【公告】任命【bison】为【Matlab】版版主
+发信站: 北邮人论坛 (Thu Jan  2 19:54:08 2014), 站内
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: icyfox (换个名字换个名字), 信区: BoardManager
+标  题: 【公告】任命【bison】为【Matlab】版版主
+发信站: 北邮人论坛 (Thu Jan  2 19:53:50 2014), 站内
+
+	    经 bison 申请，并由站务委员会讨论通过,现决定任命
+	bison 为 Matlab 版版主。本论坛实行正版主负责制，一切事宜
+	均直接由正版主负责解释和安排协调。正版主为排在第一
+	位的版主。试用期半个月，到期如无重大失误即可转正。
+
+	    请 bison 于三日内到BoardManager版面和BM_office报到，
+	否则取消其斑竹权限；同时请每周至少一次到BM_office参与
+	斑竹讨论，关注斑竹管理内部的一些知识。
+
+
+	        类  别：非群体版面
+ 	        分  区：学术科技
+  	        版  主：dannian
+  	        备  注：希望严格遵守北邮人论坛相关规定，
+  	                尽职尽责，繁荣 Matlab。
+
+
+  	                        北邮人论坛版主管理组
+                           日期：Thu Jan  2 19:53:50 2014
+
+ 
+【文章标题】：如何构造一个新的小波函数？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10601 【创建时间】：2014-01-06 【作者】：zxw19881118 【评论】：0 【内容】：发信人: zxw19881118 (suny), 信区: Matlab
+标  题: 如何构造一个新的小波函数？
+发信站: 北邮人论坛 (Mon Jan  6 17:56:18 2014), 站内
+
+各位大神，给定一个小波的解析式，如何构造一个满足该解析式的的小波函数啊？<img src="/img/ubb/emc/10.gif" alt="emc10" style="display:inline;border-style:none"><img src="/img/ubb/emc/10.gif" alt="emc10" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.207.1.*]
+ 
+【文章标题】：新手求助 【文章地址】：https://bbs.byr.cn/article/Matlab/10603 【创建时间】：2014-01-12 【作者】：huainanyan 【评论】：1 【内容】：发信人: huainanyan (淮南雁), 信区: Matlab
+标  题: 新手求助
+发信站: 北邮人论坛 (Sun Jan 12 22:42:20 2014), 站内
+
+
+<a target="_blank" href="/att/Matlab/0/10603/372"><img border="0" title="" src="/att/Matlab/0/10603/372" alt="" class="resizeable"></a>
+
+
+这个积分是不是积不出来呢？这是一个高斯分布与一个拉普拉斯分布的乘积。。
+--
+※ 修改:·huainanyan 于 Jan 12 22:45:36 2014 修改本文·[FROM: 114.255.40.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：baidu088被取消在Matlab版的发文权限 【文章地址】：https://bbs.byr.cn/article/Matlab/10630 【创建时间】：2014-02-19 【作者】：dannian 【评论】：0 【内容】：发信人: dannian (被砖压坏了的桔桔|【虾米团】团长), 信区: Matlab
+标  题: baidu088被取消在Matlab版的发文权限
+发信站: 北邮人论坛 (Wed Feb 19 14:47:47 2014), 站内
+
+由于 baidu088 在 Matlab 版的 未经许可的版面商业行为 行为，
+被暂时取消在本版的发文权力 14 天。
+                              版主:dannian
+                              Wed Feb 19 14:47:47 2014
+
+
+ 
+【文章标题】：【急】大家好，求填毕业论文的问卷啊~~祝亲有个好offer 【文章地址】：https://bbs.byr.cn/article/Matlab/10607 【创建时间】：2014-01-17 【作者】：ymm19870902 【评论】：2 【内容】：发信人: ymm19870902 (蒙蒙), 信区: Matlab
+标  题: 【急】大家好，求填毕业论文的问卷啊~~祝亲有个好offer
+发信站: 北邮人论坛 (Fri Jan 17 19:35:49 2014), 站内
+
+非常感谢大家，这是毕业论文的问卷调查，调查对象是在北京上学的应届毕业生。您的一份问卷会给我带来莫大的帮助，再次先感谢大家，希望大家多多支持。此问卷大约耗时2分钟。可以用电脑做也可以用手机做。谢谢大家
+
+
+网络版：<a target="_blank" href="http://www.sojump.com/jq/3042446.aspx">http://www.sojump.com/jq/3042446.aspx</a>
+手机版：<a target="_blank" href="http://www.sojump.com/m/3042446.aspx">http://www.sojump.com/m/3042446.aspx</a>
+
+亲爱的毕业生同学们。请帮忙填写一份调查问卷，这是我的毕业论文~~~~份数不够，相当着急。谢谢同学们的帮忙。祝愿大家有个好的offer！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 122.198.133.*]
+ 
+【文章标题】：有木有在做 Monte Carlo 方针的，我们来交流下~ 【文章地址】：https://bbs.byr.cn/article/Matlab/10602 【创建时间】：2014-01-11 【作者】：lynnctt 【评论】：9 【内容】：发信人: lynnctt (丸_丸), 信区: Matlab
+标  题: 有木有在做 Monte Carlo 方针的，我们来交流下~
+发信站: 北邮人论坛 (Sat Jan 11 21:14:39 2014), 站内
+
+我的QQ是385732280<img src="/img/ubb/ema/4.gif" alt="ema4" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.236.*]
+ 
+【文章标题】：matlab 【小图拼成大图】 【文章地址】：https://bbs.byr.cn/article/Matlab/10620 【创建时间】：2014-02-08 【作者】：sunny1992 【评论】：3 【内容】：发信人: sunny1992 (爱你在心口难开), 信区: Matlab
+标  题: matlab 【小图拼成大图】
+发信站: 北邮人论坛 (Sat Feb  8 13:27:10 2014), 站内
+
+我们组在数学建模时遇到一个问题，需要把几个小图拼成一个大图。请问用什么matlab指令可以做到?（图片不是一次生成的，不能用subplot)。挺着急的，在线等大神。。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.236.*]
+ 
+【文章标题】：matlab如何在视频中画椭圆 【文章地址】：https://bbs.byr.cn/article/Matlab/10624 【创建时间】：2014-02-13 【作者】：wabyrlt 【评论】：0 【内容】：发信人: wabyrlt (), 信区: Matlab
+标  题: matlab如何在视频中画椭圆
+发信站: 北邮人论坛 (Thu Feb 13 10:49:54 2014), 站内
+
+matlab读入一段视频，希望能用一个椭圆动态框出其中某个物体（比如人头），应该怎么画这个椭圆呢？
+具体检测物体位置已有了算法，就是不知道如何在视频中画圆。
+thx！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.177.126.*]
+ 
+【文章标题】：[问题]跪求如何用maltlab改写文件的指定列 【文章地址】：https://bbs.byr.cn/article/Matlab/10625 【创建时间】：2014-02-13 【作者】：yuanxiaode11 【评论】：5 【内容】：发信人: yuanxiaode11 ([意涵团]yuanyuanyuan), 信区: Matlab
+标  题: [问题]跪求如何用maltlab改写文件的指定列
+发信站: 北邮人论坛 (Thu Feb 13 17:39:51 2014), 站内
+
+文件格式如下,a.txt:
+3 
+1 2 3
+4 5 6
+7 
+1.1 1.2 1.3 
+2.1 2.2 2.3 
+3.1 3.2 3.3
+4.1 4.2 4.3
+...
+
+文件从第5行开始的矩阵是一个n*3的矩阵A，现在需要改写矩阵A的第三列（如把第三列+0.1），然后输出仍然是a.txt，其它都不变，应该怎么做呢？
+ps:文件的第一行数字3，表示接下来有3行不需要处理的数据。即需要根据第一行的变量判断出来从第几行开始处理数据。也即，第一行为一个数字，设为变量a，即表示本文件需要从第a+2行开始处理数据。
+恩...头痛死我了，跪求各位大神<img src="/img/ubb/emb/22.gif" alt="emb22" style="display:inline;border-style:none"><img src="/img/ubb/emb/22.gif" alt="emb22" style="display:inline;border-style:none"><img src="/img/ubb/emb/22.gif" alt="emb22" style="display:inline;border-style:none">不胜感激~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.30.*]
+ 
+【文章标题】：元胞数组与构架数组的转换 【文章地址】：https://bbs.byr.cn/article/Matlab/10638 【创建时间】：2014-02-24 【作者】：smartma 【评论】：0 【内容】：发信人: smartma (开心就好), 信区: Matlab
+标  题: 元胞数组与构架数组的转换
+发信站: 北邮人论坛 (Mon Feb 24 14:11:46 2014), 站内
+
+对于cell2struct中的第三个变量不是太明白，那个维度怎样理解？求指导
+
+
+%元胞数组——构架数组
+ c={'tree',37.4,'birch'};
+ f={'category','height','name'};
+ k=cell2struct(c,f,2)
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.14.*]
+ 
+【文章标题】：帮帮忙:求书《数字视频处理》黎洪松，2006，北邮出版社 【文章地址】：https://bbs.byr.cn/article/Matlab/10640 【创建时间】：2014-02-25 【作者】：kingkongman 【评论】：0 【内容】：发信人: kingkongman (kingkongman), 信区: Matlab
+标  题: 帮帮忙:求书《数字视频处理》黎洪松，2006，北邮出版社
+发信站: 北邮人论坛 (Tue Feb 25 09:51:20 2014), 站内
+
+《数字视频处理》黎洪松，2006，北邮出版社  
+请问这本书哪里有卖的，跑了北邮书店和教材中心都没有。。。
+哪位同学有这本书闲置的联系一下我  非常感谢 T T
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.110.*]
+ 
+【文章标题】：Re: [问题]sin(x.*y)-ln(|x.*y|)=0的解的图形 【文章地址】：https://bbs.byr.cn/article/Matlab/10205 【创建时间】：2013-08-30 【作者】：原帖已删除 【评论】：0 【内容】：发信人: USRP (泡泡龙), 信区: Matlab
+标  题: Re: [问题]sin(x.*y)-ln(|x.*y|)=0的解的图形
+发信站: 北邮人论坛 (Fri Aug 30 22:05:25 2013), 站内
+
+
+【 在 prettyboy 的大作中提到: 】
+你能确定根的大概区间么，例如在【0，1】之间会有一个根，那就可以进行控制步长的遍历计算 
+（或者你可以设定x=[0,1],y=[0,1]看看是否有曲面穿越0的地方，估计一下范围，再把步长取得细一点） 
+记住不要和0比，要和eps比较，至于具体的门限可以取10*eps之类的 
+把所有解的点画出来就是了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 218.244.255.*]
+ 
+【文章标题】：[讨论][问题]空间相关色噪声模型，大神圆我一个梦吧 【文章地址】：https://bbs.byr.cn/article/Matlab/10214 【创建时间】：2013-09-01 【作者】：blueskykll 【评论】：0 【内容】：发信人: blueskykll (scum), 信区: Matlab
+标  题: [讨论][问题]空间相关色噪声模型，大神圆我一个梦吧
+发信站: 北邮人论坛 (Sun Sep  1 23:03:04 2013), 站内
+
+本人在做关于色噪声下信号检测的问题，但是色噪声的模型一直困扰着我很久啦，不知道有没有人帮我解决一下问题。
+    
+
+    在空间信号检测中，色噪声下的信号个数检测，最基本的比如GDE，CCT等方法，需要加入空间相关色噪声，目前大部分的文献里用的都是加入色噪声的协方差矩阵，
+<a target="_blank" href="/att/Matlab/0/10214/1337"><img border="0" title="QQ图片20130901223545.jpg" src="/att/Matlab/0/10214/1337" alt="QQ图片20130901223545.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/Matlab/0/10214/13044"><img border="0" title="QQ图片20130901223700.jpg" src="/att/Matlab/0/10214/13044" alt="QQ图片20130901223700.jpg" class="resizeable"></a>
+色噪声仿真程序]
+<a target="_blank" href="/att/Matlab/0/10214/48173"><img border="0" title="QQ图片20130901224517.jpg" src="/att/Matlab/0/10214/48173" alt="QQ图片20130901224517.jpg" class="resizeable"></a>
+
+
+
+     然后通过检测噪声和信号的相加后的协方差矩阵的 特征值进行检测，但是用这个噪声模型得到的特征值，很奇怪，信号对应的特征值接近0.9，噪声对应的特征值都是10的-17次方级的，近乎为零，明显与各个文献里仿真结果相去甚远。我的结果
+<a target="_blank" href="/att/Matlab/0/10214/85192"><img border="0" title="7IB%@$RJ)[5%[[Y}7U4EF4D.jpg" src="/att/Matlab/0/10214/85192" alt="7IB%@$RJ)[5%[[Y}7U4EF4D.jpg" class="resizeable"></a>
+应该是这个结果
+<a target="_blank" href="/att/Matlab/0/10214/102367"><img border="0" title="QQ图片20130901224829.jpg" src="/att/Matlab/0/10214/102367" alt="QQ图片20130901224829.jpg" class="resizeable"></a>
+
+      
+    虽然我已经用其他模型解决了仿真，但是这个模型的通用程度很高，几乎所有的文献都在用，我怎么都仿真不出正确结果，不知道有没有做类似方面研究的童鞋帮个忙啊，困扰我半年了，怎么都找不到问题所在啊,不管有没有能解决的，做相关课题的也进来讨论一下啊，非常感激啊，圆我一个愿望吧<img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+--[/size][/size]
+
+--
+[upload=1][/upload][upload=2][/upload][upload=3][/upload][upload=4][/upload][upload=5][/upload]
+※ 修改:·blueskykll 于 Sep  1 23:04:39 2013 修改本文·[FROM: 202.204.48.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.204.48.*]
+ 
+【文章标题】：莱斯信道情况下软解调的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10198 【创建时间】：2013-08-27 【作者】：magiclovecc 【评论】：2 【内容】：发信人: magiclovecc (冷血), 信区: Matlab
+标  题: 莱斯信道情况下软解调的问题
+发信站: 北邮人论坛 (Tue Aug 27 21:44:11 2013), 站内
+
+在matlab中搭建链路仿真，信源-&gt;LDPC编码-&gt;QPSK调制-&gt;莱斯信道-&gt;高斯信道-&gt;软解调-&gt;LDPC译码，大概是这样个流程，想问一下有谁做过或者正在做类似的仿真，软解调模块该怎么办？matlab中自带可以是单独高斯信道情况下的软解调，但是还有莱斯信道的话，..... 真心求教，有能帮助的同学麻烦站内我一下，谢谢了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：弱弱的问一句。。 【文章地址】：https://bbs.byr.cn/article/Matlab/10641 【创建时间】：2014-02-26 【作者】：JamesLove 【评论】：0 【内容】：发信人: JamesLove (mingtiannihao), 信区: Matlab
+标  题: 弱弱的问一句。。
+发信站: 北邮人论坛 (Wed Feb 26 19:48:49 2014), 站内
+
+网上下载的维也纳大学关于LTE系统级仿真器的Matlab开源代码靠谱不？有没有链路级的呢？求知情大牛解答。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.25.*]
+ 
+【文章标题】：matlab初学者急求帮助~~怎么调用数据 【文章地址】：https://bbs.byr.cn/article/Matlab/10171 【创建时间】：2013-07-30 【作者】：lionJY 【评论】：4 【内容】：发信人: lionJY (称王称霸lion), 信区: Matlab
+标  题: matlab初学者急求帮助~~怎么调用数据
+发信站: 北邮人论坛 (Tue Jul 30 14:05:43 2013), 站内
+
+我的主函数有个矩阵retailer=[89 159 220 291 78 71 65 
+          76 314 193 238 103 45 90
+          285 63 313 366 101 53 78
+          401 325 162 213 60 51 81
+          16 310 586 685 91 99 69];
+然后自己想编个排序函数，按照retailer矩阵的第6列排序
+function f=order(retailer)
+%用来将顾客按r排序的程序
+[c,pos]=sort(retailer(:,6));
+for i=1:length()
+    r(:,i)=r(pos,i);
+end
+    
+在排序的时候需要用到主函数的矩阵retailer，可是编译的时候 排序程序是错的
+
+
+求大家帮帮忙啦<img src="/img/ubb/ema/12.gif" alt="ema12" style="display:inline;border-style:none"><img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.125.71.*]
+ 
+【文章标题】：求救，对于matlab完全不会的菜鸟求程序 【文章地址】：https://bbs.byr.cn/article/Matlab/10365 【创建时间】：2013-09-09 【作者】：colorOnE 【评论】：7 【内容】：发信人: colorOnE (colorOnE), 信区: Matlab
+标  题: 求救，对于matlab完全不会的菜鸟求程序
+发信站: 北邮人论坛 (Mon Sep  9 09:25:32 2013), 站内
+
+RT，朋友的作业，要用Matlab但是本人完全不会，为了不给我邮丢脸就悄悄发在这里了。。
+
+用matlab软件进行灰阶模型预测，实现以下内容：
+
+建立模型
+
+现有30年的人口数，要推测以后10年、20年的人口数，用SPSS和SAS做出的数据不合适。
+
+利用已建立的模型，带入现有29年的人口数，得到估计值，与实际值作比较，检验模型准确性。
+
+要程序！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.22.*]
+ 
+【文章标题】：Re: [问题]十万火急，求助大神！！！！边缘信息识别方面的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10382 【创建时间】：2013-09-16 【作者】：原帖已删除 【评论】：0 【内容】：发信人: ml3615556 (Andy), 信区: Matlab
+标  题: Re: [问题]十万火急，求助大神！！！！边缘信息识别方面的问题，
+发信站: 北邮人论坛 (Mon Sep 16 02:05:13 2013), 站内
+
+这能做出来？
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.236.*]
+ 
+【文章标题】：【急求】熟悉matlab的同学帮助，有偿！！！厚报 【文章地址】：https://bbs.byr.cn/article/Matlab/10388 【创建时间】：2013-09-19 【作者】：sd2746636 【评论】：1 【内容】：发信人: sd2746636 (【意涵团】大米饭), 信区: Matlab
+标  题: 【急求】熟悉matlab的同学帮助，有偿！！！厚报
+发信站: 北邮人论坛 (Thu Sep 19 17:05:42 2013), 站内
+
+主要要求：对matlab使用熟练，主要涉及最优化（求极值）方面的内容:线性优化及非线性优化，具体包括解线性方程组，迭代算法等方法。
+
+联系电话：张同学 2318369217
+--
+※ 修改:·sd2746636 于 Sep 20 11:04:47 2013 修改本文·[FROM: 106.120.34.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 106.120.34.*]
+ 
+【文章标题】：求win7 32位系统可用matlab 【文章地址】：https://bbs.byr.cn/article/Matlab/10385 【创建时间】：2013-09-17 【作者】：FUERMOZHU 【评论】：6 【内容】：发信人: FUERMOZHU (FUERMOZHU), 信区: Matlab
+标  题: 求win7 32位系统可用matlab
+发信站: 北邮人论坛 (Tue Sep 17 20:41:26 2013), 站内
+
+RT
+最好是破解版
+BT链接也可以，不过好像BT的都是64或者要序列号的
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.14.*]
+ 
+【文章标题】：[心得]推荐一个智能计算的免费国际期刊 【文章地址】：https://bbs.byr.cn/article/Matlab/10396 【创建时间】：2013-09-21 【作者】：yylex 【评论】：0 【内容】：发信人: yylex (yylex), 信区: Matlab
+标  题: [心得]推荐一个智能计算的免费国际期刊
+发信站: 北邮人论坛 (Sat Sep 21 15:22:14 2013), 站内
+
+
+师兄推荐一个不错的出版社，总部在美国，投稿录用很快的说，关键是免费的，呵呵。 
+  
+  
+International Journal of Computational Intelligence Systems and Applications 
+ISSN: 2331-1924 
+  
+  
+http://www.cayleynielson.com/ijcisa/index.html 
+  
+International Journal of Computational Intelligence Systems and Applications, is a refereed journal dedicated to the theory and 
+
+applications of computational intelligence Systems (artificial neural networks, fuzzy systems, evolutionary computation, expert systems and 
+
+hybrid systems and so forth). The main goal is to establish an effective communication channel between researchers involved in the 
+
+computational intelligence area and developers who use traditional techniques to solve real-world problems, in order to create a worthwhile 
+
+synergy. It also seeks to promote the transfer of knowledge between professionals in academia and industry by emphasizing research in which 
+
+results are of interest or applicable to practices. The journal publishes original research papers; review papers; technical papers and 
+
+notes; short communications; discussion on papers; cases studies  
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.242.79.*]
+ 
+【文章标题】：求问FFT变换频谱图的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8934 【创建时间】：2012-04-13 【作者】：ggmain 【评论】：2 【内容】：发信人: ggmain (一帆风顺), 信区: Matlab
+标  题: 求问FFT变换频谱图的问题
+发信站: 北邮人论坛 (Fri Apr 13 10:05:23 2012), 站内
+
+为什么我画出来的频谱图只有0-35hz？我想要0-4000hz
+但是改成4000就不行啊。
+Fc=3500  ;    
+Fs=7000;    
+Fd=100;      
+N=Fs/Fd; 
+df=10; 
+numSymb=20; 
+M=2;       
+SNRpBit=60; 
+SNR=SNRpBit/log2(M); 
+numPlot=20; 
+  
+x=randsrc(numSymb,1,[0:M-1]); 
+figure(1) 
+stem([0:numPlot-1],x(1:numPlot),'bx'); 
+title('二进制随机序列') 
+xlabel('Time'); 
+ylabel('Amplitude'); 
+  
+%调制 
+y=dmod(x,Fc,Fd,Fs,'fsk',M,df); 
+
+XK=abs(fft(y,N));f=(0:N/2)*Fs/N; 
+XK(1)=XK(1)/N;XK(2:(N/2+1))=XK(2:(N/2+1))*2/N; 
+stem(f,XK(1:(N/2+1)));
+axis([-1 N/2 0 5]); 
+grid on;
+xlabel('f(Hz)');
+ylabel('|X( f )|');
+
+--
+※ 修改:·ggmain 于 Apr 13 10:06:04 2012 修改本文·[FROM: 10.206.28.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.28.*]
+ 
+【文章标题】：[问题] 求解用matlab生成18*18的类似数独的矩阵 【文章地址】：https://bbs.byr.cn/article/Matlab/10090 【创建时间】：2013-06-24 【作者】：wsdy 【评论】：0 【内容】：发信人: wsdy (jancidy), 信区: Matlab
+标  题: [问题] 求解用matlab生成18*18的类似数独的矩阵
+发信站: 北邮人论坛 (Mon Jun 24 22:58:00 2013), 站内
+
+就是18行18列都是1-18的不同数字
+网上有一个通过矩阵相乘啥的生成9*9数独的方法
+但是没有看懂，不知道这个思路能不能用
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.125.71.*]
+ 
+【文章标题】：想问一下大家神经网络是怎么入门的？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10060 【创建时间】：2013-06-15 【作者】：wangzzu 【评论】：9 【内容】：发信人: wangzzu (柳年思水), 信区: Matlab
+标  题: 想问一下大家神经网络是怎么入门的？
+发信站: 北邮人论坛 (Sat Jun 15 23:54:15 2013), 站内
+
+以前看过一点关于神经网络的，没怎么看懂，也就没好好看，现在想学一点这方面的东西，希望有经验的师兄师姐提供一点建议
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.161.46.*]
+ 
+【文章标题】：两个问题,带未知变量的表达式和待定系数求值，谢谢了 【文章地址】：https://bbs.byr.cn/article/Matlab/10099 【创建时间】：2013-06-26 【作者】：h4breeze 【评论】：0 【内容】：发信人: h4breeze (breeze), 信区: Matlab
+标  题: 两个问题,带未知变量的表达式和待定系数求值，谢谢了
+发信站: 北邮人论坛 (Wed Jun 26 17:17:26 2013), 站内
+
+两个问题，先谢谢大家
+1. 怎么在matlab里面写这样的带有未知变量的传递函数
+
+
+
+<a target="_blank" href="/att/Matlab/0/10099/421"><img border="0" title="" src="/att/Matlab/0/10099/421" alt="" class="resizeable"></a>
+
+2. 现在希望的闭环极点为-300，-300，-30+j30，-30-j30，那怎么求三个未知变量的值呢？
+谢谢大家了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.6.*]
+
+ 
+【文章标题】：求指导粒子群算法~~~ 【文章地址】：https://bbs.byr.cn/article/Matlab/10082 【创建时间】：2013-06-24 【作者】：bdbd 【评论】：11 【内容】：发信人: bdbd (bdbd), 信区: Matlab
+标  题: 求指导粒子群算法~~~
+发信站: 北邮人论坛 (Mon Jun 24 10:40:09 2013), 站内
+
+rt，有没有懂粒子群算法（PSO）的大神，帮忙稍微指导一下或者有想学的可以讨论一下，能帮我答疑解惑的话必有重谢，请吃饭什么的是必须滴~~~欢迎站内我~~~ 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.14.*]
+ 
+【文章标题】：matlab自带的莱斯信道出的数据很奇怪 【文章地址】：https://bbs.byr.cn/article/Matlab/10106 【创建时间】：2013-07-04 【作者】：lixiaoyao 【评论】：0 【内容】：发信人: lixiaoyao (逆流), 信区: Matlab
+标  题: matlab自带的莱斯信道出的数据很奇怪
+发信站: 北邮人论坛 (Thu Jul  4 11:13:03 2013), 站内
+
+a=0.0000001;
+fd=0;
+k=4;
+chan=ricianchan(a,fd,k);
+source=ones(1,5);
+s=filter(chan,source);
+
+其中a是数据输入信号sample time
+fd是多普勒频移
+k=4
+输入信号是五个1
+按道理，输出信号s应该是乱码，但其实输出信号s每次都是五个同样的数字
+这是怎么回事
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.14.*]
+ 
+【文章标题】：【ccdf作图】求教 【文章地址】：https://bbs.byr.cn/article/Matlab/9983 【创建时间】：2013-05-21 【作者】：feliciaowen 【评论】：5 【内容】：发信人: feliciaowen (Felicia·Owen), 信区: Matlab
+标  题: 【ccdf作图】求教
+发信站: 北邮人论坛 (Tue May 21 09:08:16 2013), 站内
+
+matlab中自带cdfplot作图得到cdf图
+想问怎么得到ccdf图啊！
+求解答！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.107.34.*]
+ 
+【文章标题】：[问题][求助]matlab怎么生成格雷互补序列 【文章地址】：https://bbs.byr.cn/article/Matlab/9209 【创建时间】：2012-08-02 【作者】：jiangsh1987 【评论】：2 【内容】：发信人: jiangsh1987 (辣椒粉儿), 信区: Matlab
+标  题: [问题][求助]matlab怎么生成格雷互补序列
+发信站: 北邮人论坛 (Thu Aug  2 23:07:20 2012), 站内
+
+想生成任意符合长度规范的格雷互补序列（比如长度为50），请教一下怎么用matlab实现啊？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.215.4.*]
+ 
+【文章标题】：格雷序列的产生 【文章地址】：https://bbs.byr.cn/article/Matlab/10112 【创建时间】：2013-07-05 【作者】：lihuaxtdx 【评论】：0 【内容】：发信人: lihuaxtdx (哇哈哈), 信区: Matlab
+标  题: 格雷序列的产生
+发信站: 北邮人论坛 (Fri Jul  5 15:33:01 2013), 站内
+
+哪位大侠有格雷序列的代码吗 ，给跪了 呵呵<img src="/img/ubb/em/18.gif" alt="em18" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 220.181.108.*]
+ 
+【文章标题】：Matlab中不能积分问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10109 【创建时间】：2013-07-05 【作者】：guchen 【评论】：3 【内容】：发信人: guchen (孤尘), 信区: Matlab
+标  题: Matlab中不能积分问题
+发信站: 北邮人论坛 (Fri Jul  5 15:28:19 2013), 站内
+
+仿真中遇到一个表达式，类似y=e^(1-cost)/(1-cost),用int对y求定积分int(y,t,-pi/2,pi/2),得到的结果仍然是int表示的一个式子，没有积分结果。想问大神们对于这种问题，能用什么方法计算积分结果吗？急！谢谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.198.*]
+ 
+【文章标题】：有没有人愿意那这道小题练练刀~ 【文章地址】：https://bbs.byr.cn/article/Matlab/9800 【创建时间】：2013-04-17 【作者】：SexyGod 【评论】：6 【内容】：发信人: SexyGod (a), 信区: Matlab
+标  题: 有没有人愿意那这道小题练练刀~
+发信站: 北邮人论坛 (Wed Apr 17 20:23:43 2013), 站内
+
+1，针对某数字图像，加入可变强度的高斯白噪。
+2，针对该强度的高斯白噪，设计低通滤波器。
+（该滤波器若用MATLAB函数，则要对比多种；
+若自己编写，则需要说明参数）
+3，对原始图像、加噪图像和滤波后图像进行展示，并对其性能进行对比分析。（信噪比、处理极限）
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 221.217.38.*]
+ 
+【文章标题】：【求助】有人用matlab做过有关OOFDM的仿真吗（有酬谢） 【文章地址】：https://bbs.byr.cn/article/Matlab/10121 【创建时间】：2013-07-11 【作者】：ozil119 【评论】：2 【内容】：发信人: ozil119 (ozil119), 信区: Matlab
+标  题: 【求助】有人用matlab做过有关OOFDM的仿真吗（有酬谢）
+发信站: 北邮人论坛 (Thu Jul 11 13:09:47 2013), 站内
+
+RT，希望做过相关研究的同学不吝赐教。当然，会有一定报酬的，万分感激！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 112.91.72.*]
+ 
+【文章标题】：时间序列的自协方差怎么求 【文章地址】：https://bbs.byr.cn/article/Matlab/10149 【创建时间】：2013-07-13 【作者】：PhonChen 【评论】：0 【内容】：发信人: PhonChen (PhonChen), 信区: Matlab
+标  题: 时间序列的自协方差怎么求
+发信站: 北邮人论坛 (Sat Jul 13 17:04:30 2013), 站内
+
+给定一个时间序列c，求他的自协方差 用 xcov(c,10,'none')可以了么  这样求出来的是自协方差么     如果不是，该怎么求啊？   
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.9.*]
+ 
+【文章标题】：matlab太臃肿，如何安装最精简呢？[不想用2012a精简版] 【文章地址】：https://bbs.byr.cn/article/Matlab/10123 【创建时间】：2013-07-11 【作者】：wenshingle 【评论】：27 【内容】：发信人: wenshingle (homeomorphism), 信区: Matlab
+标  题: matlab太臃肿，如何安装最精简呢？[不想用2012a精简版]
+发信站: 北邮人论坛 (Thu Jul 11 22:49:25 2013), 站内
+
+在2012a的安装，自定义安装，看到一大堆毛毛，感觉除了一个 Matlab7.14 其他全部都没用。。。但俺又不敢确定是否真的都没用。
+俺只用微分方程数值解法（就是简单的数值迭代、傅里叶变换之类）、画个3D图。
+很讨厌往电脑塞入没用的软件部分。。。
+<img src="/img/ubb/emc/0.gif" alt="emc0" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 218.30.103.*]
+ 
+【文章标题】：学渣弱问matlab画图问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10116 【创建时间】：2013-07-06 【作者】：origin 【评论】：4 【内容】：发信人: origin (瓦特希普荒原的兔子), 信区: Matlab
+标  题: 学渣弱问matlab画图问题
+发信站: 北邮人论坛 (Sat Jul  6 17:41:26 2013), 站内
+
+我想知道某根线上非绘图点的坐标，怎么破？
+PS：用Data Cursor 貌似只能显示绘图点的坐标
+--
+※ 修改:·origin 于 Jul  6 17:47:06 2013 修改本文·[FROM: 10.210.43.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.43.*]
+ 
+【文章标题】：求做。。。给matlab跪了 【文章地址】：https://bbs.byr.cn/article/Matlab/10101 【创建时间】：2013-06-28 【作者】：Magic618 【评论】：4 【内容】：发信人: Magic618 (Ocean), 信区: Matlab
+标  题: 求做。。。给matlab跪了
+发信站: 北邮人论坛 (Fri Jun 28 22:08:20 2013), 站内
+
+明天考试。。。求大牛帮做。。。
+<img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none">
+
+<a target="_blank" href="/att/Matlab/0/10101/285"><img border="0" title="" src="/att/Matlab/0/10101/285" alt="" class="resizeable"></a>
+
+<a target="_blank" href="/att/Matlab/0/10101/51554"><img border="0" title="" src="/att/Matlab/0/10101/51554" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.3.*]
+
+ 
+【文章标题】：如何保存vector scope中显示的图像数据 【文章地址】：https://bbs.byr.cn/article/Matlab/10158 【创建时间】：2013-07-22 【作者】：donation 【评论】：0 【内容】：发信人: donation (天士水), 信区: Matlab
+标  题: 如何保存vector scope中显示的图像数据
+发信站: 北邮人论坛 (Mon Jul 22 16:38:12 2013), 站内
+
+我在vector scope前面插入一个to workspace，发现保存的数据有问题，貌似跟vector scope显示出来的图片不一样（频域图）。觉得to workspace中保存的数据是仿真时间段中的所有数据，但是我只要保留某时刻的仿真数据，因为我要对处理是那一时刻所有频域上的数据，如找出最大值和第二大值。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.4.*]
+ 
+【文章标题】：matlab 的arima函数 【文章地址】：https://bbs.byr.cn/article/Matlab/10160 【创建时间】：2013-07-25 【作者】：yiyi05604 【评论】：1 【内容】：发信人: yiyi05604 (yiyi), 信区: Matlab
+标  题: matlab 的arima函数
+发信站: 北邮人论坛 (Thu Jul 25 18:06:08 2013), 站内
+
+有谁知道这个函数的源代码，我需要改动下这个函数，但是我的matlab是2007版本，找不到此函数。请知道的同学给我贴一下好吗？小女子万分感谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.219.127.*]
+ 
+【文章标题】：[问题]小白求问matlab的size函数 【文章地址】：https://bbs.byr.cn/article/Matlab/10161 【创建时间】：2013-07-27 【作者】：byrfei 【评论】：4 【内容】：发信人: byrfei (芒果), 信区: Matlab
+标  题: [问题]小白求问matlab的size函数
+发信站: 北邮人论坛 (Sat Jul 27 11:23:33 2013), 站内
+
+
+<a target="_blank" href="/att/Matlab/0/10161/377"><img border="0" title="111.PNG" src="/att/Matlab/0/10161/377" alt="111.PNG" class="resizeable"></a>
+用imread读入图像后，size的输出应该表示该图像的大小吧？
+那size('000084.jpg')输出的又是什么呢？
+这俩为什么不一样啊......<img src="/img/ubb/emc/22.gif" alt="emc22" style="display:inline;border-style:none">
+拜谢各位大神了！！
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.102.7.*]
+
+ 
+【文章标题】：matlab  删除全0页 【文章地址】：https://bbs.byr.cn/article/Matlab/10167 【创建时间】：2013-07-28 【作者】：changkai 【评论】：3 【内容】：发信人: changkai (小狐), 信区: Matlab
+标  题: matlab  删除全0页
+发信站: 北邮人论坛 (Sun Jul 28 11:24:07 2013), 站内
+
+RT:
+v(:,:,1) =
+
+   1.0e+04 *
+
+    0.2142         0         0
+         0    0.8468         0
+         0         0    2.4945
+
+
+v(:,:,2) =
+
+     0     0     0
+     0     0     0
+     0     0     0
+
+
+v(:,:,3) =
+
+     0     0     0
+     0     0     0
+     0     0     0
+
+
+v(:,:,4) =
+
+   1.0e+03 *
+
+    0.4551         0         0
+         0    2.7853         0
+         0         0    8.6337
+想变化成
+v(:,:,1) =
+
+   1.0e+04 *
+
+    0.2142         0         0
+         0    0.8468         0
+         0         0    2.4945
+v(:,:,2) =
+
+   1.0e+03 *
+
+    0.4551         0         0
+         0    2.7853         0
+         0         0    8.6337
+P.S. buxiang yigeyigede shanchu
+v(:,:,2)=[]; v(:,:,3)=[];shenmade...
+<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.195.74.*]
+ 
+【文章标题】：招聘matlab实习生，做量化策略交易的助理。 【文章地址】：https://bbs.byr.cn/article/Matlab/10176 【创建时间】：2013-07-31 【作者】：feel123345 【评论】：0 【内容】：发信人: feel123345 (马生), 信区: Matlab
+标  题: 招聘matlab实习生，做量化策略交易的助理。
+发信站: 北邮人论坛 (Wed Jul 31 23:26:59 2013), 站内
+
+因我年龄较大，忘记多年前学的，我在一大型金融机构，自己主要做一些策略研究，有时候想通过matlab实现，现在想找人一起分享，交流交流。
+马先生，18201013439
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.125.71.*]
+ 
+【文章标题】：有谁用过matlab做ESN相关研究的？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10182 【创建时间】：2013-08-02 【作者】：sjy1989 【评论】：0 【内容】：发信人: sjy1989 (sjy1989), 信区: Matlab
+标  题: 有谁用过matlab做ESN相关研究的？
+发信站: 北邮人论坛 (Fri Aug  2 21:25:25 2013), 站内
+
+RT~想请教几个问题~希望不吝赐教~谢谢~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.63.*]
+ 
+【文章标题】：[问题]关于matlab汉字不能显示···· 【文章地址】：https://bbs.byr.cn/article/Matlab/10177 【创建时间】：2013-08-02 【作者】：lovelysee 【评论】：5 【内容】：发信人: lovelysee (mu小磊), 信区: Matlab
+标  题: [问题]关于matlab汉字不能显示····
+发信站: 北邮人论坛 (Fri Aug  2 09:35:43 2013), 站内
+
+哪位大牛可以帮忙解答一下应该安装哪个版本额····电脑是DELL，win7家庭版。汉字显示不了，都是一个个的框框，但是在图片中可以显示·····
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.98.13.*]
+ 
+【文章标题】：这样的频谱分析结果是对还是错啊？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10181 【创建时间】：2013-08-02 【作者】：hms2006 【评论】：1 【内容】：发信人: hms2006 (mission), 信区: Matlab
+标  题: 这样的频谱分析结果是对还是错啊？
+发信站: 北邮人论坛 (Fri Aug  2 20:56:46 2013), 站内
+
+对采样频率3000Hz.进行傅立叶变换，为了进行频谱分析，
+为啥信号的频谱怎么基本是一条直线而且接近于0；基本没跳变。有没问题啊？
+我把程序和图贴上来，希望大家给点建议！
+Fs=3000;
+N=100000;
+df=Fs/(N-1) ;%分辨率
+f1=(0:N-1)*df;%其中每点的频率
+Y=fft(s(1:N))/N*2;%真实的幅值
+%Y=fftshift(Y);
+figure;
+plot(f1,abs(Y));
+figure;plot(s(1:N))
+ 
+2013-8-3 21:29 上传下载附件 (150.78 KB) 
+
+
+--
+※ 修改:·hms2006 于 Aug  3 21:40:42 2013 修改本文·[FROM: 61.190.78.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 218.61.149.*]
+ 
+【文章标题】：双目标优化，求算法推荐啊 【文章地址】：https://bbs.byr.cn/article/Matlab/10159 【创建时间】：2013-07-23 【作者】：kugirl 【评论】：1 【内容】：发信人: kugirl (双鱼座女孩), 信区: Matlab
+标  题: 双目标优化，求算法推荐啊
+发信站: 北邮人论坛 (Tue Jul 23 16:54:06 2013), 站内
+
+RT，用哪种算法性能较优呢？是有约束优化哦
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.103.*]
+ 
+【文章标题】：求教python调用matlib程序 【文章地址】：https://bbs.byr.cn/article/Matlab/10185 【创建时间】：2013-08-09 【作者】：moodyt 【评论】：3 【内容】：发信人: moodyt (徒子不登), 信区: Matlab
+标  题: 求教python调用matlib程序
+发信站: 北邮人论坛 (Fri Aug  9 17:24:34 2013), 站内
+
+  小弟虽然写好了mat程序，但是为了方便演示，所以决定用python做一个简单的外壳，结果卡在那儿走不动。
+  采用的方法是通过com调用，具体函数代码如下（以下为py文件）
+  from win32com.client import Dispatch
+  h=Dispatch("Matlab.application")
+  h.execute("test()")
+  x,y=readResult（）
+  return x,y
+  其中的test是用matlib写的示例程序，和上面的py在同一个目录下，在test中会创建一个同目录下的result.txt保存结果，然后通过readResult函数返回结果。
+  问题就是可以成功execute，但是无法生成相应的result.txt；但是如果单独运行test.m是可以生成相应的result文件的。很奇怪，既然execute没有报错，为啥没有result.txt的生成，求指导。
+  为了屏蔽实际程序，这里给出一个简单的test.m
+  function test()
+ clear all;
+M=0.0;
+N=512.0;
+x=M:N;
+y=[sin(x)];
+fid=fopen('result.txt','a+');
+m=length(x);
+for i=1:1:m;
+ fprintf(fid,'%f',x(i));
+ fprintf(fid,',');
+ fprintf(fid,'%f',y(i));
+ fprintf(fid,'\n');
+end
+fclose(fid);
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.208.*]
+ 
+【文章标题】：为啥会报这个错Attempt to reference field of non-structure a 【文章地址】：https://bbs.byr.cn/article/Matlab/10192 【创建时间】：2013-08-21 【作者】：kkkktttt 【评论】：0 【内容】：发信人: kkkktttt (沉迷大风吹), 信区: Matlab
+标  题: 为啥会报这个错Attempt to reference field of non-structure ar
+发信站: 北邮人论坛 (Wed Aug 21 19:47:14 2013), 站内
+
+想不通……
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.42.*]
+ 
+【文章标题】：求matlab【非线性方程】大神~~ 【文章地址】：https://bbs.byr.cn/article/Matlab/10193 【创建时间】：2013-08-23 【作者】：qq1014315175 【评论】：0 【内容】：发信人: qq1014315175 (阿浪护肤-<a target="_blank" href="http://alanghufu.taobao.com">http://alanghufu.taobao.com</a>), 信区: Matlab
+标  题: 求matlab【非线性方程】大神~~
+发信站: 北邮人论坛 (Fri Aug 23 09:00:15 2013), 站内
+
+遇到一个非线性方程的求解问题，也许对大神来说是小事儿，不过对我来说有些大事儿了，希望遇到大神给指点一二，我的QQ1014315175
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.52.*]
+ 
+【文章标题】：有没有同学帮我解决一下PSK信号的平方降解的编程问题  谢啦 【文章地址】：https://bbs.byr.cn/article/Matlab/9331 【创建时间】：2012-09-25 【作者】：lj2011140586 【评论】：4 【内容】：发信人: lj2011140586 (法式小面包), 信区: Matlab
+标  题: 有没有同学帮我解决一下PSK信号的平方降解的编程问题  谢啦
+发信站: 北邮人论坛 (Tue Sep 25 09:50:41 2012), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 221.212.116.*]
+ 
+【文章标题】：短波协作通信中的中继选择 【文章地址】：https://bbs.byr.cn/article/Matlab/10645 【创建时间】：2014-03-03 【作者】：chunqingruan 【评论】：0 【内容】：发信人: chunqingruan (chunqingruan), 信区: Matlab
+标  题: 短波协作通信中的中继选择
+发信站: 北邮人论坛 (Mon Mar  3 14:59:36 2014), 站内
+
+那位大牛做过短波信道条件下的协作通信，在这个系统中对中继进行选择~~望不吝赐教
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.20.*]
+ 
+【文章标题】：LT码编译码与性能仿真 【文章地址】：https://bbs.byr.cn/article/Matlab/9885 【创建时间】：2013-04-26 【作者】：sunzy 【评论】：3 【内容】：发信人: sunzy (艾薇儿), 信区: Matlab
+标  题: LT码编译码与性能仿真
+发信站: 北邮人论坛 (Fri Apr 26 20:52:01 2013), 站内
+
+有木有大牛有与LT码相关的代码啊？哪方面都行，跪求啊。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.37.*]
+ 
+【文章标题】：求问matlab当中文件关联问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10649 【创建时间】：2014-03-05 【作者】：skyforrest 【评论】：7 【内容】：发信人: skyforrest (星仔), 信区: Matlab
+标  题: 求问matlab当中文件关联问题
+发信站: 北邮人论坛 (Wed Mar  5 10:39:02 2014), 站内
+
+求问，当程序包中的m文件很多，各种互相调用函数的时候，如何可以快速知道这么文件之间的关系，最好能导出个关系图就好了，求问？？<img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none"> <img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.198.*]
+ 
+【文章标题】：[问题]求助，有知道matlab怎样建模马尔科夫链的吗？给个思路也 【文章地址】：https://bbs.byr.cn/article/Matlab/10665 【创建时间】：2014-03-06 【作者】：jane2014 【评论】：0 【内容】：发信人: jane2014 (jane), 信区: Matlab
+标  题: [问题]求助，有知道matlab怎样建模马尔科夫链的吗？给个思路也行
+发信站: 北邮人论坛 (Thu Mar  6 16:09:42 2014), 站内
+
+知道初始分布和转移概率矩阵，用matlab建模markov chain
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.102.*]
+ 
+【文章标题】：Re: 监控截图去噪，啊啊啊！求大牛，小弟请海底捞啊~~ 【文章地址】：https://bbs.byr.cn/article/Matlab/10610 【创建时间】：2014-03-06 【作者】：原帖已删除 【评论】：5 【内容】：发信人: Sigurlily (木归兮), 信区: Matlab
+标  题: Re: 监控截图去噪，啊啊啊！求大牛，小弟请海底捞啊~~
+发信站: 北邮人论坛 (Thu Mar  6 09:41:30 2014), 站内
+
+正在学数字图像处理，目前只会fft和加噪声<img src="/img/ubb/emb/4.gif" alt="emb4" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.4.*]
+ 
+【文章标题】：求用什么matlab算法来美化字体 【文章地址】：https://bbs.byr.cn/article/Matlab/10646 【创建时间】：2014-03-03 【作者】：jiangliB 【评论】：1 【内容】：发信人: jiangliB (Jenny), 信区: Matlab
+标  题: 求用什么matlab算法来美化字体
+发信站: 北邮人论坛 (Mon Mar  3 15:31:51 2014), 站内
+
+怎么用MATLAB里的image processing tool来对图片里的字体做美化？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.125.114.*]
+ 
+【文章标题】：matlab求指导 【文章地址】：https://bbs.byr.cn/article/Matlab/10632 【创建时间】：2014-02-20 【作者】：wnf 【评论】：1 【内容】：发信人: wnf (菊水), 信区: Matlab
+标  题: matlab求指导
+发信站: 北邮人论坛 (Thu Feb 20 23:24:04 2014), 站内
+
+请问新手目前应该用哪个版本的matlab呀？！我下过2010按照指令安装激活后 无法运行。。。求大牛指导
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.254.69.*]
+ 
+【文章标题】：Nyquist shaped pulse与 FIR 滤波器的关系 【文章地址】：https://bbs.byr.cn/article/Matlab/10682 【创建时间】：2014-03-07 【作者】：rewq1234 【评论】：0 【内容】：发信人: rewq1234 (【意涵团】我要大大大大大offer~！), 信区: Matlab
+标  题: Nyquist shaped pulse与 FIR 滤波器的关系
+发信站: 北邮人论坛 (Fri Mar  7 14:59:05 2014), 站内
+
+最近在做毕设，需要用matlab仿真Nyquist shaped pulse（就是时域上的sinc函数叠加），导师指导用FIR滤波器来实现，因为都是时域上的。谁能给我讲讲这两者有什么联系呀？为啥能用FIR滤波器实现，咋实现？在下太笨自己看书没怎么看透本质，求教 多谢了！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 221.217.37.*]
+ 
+【文章标题】：求大神指导，有关于fmincon中的目标函数参数更改问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10666 【创建时间】：2014-03-06 【作者】：icebaby 【评论】：3 【内容】：发信人: icebaby (icebaby), 信区: Matlab
+标  题: 求大神指导，有关于fmincon中的目标函数参数更改问题
+发信站: 北邮人论坛 (Thu Mar  6 17:00:29 2014), 站内
+
+小弟在使用fmincon寻找最小值的时候，遇到了个问题：
+          [x,fval]=fmincon('fun',Bt0,[],[],[],[],lb,ub,@constr),fun是目标函数，Bt0是初始值，这个函数是通过带入Bt0,来逐渐逼近求得一个局部最优解，那么我现在想着更改fun里面的一个参数，并以这个参数（从大到小一组数）为横坐标，以最小值为纵坐标画图，怎么实现？
+怎样写能把参数直接传进去，小弟实在是学渣，求大神指点？<img src="/img/ubb/emb/6.gif" alt="emb6" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.22.*]
+ 
+【文章标题】：跪求大神提供Matlab中的frourier.m文件，邮箱kwilliam1991@qq.c 【文章地址】：https://bbs.byr.cn/article/Matlab/10671 【创建时间】：2014-03-06 【作者】：kwilliam 【评论】：8 【内容】：发信人: kwilliam (kwilliam), 信区: Matlab
+标  题: 跪求大神提供Matlab中的frourier.m文件，邮箱kwilliam1991@qq.co
+发信站: 北邮人论坛 (Thu Mar  6 23:27:01 2014), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.20.50.*]
+ 
+【文章标题】：[问题]matlab求导函数有点疑问 【文章地址】：https://bbs.byr.cn/article/Matlab/10688 【创建时间】：2014-03-07 【作者】：OrigDesigner 【评论】：2 【内容】：发信人: OrigDesigner (OrigDesigner), 信区: Matlab
+标  题: [问题]matlab求导函数有点疑问
+发信站: 北邮人论坛 (Fri Mar  7 22:27:18 2014), 站内
+
+syms x;
+f=@(x)exp(x)+10*x-2;
+dif=diff(f,x);
+
+这个操作之后dif成了f的导函数没错吧？
+然后显示dif=exp(x) + 10 ,但是如果想把dif当函数用就不行了，如：
+dif(1) = exp(x) + 10;
+就是没法实现dif(1)=e^1+10=12.7这样，求问为何？
+ 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 210.32.7.*]
+ 
+【文章标题】：【matlab】用watershed算法走迷宫 【文章地址】：https://bbs.byr.cn/article/Matlab/10619 【创建时间】：2014-02-07 【作者】：wzyuliyang 【评论】：2 【内容】：发信人: wzyuliyang (not_so_good), 信区: Matlab
+标  题: 【matlab】用watershed算法走迷宫
+发信站: 北邮人论坛 (Fri Feb  7 11:35:12 2014), 站内
+
+今天看到一篇有意思的博文，特来分享。
+分水岭算法走迷宫。
+博文地址：
+<a target="_blank" href="http://www.bfcat.com/index.php/2014/01/solving-mazes-watershed-transform/">http://www.bfcat.com/index.php/2014/01/solving-mazes-watershed-transform/</a>
+
+<a target="_blank" href="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030627hCM.png"><img border="0" title="单击此在新窗口浏览图片" src="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030627hCM.png" alt="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030627hCM.png" class="resizeable"></a>
+
+
+<a target="_blank" href="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030628Hiv.png"><img border="0" title="单击此在新窗口浏览图片" src="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030628Hiv.png" alt="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030628Hiv.png" class="resizeable"></a>
+
+<a target="_blank" href="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030631xgW.png"><img border="0" title="单击此在新窗口浏览图片" src="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030631xgW.png" alt="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030631xgW.png" class="resizeable"></a>
+
+<a target="_blank" href="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/0306320yN.png"><img border="0" title="单击此在新窗口浏览图片" src="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/0306320yN.png" alt="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/0306320yN.png" class="resizeable"></a>
+
+<a target="_blank" href="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030635dS0.png"><img border="0" title="单击此在新窗口浏览图片" src="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030635dS0.png" alt="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030635dS0.png" class="resizeable"></a>
+
+<a target="_blank" href="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030639lFd.png"><img border="0" title="单击此在新窗口浏览图片" src="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030639lFd.png" alt="http://www.bfcat.com/wp-content/uploads/auto_save_image/2014/01/030639lFd.png" class="resizeable"></a>
+
+不知道是否已经有大牛能把他用opencv实现，好像android上可以使用opencv,作出一个APP好像很有趣的样子。
+--
+※ 修改:·wzyuliyang 于 Feb  7 11:37:00 2014 修改本文·[FROM: 60.181.165.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 60.181.165.*]
+ 
+【文章标题】：LU分解 【文章地址】：https://bbs.byr.cn/article/Matlab/10639 【创建时间】：2014-02-24 【作者】：smartma 【评论】：1 【内容】：发信人: smartma (开心就好), 信区: Matlab
+标  题: LU分解
+发信站: 北邮人论坛 (Mon Feb 24 20:13:49 2014), 站内
+
+求问：为什么[L,U]=lu(magic(5))的结果L不是下三角矩阵？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.164.*]
+ 
+【文章标题】：[问题]请问各位高手，matlab如何实现传引用 【文章地址】：https://bbs.byr.cn/article/Matlab/10709 【创建时间】：2014-03-12 【作者】：NeverGo 【评论】：1 【内容】：发信人: NeverGo (NeverGo), 信区: Matlab
+标  题: [问题]请问各位高手，matlab如何实现传引用
+发信站: 北邮人论坛 (Wed Mar 12 21:13:30 2014), 站内
+
+在函数调用时，如何实现传引用，跪求！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.176.*]
+ 
+【文章标题】：有一.bin二进制文件，存的是一个波形的数据，怎样将该文件导入m 【文章地址】：https://bbs.byr.cn/article/Matlab/10695 【创建时间】：2014-03-11 【作者】：Chengge1989 【评论】：13 【内容】：发信人: Chengge1989 (北邮一根草), 信区: Matlab
+标  题: 有一.bin二进制文件，存的是一个波形的数据，怎样将该文件导入ma
+发信站: 北邮人论坛 (Tue Mar 11 18:07:24 2014), 站内
+
+如题：有一.bin二进制数据文件，存的是一个波形的数据，怎样将该文件导入matlab,并显示波形？谢谢啦。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.102.6.*]
+ 
+【文章标题】：matlab会因为版本问题运行出错嘛？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10706 【创建时间】：2014-03-12 【作者】：westlife 【评论】：8 【内容】：发信人: westlife (westlife), 信区: Matlab
+标  题: matlab会因为版本问题运行出错嘛？
+发信站: 北邮人论坛 (Wed Mar 12 17:34:29 2014), 站内
+
+我版本2011a，程序单调，没错，跑起来就会发生某个元胞3个域只剩一个的情况而出错。求问为什么？（调试就是没错啊）
+
+<a target="_blank" href="https://itunes.apple.com/us/app/jia-you/id736043107?ls=1&amp;mt=8">发自「佳邮」</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.165.*]
+ 
+【文章标题】：求p文件反编译方法 【文章地址】：https://bbs.byr.cn/article/Matlab/10723 【创建时间】：2014-03-14 【作者】：skyforrest 【评论】：0 【内容】：发信人: skyforrest (星仔), 信区: Matlab
+标  题: 求p文件反编译方法
+发信站: 北邮人论坛 (Fri Mar 14 21:12:52 2014), 站内
+
+求p文件反编译方法 或者可以通过别的途径打开也可以？求大神指教
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.198.*]
+ 
+【文章标题】：给出数据和数据范围，如何画出它的累计分布函数？急呀。。。。 【文章地址】：https://bbs.byr.cn/article/Matlab/10724 【创建时间】：2014-03-17 【作者】：wowobrain 【评论】：1 【内容】：发信人: wowobrain (Brain), 信区: Matlab
+标  题: 给出数据和数据范围，如何画出它的累计分布函数？急呀。。。。
+发信站: 北邮人论坛 (Mon Mar 17 16:54:31 2014), 站内
+
+给出数据和数据范围，如何画出它的累计分布函数？急呀。。。。。
+如图所示
+--
+※ 修改:·wowobrain 于 Mar 17 16:54:54 2014 修改本文·[FROM: 10.203.7.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.203.7.*]
+ 
+【文章标题】：有没有人编过UKF滤波器 【文章地址】：https://bbs.byr.cn/article/Matlab/10731 【创建时间】：2014-03-22 【作者】：zs2538596 【评论】：0 【内容】：发信人: zs2538596 (考研菜鸟), 信区: Matlab
+标  题: 有没有人编过UKF滤波器
+发信站: 北邮人论坛 (Sat Mar 22 16:10:20 2014), 站内
+
+RT<img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.76.*]
+ 
+【文章标题】：500万的一维信号数据，有没有较快的压缩感知重构算法介绍啊，贪 【文章地址】：https://bbs.byr.cn/article/Matlab/10730 【创建时间】：2014-03-21 【作者】：Chengge1989 【评论】：4 【内容】：发信人: Chengge1989 (北邮一根草), 信区: Matlab
+标  题: 500万的一维信号数据，有没有较快的压缩感知重构算法介绍啊，贪
+发信站: 北邮人论坛 (Fri Mar 21 15:59:35 2014), 站内
+
+如题，求大神指导……万分感谢。目前使用的OMP重构算法，产生测量矩阵时，由于数据太大，溢出了。结果套用分块重构算法，也跑了几个小时没结果。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.102.6.*]
+ 
+【文章标题】：【请教】如何在matlab的simulink里安装signal processing block 【文章地址】：https://bbs.byr.cn/article/Matlab/10736 【创建时间】：2014-03-24 【作者】：lty2012 【评论】：0 【内容】：发信人: lty2012 (不可爱的小豆子), 信区: Matlab
+标  题: 【请教】如何在matlab的simulink里安装signal processing blocks
+发信站: 北邮人论坛 (Mon Mar 24 17:09:08 2014), 站内
+
+需要signal processing blockset里的一个模块，但是不知道怎么安装~~~求大家指教~~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.158.*]
+ 
+【文章标题】：求指教，部署结果怎么保存到本地，保存成什么格式，以便load 【文章地址】：https://bbs.byr.cn/article/Matlab/10642 【创建时间】：2014-02-27 【作者】：nyn 【评论】：2 【内容】：发信人: nyn (初来乍到，请多多关照), 信区: Matlab
+标  题: 求指教，部署结果怎么保存到本地，保存成什么格式，以便load
+发信站: 北邮人论坛 (Thu Feb 27 10:24:31 2014), 站内
+
+部署结果怎么保存到本地，保存成什么格式，以便load
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.4.156.*]
+ 
+【文章标题】：用lindo/lingo或者Matlab解决DEA模型 【文章地址】：https://bbs.byr.cn/article/Matlab/10738 【创建时间】：2014-03-25 【作者】：wangyihan 【评论】：0 【内容】：发信人: wangyihan (Ethan), 信区: Matlab
+标  题: 用lindo/lingo或者Matlab解决DEA模型
+发信站: 北邮人论坛 (Tue Mar 25 16:18:47 2014), 站内
+
+请教各位大神，目前遇到一个棘手的问题。我要算出四个不同的子系统（输入和输出）之间的协调效度、发展效度和综合效度；用DEA_SOLVER解决不了，需要用lindo/lingo编写命令，但是不太会，我有数据，只是不会编写命令，请求您们的帮助。实在感谢（说得不太专业的地方，还望见谅）！ 报酬好商量！
+  
+电话：15652961690  qq:401035490
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 121.194.155.*]
+ 
+【文章标题】：关于turbo码软解调 【文章地址】：https://bbs.byr.cn/article/Matlab/10739 【创建时间】：2014-03-26 【作者】：z1x1h1 【评论】：0 【内容】：发信人: z1x1h1 (chris), 信区: Matlab
+标  题: 关于turbo码软解调
+发信站: 北邮人论坛 (Wed Mar 26 22:34:36 2014), 站内
+
+哪位大牛做过turbo码中的软解调~~~~有一处不太明白  在线等~~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.51.*]
+ 
+【文章标题】：[问题]有人有车载瑞利信道模型的MATLAB仿真代码么 【文章地址】：https://bbs.byr.cn/article/Matlab/10741 【创建时间】：2014-03-27 【作者】：shelly1 【评论】：1 【内容】：发信人: shelly1 (shelly1), 信区: Matlab
+标  题: [问题]有人有车载瑞利信道模型的MATLAB仿真代码么
+发信站: 北邮人论坛 (Thu Mar 27 21:21:09 2014), 站内
+
+如题，pudn上有，可是没有账号，急求~
+多谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.28.*]
+ 
+【文章标题】：MATLAB教程 【文章地址】：https://bbs.byr.cn/article/Matlab/10740 【创建时间】：2014-03-27 【作者】：dreamcar 【评论】：1 【内容】：发信人: dreamcar (dreamcar), 信区: Matlab
+标  题: MATLAB教程
+发信站: 北邮人论坛 (Thu Mar 27 16:57:29 2014), 站内
+
+想学matlab，请前辈们推荐学习matlab的好书，或者比较好的网站也可以
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.236.*]
+ 
+【文章标题】：Matlab 2014a发布啦 【文章地址】：https://bbs.byr.cn/article/Matlab/10683 【创建时间】：2014-03-07 【作者】：hu6360567 【评论】：3 【内容】：发信人: hu6360567 (LvLng|死胖子|穷丑矮搓胖), 信区: Matlab
+标  题: Matlab 2014a发布啦
+发信站: 北邮人论坛 (Fri Mar  7 15:23:10 2014), 站内
+
+R2014a 涵盖了中文版 MATLAB 的更新，以及mathworks.cn 上更新和新增的中文文档。
+
+
+什么时候能有下载呢?
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.149.163]
+ 
+【文章标题】：matlab报错，关于【alpha】，哪位大神解释下 【文章地址】：https://bbs.byr.cn/article/Matlab/10746 【创建时间】：2014-04-01 【作者】：Nox 【评论】：4 【内容】：发信人: Nox (db250), 信区: Matlab
+标  题: matlab报错，关于【alpha】，哪位大神解释下
+发信站: 北邮人论坛 (Tue Apr  1 19:44:57 2014), 站内
+
+Attempted to access alpha(0.3); index must be a positive integer or logical.
+
+Error in qiu (line 52)
+alpha(0.3);
+ 
+
+就是画了一个球，想让它透明，就加了alpha（0.3）；这句，然后就报了上面的错误。
+网上说alpha的值应该是0--1之间的数字啊…………
+
+这个报错是什么意思呢？
+应该怎么改？？
+谢啦！！！！！！！
+--
+※ 修改:·Nox 于 Apr  1 19:46:14 2014 修改本文·[FROM: 10.108.53.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.53.*]
+ 
+【文章标题】：求助，有LTE的matlab平台么 【文章地址】：https://bbs.byr.cn/article/Matlab/10728 【创建时间】：2014-03-20 【作者】：dl0519 【评论】：1 【内容】：发信人: dl0519 (dl0519), 信区: Matlab
+标  题: 求助，有LTE的matlab平台么
+发信站: 北邮人论坛 (Thu Mar 20 09:30:37 2014), 站内
+
+最好是使用PF调度算法的
+
+<a target="_blank" href="https://itunes.apple.com/us/app/jia-you/id736043107?ls=1&amp;mt=8">发自「佳邮」</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.158.152.*]
+ 
+【文章标题】：【求助】字符串数组统计元素出现频率 【文章地址】：https://bbs.byr.cn/article/Matlab/10760 【创建时间】：2014-04-05 【作者】：McRonin 【评论】：1 【内容】：发信人: McRonin (明仁), 信区: Matlab
+标  题: 【求助】字符串数组统计元素出现频率
+发信站: 北邮人论坛 (Sat Apr  5 22:42:51 2014), 站内
+
+要从excel中导入一列的字符串，统计里面相同元素出现的频率并用matlab画一个饼图。。。
+字符串这个不会统计啊，数字还能百度到。。。
+求大神指导下，私信或者回复我吧谢谢。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.51]
+ 
+【文章标题】：[问题]MATLAB安装求指导 【文章地址】：https://bbs.byr.cn/article/Matlab/10636 【创建时间】：2014-02-24 【作者】：heamon7 【评论】：11 【内容】：发信人: heamon7 (天堂的呼唤), 信区: Matlab
+标  题: [问题]MATLAB安装求指导
+发信站: 北邮人论坛 (Mon Feb 24 07:42:21 2014), 站内
+
+最近在上MATLAB的选修课，所以这两天就开始装MATLAB7.0，但装了好几次，都碰到同一个问题，就是在点击启动时，弹出两个窗口报错，其中一个是一大串Java代码，不知道大家有没有遇到过这个问题，求指导啊！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.254.77.*]
+ 
+【文章标题】：神一样的北邮人论坛呀，拯救一下我吧，求问怎么仿真TCP整个发包 【文章地址】：https://bbs.byr.cn/article/Matlab/10522 【创建时间】：2013-12-02 【作者】：daisy2013 【评论】：13 【内容】：发信人: daisy2013 (someday), 信区: Matlab
+标  题: 神一样的北邮人论坛呀，拯救一下我吧，求问怎么仿真TCP整个发包
+发信站: 北邮人论坛 (Mon Dec  2 18:02:55 2013), 站内
+
+就是需要用matlab建模TCP，主要是拥塞控制过程，要考虑的有带宽，时延，丢包率，最后仿真图里要有吞吐量和时延的曲线，完全无从下手，不知道怎么查资料，也不知道怎么搜相关源代码，求大神指点
+  1.发送方和接收方，发包个数，分别要怎么样来模拟？
+  2，往返时间RTT要怎么样计算？
+  3，仿真过程中怎么计算丢包个数，超时次数？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.208.25.*]
+ 
+【文章标题】：[求助]程序修改 【文章地址】：https://bbs.byr.cn/article/Matlab/10759 【创建时间】：2014-04-05 【作者】：kwilliam 【评论】：2 【内容】：发信人: kwilliam (kwilliam), 信区: Matlab
+标  题: [求助]程序修改
+发信站: 北邮人论坛 (Sat Apr  5 21:56:37 2014), 站内
+
+close all;
+clear
+alpha=0.714*10^(-9);
+
+Pf=(sqrt(2)/(alpha))*exp((-2*pi*(t.^2))/(alpha)^2);
+P=fourier(Pf,t,w);
+t=((alpha/7):0.01*alpha:alpha);
+w=(0:(4*pi/alpha):(16*pi/alpha));
+ESD=(abs(P)).^2;
+f=(0:2/alpha:8/alpha);
+f=w./(2*pi);
+plot(f,ESD)
+axis([0,(7/alpha),0,10^(-10)])
+grid on
+
+
+自己修改了比较长时间，实在改不了了，求大神指导
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.20.50.*]
+ 
+【文章标题】：跪请大神指导一下啊 【文章地址】：https://bbs.byr.cn/article/Matlab/10781 【创建时间】：2014-04-09 【作者】：falldew 【评论】：4 【内容】：发信人: falldew (娜乌西卡|永远的女神|学习扯淡), 信区: Matlab
+标  题: 跪请大神指导一下啊
+发信站: 北邮人论坛 (Wed Apr  9 17:10:28 2014), 站内
+
+  程序是这样的：
+
+  if ii~=1  
+  mat=load('mat');
+  mattR=mat.mattR;
+  mattRi=mat.mattRi;
+  end
+  mattR{ii}=matR;
+  mattRi{ii}=matRi;
+
+Question is：
+  1.ii=1的时候if语句是什么意思：不保存吗？此时 mattR{1}和mattRi{1}是否写在txt中？
+  2.mattR=mat.mattR;这个语句是类的意思吗？
+    
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.66.*]
+ 
+【文章标题】：【求助】求matlab大牛帮写程序，有报酬 【文章地址】：https://bbs.byr.cn/article/Matlab/10753 【创建时间】：2014-04-04 【作者】：zj0410 【评论】：2 【内容】：发信人: zj0410 (zj0410), 信区: Matlab
+标  题: 【求助】求matlab大牛帮写程序，有报酬
+发信站: 北邮人论坛 (Fri Apr  4 10:25:24 2014), 站内
+
+写一个遗传算法的程序，解决多目标优化问题，求大牛，有报酬，大牛站内啊~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.26.*]
+ 
+【文章标题】：Matlab能对矩阵进行符号运算吗？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10727 【创建时间】：2014-03-18 【作者】：DangeR0uS 【评论】：4 【内容】：发信人: DangeR0uS (Natus Vincere~), 信区: Matlab
+标  题: Matlab能对矩阵进行符号运算吗？
+发信站: 北邮人论坛 (Tue Mar 18 11:45:15 2014), 站内
+
+具体就是，这不是一个具体数值的矩阵，矩阵能有参数，怎么对这个含有参数的矩阵求逆？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.202.17.*]
+ 
+【文章标题】：自己的程序运行时间太长，求大牛指导下，是啥原因 【文章地址】：https://bbs.byr.cn/article/Matlab/10790 【创建时间】：2014-04-12 【作者】：xbsky2013 【评论】：6 【内容】：发信人: xbsky2013 (土豆王子), 信区: Matlab
+标  题: 自己的程序运行时间太长，求大牛指导下，是啥原因
+发信站: 北邮人论坛 (Sat Apr 12 19:26:38 2014), 站内
+
+用matlab做如下运算，比如说有一个数组，大小为50000*30.(array[50000,30])
+我要进行如下运算，将每一行的1,2列平方相加，3,4列平方相加，...29,30列平方相加。
+如果我这样写：   for ii = 1 : 50000
+                    for jj = 1 : 15
+                       a(jj) = array(ii,2 * jj - 1)^2 + array(ii,2 * jj)^2;
+                    end
+                 end
+粗略估计，大概5s能搞定。
+
+但是，由于我可能要先进行列上的累加操作，比如说，先将第1至10行的第1列的10个数累加起来，得到一个值，第2列的10个数累加起来，得到一个值，然后平方相加得到a(1),剩下的a(2),a(3)...a(15)，也是这样。
+
+所以我这个渣渣就设计如下的渣渣程序：
+           for ii = 1 : X     %% X可变，如果不累加，即每行上的两个数平方相加的话则X = 50000
+              for jj = 1 : 15  %%如果是累加，比如累加10行，则X = 5000
+                 Array（ii，2 * jj - 1） = 0;
+                 Array(ii,2 * jj) = 0;
+                 for sum = 1 : M + 1 %% M可变，如果不累加，则M=0，累加10行，则M=9
+                 Array(ii,2 * jj - 1) = array(sum + (ii - 1) * (M + 1)，2 * jj - 1) +
+                                        Array(ii,2 * jj - 1);
+                 Array(ii,2 * jj ) = array(sum + (ii - 1) * (M + 1)，2 * jj ) +
+                                        Array(ii,2 * jj );
+                   end
+               end
+              for kk  = 1 : 15
+                 a(kk) = Array(ii,2 * jj - 1)^2 + Array(ii,2 * jj)^2
+               end
+           end
+                                  %%Array相当于是因为要累加，我重新赋值的一个数组
+
+此时问题就来了，当我此时不累加，即M=0时，随着X的增大，运行时间非线性增大。
+比如说，X = 2000时，要4s
+X = 20000时，需要50s。
+X=  50000时，需要5min.
+但我上面单独写的不累加的程序只要5s啊。这是啥原因呢？
+我自己也查了一下，问题也应该就是给Array累加赋值的地方，但是也不至于慢这么多吧。
+这如何解释呢。。。？
+求大牛们指导。。。
+
+      
+--
+※ 修改:·xbsky2013 于 Apr 12 19:27:13 2014 修改本文·[FROM: 10.105.34.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.34.*]
+ 
+【文章标题】：MATLAB如何实时处理视频 【文章地址】：https://bbs.byr.cn/article/Matlab/9131 【创建时间】：2012-06-23 【作者】：yunmi 【评论】：10 【内容】：发信人: yunmi (may), 信区: Matlab
+标  题: MATLAB如何实时处理视频
+发信站: 北邮人论坛 (Sat Jun 23 16:59:59 2012), 站内
+
+希望能够实现跟踪的功能，是不是一定要转成图片一帧一帧地处理？
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.134.*]
+ 
+【文章标题】：求助matlab与C++混合编程的问题(可有偿) 【文章地址】：https://bbs.byr.cn/article/Matlab/10395 【创建时间】：2013-09-21 【作者】：dearkage 【评论】：4 【内容】：发信人: dearkage (最新剧场版), 信区: Matlab
+标  题: 求助matlab与C++混合编程的问题(可有偿)
+发信站: 北邮人论坛 (Sat Sep 21 14:20:30 2013), 站内
+
+求牛人帮忙把matlab上的程序用C++写出来，可以生成dll调用，或者自己用C++实现，在VS或VC上运行出结果即可。。。 
+matlab上几十行代码，会生成几张图，，，，希望可以有牛人帮忙，感兴趣的可以联系我，必有回报~~~~ 
+  
+  
+  
+联系方式 
+QQ ： 100004522 
+Email:  gzzhao2012@gmail.com 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.62.*]
+ 
+【文章标题】：MATLAB唱出董小姐 挺开心的。 【文章地址】：https://bbs.byr.cn/article/Matlab/10219 【创建时间】：2013-09-05 【作者】：PCharming 【评论】：154 【内容】：发信人: PCharming (LG陛下大人就是我||正在创办全球移动), 信区: Matlab
+标  题: MATLAB唱出董小姐 挺开心的。
+发信站: 北邮人论坛 (Thu Sep  5 19:19:00 2013), 站内
+
+今天下午在人人上看到有人用MATLAB唱董小姐 自己也很心动 也就尝试编了一下MATLAB版董小姐 最难的过程就是曲谱了 看不太懂唉 根据自己仅有知识把曲谱输进去了 同时对连音应该感谢一位朋友 现在唱出来还是很开心的。
+-----------------------------------------------
+代码已经在48楼贴出了，希望大家也要雁过留声哦！
+同时如果有时间的话，大家谁可以把后面的吉他伴奏给加上呢？我看不懂那个谱子……这样MATLAB就可以唱得更好听了。
+-----------------------------------------------
+居然上10大了，2楼同学眼睛真准……
+
+
+<a href="/att/Matlab/0/10219/829" target="_blank" color="blue">附件(2MB)  </a>
+
+
+--
+※ 修改:·PCharming 于 Sep  6 13:40:45 2013 修改本文·[FROM: 159.226.95.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 159.226.95.*]
+ 
+【文章标题】：想参加美赛的同学请进 【文章地址】：https://bbs.byr.cn/article/Matlab/10403 【创建时间】：2013-09-28 【作者】：xiaosu 【评论】：5 【内容】：发信人: xiaosu (晓苏), 信区: Matlab
+标  题: 想参加美赛的同学请进
+发信站: 北邮人论坛 (Sat Sep 28 01:24:25 2013), 站内
+
+进来的你都希望能本科四年里留下一个痕迹，不管你有没有参加过建模。。。（有当然就最好）。。。。只要你会matlab，我们真心期待你的加入，之所以这么早就征小伙伴是考虑到去年的美赛是腊月23，持续了4天4夜，我希望你有充分的时间考虑清楚，我们要做就得做好，水过去意义并不大。。。小伙伴们。。。快答复我吧！！！站内
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.136.38.*]
+ 
+【文章标题】：Re: [问题]matlab实现多状态马尔科夫链的仿真，代码自己改的， 【文章地址】：https://bbs.byr.cn/article/Matlab/10386 【创建时间】：2013-10-06 【作者】：原帖已删除 【评论】：1 【内容】：发信人: shiclark (神风81), 信区: Matlab
+标  题: Re: [问题]matlab实现多状态马尔科夫链的仿真，代码自己改的，觉
+发信站: 北邮人论坛 (Sun Oct  6 16:22:24 2013), 站内
+
+说实话，没看懂。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.232.185.*]
+ 
+【文章标题】：求教：matlab如何把矩阵指定行提取出来？(指定多行的行号) 【文章地址】：https://bbs.byr.cn/article/Matlab/10414 【创建时间】：2013-10-08 【作者】：mopman 【评论】：14 【内容】：发信人: mopman (小撸怡情，大撸伤身，强撸灰飞烟灭), 信区: Matlab
+标  题: 求教：matlab如何把矩阵指定行提取出来？(指定多行的行号)
+发信站: 北邮人论坛 (Tue Oct  8 00:15:06 2013), 站内
+
+譬如 a=[ 1, 2, 3, 4;
+         5, 6, 7, 8;
+         9,10,11,12;
+        13,14,15,16]
+
+要提取第1,3,4行的元素构成新矩阵.怎样实现这样的功能？
+（实际中有上万行,要提取的行号已知,尽量不要一行一行的读取拼接.）
+谢谢指教。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.76.*]
+ 
+【文章标题】：求助win7下matlab2013a安装问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10412 【创建时间】：2013-10-07 【作者】：teletubby 【评论】：2 【内容】：发信人: teletubby (balabala), 信区: Matlab
+标  题: 求助win7下matlab2013a安装问题
+发信站: 北邮人论坛 (Mon Oct  7 09:51:35 2013), 站内
+
+点击setup后出现这个画面之后就没有反应了，肿么破？。。。谢过各位大神！！
+<a target="_blank" href="/att/Matlab/0/10412/310"><img border="0" title="" src="/att/Matlab/0/10412/310" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.148.*]
+
+ 
+【文章标题】：请教十六进制运算问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10430 【创建时间】：2013-10-09 【作者】：WaterSky 【评论】：3 【内容】：发信人: WaterSky (水天一方), 信区: Matlab
+标  题: 请教十六进制运算问题
+发信站: 北邮人论坛 (Wed Oct  9 17:34:18 2013), 站内
+
+请教版上各位，
+
+Matlab里怎么做16进制运算？不要那种10进制算完了再转的，也不要那种自己单独写转换函数的。
+
+比如：1111+9999直接算出来就是AAAA的；
+再比如：FFFF+0001算出来是0000，就是说位数可以限制的。
+
+如果16进制不行，2进制也凑合了。网上搜了好多，就没见过能这么操作的。按说对计算机来讲，10进制应该是转换完的结果，而且windows自带的计算器都支持16进制运算，Matlab不会不支持吧。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.83.*]
+ 
+【文章标题】：求可调线宽的激光器matlab仿真 有相关资料推荐也行 【文章地址】：https://bbs.byr.cn/article/Matlab/10437 【创建时间】：2013-10-15 【作者】：crazyfeng 【评论】：0 【内容】：发信人: crazyfeng (crazyfeng), 信区: Matlab
+标  题: 求可调线宽的激光器matlab仿真 有相关资料推荐也行
+发信站: 北邮人论坛 (Tue Oct 15 15:27:36 2013), 站内
+
+rt
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.86.*]
+ 
+【文章标题】：求Mac版Matlab安装包（实在没有，win版的也行。。。） 【文章地址】：https://bbs.byr.cn/article/Matlab/10438 【创建时间】：2013-10-22 【作者】：wangxiangru 【评论】：5 【内容】：发信人: wangxiangru (当时寻常), 信区: Matlab
+标  题: 求Mac版Matlab安装包（实在没有，win版的也行。。。）
+发信站: 北邮人论坛 (Tue Oct 22 06:07:21 2013), 站内
+
+没法儿上BT，有没有好心人给发一个或者告诉我到哪里可以搞到可以用的Mac版的Matlab。
+
+不然给发一个win版的Matlab也可以。。。。。
+
+上不了bt真痛苦。
+
+求发附件到邮箱 532589380@qq.com
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 134.190.132.*]
+ 
+【文章标题】：并行运算 【文章地址】：https://bbs.byr.cn/article/Matlab/10440 【创建时间】：2013-10-22 【作者】：zxz123457 【评论】：1 【内容】：发信人: zxz123457 (躺地上装死), 信区: Matlab
+标  题: 并行运算
+发信站: 北邮人论坛 (Tue Oct 22 14:20:56 2013), 站内
+
+求matlab多核处理办法
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.15.*]
+ 
+【文章标题】：请问这段代码实现什么功能 【文章地址】：https://bbs.byr.cn/article/Matlab/10446 【创建时间】：2013-10-25 【作者】：century 【评论】：1 【内容】：发信人: century (century), 信区: Matlab
+标  题: 请问这段代码实现什么功能
+发信站: 北邮人论坛 (Fri Oct 25 15:59:31 2013), 站内
+
+<pre class="brush:text">% Add Down Edges
+ind = 1:nNodes;
+exclude = sub2ind([nRows nCols],repmat(nRows,[1 nCols]),1:nCols); % No Down edge for last row
+ind = setdiff(ind,exclude);
+adj(sub2ind([nNodes nNodes],ind,ind+1)) = 1;</pre>
+※ 修改:·century 于 Oct 26 17:46:27 2013 修改本文·[FROM: 10.103.30.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.30.*]
+ 
+【文章标题】：求matlab高手帮着写几行代码，价格可商量 【文章地址】：https://bbs.byr.cn/article/Matlab/10460 【创建时间】：2013-11-02 【作者】：wang741 【评论】：0 【内容】：发信人: wang741 (小皇帝), 信区: Matlab
+标  题: 求matlab高手帮着写几行代码，价格可商量
+发信站: 北邮人论坛 (Sat Nov  2 17:16:38 2013), 站内
+
+有一哥们让我找个人帮着写个matlab仿真程序，看了下要求，感觉用不了几行，但是身边的朋友都在找工作，不好求帮忙，所以论坛发帖。价格按行情来吧，每行多少钱，可以商量，我就是北邮的学生，可以加QQ聊178404307，说明来意，仿真结果一出，立马给钱。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：[求助]求一个win7 64位的Matlab文件包 【文章地址】：https://bbs.byr.cn/article/Matlab/10457 【创建时间】：2013-10-31 【作者】：wataru 【评论】：1 【内容】：发信人: wataru (kazaf), 信区: Matlab
+标  题: [求助]求一个win7 64位的Matlab文件包
+发信站: 北邮人论坛 (Thu Oct 31 18:03:46 2013), 站内
+
+不想要那种光盘映像文件，不会弄，最好直接有安装包之类的，谢谢啦~<img src="/img/ubb/em/21.gif" alt="em21" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.21.*]
+ 
+【文章标题】：[问题]求助~~OFDM信道估计LMMSE算法 【文章地址】：https://bbs.byr.cn/article/Matlab/9899 【创建时间】：2013-04-30 【作者】：yangzihua 【评论】：3 【内容】：发信人: yangzihua (远行), 信区: Matlab
+标  题: [问题]求助~~OFDM信道估计LMMSE算法
+发信站: 北邮人论坛 (Tue Apr 30 21:41:50 2013), 站内
+
+我们在仿真时看到LMMSE算法的信道估计为H=Rhh/[Rhh+beta/SNR*I]*Hls,但不清楚怎样求Rhh，求大神解答，感激不尽！！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.171.*]
+ 
+【文章标题】：[问题]matlab灰度图像去噪算法，跪谢 【文章地址】：https://bbs.byr.cn/article/Matlab/10475 【创建时间】：2013-11-04 【作者】：yinyanqing 【评论】：0 【内容】：发信人: yinyanqing (扫地僧), 信区: Matlab
+标  题: [问题]matlab灰度图像去噪算法，跪谢
+发信站: 北邮人论坛 (Mon Nov  4 18:57:08 2013), 站内
+
+matlab灰度图像去噪算法，求大神指点，最好附代码，谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.138.79.*]
+ 
+【文章标题】：[问题]图中曲线太多 如何分类设置 legend 【文章地址】：https://bbs.byr.cn/article/Matlab/9232 【创建时间】：2012-08-21 【作者】：Ameng 【评论】：8 【内容】：发信人: Ameng (10), 信区: Matlab
+标  题: [问题]图中曲线太多 如何分类设置 legend
+发信站: 北邮人论坛 (Tue Aug 21 18:24:27 2012), 站内
+
+如图所示，途中曲线比较多，每条曲线都显示一个 legend 没有必要， 也影响视线。
+实线 和 虚线 是分别不同的两类， 然后实线和虚线分别有三条曲线进一步做比较。
+怎样可以做到 按照下图那样 制作legend？？
+请大牛告诉我。。我google了很久也没有找到方法。
+谢谢！
+
+
+
+<a target="_blank" href="/att/Matlab/0/9232/561"><img border="0" title="111.jpg" src="/att/Matlab/0/9232/561" alt="111.jpg" class="resizeable"></a>
+--
+※ 修改:·Ameng 于 Aug 21 18:25:48 2012 修改本文·[FROM: 122.11.37.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 122.11.37.*]
+ 
+【文章标题】：如何用1000个sin函数的和逼近一组离散的点 【文章地址】：https://bbs.byr.cn/article/Matlab/10470 【创建时间】：2013-11-03 【作者】：lovefxj 【评论】：4 【内容】：发信人: lovefxj (lovefxj), 信区: Matlab
+标  题: 如何用1000个sin函数的和逼近一组离散的点
+发信站: 北邮人论坛 (Sun Nov  3 19:59:15 2013), 站内
+
+一组离散的点，连起来近似是若干个sin函数叠加成的周期函数图像。我想用1000个sin函数之和逼近这组离散的点，cftool工具箱中有sum of sine这个选项，但是限制在8个sin函数叠加。用傅立叶变换又会限制这些sin函数的频率之间有一个确定的倍数关系，不太符合项目的实际需要。。。。求救版上大牛，有木有好的办法
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.10.*]
+ 
+【文章标题】：求教simulink switch用法 【文章地址】：https://bbs.byr.cn/article/Matlab/10491 【创建时间】：2013-11-08 【作者】：wupeng 【评论】：0 【内容】：发信人: wupeng (inf), 信区: Matlab
+标  题: 求教simulink switch用法
+发信站: 北邮人论坛 (Fri Nov  8 00:32:57 2013), 站内
+
+<a target="_blank" href="http://126.am/guiyou">发自「贵邮」</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.136.1.*]
+ 
+【文章标题】：如何做matlab关于无线通信的系统级仿真 【文章地址】：https://bbs.byr.cn/article/Matlab/9149 【创建时间】：2012-07-09 【作者】：canbyjiaoxun 【评论】：1 【内容】：发信人: canbyjiaoxun (canby), 信区: Matlab
+标  题: 如何做matlab关于无线通信的系统级仿真
+发信站: 北邮人论坛 (Mon Jul  9 14:00:33 2012), 站内
+
+RT 小弟matlab新手，要仿真这个一个无线通信系统，涉及到异构网络中的蜂窝的分布，用户的分布天线的配置等等，需要用到系统级的仿真 不知道各位大大有没有做过类似的系统级仿真 能不能交流一下或者给小弟以前的代码资料什么的 非常感谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.148.*]
+ 
+【文章标题】：freemat和matlab到底用哪个好呢？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10497 【创建时间】：2013-11-13 【作者】：DEBUPT 【评论】：5 【内容】：发信人: DEBUPT (【呵呵教】左护法|| 健身房), 信区: Matlab
+标  题: freemat和matlab到底用哪个好呢？
+发信站: 北邮人论坛 (Wed Nov 13 10:59:25 2013), 站内
+
+实验课用，不用太多的功能，matlab有点太大了，启动速度也慢。听说freemat不错，而且开源，东西也很小。用了一下，其实和mat还是有差的，取舍之间有些犹豫。
+
+--
+
+※ 来源:·北邮人论坛 bbs.byr.cn·[FROM: 10.102.14.*]
+ 
+【文章标题】：我的程序含有两个并列的for循环，顺序执行后把循环内的值相加， 【文章地址】：https://bbs.byr.cn/article/Matlab/10496 【创建时间】：2013-11-10 【作者】：ykgaoshou 【评论】：1 【内容】：发信人: ykgaoshou (心有猛虎), 信区: Matlab
+标  题: 我的程序含有两个并列的for循环，顺序执行后把循环内的值相加，
+发信站: 北邮人论坛 (Sun Nov 10 10:34:28 2013), 站内
+
+只有第一个循环的值，而第二个没有输出，是怎么回事？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.149.*]
+ 
+【文章标题】：求大神帮助~~ 【文章地址】：https://bbs.byr.cn/article/Matlab/10492 【创建时间】：2013-11-08 【作者】：alfred1993 【评论】：6 【内容】：发信人: alfred1993 (alfred), 信区: Matlab
+标  题: 求大神帮助~~
+发信站: 北邮人论坛 (Fri Nov  8 17:48:41 2013), 站内
+
+安装matlab的时候遇到这样的问题，从官网也下了vcredist.msi的文件，还是不对，想问为什么~~求助 。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 218.11.179.*]
+ 
+【文章标题】：[转帖] [[兼职]]清华多媒体实验室兼职 【文章地址】：https://bbs.byr.cn/article/Matlab/10508 【创建时间】：2013-11-19 【作者】：brightsun9 【评论】：0 【内容】：发信人: brightsun9 (越), 信区: Matlab
+标  题: [转帖] [[兼职]]清华多媒体实验室兼职
+发信站: 北邮人论坛 (Tue Nov 19 15:24:48 2013), 站内
+
+从兼职版转过来的，版主要看不合适删了也无妨。 
+自我介绍下，本人北邮04级电院的，现在清华多媒体实验室读在职。因为实验室活比较多，导师让帮忙找个兼职生。  
+要求如下：  
+      1.必备条件：熟悉matlab和C语言。  
+      2.最好是在读的硕士研究生，学校导师派的活不多，自己想找点事情干、学点东西的。  
+      3.如果不能保证一周去5天，至少也能去3天左右的。  
+      4.本科已经保研的，有时间有兴趣能坚持的也可以考虑。  
+会有一定的兼职补贴，1个月大概1K到2K吧，也看个人能力。  
+大概的工作内容是：1.把现有的一些matlab代码的程序转成C语言的。2.到后期会涉及一些多媒体视频通话相关的算法编写，肯定是循序渐进的。  
+有兴趣的同学给我发简历吧，简单的自我介绍即可，记得留下联系方式。  
+我的邮箱：sunzy85@sina.com  
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.242.248.*]
+ 
+【文章标题】：Re: 请问如何取出matlab曲线上的点的数值？O(∩_∩)O谢谢 【文章地址】：https://bbs.byr.cn/article/Matlab/10466 【创建时间】：2013-11-25 【作者】：原帖已删除 【评论】：1 【内容】：发信人: dannian (被砖压坏了的桔桔|【虾米团】团长), 信区: Matlab
+标  题: Re: 请问如何取出matlab曲线上的点的数值？O(∩_∩)O谢谢
+发信站: 北邮人论坛 (Sun Nov  3 11:02:20 2013), 站内
+
+把这5000个点从小到大排序一下，直接用sort函数。然后 再产生一个等间隔的从0到1的数组  用linespace(0,1,5000)  (应该是这样调用的吧。我也记不太清了)
+再用plot(X,Y)就能再出CDF曲线，X就是排序后的点，Y是0到1的等间隔点
+要部分点的话就在向量X和Y里面找吧，因为是有序的，所以方便很多
+【 在 hongyanbupt (lucky) 的大作中提到: 】
+: 本人是matlab白痴，所以请大牛将的通俗一点可以么？ 
+: 问题是这样的，有5000个点，画了一个cdf曲线，想把cdf曲线的xy轴的数值取出部分点，要怎么弄啊？O(∩_∩)O谢谢 
+: 或者说，如何在CDF曲线上标记部分点啊？谢谢 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 bbs.byr.cn·[FROM: 10.203.6.74]
+ 
+【文章标题】：[问题][问题]求助啦~~~谁会用matlab解个方程，万分感谢！！！求 【文章地址】：https://bbs.byr.cn/article/Matlab/10435 【创建时间】：2013-10-12 【作者】：liu100288 【评论】：2 【内容】：发信人: liu100288 (soda), 信区: Matlab
+标  题: [问题][问题]求助啦~~~谁会用matlab解个方程，万分感谢！！！求
+发信站: 北邮人论坛 (Sat Oct 12 13:49:48 2013), 站内
+
+小弟物理实验需要解一个方程，在线等，急，哪个好心的大侠帮个忙呢！
+
+万分感谢！
+<a target="_blank" href="http://b164.photo.store.qq.com/psb?/276889744/YdEGat5OCwFgEY1n7jF9e2Bzk5wLNFGEV0aWgXc.Tms!/b/dL.xzGGOLAAA&amp;bo=dAGcAAAAAAABAM4!&amp;rf=photoDetail"><img border="0" title="单击此在新窗口浏览图片" src="http://b164.photo.store.qq.com/psb?/276889744/YdEGat5OCwFgEY1n7jF9e2Bzk5wLNFGEV0aWgXc.Tms!/b/dL.xzGGOLAAA&amp;bo=dAGcAAAAAAABAM4!&amp;rf=photoDetail" alt="http://b164.photo.store.qq.com/psb?/276889744/YdEGat5OCwFgEY1n7jF9e2Bzk5wLNFGEV0aWgXc.Tms!/b/dL.xzGGOLAAA&amp;bo=dAGcAAAAAAABAM4!&amp;rf=photoDetail" class="resizeable"></a>
+
+没有什么限制，除了角度1角度2是函数，其他都是已知量，角度是一个已知的三角函数，只需要解出来角度1和角度2关于时间的函数~~谢谢了！
+--
+※ 修改:·liu100288 于 Oct 12 23:53:07 2013 修改本文·[FROM: 114.255.40.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：Improper assignment with rectangular empty matrix 【文章地址】：https://bbs.byr.cn/article/Matlab/10511 【创建时间】：2013-11-26 【作者】：whwjez 【评论】：0 【内容】：发信人: whwjez (在水一方), 信区: Matlab
+标  题: Improper assignment with rectangular empty matrix
+发信站: 北邮人论坛 (Tue Nov 26 18:49:39 2013), 站内
+
+代码是：
+output_temp=zeros(1,N);
+for i=1:N
+   B=A((Error_LENGTH*(i-1)+1):(Error_LENGTH*i));
+   C=B(B~=inf);
+   output_temp(i)=max(C);
+end
+
+
+报错：
+Improper assignment with rectangular empty matrix.
+
+Error in Average_Best_SINR (line 7)
+   output_temp(i)=max(B(B~=inf));
+
+
+求解！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 121.248.51.*]
+ 
+【文章标题】：发一个图像质量评价主客观相关度测试的程序源码 【文章地址】：https://bbs.byr.cn/article/Matlab/10512 【创建时间】：2013-11-28 【作者】：ahujack52 【评论】：0 【内容】：发信人: ahujack52 (小杰子), 信区: Matlab
+标  题: 发一个图像质量评价主客观相关度测试的程序源码
+发信站: 北邮人论坛 (Thu Nov 28 18:36:34 2013), 站内
+
+% =================================================================
+%  Sparse Feature Fidelity (SFF)
+%  on LIVE database
+%  Copyright(c) 2013  Hua-wen Chang
+%  All Rights Reserved.
+% ----------------------------------------------------------------------
+% Please refer to the following paper
+%
+% Hua-wen Chang, Hua Yang, Yong Gan, and Ming-hui Wang, "Sparse Feature Fidelity
+% for Perceptual Image Quality Assessment", IEEE Transactions on Image Processing,
+% vol. 22, no. 10, pp. 4007-4018, October 2013
+% ----------------------------------------------------------------------
+% =================================================================
+
+
+ function [OB,metrics] = LIVE()
+ 
+load('LIVE.mat');   % load database information and DMOS data
+load('W.mat');      % load the feature detector, W
+
+Score = zeros(779,1);
+h = waitbar(0,'Please wait...');
+i = 0;
+for iPoint = 1:982
+    if (live_imSTD(iPoint) == 0)
+        continue;
+    else
+        %READ A REFERENCE IMAGE
+        Ir = imread(['D:\IMDB\databaserelease2\refimgs\' live_imName{iPoint}]);
+   
+        %READ A DISTORTED IMAGE
+        if (iPoint &gt; 0)&amp;&amp;(iPoint &lt;= 227)        % JPEG2000
+            Id = imread(['D:\IMDB\databaserelease2\jp2k\img' num2str(iPoint) '.bmp']);
+        elseif (iPoint &gt; 227)&amp;&amp;(iPoint &lt;= 460)  % JPEG
+            Id = imread(['D:\IMDB\databaserelease2\jpeg\img' num2str(iPoint-227) '.bmp']);
+        elseif (iPoint &gt; 460)&amp;&amp;(iPoint &lt;= 634)  % White Noise
+            Id = imread(['D:\IMDB\databaserelease2\wn\img' num2str(iPoint-460) '.bmp']);
+        elseif (iPoint &gt; 634)&amp;&amp;(iPoint &lt;= 808)  % Gaussian Blur
+            Id = imread(['D:\IMDB\databaserelease2\gblur\img' num2str(iPoint-634) '.bmp']);
+        elseif (iPoint &gt; 808)&amp;&amp;(iPoint &lt;= 982)  % Fast Fading
+            Id = imread(['D:\IMDB\databaserelease2\fastfading\img' num2str(iPoint-808) '.bmp']);
+        end
+        i = i+1;
+        Score(i) = SFF(Ir,Id,W);
+    end
+    waitbar(iPoint/982);
+end
+close(h);
+
+SB = live_imDMOS;       % Subjective Score
+OB = Score;             % Objective Score
+
+metric_1 = corr(SB, OB, 'type', 'pearson');     % Pearson linear correlation coefficient (without mapping)
+metric_2 = corr(SB, OB, 'type', 'spearman');    % Spearman rank-order correlation coefficient
+metric_3 = corr(SB, OB, 'type', 'kendall');     % Kendall rank-order correlation coefficient
+metrics = [metric_1;metric_2;metric_3];
+figure,scatter(OB,SB,'*');
+
+--
+
+把原来的网址贴上去吧，这是一个基于稀疏编码的图像质量客观评价算法的matlab实现。
+http://www.mathworks.fr/matlabcentral/fileexchange/43805-sparse-feature-fidelity-sff-for-image-quality-assessment/content/SFF/Training/ica.m
+※ 修改:·ahujack52 于 Nov 28 18:38:36 2013 修改本文·[FROM: 118.186.200.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.186.200.*]
+ 
+【文章标题】：[问题]求助，有java版的SOM自组织映射神经网络算法实现么？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10514 【创建时间】：2013-11-29 【作者】：ninghua309 【评论】：0 【内容】：发信人: ninghua309 (hehe), 信区: Matlab
+标  题: [问题]求助，有java版的SOM自组织映射神经网络算法实现么？
+发信站: 北邮人论坛 (Fri Nov 29 16:59:29 2013), 站内
+
+求教大牛，som自组织映射神经网络有java版的实现源码么？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.120.*]
+ 
+【文章标题】：matlab中怎样只取正态分布中的左半部分？ 【文章地址】：https://bbs.byr.cn/article/Matlab/9833 【创建时间】：2013-04-23 【作者】：gin0726 【评论】：4 【内容】：发信人: gin0726 (树碑), 信区: Matlab
+标  题: matlab中怎样只取正态分布中的左半部分？
+发信站: 北邮人论坛 (Tue Apr 23 16:49:03 2013), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.34.*]
+ 
+【文章标题】：[求助]matlab双坐标轴如何调整第二个坐标轴的增长步数（或者说 【文章地址】：https://bbs.byr.cn/article/Matlab/10517 【创建时间】：2013-11-30 【作者】：wuyelinfeng 【评论】：2 【内容】：发信人: wuyelinfeng (wuyelinfeng), 信区: Matlab
+标  题: [求助]matlab双坐标轴如何调整第二个坐标轴的增长步数（或者说步
+发信站: 北邮人论坛 (Sat Nov 30 10:31:29 2013), 站内
+
+如题，非常感谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.9.*]
+ 
+【文章标题】：[问题]matlab 大稀疏矩阵载入 【文章地址】：https://bbs.byr.cn/article/Matlab/10523 【创建时间】：2013-12-03 【作者】：LJ10211289 【评论】：1 【内容】：发信人: LJ10211289 (7thsword), 信区: Matlab
+标  题: [问题]matlab 大稀疏矩阵载入
+发信站: 北邮人论坛 (Tue Dec  3 13:43:10 2013), 站内
+
+我有一个5GB的txt文件(大概有3.4亿行)，里面记录着34453*34453的稀疏矩阵的值，txt文件每行的格式
+就是简单的：行下标,列下标,值。现在我想使用这个矩阵，我做预处理的代码如下：
+data = load('mtm_sim.txt');
+x = data(:,1);
+y = data(:,2);
+value = data(:,3);
+
+mat = sparse(x,y,value,usize,usize);
+save('mtm_sim.mat','mat');
+
+问题：总是到save这一步出错(<b>也不是matlab报错，就是最后生成的mtm_sim.mat只有1KB</b>)？我使用的电脑内存是60G的，而且运行过程中也没有"out of memory"之类的错误，应该不是内存的问题。请教各位大神，这个问题怎么破？<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.16.*]
+ 
+【文章标题】：求助m转java输入矩阵问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10529 【创建时间】：2013-12-12 【作者】：wyq 【评论】：0 【内容】：发信人: wyq (梦幻西游Oibyr♀紫@刷天下|[路]偏将军), 信区: Matlab
+标  题: 求助m转java输入矩阵问题
+发信站: 北邮人论坛 (Thu Dec 12 10:39:53 2013), 站内
+
+有一个m文件，需要的输入是2个100*1的矩阵(x y)，通过Matlab build JA达成jar包后在Java工程中调用。
+现在的问题是，我在java中应该用什么输入类型？
+跪求大神帮忙解决~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.240.*]
+ 
+【文章标题】：VS2005和Matlab2012a混合编程报错，MCR无法初始化 【文章地址】：https://bbs.byr.cn/article/Matlab/10530 【创建时间】：2013-12-14 【作者】：mikezc123 【评论】：0 【内容】：发信人: mikezc123 (jermmyzhou), 信区: Matlab
+标  题: VS2005和Matlab2012a混合编程报错，MCR无法初始化
+发信站: 北邮人论坛 (Sat Dec 14 10:13:12 2013), 站内
+
+我按照教程做的，也设置好了环境变量，编译没有问题，但是MCR无法初始化，不知道哪里出了问题。。。请做过的同学指教。。。
+
+这是出错那段的程序
+if(!mclInitializeApplication(NULL,0))
+{
+AfxMessageBox(_T("Cloudnot..."));
+exit(1);
+}  
+libmcctest01Initialize();
+
+运行时无法初始化，程序直接退出
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 49.140.171.*]
+ 
+【文章标题】：关于OFDM中ifft变换点数的疑问。。。 【文章地址】：https://bbs.byr.cn/article/Matlab/10531 【创建时间】：2013-12-14 【作者】：dajinsique 【评论】：0 【内容】：发信人: dajinsique (快乐的小S Bird), 信区: Matlab
+标  题: 关于OFDM中ifft变换点数的疑问。。。
+发信站: 北邮人论坛 (Sat Dec 14 17:20:26 2013), 站内
+
+（1）在北邮的那本通信原理书中，OFDM调制时，有N个子载波最后做的是N点的ifft变换，之后进行IQ调制； 
+  
+（2）在数字通信第五版那本书750页，也在讲OFDM的数字调制，但为什么最后做的是2N点的ifft变换？ 
+  
+这两种方法有什么不同吗，在实现时速率和效率一样吗？ 
+--
+※ 修改:·dajinsique 于 Dec 14 17:21:32 2013 修改本文·[FROM: 10.205.33.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.33.*]
+ 
+【文章标题】：如何用matlab解方程2^x-x-1=0 【文章地址】：https://bbs.byr.cn/article/Matlab/10532 【创建时间】：2013-12-14 【作者】：lx543124013 【评论】：1 【内容】：发信人: lx543124013 (哎呀), 信区: Matlab
+标  题: 如何用matlab解方程2^x-x-1=0
+发信站: 北邮人论坛 (Sat Dec 14 22:10:33 2013), 站内
+
+clc;
+clear;
+syms x;
+solve(2^x-x-1);
+
+vpa(ans(1),2)
+
+这个程序能解出来一个解0， 但是另一个解1解不出来 怎么回事
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.88.*]
+ 
+【文章标题】：无线通信工程师招聘 【文章地址】：https://bbs.byr.cn/article/Matlab/10540 【创建时间】：2013-12-17 【作者】：sunlisuns 【评论】：0 【内容】：发信人: sunlisuns (sunlisuns), 信区: Matlab
+标  题: 无线通信工程师招聘
+发信站: 北邮人论坛 (Tue Dec 17 13:44:16 2013), 站内
+
+公司介绍：
+上海朗帛通信技术有限公司从事后4G/5G通信技术的开拓性研究，主要研究内容为下一代无线通信的关键概念,技术,算法,实现。追踪主流的标准化组织进展（例如3GPP），布局核心专利。
+
+公司处于初创阶段，包括数位无线通信领域的资深专家，帮助毕业生快速成长。公司现有超过10项4G专利。公司的潜在客户包括主流的手机厂商，设备商，互联网公司等等。
+毕业生入职以后主要从事算法/专利研究，性能仿真等工作。
+
+因业务需要招聘多名员工，要求如下：
+1.    职位：无线通信工程师
+2. 无线通信相关专业博士/硕士生毕业，已经发表高质量论文者优先
+3. 精通MIMO，Massive MIMO，射频开发，OFDM，CoMP，Relay，Device to Device，网络编码，载波聚合，LTE标准，Wimax标准，异构网络等技术中的一项或者多项
+4. 精通Matlab或者C编程
+5. 工作地在上海
+
+一旦录用，我们提供：
+1. 在全球化的竞争环境中从事前沿技术研发的工作机会
+2. 行业权威专家的培训指导，快速成长为相关领域的资深人士
+3. 有竞争力的薪水待遇
+4. 公司期权 （第二年开始）
+有意者发送简历至  liyingjun@admaster.cn
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 116.226.23.*]
+ 
+【文章标题】：调试的时候可以正常的得出结果，而直接跑的话就出bug。 【文章地址】：https://bbs.byr.cn/article/Matlab/10534 【创建时间】：2013-12-16 【作者】：changkai 【评论】：2 【内容】：发信人: changkai (小狐), 信区: Matlab
+标  题: 调试的时候可以正常的得出结果，而直接跑的话就出bug。
+发信站: 北邮人论坛 (Mon Dec 16 15:22:43 2013), 站内
+
+<pre class="brush:text">for i=3:n
+
+fname1=strcat('fpn','.m');
+fid=fopen(fname1,'w');
+aa='function fp=fpn(t,a,b)';
+li=sym2str(legendre(i-1));
+cc0=strcat('(',li);
+cc1=strcat(cc0,')');
+cc2=strcat(cc1,'.*f(t,a,b);');
+cc=strcat('fp=',cc2);
+fprintf(fid,'%s\n',aa);
+fprintf(fid,'%s',cc);
+fclose(fid);
+%在此处设置断点 一步一步来 可以跑通，直接跑就有bug。
+c(i)=jifen(@fpn,a,b,e)*((2*i-1)/2);
+p{i}=inline(li,'t');
+
+%i=k+1
+end</pre>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.72.97.*]
+ 
+【文章标题】：[请教]MATLAB不用simulink,如何产生PN序列？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10551 【创建时间】：2013-12-19 【作者】：wwjing 【评论】：1 【内容】：发信人: wwjing (jing), 信区: Matlab
+标  题: [请教]MATLAB不用simulink,如何产生PN序列？
+发信站: 北邮人论坛 (Thu Dec 19 14:57:13 2013), 站内
+
+MATLAB不用simulink,如何产生PN序列？
+然后还想问一下，MATLAB里用函数产生的随机数跟PN序列有什么区别联系？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.55.*]
+ 
+【文章标题】：（求助）关于matlab计算精度的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8594 【创建时间】：2011-10-24 【作者】：plmm2280 【评论】：3 【内容】：发信人: plmm2280 (止まて), 信区: Matlab
+标  题: （求助）关于matlab计算精度的问题
+发信站: 北邮人论坛 (Mon Oct 24 18:01:18 2011), 站内
+
+需要很多位有效数字，在程序里边加什么可以实现计算精度更高一些。
+※ 修改:·plmm2280 于 Oct 24 18:03:35 2011 修改本文·[FROM: 59.64.142.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.142.*]
+ 
+【文章标题】：【求解思路】用matlab实现4根天线发送信息【面试的时候被问到】 【文章地址】：https://bbs.byr.cn/article/Matlab/8660 【创建时间】：2011-12-15 【作者】：ring7777 【评论】：2 【内容】：发信人: ring7777 (改名), 信区: Matlab
+标  题: 【求解思路】用matlab实现4根天线发送信息【面试的时候被问到】
+发信站: 北邮人论坛 (Thu Dec 15 09:39:35 2011), 站内
+
+给个思路吧，面试的时候被问倒
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.142.*]
+ 
+【文章标题】：simulink仿真求助 【文章地址】：https://bbs.byr.cn/article/Matlab/8672 【创建时间】：2011-12-19 【作者】：yage900209 【评论】：2 【内容】：发信人: yage900209 (【意涵团】好久没人叫我鸭哥), 信区: Matlab
+标  题: simulink仿真求助
+发信站: 北邮人论坛 (Mon Dec 19 19:23:17 2011), 站内
+
+想仿一个采用64QAM调制，卷积编码，码率为1/2的通信系统的误码率随着信噪比和时延扩展变化的曲线，现在发现随着时延扩展的增大，误比特率先下降后上升，两径时延为0时性能很差，为一个调制后的符号周期时性能最好，<img src="/img/ubb/em/6.gif" alt="em6" style="display:inline;border-style:none">，还有，AWGN信道设置的信噪比低于10dB时，系统性能竟然很好，理论上信道的信噪比低于20dB时，64QAM误比特率性能都很差的，不是很理解，求大牛指导<img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none">
+
+
+
+
+
+--
+
+<a href="/att/Matlab/0/8672/698" target="_blank" color="blue">附件(44.2KB)  QAM64.mdl</a>
+<a target="_blank" href="/att/Matlab/0/8672/45980"><img border="0" title="64QAM.jpg" src="/att/Matlab/0/8672/45980" alt="64QAM.jpg" class="resizeable"></a>
+※ 修改:·yage900209 于 Dec 19 19:24:21 2011 修改本文·[FROM: 59.64.151.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.151.*]
+ 
+【文章标题】：求助：关于圆周运动受干扰的卡尔曼滤波实现 【文章地址】：https://bbs.byr.cn/article/Matlab/6277 【创建时间】：2009-10-17 【作者】：ww1983 【评论】：3 【内容】：发信人: ww1983 (黄点), 信区: Matlab
+标  题: 求助：关于圆周运动受干扰的卡尔曼滤波实现
+发信站: 北邮人论坛 (Sat Oct 17 12:35:20 2009), 站内
+
+题目：      假设一个点目标在x，y平面上绕单位圆做圆周运动，由于外界干扰，其运动轨迹发生了偏移。其中，x方向的干扰为均值为0，方差为0.05的高斯噪声；y方向干扰为均值为0，方差为0.06的高斯噪声。
+困惑：     这两个方向都有干扰，怎么列状态方程？      求助大虾！  
+--
+
+※ 修改:·ww1983 于 Oct 17 12:35:49 修改本文·[FROM: 2001:cc0:2020:2021:fc6a:343e:e356:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:cc0:2020:2021:fc6a:343e:e356:*]
+ 
+【文章标题】：菜鸟求助：如何设置和使用mex来调用.c文件 【文章地址】：https://bbs.byr.cn/article/Matlab/8677 【创建时间】：2011-12-26 【作者】：zhong885522 【评论】：0 【内容】：发信人: zhong885522 (欲得天成), 信区: Matlab
+标  题: 菜鸟求助：如何设置和使用mex来调用.c文件
+发信站: 北邮人论坛 (Mon Dec 26 16:02:48 2011), 站内
+
+设置以后总是提示
+&gt;&gt; mex hello.c
+ 
+  C:\PROGRA~1\MATLAB\R2011A\BIN\MEX.PL: Error: 'hello.c' not found. 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.142.*]
+ 
+【文章标题】：求教matlab作业题 【文章地址】：https://bbs.byr.cn/article/Matlab/8626 【创建时间】：2011-11-21 【作者】：lifeda 【评论】：2 【内容】：发信人: lifeda (lifeda), 信区: Matlab
+标  题: 求教matlab作业题
+发信站: 北邮人论坛 (Mon Nov 21 20:38:25 2011), 站内
+
+
+<a href="/att/Matlab/0/8626/314" target="_blank" color="blue">附件(31KB)  </a>
+这是两道作业题，小弟愚钝，请各位高手帮忙参谋一下。希望能做出一个样板，供小弟参谋一下。谢谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 180.95.224.*]
+
+ 
+【文章标题】：用优化工具箱cvx求解线性规划问题，怎么出的错呢？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8623 【创建时间】：2011-11-20 【作者】：lastime 【评论】：2 【内容】：发信人: lastime (sw), 信区: Matlab
+标  题: 用优化工具箱cvx求解线性规划问题，怎么出的错呢？
+发信站: 北邮人论坛 (Sun Nov 20 12:04:01 2011), 站内
+
+用cvx工具箱求解这样一个简单的线性规划问题
+求出的结果为：
+
+optPow =
+   NaN
+   NaN
+   NaN
+   NaN
+很明显是有最优解的啊？怎么出现的错误呢？
+
+=========================== 附简单程序：  =================================
+
+
+
+NN = 4;
+
+A=[
+ -0.588588353965566   1.290108730013087  -1.479728298663272   -1.480718332546760
+   0.926982534002896   1.469079039864087  -0.448309625030498  -0.331118098173758
+  -0.557639113476203  -1.145378498568044   1.674893347886334   1.494888923220007
+   0.184633482488718  -1.162196331424475   0.662753467500886  -0.395979689034917];
+
+pn = 1;
+b = pn*ones(NN,1);
+
+
+ cvx_begin  quiet
+        %%% parameters defination
+        variable optPow(NN);
+
+        %%% object function
+        minimize ( optPow'*ones(NN,1) )
+
+        %%% constraint body
+        subject to
+            A*optPow &gt;= b;  
+            optPow &gt;= 0;
+    cvx_end
+
+optPow
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.249.131.*]
+ 
+【文章标题】：想要做卫星信道模型，怎么下手？请高手指点 【文章地址】：https://bbs.byr.cn/article/Matlab/8633 【创建时间】：2011-11-26 【作者】：cdapple 【评论】：1 【内容】：发信人: cdapple (布丁), 信区: Matlab
+标  题: 想要做卫星信道模型，怎么下手？请高手指点
+发信站: 北邮人论坛 (Sat Nov 26 21:41:51 2011), 站内
+
+想要做卫星信道模型，怎么下手？请高手指点
+要考虑哪些因素 和无线信道模型有何区别？
+有谁有信道模型相关的matlab代码 或者资料 不胜感激
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.119.252.*]
+ 
+【文章标题】：电脑多核的情况下matlab中如何多核跑程序 【文章地址】：https://bbs.byr.cn/article/Matlab/8680 【创建时间】：2011-12-31 【作者】：lcb 【评论】：4 【内容】：发信人: lcb (幻城), 信区: Matlab
+标  题: 电脑多核的情况下matlab中如何多核跑程序
+发信站: 北邮人论坛 (Sat Dec 31 17:39:49 2011), 站内
+
+实验室配的电脑是4核的，近来在跑一个matlab程序，很耗时，但是跑的过程中，打开任务管理器，CPU只占用30%，很纳闷。按理说程序没有出结果，电脑应该尽量分配资源用来跑程序的，可却只占用30%，所以在想，是不是多核导致的结果？
+有大侠明白的话，讲讲原因吧。
+如果想提高程序运行速度，matlab中怎样设置呢？怎么让一个程序能够充分利用CPU来跑呢？
+求高人指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.235.*]
+ 
+【文章标题】：MATLAB生成DLL文件遇到烦死人的打击 【文章地址】：https://bbs.byr.cn/article/Matlab/8687 【创建时间】：2012-01-11 【作者】：lipeihua 【评论】：0 【内容】：发信人: lipeihua (Rayna), 信区: Matlab
+标  题: MATLAB生成DLL文件遇到烦死人的打击
+发信站: 北邮人论坛 (Wed Jan 11 14:48:59 2012), 站内
+
+各位好心的人 啊，有木有人将M文件成功变成dll文件，可以成功被LabVIEW调用的 啊求知道求帮助的啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.152.*]
+ 
+【文章标题】：如何才能正确调用如下函数？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8690 【创建时间】：2012-01-17 【作者】：mrcxm 【评论】：2 【内容】：发信人: mrcxm (chairman), 信区: Matlab
+标  题: 如何才能正确调用如下函数？
+发信站: 北邮人论坛 (Tue Jan 17 05:28:04 2012), 站内
+
+定义一个inputname函数返回实参的名字：
+function myfun(x, y, z)
+name = inputname(2);
+disp(['The second argument is named ' name]);
+当这个函数被调用时，
+&gt;&gt; myfun(cat,dog)
+怎么会出现下面这种错误提示呢？
+??? Error using ==&gt; cat
+Not enough input arguments.
+如何才能是函数能够正确被调用？谢谢各位！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 173.163.170.*]
+ 
+【文章标题】：询问校任选课《MATLAB在信号与系统课程中的应用》情况 【文章地址】：https://bbs.byr.cn/article/Matlab/8688 【创建时间】：2012-01-16 【作者】：linzhenan 【评论】：3 【内容】：发信人: linzhenan (冰雪ぃ梓星), 信区: Matlab
+标  题: 询问校任选课《MATLAB在信号与系统课程中的应用》情况
+发信站: 北邮人论坛 (Mon Jan 16 13:01:35 2012), 站内
+
+rt：任课老师是尹霄丽。
+
+平时的点名频率、作业情况、考核方式都是神马？
+
+最终给分高么？
+
+或者推荐一下其他的工科任选课。
+
+PS：
+
+贺祖国的数学实验肿么样？
+
+微机绘图软件AUTO_CAD肿么样？
+--
+※ 修改:·linzhenan 于 Jan 16 13:01:55 2012 修改本文·[FROM: 58.22.107.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.22.107.*]
+ 
+【文章标题】：关于filter函数 【文章地址】：https://bbs.byr.cn/article/Matlab/8698 【创建时间】：2012-01-30 【作者】：mrcxm 【评论】：0 【内容】：发信人: mrcxm (chairman), 信区: Matlab
+标  题: 关于filter函数
+发信站: 北邮人论坛 (Mon Jan 30 10:05:53 2012), 站内
+
+想通过filter函数算出离散时间系统y[n]–3y[n–1]–4y[n–2]=x[n]+2x[n–1]的输出，若有零输入响应y[–1]=-2/5, y[–2]=1/5作为已知条件，如何在程序中体现？谢谢各位！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 75.102.96.*]
+ 
+【文章标题】：请教：PIN接收基带信号在噪声下的BER仿真（持续） 【文章地址】：https://bbs.byr.cn/article/Matlab/8699 【创建时间】：2012-02-07 【作者】：jc168 【评论】：0 【内容】：发信人: jc168 (Doraemon), 信区: Matlab
+标  题: 请教：PIN接收基带信号在噪声下的BER仿真（持续）
+发信站: 北邮人论坛 (Tue Feb  7 12:08:09 2012), 站内
+
+第一步是产生RZ、NRZ和升余弦信号。对数字信号不是很熟悉，不知道该从哪里下手，看了网上一些例子，首先需要设定采样点数、码元数等等，我现在需要模拟10Gb/s和40Gb/s的信号，不知道采样点数该取多少？
+顺带问一下PRBS跟RZ、NRZ等是什么关系？不同PRBS码型长度有何区别？怎么来选取长度？
+谢谢。
+--
+※ 修改:·jc168 于 Feb  7 22:44:38 2012 修改本文·[FROM: 132.203.118.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 132.203.167.*]
+ 
+【文章标题】：filter函数用于throughput上的物理意义是啥？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8700 【创建时间】：2012-02-08 【作者】：redyuer 【评论】：0 【内容】：发信人: redyuer (redyuer), 信区: Matlab
+标  题: filter函数用于throughput上的物理意义是啥？
+发信站: 北邮人论坛 (Wed Feb  8 20:56:28 2012), 站内
+
+从一个仿真例子里看到的，
+throughput_mean = filter(ones(1,tti_size), 1, throughput);
+
+菜鸟，想不明白这个物理含义是啥？求助。谢谢。<img src="/img/ubb/em/64.gif" alt="em64" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.79.232.*]
+ 
+【文章标题】：有木有人跟我交流一下SOM神经网络的经验啊 【文章地址】：https://bbs.byr.cn/article/Matlab/8701 【创建时间】：2012-02-09 【作者】：tianc103 【评论】：0 【内容】：发信人: tianc103 (眯眼酱), 信区: Matlab
+标  题: 有木有人跟我交流一下SOM神经网络的经验啊
+发信站: 北邮人论坛 (Thu Feb  9 21:38:10 2012), 站内
+
+如题，朋友刚开始学，希望能有人一起交流下，代友发帖，朋友是北郊的妹子哦
+qq：382386013
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.233.*]
+ 
+【文章标题】：有没有人做过opnet下的网络协议仿真 【文章地址】：https://bbs.byr.cn/article/Matlab/8702 【创建时间】：2012-02-10 【作者】：duduabc 【评论】：0 【内容】：发信人: duduabc (dudu), 信区: Matlab
+标  题: 有没有人做过opnet下的网络协议仿真
+发信站: 北邮人论坛 (Fri Feb 10 09:28:28 2012), 站内
+
+有没有牛人做过opnet下的网络协议仿真，OSI协议栈的仿真以及OSI组网仿真？谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 218.247.226.*]
+ 
+【文章标题】：求助：matlab 提取音频的节拍bpm为标准值的2倍或1/2，哪位GG能 【文章地址】：https://bbs.byr.cn/article/Matlab/8707 【创建时间】：2012-02-15 【作者】：xiaomotian 【评论】：0 【内容】：发信人: xiaomotian (炮轰富士山), 信区: Matlab
+标  题: 求助：matlab 提取音频的节拍bpm为标准值的2倍或1/2，哪位GG能指
+发信站: 北邮人论坛 (Wed Feb 15 19:12:05 2012), 站内
+
+关键的matlab相关代码就如下几行：
+    if (!MATLABscript_.empty())
+    {
+        MATLAB_PUT(in, name_ + "_in");
+        MATLAB_PUT(out, name_ + "_out");
+        MATLAB_EVAL(MATLABscript_);
+        MATLAB_GET(name_+"_out", out);
+        //check if out realvec was shortened by MATLAB script... //[!]
+        if ((out.getRows() &lt; onObservations_)||(out.getCols() &lt; onSamples_))
+            out.stretch(onObservations_, onSamples_);
+    }
+由于我没怎么用过matlab，谁能给指导一下matlab的那几句含义啊？我现在提取的音频节拍bpm很多都和标准值是差2倍的关系，好像是3/4拍和6/8拍的歌弱拍没有采集到？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.135.165.*]
+ 
+【文章标题】：请教一个仿真实现问题，牛人们帮帮忙~~ 【文章地址】：https://bbs.byr.cn/article/Matlab/8709 【创建时间】：2012-02-16 【作者】：victor4556 【评论】：0 【内容】：发信人: victor4556 (小哭), 信区: Matlab
+标  题: 请教一个仿真实现问题，牛人们帮帮忙~~
+发信站: 北邮人论坛 (Thu Feb 16 14:30:44 2012), 站内
+
+想实现一个地图匹配算法的仿真，看以前的论文步骤大概如下：
+1.在n*n的方形网格上输入汽车轨迹，生成理想的GPS定位点；
+2.根据一定的公式生成误差，把误差和理想的GPS定位数据相叠加，以此模拟实际的GPS定位数据；
+3.根据一定的地图匹配算法（如D-S证据推理）求出定位点的具体位置。
+————————————————————————————————————————————————————————
+问题大概是这样，因为本人刚接触matlab，还没有系统的思路该如何解决，时间也比较紧，希望大家多多帮忙！！万分感谢~~！！:D:D
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.156.*]
+ 
+【文章标题】：一个结构体赋值的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8703 【创建时间】：2012-02-10 【作者】：xuyu 【评论】：1 【内容】：发信人: xuyu (xuyu), 信区: Matlab
+标  题: 一个结构体赋值的问题
+发信站: 北邮人论坛 (Fri Feb 10 15:53:21 2012), 站内
+
+a = repmat(struct('filed1',1),1, 10);
+ 
+a = 
+
+1x10 struct array with fields:
+    filed1
+
+a是一个结构体数组，包含一个filed1 现在想添加一个filed2 要求filed2的值要跟filed1一致 （filed1 已经修改 不都是1）
+
+类似这样子 a( 1:10).filed2= a(1:10 ).filed1; 但是这句不对 有什么方法 最好不用循环。
+谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.183.*]
+ 
+【文章标题】：如何拟合多组数据。。 【文章地址】：https://bbs.byr.cn/article/Matlab/10542 【创建时间】：2013-12-17 【作者】：sherlockwk 【评论】：4 【内容】：发信人: sherlockwk (超滴需要一点运气啊), 信区: Matlab
+标  题: 如何拟合多组数据。。
+发信站: 北邮人论坛 (Tue Dec 17 17:07:22 2013), 站内
+
+这是7组X,Y数据，其中X,Y都是37维的向量。我想在要找到这组数据的一个拟合函数，不知道各位有什么办法。。
+<a target="_blank" href="/att/Matlab/0/10542/440"><img border="0" title="" src="/att/Matlab/0/10542/440" alt="" class="resizeable"></a>
+--
+[upload=1][/upload]
+※ 修改:·sherlockwk 于 Dec 17 17:08:16 2013 修改本文·[FROM: 101.5.140.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 101.5.140.*]
+ 
+【文章标题】：[问题]求大神指导一个关于matlab图像输出的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10518 【创建时间】：2013-12-01 【作者】：jungeorge 【评论】：2 【内容】：发信人: jungeorge (jungeorge), 信区: Matlab
+标  题: [问题]求大神指导一个关于matlab图像输出的问题
+发信站: 北邮人论坛 (Sun Dec  1 09:54:50 2013), 站内
+
+matlab小白求大神们指导：
+现在要用matlab输出两个图像，我把两个图像的xlim同步了（这个是必须的，为了后面的匹配）。但是这样导致了其中有一个较小的图像会出现白色的空余部分，我想要去掉这个白色的部分，然后保存下图像，求问有什么办法？？？
+<a target="_blank" href="/att/Matlab/0/10518/503"><img border="0" title="bcd.png" src="/att/Matlab/0/10518/503" alt="bcd.png" class="resizeable"></a>
+<a target="_blank" href="/att/Matlab/0/10518/9842"><img border="0" title="abc.png" src="/att/Matlab/0/10518/9842" alt="abc.png" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.127.*]
+
+ 
+【文章标题】：matlab mex 怎么配置include 目录？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10476 【创建时间】：2013-11-04 【作者】：ppzhoujun 【评论】：1 【内容】：发信人: ppzhoujun (pptao), 信区: Matlab
+标  题: matlab mex 怎么配置include 目录？
+发信站: 北邮人论坛 (Mon Nov  4 22:20:56 2013), 站内
+
+matlab 编译C++代码不知道怎么配置include目录啊！！
+&gt;&gt; mex transition.c
+transition.c 
+defs.h(22) : fatal error C1083: Cannot open include file: 'cv.h': No such file or directory 
+ 
+  D:\PROGRA~1\MATLAB\BIN\MEX.PL: Error: Compile of 'transition.c' failed. 
+ 
+??? Error using ==&gt; mex at 222
+Unable to complete successfully.
+
+有解决办法没
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.105.53.*]
+ 
+【文章标题】：matlab柱坐标系仿真怎么画？ 【文章地址】：https://bbs.byr.cn/article/Matlab/10533 【创建时间】：2013-12-16 【作者】：greencs 【评论】：2 【内容】：发信人: greencs (Greencs), 信区: Matlab
+标  题: matlab柱坐标系仿真怎么画？
+发信站: 北邮人论坛 (Mon Dec 16 11:47:18 2013), 站内
+
+目前有磁场在柱坐标系下的三个分量，Bψ，Bρ，Bz， 表示形式都是Bψ= f（ρ，ψ，z）
+Bρ= f（ρ，ψ，z）
+Bz= f（ρ，ψ，z）
+需要利用matlab仿真出空间任一点的磁场，请问怎么才能仿真？具体用到哪个函数？之前没做过三维的，不太懂，请指教<img src="/img/ubb/em/21.gif" alt="em21" style="display:inline;border-style:none"><img src="/img/ubb/em/21.gif" alt="em21" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.202.8.*]
+ 
+【文章标题】：求助：quad中嵌套sum和prod函数 【文章地址】：https://bbs.byr.cn/article/Matlab/8721 【创建时间】：2012-02-18 【作者】：LM386 【评论】：1 【内容】：发信人: LM386 (), 信区: Matlab
+标  题: 求助：quad中嵌套sum和prod函数
+发信站: 北邮人论坛 (Sat Feb 18 22:19:00 2012), 站内
+
+比如如下式子：
+
+&gt;&gt; fun = @(x) sum(x.^[1 2 3 4]);
+&gt;&gt; quad(fun,0,4)
+
+运行会报错：
+
+??? Error using ==&gt; power
+Matrix dimensions must agree.
+
+Error in ==&gt; @(x)sum(x.^[1,2,3,4])
+
+
+Error in ==&gt; quadl at 70
+y = feval(f,x,varargin{:}); y = y(:).';
+
+功能要求不能将sum中的数一个一个加进去，因为项数不确定。请问如何在quad中嵌套sum或者prod函数呢，或者有其他方法实现该功能？请指教，谢谢！！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.27.*]
+ 
+【文章标题】：求助大牛，关于串并变换~~ 【文章地址】：https://bbs.byr.cn/article/Matlab/8714 【创建时间】：2012-02-16 【作者】：sweet101 【评论】：6 【内容】：发信人: sweet101 (aLee), 信区: Matlab
+标  题: 求助大牛，关于串并变换~~
+发信站: 北邮人论坛 (Thu Feb 16 20:24:06 2012), 站内
+
+经一串随机信号流，直接串并变换，再并串变换，最后输出~~用matlab怎样实现啊？
+不需要将分成的码流正交吧~~不是很清楚
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.4.249.*]
+ 
+【文章标题】：Error: Missing variable or function！！求大神啊 【文章地址】：https://bbs.byr.cn/article/Matlab/8725 【创建时间】：2012-02-20 【作者】：hwb745 【评论】：4 【内容】：发信人: hwb745 (小Hu), 信区: Matlab
+标  题: Error: Missing variable or function！！求大神啊
+发信站: 北邮人论坛 (Mon Feb 20 11:09:47 2012), 站内
+
+S=wavread('c:\Documents and Settings\Administrator\桌面\毕业设计\shengyin.wav')
+subplot(3,1,1);plot(S);title('波形图')
+n=size(S);
+d=100;
+L=512;
+k=L-d;
+t=fix(n/k);
+frame_length=512;
+r=(rectwin(frame_length));
+for a=1:t
+    n1=(L-d)*(a-1)+1;
+    n2=(L-d)*(a-1)+frame_length;
+    y=S(n1:n2);
+    sf=fft(y'.*r',512);
+    X1(n1:n2)=sf(1:frame_length);
+end
+FFTSIZE=8000;
+Y=zeros(FFTSIZE,1);
+Y=20*log10(abs(X1));
+subplot(3,1,2);plot(Y(1:4000)),title('频谱图');
+
+T1=length(X1);
+t1=fix(T1/L);
+for i=1:t1
+z=ifft(X1((i-1)*L+1:i*L),512);
+z=real(z./r');
+y((i-1)*k+1:i*k)=z(1:k);
+end 
+subplot(3,1,3);plot(y),title('倒谱图')
+是一段声音频谱的分析程序，为什么运行后会出现如题的提示？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.28.*]
+ 
+【文章标题】：求助  有限内存拟牛顿法L-BFGS程序 【文章地址】：https://bbs.byr.cn/article/Matlab/8731 【创建时间】：2012-02-22 【作者】：juanfenghit 【评论】：0 【内容】：发信人: juanfenghit (倦风), 信区: Matlab
+标  题: 求助  有限内存拟牛顿法L-BFGS程序
+发信站: 北邮人论坛 (Wed Feb 22 11:31:35 2012), 站内
+
+有没有做过类似有限内存拟牛顿法求解目标函数最小解的问题？
+急需此类程序代码，多谢大神帮助!
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.126.50.*]
+ 
+【文章标题】：[求助]请教怎么用matlab把频域数据转换为时域呀 【文章地址】：https://bbs.byr.cn/article/Matlab/8733 【创建时间】：2012-02-23 【作者】：kingfucai 【评论】：1 【内容】：发信人: kingfucai (kingfucai), 信区: Matlab
+标  题: [求助]请教怎么用matlab把频域数据转换为时域呀
+发信站: 北邮人论坛 (Thu Feb 23 15:23:33 2012), 站内
+
+已知一个信号频域下的幅值和相位，那怎么把他转换为时域信号呀
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.71.77.*]
+ 
+【文章标题】：matlab2010a for ubuntu10.04激活码？ 【文章地址】：https://bbs.byr.cn/article/Matlab/8736 【创建时间】：2012-02-27 【作者】：llchen 【评论】：6 【内容】：发信人: llchen (风雨如晦，鸡鸣不已), 信区: Matlab
+标  题: matlab2010a for ubuntu10.04激活码？
+发信站: 北邮人论坛 (Mon Feb 27 11:04:29 2012), 站内
+
+crack文件中的那个激活码已经失效了，求新的激活码
+
+弄了一上午了，真的崩溃了！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 119.78.208.*]
+ 
+【文章标题】：二维傅里叶变换中的极坐标转直角坐标，求指导！ 【文章地址】：https://bbs.byr.cn/article/Matlab/10513 【创建时间】：2013-11-28 【作者】：buptzxl 【评论】：1 【内容】：发信人: buptzxl (三硝基甲苯), 信区: Matlab
+标  题: 二维傅里叶变换中的极坐标转直角坐标，求指导！
+发信站: 北邮人论坛 (Thu Nov 28 19:29:55 2013), 站内
+
+各位大神，求教一个问题，我现在在仿一个光学里面的东西，其中要用到二维傅里叶变换，但是二维傅里叶变换原函数坐标是直角坐标，而当前已有的原函数为极坐标表示的，我想到用pol2cart()函数，但是由于fft2()本身就是默认直角坐标，而没有所谓的坐标设定，我进行坐标转化之后怎样才能套到函数里面去，求指导啊！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.9.*]
+ 
+【文章标题】：求问一个问题 【文章地址】：https://bbs.byr.cn/article/Matlab/12610 【创建时间】：2018-05-18 【作者】：zwt6228897 【评论】：0 【内容】：发信人: zwt6228897 (图像处理学习中), 信区: Matlab
+标  题: 求问一个问题
+发信站: 北邮人论坛 (Fri May 18 22:57:16 2018), 站内
+
+各位大佬 小弟毕设碰到了一个问题 <img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"> 比如说两个非线性方程  只有数值解  而且方程中含有参数 （假设参数只有一个）现在想把这个数值解解和参数的关系曲线用matlab做出来  有什么办法没有<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.206.33.*]
+ 
+【文章标题】：【问题】有偿请求会Matlab和R的大神帮我把Matlab代码转换为R 【文章地址】：https://bbs.byr.cn/article/Matlab/12616 【创建时间】：2018-06-03 【作者】：AS666888 【评论】：0 【内容】：发信人: AS666888 (奋斗青年), 信区: Matlab
+标  题: 【问题】有偿请求会Matlab和R的大神帮我把Matlab代码转换为R
+发信站: 北邮人论坛 (Sun Jun  3 16:14:56 2018), 站内
+
+如题，Matlab代码已测试完全正确，但需要将其改写成在R中可以使用的代码。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.40.*]
+ 
+【文章标题】：Re: 【问题】【新手求助】matlab R2018a 运行特别慢 【文章地址】：https://bbs.byr.cn/article/Matlab/12583 【创建时间】：2018-05-17 【作者】：原帖已删除 【评论】：5 【内容】：发信人: v7fgg (并不是机器人), 信区: Matlab
+标  题: Re: 【问题】【新手求助】matlab R2018a 运行特别慢
+发信站: 北邮人论坛 (Sun Apr  8 20:53:20 2018), 站内
+
+我用的2015b，感觉有时候打开后一会儿内运行慢，过一会就好了
+
+--
+※ 修改:·v7fgg 于 Apr  8 21:30:50 2018 修改本文·[FROM: 10.28.200.*]
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.28.200.*]
+ 
+【文章标题】：毕业设计--matlab实现求助 【文章地址】：https://bbs.byr.cn/article/Matlab/12612 【创建时间】：2018-06-01 【作者】：vac872089248 【评论】：7 【内容】：发信人: vac872089248 (胡不归vac), 信区: Matlab
+标  题: 毕业设计--matlab实现求助
+发信站: 北邮人论坛 (Fri Jun  1 13:20:44 2018), 站内
+
+有偿求助！！
+毕业设计的主要工作是：
+1. 对图像进行对数变换，把乘性噪声变成加性噪声。
+2. 再对图像进行多尺度小波变换，得到图像的低频和高频系数。
+3. 对低频系数进行模糊域增强，对高频系数进行小波软阀值去噪。
+4. 最后通过小波重构得到图像。
+
+具体的算法流程已经有了，只需要实现就可以
+联系方式：18810552063，可加微信
+--
+※ 修改:·vac872089248 于 Jun  1 13:25:01 2018 修改本文·[FROM: 106.38.123.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 106.38.123.*]
+ 
+【文章标题】：mac 系统安装matlab遇到问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8767 【创建时间】：2012-03-07 【作者】：mick 【评论】：0 【内容】：发信人: mick (mick), 信区: Matlab
+标  题: mac 系统安装matlab遇到问题
+发信站: 北邮人论坛 (Wed Mar  7 19:26:11 2012), 站内
+
+在byrbt下了2011b和2010b两个版本的，unix系统的，点击installformac后，就是一个小图标在那跳啊 跳啊~~~然后就没反应了？怎么回事？求大牛
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.13.*]
+ 
+【文章标题】：追赶法 求矩阵的解。  帮忙来看看吧 【文章地址】：https://bbs.byr.cn/article/Matlab/8768 【创建时间】：2012-03-08 【作者】：sharonyue 【评论】：2 【内容】：发信人: sharonyue (电动猪), 信区: Matlab
+标  题: 追赶法 求矩阵的解。  帮忙来看看吧
+发信站: 北邮人论坛 (Thu Mar  8 15:26:58 2012), 站内
+
+a=[136.1,90.860,0,0;90.860,98.810,-67.590,0;0,-67.590,132.01,46.260;0,0,46.260,177.17]
+[m,n]=size(a)
+d=[-33.254;49.709;28.067;-7.324]
+[l,u]=lu(a)
+y(1)=d(1)
+for i=2:n
+ y(i)=d(i)-l(i,i-1)*y(i-1)
+end
+x(4)=y(4)/u(4,4)
+for i=3:-1:1
+ x(i)=(y(i)-u(i,i+1)*x(i+1))/u(i,i)
+end
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.4.156.*]
+ 
+【文章标题】：取出元胞数组 某一位置的元素 【文章地址】：https://bbs.byr.cn/article/Matlab/8735 【创建时间】：2012-02-25 【作者】：xuyu 【评论】：2 【内容】：发信人: xuyu (xuyu), 信区: Matlab
+标  题: 取出元胞数组 某一位置的元素
+发信站: 北邮人论坛 (Sat Feb 25 22:31:25 2012), 站内
+
+
+比如 每个元胞数组长度100 每个元胞都是一个2*2矩阵
+如何取出每个元胞的第一行 第一列 的值 组成一个1*100的数组
+如 a{1}=[1 2 ;3 4]   a{2}=[3 4 ;5 4 ]  a{3}=[8 4; 5 7] ……
+结果就是 1 3 8……。共一百个。
+谢谢高手指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.183.*]
+ 
+【文章标题】：探讨贴：关于Matlab GUI中edit text控件使用的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8755 【创建时间】：2012-02-29 【作者】：Lu9936 【评论】：0 【内容】：发信人: Lu9936 (指间岁月 坍塌年华), 信区: Matlab
+标  题: 探讨贴：关于Matlab GUI中edit text控件使用的问题
+发信站: 北邮人论坛 (Wed Feb 29 21:03:47 2012), 站内
+
+一个项目涉及的，在GUI中有一edit text控件（可编辑文本），想要的功能是读入.m文件或者.txt文件，当
+
+然也可以手动输入，并显示在edit text中，以上已实现，下面我想做的是运行edit text中的代码，尝试了
+
+下str=get(handle.edittext,'string');并eval(str)，但是有些可行（ezplot什么的）有些报错，报错原
+
+因是The expression to the left of the equals sign is not a valid target for an assignment。
+
+报错行是eval(str),有没有大神遇到过类似问题，求思想，同时想问“先读取edittext内容，再执行”的思
+
+想可不可行，或者我应该直接run读入的.m文件？
+
+<img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none"><img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none">
+--
+※ 修改:·Lu9936 于 Feb 29 21:04:19 2012 修改本文·[FROM: 10.205.28.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.28.*]
+ 
+【文章标题】：求教我做一个简单聚类算法的仿真 【文章地址】：https://bbs.byr.cn/article/Matlab/12617 【创建时间】：2018-06-04 【作者】：ckm 【评论】：2 【内容】：发信人: ckm (calm), 信区: Matlab
+标  题: 求教我做一个简单聚类算法的仿真
+发信站: 北邮人论坛 (Mon Jun  4 20:39:07 2018), 站内
+
+没学过matlab，完全不会，求救求救
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮2.0』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.136.38.*]
+ 
+【文章标题】：64-bit ubuntu 下安装 matlab 7.0 r14 的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8753 【创建时间】：2012-02-29 【作者】：frip 【评论】：2 【内容】：发信人: frip (FripAria), 信区: Matlab
+标  题: 64-bit ubuntu 下安装 matlab 7.0 r14 的问题
+发信站: 北邮人论坛 (Wed Feb 29 19:00:47 2012), 站内
+
+执行 /mnt/cdrom/install 后出现如下错误= =
+我是挂载的iso安装的。。。
+
+cp: cannot stat `/mnt/cdrom/update/bin/glnxa64/*': No such file or directory
+Error writing to /tmp/2733tmwinstall
+The installer is unable to copy files to /tmp.
+Make sure that /tmp exists, is writable, and has
+at least 5 megabytes of available space.
+
+第一行里能找到 /mnt/cdrom/update/bin/glnx64/ 有什么不同么……
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.143.133.*]
+ 
+【文章标题】：基于matlab的OFDM系统仿真设计，求助师兄、师姐 【文章地址】：https://bbs.byr.cn/article/Matlab/8760 【创建时间】：2012-03-03 【作者】：cxg2009byr 【评论】：0 【内容】：发信人: cxg2009byr (SWAT小分队), 信区: Matlab
+标  题: 基于matlab的OFDM系统仿真设计，求助师兄、师姐
+发信站: 北邮人论坛 (Sat Mar  3 18:58:37 2012), 站内
+
+有关系统部分模块的设计问题，感激不尽！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.5.185.*]
+ 
+【文章标题】：求助一个有关拉氏算子和图像自相关的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/8758 【创建时间】：2012-03-01 【作者】：xingxing815 【评论】：0 【内容】：发信人: xingxing815 (candy), 信区: Matlab
+标  题: 求助一个有关拉氏算子和图像自相关的问题
+发信站: 北邮人论坛 (Thu Mar  1 19:23:15 2012), 站内
+
+我写的代码如下，但是微分过后再求自相关得到的三维图像并不是所期望的。希望高人可以指点一下，感激不尽。
+=imread('cameraman.tif');
+I=im2double(I);
+PSF = fspecial('disk',9); %散焦模糊
+D = imfilter(I,PSF,'circular','conv');
+h = [1 1 1;1 -8 1;1 1 1];
+D = double(D);
+J = conv2(D,h,'same');  %拉普拉斯算子微分
+IP=abs(fft2(J));
+S=fftshift(real(ifft2(IP)));         %图像自相关函数
+figure,mesh(S); %显示自相关的三维图像
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.33.*]
+ 
+【文章标题】：【求助】基础问题，怎样生成服从负指数分布的随机数？？ 【文章地址】：https://bbs.byr.cn/article/Matlab/1167 【创建时间】：2007-06-02 【作者】：yuebixiong 【评论】：8 【内容】：发信人: yuebixiong (count*X), 信区: Matlab
+标  题: 【求助】基础问题，怎样生成服从负指数分布的随机数？？
+发信站: 北邮人论坛 (Sat Jun  2 12:12:09 2007), 站内
+
+在线等，谢谢
+
+exprnd生成的是指数分布吧。。。那负指数是什么啊
+--
+
+※ 修改:·physics 于 Jan  9 01:28:18 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.222.*]
+ 
+【文章标题】：【求助】如何随机的产生+1与－1 【文章地址】：https://bbs.byr.cn/article/Matlab/1111 【创建时间】：2007-05-30 【作者】：everynight 【评论】：5 【内容】：发信人: everynight (everynight), 信区: Matlab
+标  题: 【求助】如何随机的产生+1与－1
+发信站: 北邮人论坛 (Wed May 30 10:14:45 2007), 站内
+
+rt
+请高手指教
+--
+
+※ 修改:·physics 于 Jan  9 01:32:02 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.224.139.*]
+ 
+【文章标题】：【求助】文件读取和写入 怎么使用，对于文本文件来说 【文章地址】：https://bbs.byr.cn/article/Matlab/1134 【创建时间】：2007-05-31 【作者】：yihang03 【评论】：5 【内容】：发信人: yihang03 ( 一航), 信区: Matlab
+标  题: 【求助】文件读取和写入 怎么使用，对于文本文件来说
+发信站: 北邮人论坛 (Thu May 31 03:16:08 2007), 站内
+
+比如 S =‘dsjadjkajskkkkkkkkdjsfkjweijfd djjd'
+或者 D =[1 2 3 3 5 6 6 48 464 6 4 546 1 2];
+怎么写入 txt 文件中
+然后又如何读取出来，数据格式保持不变 
+--
+我用一丝芦苇的方式思考，这么年轻就开始怀旧，相信月亮在我身上遗留了死不宁息的眼。我没有来自山那头的空灵之声，没有飘零鹅羽的优雅，于是我选择酷到骨子里，沉淀着一种力量。
+<span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://wpa.qq.com/msgrd?V=1&amp;Uin=275061699Site=forum.byr.edu.cn&amp;Menu=yes">
+QQ联系我</a></span>              <span style="text-shadow:0px 0px 4px red"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=Henan">豫韵悠悠</a></span>
+       
+
+
+※ 修改:·physics 于 Jan  9 01:30:27 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：【求助】关于设置未知数解方程的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/1063 【创建时间】：2007-05-28 【作者】：ciii 【评论】：2 【内容】：发信人: ciii (赛~~), 信区: Matlab
+标  题: 【求助】关于设置未知数解方程的问题
+发信站: 北邮人论坛 (Mon May 28 21:15:28 2007), 站内
+
+我想设一批未知数
+F=[a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t]
+然后使得F(0)=a,F(1)=b......这样的
+
+
+但是用以下语句不行：
+sym F=[a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t]
+F(0)
+
+运行错误。该怎么改？
+--
+
+※ 修改:·physics 于 Jan  9 01:34:12 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.197.*]
+ 
+【文章标题】：【求助】找不出的错误，大虾们帮帮忙！ 【文章地址】：https://bbs.byr.cn/article/Matlab/1047 【创建时间】：2007-05-27 【作者】：amabag 【评论】：2 【内容】：发信人: amabag (amabag), 信区: Matlab
+标  题: 【求助】找不出的错误，大虾们帮帮忙！
+发信站: 北邮人论坛 (Sun May 27 00:31:05 2007), 站内
+
+&gt;&gt; w=0:pi/2000:pi;
+&gt;&gt; fs=8000;
+&gt;&gt; s=2*fs*(exp(j*w)-1)./(exp(j*w)+1);
+&gt;&gt; wp=2500;
+&gt;&gt; y1=2*pi*wp/(s+2*pi*wp);
+??? Error using ==&gt; mrdivide
+Matrix dimensions must agree.
+感觉没什么错误啊
+--
+纪念逝去的美好。。
+
+※ 修改:·physics 于 Jan  9 01:36:33 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.224.*]
+ 
+【文章标题】：【求助】如何把 整数型 转化为 char型 【文章地址】：https://bbs.byr.cn/article/Matlab/1145 【创建时间】：2007-05-31 【作者】：yihang03 【评论】：1 【内容】：发信人: yihang03 ( 一航), 信区: Matlab
+标  题: 【求助】如何把 整数型 转化为 char型
+发信站: 北邮人论坛 (Thu May 31 16:03:21 2007), 站内
+
+比如整数 2 转为 字符型 '2'
+Many thanks 
+--
+我用一丝芦苇的方式思考，这么年轻就开始怀旧，相信月亮在我身上遗留了死不宁息的眼。我没有来自山那头的空灵之声，没有飘零鹅羽的优雅，于是我选择酷到骨子里，沉淀着一种力量。
+<span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://wpa.qq.com/msgrd?V=1&amp;Uin=275061699Site=forum.byr.edu.cn&amp;Menu=yes">
+QQ联系我</a></span>              <span style="text-shadow:0px 0px 4px red"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=Henan">豫韵悠悠</a></span>
+       
+
+
+※ 修改:·physics 于 Jan  9 01:29:50 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：【求助】Matlab里如何得出算法的计算量 【文章地址】：https://bbs.byr.cn/article/Matlab/1017 【创建时间】：2007-05-23 【作者】：beipiao 【评论】：1 【内容】：发信人: beipiao (Leo), 信区: Matlab
+标  题: 【求助】Matlab里如何得出算法的计算量
+发信站: 北邮人论坛 (Wed May 23 21:59:26 2007), 站内
+
+以前的版本有一个flops函数，好像Matlab6以后的版本没有了，请问有什么新的办法么？
+谢谢！
+--
+
+※ 修改:·physics 于 Jan  9 01:38:18 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：【求助】run完了这个结果....这算什么呢... 【文章地址】：https://bbs.byr.cn/article/Matlab/1015 【创建时间】：2007-05-23 【作者】：Arsenal 【评论】：1 【内容】：发信人: Arsenal (阿森纳), 信区: Matlab
+标  题: 【求助】run完了这个结果....这算什么呢...
+发信站: 北邮人论坛 (Wed May 23 18:55:08 2007), 站内
+
+Warning: Imaginary parts of complex X and/or Y arguments ignored.
+&gt; In OPTIC_DPSK1 at 58
+
+前面是计算结果,就是出不来图
+OPTIC_DPSK1 是M文件的文件名
+是什么原因呢?
+58行附近的程序如下
+
+56 clf
+57 figure(1),%RzDpsk调制信号图
+58 plot(t(1:2*N/L),V_out(1:2*N/L)),
+59 xlabel('时间'),
+60 title('RzDpsk调制信号图'),
+61 axis([0,2*T/L,-1.1,1.1]),
+62 grid
+
+--
+发信人: happysolar (哈皮索拉|大医医无病), 信区: AdvancedEdu
+标  题: Re: 教授怒了？
+发信站: 水木社区 (Tue Mar 20 00:41:19 2007), 站内
+
+Accept offer的时候可以写: Congratulations!!! I decided to accept your offer!
+                           
+
+
+※ 修改:·physics 于 Jan  9 01:38:32 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：[问题]求解怎么转换txt文档中的内容 【文章地址】：https://bbs.byr.cn/article/Matlab/10801 【创建时间】：2014-04-14 【作者】：wlflying1991 【评论】：4 【内容】：发信人: wlflying1991 (沧浪之水), 信区: Matlab
+标  题: [问题]求解怎么转换txt文档中的内容
+发信站: 北邮人论坛 (Mon Apr 14 13:53:50 2014), 站内
+
+txt文档中内容是纯数据的，而且有两列多行，请问怎么实现第二列数据从上到下的反转？？我原本想用fopen()来实现的，不知还有什么别的方法？？用excel不知怎么实现一列数据的从上到下的反转
+举个例子吧：
+假设原始数据是   1  0.1
+               2  0.2
+               3  1.5
+               4  3.8
+处理之后的数据   1  3.8
+               2  1.5
+               3  0.2
+               4  0.1 
+ 
+--
+※ 修改:·wlflying1991 于 Apr 14 14:05:16 2014 修改本文·[FROM: 223.68.162.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 223.68.162.*]
+ 
+【文章标题】：[问题]求教关于音频信号处理的一个简单问题 【文章地址】：https://bbs.byr.cn/article/Matlab/10936 【创建时间】：2014-05-07 【作者】：louiscmy 【评论】：0 【内容】：发信人: louiscmy (LouisChen), 信区: Matlab
+标  题: [问题]求教关于音频信号处理的一个简单问题
+发信站: 北邮人论坛 (Wed May  7 22:29:46 2014), 站内
+
+没有找到音频信号处理的版面只好发这了<img src="/img/ubb/em/17.gif" alt="em17" style="display:inline;border-style:none">，想请问如何得出一段音频的vibrato和tremolo，卡在这个问题上好几天了找了不少论文资料都没懂，希望得到解答！头次发帖我也是没辙了，不知道能不能留Q，就拿一个音频举例教教我就好，十分感谢！<img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.65.203.*]
+ 

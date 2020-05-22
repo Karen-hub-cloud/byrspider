@@ -1,0 +1,2618 @@
+【文章标题】：[合集] 十年MFC经历认识的Microsoft技术 出处：CSDN.NET 作者： 【文章地址】：https://bbs.byr.cn/article/SoftDesign/210 【创建时间】：2005-06-28 【作者】：Neverwinter 【评论】：0 【内容】：发信人: Neverwinter (!byr--709394), 信区: SoftDesign
+标  题: [合集] 十年MFC经历认识的Microsoft技术 出处：CSDN.NET 作者：孙辉 (�
+发信站: 北邮人论坛 (Tue Jun 28 16:44:08 2005), 站内
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:47:46 2005)  提到:
+
+初识MFC 
+
+　　我最初知道MFC大概是在1993年，那个时候Visual C++还没面世，当时Microsoft的C++编译器还很弱，官方的名字是Microsoft C/C++ 7.0，MFC的版本是1.0，几乎没有引起什么反响，那个时期最好的C++开发环境是Borland C++ 3.1，其实，大概是1992年11月份，一个偶然的机会，我领略到Borland公司的厉害，记不得在什么地方，我看到一个绝妙的集成开发环境，即Turbo C++ 3.0 for Windows，这是我记忆中第一个真正的Windows环境下的C++集成开发环境，那种激动的感觉至今仍记忆犹新，不客气的说，当时至少在C++方面，Microsoft与Borland不是一个水平的，Borland明显的要高于Microsoft ，Borland的产品在技术上给我留下深刻的印象。那个时候Microsoft最好的开发平台是Visual Basic 3.0，而Borland的Delphi正处于开发阶段（Delphi 的代码名称是：“VB Killer”）……，想起这些十几年前的往事，我不禁感慨万千。 
+
+　　十几年来，我用过许多开发环境，关于Visual Basic，我用过最早的DOS版本，Windows版的Visual Basic我基本上全都用过，至今我还记得每个版本的VB安装盘磁盘的盘数。同样，我用过各个版本的Delphi，特别是Delphi 2.0，给我留下极好的印象。Delphi提供真正编译的可视化开发环境，那个时候（1994年左右），Delphi就可以开发带有GUI的动态链接库，你可以想象，在Microsoft Access 2.0的应用程序中可以加载一个Delphi Form并进行程序交互，那种感觉真是棒极了。 
+
+　　Borland C++是我心中无法抹掉的遗憾，从Turbo C到C++ Builder，我深刻的体验到Borland的辉煌和无奈，Delphi从VB Killer走到为VB护航（你可以想象Delphi一步到位的ActiveX 控件开发技术有多牛，早期的VB有多土，早期的VB不能开发动态链接库，因此无法开发ActiveX 控件，想起来真令人嘘唏不已），Borland C++的命运也是不济。Borland C++ 3.1的辉煌永远不再了，十几年的开发工作中，我在C++上投入了大量的精力，Borland C++曾经给我带来无数的激动，然而这个经典的名字却在与Microsoft的竞争中渐渐的流逝了……。 
+
+　　MFC4.0的出现，使得人们感觉Microsoft在C++方面赶上来了，这一版的MFC是Win95推出后出现在Visual C++ 4中（Microsoft没有VC 3，VC4以前的版本是2.2、2.1、2.0、1.51、1.5、1.0）。也许是对Borland C++的潜意识的失望，我不知不觉的接受了MFC，VC 4.2推出时，我通过正常渠道购买了这个编译器的企业版。 
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:48:22 2005)  提到:
+
+关于Microsoft 
+
+　　关于Microsoft，有无数的人要对这个名字叙说感觉，这个令人讨厌的名字！不知道是喜欢还是憎恶，你是程序员，你的心思可能就要因Microsoft的存在而动，即使你用Linux，你可能也是因为Microsoft技术因素。多少年来，这个名字每天都出现在你、我、他的面前，因为你不得不面对Windows的存在，可是你憎恨这个名字吗？你讨厌这个名字吗？我不知道是否已经对这个名字麻木了。1998年我个人订了Microsoft MSDN Universal 版，我开始比较全面接触这个公司的开发技术，你可以想象，1998年当你面对上百张技术光盘的时候，你就知道什么叫做“厚度”，当我们有时说出“赶上”或 “达到”Microsoft某些产品的水平的时候，可能我们缺乏对这个公司“厚度”的真实了解。进入MSDN，我感觉Microsoft简直不是一个“公司”，而是（或者正在形成）一个“社会”。当时著名的技术网站<a target="_blank" href="http://www.codeguru.com">http://www.codeguru.com</a>全部的技术资料是可下载的（那个时候<a target="_blank" href="http://www.codeguru.com">http://www.codeguru.com</a>提供整个网站内容下载服务，大约3M左右），大名鼎鼎的www.codeproject.com还不存在。一开始，我始终潜意识在技术上对比Microsoft与Borland，应当说技术上Borland不比Microsoft弱，即使现在也有人持有这个看法，可是为什么Borland走到今天这个地步？
+
+　　而Microsoft却如日中天？若干年前，这两个公司竞争何等激烈，而现在却是另一番“合作”的景象？可能很多人想过，如果Borland不存在，对Microsoft不是更有力吗？其实Microsoft可能精通中国历史，读过《三国》、十分了解战国时期的中国，其实Borland形式上的存在，对Microsoft是十分有利的，至少形式上还有竞争对手，而事实上Borland已经受控于Microsoft（Microsoft是Borland的大股东）。你可以看到一些微妙的现象：Borland为Microsoft提供了大量的人才，其中包括Delphi总设计师以及Borland C++编译器的核心成员；同时也为Microsoft .NET提供强有力的护航服务（看看C# Builder、Delphi .NET）。1998年Microsoft 的COM技术基本已经成熟，这个技术使人感到震撼，当时Microsoft的对手们提出“OpenDoc”用于对抗“COM”，你看看“OpenDoc”阵营的几个成员：IBM、Apple、Borland、Novell，你会感到这个阵营十分豪华、强大。但结果却差强人意，“OpenDoc”无疾而终，而“COM”依然生机勃勃。 
+
+　　有人说“COM”没落了，那么就太不了解Microsoft了。在与“OpenDoc”的竞争中，“COM”是个彻底的胜利者，在与“Java”的竞争中，“COM”成功的进化了，在这个过程中Microsoft体现了强大的吸收能力、以及无法想象的韧劲。.NET只不过是COM的“别名”而已。对于一个经验丰富的C++程序员而言，.NET就是COM的进化，而Microsoft内部.NET就是“COM 3.0”（OLE2就是COM 2.0），而“CLR”就是一个不择不扣的COM对象。曾经有人问我，既然牛顿时代就奠定了基础（想想著名的牛顿-莱布尼茨公式），几百年后的今天，数学还研究“微积分”吗？回答当然是依然在研究！“微积分”早期是针对函数的，现代“微积分”是针对“流形（Manifold）、纤维丛（Fiber Bundle）”的，概念深奥了，可是基本思想不变，只是“微积分”的思想得到合理的延拓与进化，你了解Microsoft吗？Microsoft Research有一批超一流的数学家在为Microsoft工作，其中一些是斐尔兹奖的得主，Microsoft正在实现如同“微积分”进化到“微分流形”一样将“COM”进化到“.NET”。从科学概念角度上分析COM与Java，可能COM更全面、精确，从实现的成熟度上Java可能更成熟，可是你看到，Microsoft正在不紧不慢的追赶。Microsoft令人联想起战国时期的强秦。
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:48:49 2005)  提到:
+
+战国时期的秦国，采取“远交近攻”“抚弱掠强”等措施傲视六国，今天的Microsoft也是这样，VB1.0时，Microsoft推出“VBX”控件技术，众多的小公司得以生存，Microsoft自己不开发“VBX”组件，同样“VBX”进化为“OCX”时，Microsoft并不十分强大，可是这种试探得到众多小公司的响应。1997年Microsoft Office 97、1998年Microsoft推出Visual Studio 6.0，给众多中、小公司提供了生存、发展的机会，例如Microsoft Office 97中集成了Visual Basic for Application 5.0，这项技术使得几百家软件开发商与Microsoft签署了VBA技术许可协议，即使AutoDesk这样的公司都与Microsoft签署了这个协议，这个协议使得每个集成VBA的产品的给个用户许可为Microsoft付40$的许可费，如果你了解VSIP（Visual Studio Integration Protocol）协议，以及有多少公司签订了VSIP协议，你就真正感觉到Microsoft的可怕；Microsoft Office 97、Visual Studio 6.0的用户界面十分漂亮，为什么Microsoft自己的开发工具不提供类似的软件组件？你看到众多第三方的Microsoft盟友纷纷推出自己的界面库以模仿Microsoft，他们不会反对Microsoft，因为他们已经形成了使得Microsoft以及这些公司得以生存的生态圈。 
+
+　　Microsoft的技术储备有多少，Microsoft之外的人很难说清楚，Microsoft中国公司也未必了解多少，1999年WTL类库刚刚出现的时候，人们就希望WTL能得到官方的支持，或授权给一个Microsoft之外的一个公司（你能想象出Borland C++ 5.0内置的ActiveX开发机制是基于Microsoft ATL类库吗？），直到今天，WTL依然如故，我们完全相信，如果Microsoft强力推广WTL，WTL完全可以流行，可是Microsoft不缺类似的技术，类似的类库还有BCL(Base Control Library，一个用于开发轻量级ActiveX控件的类库)，Microsoft还有一个基于ATL的类库，这个类库用于开发ActiveX Designer，ActiveX Designer是绝大多数程序员不了解得一类对象，如果你熟悉Office开发，你知道Office VBA 中有一类对象，即Form2，此外VB6.0 中的报表设计器（以及著名的Active Reporter），都属于此类对象，用这个类库，你可以为VB6.0以及集成VBA的系统提供定制化的可视化设计机制等等，如今ActiveX Designer已经演化为集成于Visual Studio .NET中的设计器。
+
+　　向Microsoft学习 
+
+　　无论从什么角度评价Microsoft，我觉得Microsoft是值得我们学习的，如果说生活在这个时代有Microsoft存在是一场灾难，你就应该痛恨这个家伙，但你首先要向这个家伙学习！我无意为Microsoft歌功颂德，我只是想说出十几年我对Microsoft技术的感受。
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:49:18 2005)  提到:
+
+Microsoft在研究式的开发中受益极大，如果你有兴趣，你可以访问<a target="_blank" href="http://research.microsoft.com/">http://research.microsoft.com/</a>，虽然部分中国公司也有研究院，但与Microsoft相比，真有“米粒之珠，也放光华？”的感觉。2003年，我在北京的一个地方现场体验了Microsoft亚洲研究院的招聘会，我看到中国的精英们进入Microsoft的渴望，事实上，在中国大陆，Microsoft亚洲研究院的人力资源已经延伸到各著名高校的相关专业的核心层，我感到，Microsoft几乎不需要“求贤”，因为，只要Microsoft需要，精英们会“蜂拥而至”，每个人都有“可以理解”的理由而向往那个地方，如果为搞数学研究蜂拥到加州大学，我觉得可以理解，因为那里有数学土壤，出了成果国人也会感到自豪，因为“科学无国界”。技术是否有国界？不知道是否有定论？！想想DVD等技术专利给国内业界带来的灾难，不知道应不应该痛定思痛，在Microsoft校园招聘现场的气氛中，我似乎明白了为什么国人“原创技术”少得可怜。我读过几本Microsoft亚洲研究院的高手写的书，明显可以看出，Bill gate 是他们的精神领袖以及他们对Microsoft的虔诚，国内的研究机构应当研究一下Microsoft的用人之道，Microsoft好像是三国里的人物，不知是刘备还是曹操，或者二者的混合物。我经常路过西格玛大厦，第一次西格玛大厦进入真有“朝圣”的感觉，也与Microsoft中国的几个层次的人打过交道，各中滋味实在一言难尽。 
+
+　　在Office大战中，国产软件的确在一些方面与Microsoft进行较量，其实给人的感觉很勉强，界面上的似是而非，或用户习惯方面的接近并不能解决根本的问题，一个好的软件开发人员必须是一个软件使用的高手，很难想象一个软件操作水平很拙劣的开发人员能开发出高水平的软件，我最早使用的软件之一就是Microsoft Word，当时的版本是2.0，大概是1992年的事情，给我留下深刻印象的是集成于Word中的Word Basic，后来，我接触到Excel 3.0，不出所料，Excel中集成的是Excel Basic，后来使用的Access中自然内置Access Basic 1.0，在这些软件集成捆绑成Office之前，我就感觉这些产品的构思十分了不起，很具有Microsoft的风格，因为你知道，即使是一个DOS，Microsoft都要提供一个内置的QBasic或GW Basic。虽然关于Microsoft的产品评论很多，作为一个技术人员，我认为Microsoft的产品构思绝对是第一流的，从1994年早期的Office系列到1997年形成的Office 4.2，我认为，技术构思上均领先于我国2002年以后的Office产品，你听说过如下说法吗？“Dos 作为操作系统的时代，Windows是应用软件；Windows是操作系统时，Office成为Dos时代的Windows；那么如果按此规律，Office会不会替代Windows而成为操作系统？”，现在在开发领域Visual Studio( .NET)正在成为另一个Office，你注意到了吗？控制Visual Studio( .NET)集成开发环境的仍然是一个Basic语言引擎（Visual Basic .NET）。 
+
+　　与许多公司不同的是，在技术体系上，Microsoft几乎所有的产品是息息相关的，Windows、Office、Visual Studio .NET虽然各不相同，但公共的核心即将形成，我们已经看到，核心组件方面，Office与Visual Studio .NET日渐趋于一致，例如Microsoft正在将Office 2003的核心组件VBA 6.X逐步用新的Visual Studio Tools for Office替代，而我们依然在一些似是而非的现象上与Microsoft的产品比较差距，国家采购或政府采购支持的公司，不去钻研核心技术，只是急功近利的采用短期行为急于与Microsoft相争，不知是否有蚍蜉撼树的感觉，个人的体验是，先学习Microsoft，踏踏实实的学，了解Microsoft，深入的了解，然后再喊口号。
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:49:42 2005)  提到:
+
+为什么用MFC？ 
+
+　　经过若干年的竞争，Borland 的OWL几乎消失了，这个OWL是个非常漂亮的C++类库，在Borland C++ 3.1风光无限的年代，OWL真正的做到了独领风骚。然而，Borland C++ 4.0错过了进入32位程序的最佳时机，BC 4.0推出后不久，迎来了Win95，Borland仓促上阵，以一个小的“Pack”使得BC4可以编译基于Win4的程序，当时的Visual C++是2.0版，支持Window16的版本为Visual C++1.51，有意思的是Borland可以用同一个编译器同时支持Win16、Win32，而Microsoft却不得不为Win16、Win32提供不同的编译器。然而，非正式版本的Visual C++ 2.1与Visual C++ 2.2却悄悄地支持了Win95的最新特征，即Win95新提供的一组公共控件，在我的印象中，Borland对Win95新特征的支持不利使得MFC与OWL的距离极大的缩短了。稍后到来的Borland C++ 4.5没有改变这个状况，尽管Borland C++ 5.0同时支持OWL与MFC，可是败象已经显露，Borland C++非常遗憾的只走到了5.5版。C++ Builder虽然形式上引入了Delphi的VCL库，可是许多C++程序员并不买账，因为许多以C++为乐的人更喜欢以编辑的模式进行编码。Visual C++ 4.0的出现，在C++这个战场上，Borland开始落败了。 
+
+　　MFC发展到今天，已经十多年了，尽管褒贬不一，但可以肯定，十几年的技术积累已经奠定了MFC的生存基础，即使Microsoft的长角发布，MFC也不能推出Windows的舞台，事实上，长角（Longhorn）之后的Visual Studio .NET仍将MFC作为一个重要的组成部分，在今年的Visual Studio .NET 2005中，MFC在C++中的位置依然如故。MFC的未来，应该不必担心，只要你深入考察.NET类库，你会发现，MFC的许多思想机制正悄然进入.NET，与此同时，Microsoft的第三方盟友十多年来已为MFC开发了大量的扩展库，如果Microsoft是船，第三方盟友就是载舟之水。许多人认为MFC不发展了，其实是一种错觉，Visual C++ 6的界面十分经典，特别是其中的Docking控制条机制，其实Visual C++ 6的IDE完全就是MFC写的，可是MFC类库中控制条相关的类功能很弱，为什么？你会看到许多与Microsoft友好的公司，他们很快的在MFC基础上实现了Visual C++ 6 的Docking机制，这就是Microsoft的高明之处，Microsoft很会给盟友提供机会，其一贯的做法就是在自己的商品化产品中预先提供一些有趣的特征，使得其他一些公司进行模仿以带动用户群体。Borland不具备这样的储备。MFC第三方市场的繁荣，得益于Microsoft的策略与明智。MFC可否跨平台？理论上完全可以，Microsoft不做，也是策略，但是有许多重要的产品Microsoft却默许MFC移植到其他平台，事实上，Microsoft的合作伙伴之一Mainsoft公司（Windows源码就是从这家公司流失的），几年来就是负责移植MFC程序移植到UINIX、Linux、AIX等操作系统之上。 
+
+　　新版的Visual C++中MFC已经支持.NET开发了，MFC与ATL的协作更好了。根据我的经验，MFC、ATL与.NET库三者完全可以融合在一起综合应用到实际的开发工作中去，如果你是MFC行家，我希望ATL与.NET库能成为你的忠实的左右手。那么有没有同时支持MFC、ATL与.NET库的程序？当然有，Visual Studio .NET IDE就是！而且Visual Studio .NET IDE还支持用ATL与.NET库扩展的Addin。
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:50:22 2005)  提到:
+
+认识Application对象 
+
+　　如果你熟悉Microsoft Office，你应该进一步的剖析这个大型软件，Microsoft Office中几乎每个程序都是可二次开发的，这一点得益于Microsoft Office内置的二次开发机制，一个是基于COM机制的VBA模型，另一个是基于.NET框架的托管模型：Visual Studio Tools for Office。作为一名程序员，你应当在技术角度解析Office的技术结构。Microsoft的大多数软件的对象结构可以通过Visual Studio提供的工具OLE/COM Object Viewer考察其类型库得到，通过引用类型库，你甚至可以得到描述对象信息的C++头文件。这样做真是好处多多。一个典型的Office通常都有一个Application对象（或其他一个与之相当的对象），这个对象相当于软件枢纽，在这里，我们不讨论Office，借此话题说说Application对象。大多数支持扩展（Addin、Plugin）的软件都存在类似的构造。通常，一个系统得Application对象或者是一个COM对象，或者是一个.NET对象，如果你的系统存在这类对象，你的系统就基本具备支持Addin、Plugin的机制了。一个理想的做法就是在一个MFC系统中，内置一个ATL对象或.NET对象，稍后我们给出方案如何做到这一点。设计Application对象的关键是如何规划这个对象的属性、方法、事件。如果你希望系统具备良好的扩展性，Application对象是十分关键的，这也是构架艺术的体现。所谓Addin(Plugin)，是系统运行时根据需要加载的对象库，Addin(Plugin)之所以可以扩展系统，关键的因素就是系统加载Addin(Plugin)时，将Application对象传递给Addin(Plugin)库，设想一下，如果Application恰到好处的触发了系统事件，而Addin(Plugin)库如愿的解释了事件，一个Addin(Plugin)库的任务不就OK了吗！因此Application对象是系统设计的关键。 
+
+　　如果你精通ATL对象，在你的MFC系统中添加一个ATL对象，这个任务可以用VC Wizard完成。你已经接受了一个事实，就是MFC程序中存在一个CXXXApp对象（CWinApp的派生类），现在你要做的是增加一个对应得ATL对象。这个对象可以在CXXXApp::InitInstance()中创建，如果ATL对象的类是CXXXAppObject，建议你在CXXXApp对象对象中增加一个成员变量，例如：CComObject * m_pAppObj，然后可以入下初始化m_pAppObj： 
+
+　　m_pAppObj = new CComObject ； 
+
+　　注意程序结束时在CXXXApp::ExitInstance()中释放m_pAppObj，语句如下： 
+
+　　delete m_pAppObj； 
+
+　　你可以将系统得关键属性设置成CXXXAppObject的属性，例如系统得标题、是否为多文档等等。系统希望外部调用的功能可以实现为CXXXAppObject的方法，这一点取决于你的需要。系统需要外部扩展的功能，表现为CXXXAppObject的事件，关键是在恰当的位置触发事件以及提供的事件参数。例如，你可以在CXXXApp::InitInstance()触发应用程序开始的事件OnStartUp，Plugin捕获事件后，可以进行特定的初始化（身份确认、初始信息查询等等）； 
+
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:51:34 2005)  提到:
+
+你可以在CXXXApp::ExitInstance()触发应用程序结束事件，Plugin捕获事件后，处理用户需要的系统退出工作。所有的设计取决于具体设计。 
+
+　　如何加载Plugin，是一个有趣的问题，如果Plugin实现为一个COM范畴（Category），可以运用COM技术枚举这个Category；可以将Plugin安装到一个特定目录，也可以通过注册表。Plugin的实现可以用COM技术、也可以用.NET框架。适当的机会我会提供例子…… 
+
+　　一些感想 
+
+　　一时心血来潮，就发了这个帖子，很难说是有心，还是无意。几天前我在新浪网上看应氏杯围棋决赛，我觉得该赢了吧，作为一个围棋迷，我们等了十几年，等到了属于国人的应氏杯。记得7、8年前在还在大学工作的时候，有一次，一位同事兴致冲冲的走道我面前对我说：“嗨，昨天马XX赢了李昌镐！”，当时我在系办公室正在看报纸，那位仁兄见我头都没抬，非常不满的抢下报纸，对我吼道：“喂！马XX赢了李昌镐！！你听到没有！！！”，我对他说：“你大惊小怪个啥？！马XX输了李昌镐多少盘，你知道吗？”，马XX几乎一直在输给李昌镐，人们已经不奇怪了，偶尔赢一次，国人就把他捧得北都找不到了，李昌镐弱冠17的时候就傲视这个世界了，可至今面孔不变，几天前的农心杯，中日联军5个人，被他打个落花流水，李昌镐是公认的世界第一，以至于有的高手知道下一个对手如果是他，就会去订回程机票。这次应氏杯，国人竟然感谢崔哲瀚，何也？因为这个弱冠19的小子，挡住了他的大哥李昌镐才使得应氏杯有了悬念。当国人媒体在说韩国仅李昌镐一人厉害的时候，不知道是出何居心还是自欺欺人，李昌镐年方30，不知道要力压中、日多少年！面对这个名字，真有点麻木了，这个太极虎！软件界又来了我们一向不齿的印度虎，2001年我们的软件出口额仅是印度的四十分之一，我们震惊了，怎么可能呢？这个四十分之一水分很大，很可能更可怜！当时我在大连参加一个关于“大连软件出口国内第一”的官方会议，那位大人在会上说：“据说，我们大连软件出口国内排名第一，市有关领导希望今天的会议给出这个第一的数字依据，希望你们把数据报上来，去年的数据也可申报，注意，我们要的只是数据，你们仔细体会，我们根据数据，有奖励，机会难得呀！”……。某一天，几个朋友在我家看央视的对话节目，对话一方为国内的软件大鳄们（用友、阿尔派等公司的老总们），另一方为印度软件的一个代表团。当问及中、印软件差距的时候，我们的刘老总（代表阿尔派）不以为然的说，据他的看法，我们已经快赶上（印度）了，……，言下之意颇有印度的水平不过如此的感觉，印度方的话我至今记忆犹新：“是否赶上，国际市场说的算！在中国看来，印度程序员的个性不足，技术也不怎么样，其实是个错觉，印度软件首先注重个性，许多重要的美国商品化软件都是在印度本土开发的……”，我们的舆论总是将印度程序员的水平描述的平庸至极，可是差距日渐拉开，……，围棋、足球（不好意思谈，谈不出口！）、软件，我们被近邻严酷的封锁了，乐坏了记者们、给媒体带来了生机…… 
+
+　　日本江户时代的围棋，如果一个人要想世袭一个称号（例如：本因坊），他必须战胜所有的师兄弟，然后，住进师父家的内室，你知道以后的事情吗？以后，这个棋手，就得为师父一家做饭、带孩子、搞卫生……，其余的门人则一心一意的下棋，这样的人、方式，造就了一代一代的本因坊，他们的棋谱大多数都流芳至今，这就是早期日本围棋的悟道模式。软件总共有多少语句？我最早接触的计算机软件教材是一本英文版的（影印的D版），不同于我们，那本书的作者构造了“X-语言”，他们不讲什么C、Pascal、Basic，一旦缺了什么机制，就给“X-语言”添加些成分。什么C、Pascal、Basic，你感觉差不多，但现在却分出了等级！我们驾驭语言的能力弱得很，可是我们在语言的细微之处却很讲究，不知道对不对，许多程序员也许是出于虚荣而用C++，事实上，地球人都知道，做数据库，Delphi、VB远比C++胜任，铺天盖地的C++的书，写的东西几乎雷同，因为，有用的或者作者不写、或者作者不懂。有时我在想，如果国内没有内需，会怎样？也许软件内需的存在，造就了中国软件的特色，我认为国内业界并没有充分利用中国软件内需的存在，也许中国软件内需的存在是软件落后的硬伤。 
+
+　　我记得一部电影《神辫》，那个英雄的大辫子被洋人炸掉了，最终他成了神枪手，战胜洋人用大刀、秘籍是不行的，用洋的东西战胜洋的技术才是正道。我觉得，一个好的程序员必须了解软件的历史，学习历史，你知道你为什么弱，别人是如何强大的。我们正在另一个战场上抗美（可笑的是我们却要赶超印度！），无论Microsoft、Borland如何争斗，无论他们谁统治谁，他们不影响美国的强大，朋友们，学习Microsoft，开发出让国人感到牛的软件！ 
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:52:03 2005)  提到:
+
+FireFox与Microsoft 
+
+　　FireFox在一片赞扬、欢呼声中激情登场了，也许人们真的期待已久，平静的水面终于被扔进一块石头。我是IE的最早期的用户了，1996年首次Microsoft的TED（技术教育大会），IE4还没有发布时候，我们有机会目睹了内部版本的IE4（当时内部名称是：纳什维尔，英文名称忘记了），那真是一次令人激动的预览，当时IE3与Navigator 3激战正酣。当你第一次看到想象中的“Active Desktop”，如果你没有身临其境，你不会激动。IE4本质上是一个Shell，其SDK是免费的，Navigator是基于Mozilla的浏览器，虽然是开源的，由于要照顾更大的共性（与操作系统无关），因此Mozilla不能充分的利用Windows的优势，Mozilla不能为广大的程序员带来所谓开发人员的“快感”，顶尖程序员可以驾驭Mozilla，以实现技术深度带来的乐趣，最早的Navigator同时提供17个版本（注意：不是17种自然语言，而是17种操作系统），从数学角度分析，Mozilla就像一组公理，你可以以此为基础开发不同操作系统上的浏览器，Navigator就是基于Mozilla的一个漂亮的结果，你能欣赏到代码结构的优美，然而失去的却是功能强大的个性（要知道，Windows用户在数量上远大于其他操作系统用户的总和）。普通用户不可能读懂Mozilla的代码，即使懂了也不能很好的运用，这也许是Mozilla（以及大多数开源代码）失败的致命原因之一。IE内核聪明的抓住了开发者，你想想：对数以万计的中、初级开发者而言，容易驾驭是首选的选择，也是明智的。我读过Mozilla，但我不会在开发过程中为一个具体的项目应用它。只要是浏览器，就不可能绝对的安全，无论是Mozilla，还是IE。当我了解到FireFox是基于Mozilla的一个新的浏览器，我基本上对其失去了信心，我有一个奇怪的观点：FireFox的推出，最大的受益者绝对是Microsoft，即使Microsoft失去20%的份额，但是会导致Microsoft强化IE，Microsoft正不知道如何促使IE进化的时候，FireFox的出现无疑为Microsoft提供了机会，物种进化的原则就是竞争，FireFox就是促进IE进一步强大的催化剂。FireFox的扩展机制的确十分灵活，如果对手不是Microsoft，就很难掀起波澜，而且当高级的开发者逐渐了解FireFox的时候，FireFox的漏洞就会渐渐暴露，试想想，如果某种Linux取代了Windows，那么，它的漏洞也会与Windows一样多，因为那个时候，会有与研究Windows漏洞一样多的人去研究对应得Linux的漏洞！从个人的角度上看，Microsoft也许有点“冤”，因为窥视Microsoft弱点的人实在太多了。从理论上看，计算机安全性是个永远的话题，就像任何社会都需要警察一样，没有了小偷、贼、犯罪，警察也就消失了，你想想，文明是什么？野蛮能消失吗？野蛮消失了，文明也就不存在了，高度文明就是更不存在了。人类克服了癌症，下一个疾病会比癌症更致命，但这并不意味着不必克服了癌症，进步真是一种挑战…… 
+
+　　IE的技术构思肯定是个卓越的构思，IE可扩展的机制，会给Windows开发者带来许许多多的益处。我正在计划一片文章，介绍如何将你的对象模型与MSHTML库实现对接，这样，在HTML文件中可以将你的指令系统与HTML对象模型融合在一起。 
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 09:52:33 2005)  提到:
+
+话说“Hook” 
+
+　　在CSDN上时常看到关于“hook”，的问题，令我想起另一个话题，那就是游戏“外挂”。Hook提供一种改变一个Windows窗口消息处理的一种手段，通常的开发根本用不到，因此，谈不上“常用”，早期的Windows，由于不能很好的支持远东（当然包含汉字）地区的文字，因此出现了许多外挂的软件补充Windows的不足，中文之星是一个典型的、令国人自豪的软件，监控软件也许要运用hook技术，此外，很难想象什么软件会用到hook。有人问我，能不能改变一个进程的数据处理行为，我曾经告诉他：能，也不能！感觉告诉我，hook绝大多数场合下是一种“不礼貌”的行为。曾有一段时间，我的服务器，经常有人悄悄地近来，给我增加许多超级用户，肆意修改我的管理权限，我找到托管商，解决了这个问题，那时，我也买了几本服务器监听、安全方面的书，看了几天，我就放弃了，为什么？担心学坏（正、邪仅在一念之差），其实，每个服务器都很脆弱，对有经验的系统程序员而言，安全性与道德准则是联系在一起的，软件技术上走邪路很容易，有时我会想，如果我去设计病毒或者当黑客，会怎样？基础数学出身的我，数论、组合学、密码理论统统不是问题，Windows虚拟驱动程序开发，也不是问题！为什么那么多的人关心hook？国人的正道软件寥寥无几，可破解术却出神入化，可惜，可惜！hook是一种底层的编成机制，能理解好hook的人，完全具备掌握一流技术的底蕴，真希望回头…… 
+
+　　MFC的批判 
+
+　　记得梁羽生先生笔下有一位正邪兼修的高手，名曰“乔北溟”（好像是这个名字），一次此人与大侠张丹枫在一个庙中相遇，乔北溟随手操起香案上的香炉，张丹枫问他：“你的家伙称手吗?” ，乔北溟笑答：“以吾辈之见识，还在意手中之物是否为剑？”，张丹枫一愣，心中暗念，此人果然不同凡响…… 
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 21:37:09 2005)  提到:
+
+说起MFC，许多人都会撇撇嘴，高手们会对其提出许多尖锐的批评，例如，刻板的Document-View机制，繁复的框架结构，怪异的COM实现以及令人莫名其妙的宏，等等。MFC的大而全，不仅捆住了MFC开发组的手脚，也为全面掌握MFC的愿望设置了障碍。高手们批评之余，可能忽略了一个基本的事实，这个事实就是，你的批评来自于你对MFC的深入理解，当许多人指出MFC的种种弱点时，他们或许不愿意承认：他们的技高一筹、见识超人一等是MFC带来的，不止一次有人与我谈及：“MFC的COM实现，实在差劲，看看ATL（不容否认，ATL至今仍然是开发COM的最佳C++类库），你就会感觉MFC的臃肿……”，我们中的许多人潜意识里不知不觉的在作一件事：“当我们借助一部梯子登上一层楼的时候，我们会评价这个梯子是如何如何之糟糕。”1999年，我的一个项目中需要一个描述引擎，VBS（Visual Basic Script），是个免费的语言引擎，但功能局限极大，我联系了美国的Summit公司，他们很快寄来了Microsoft的Visual Basic for Application SDK 6.0，当时我的团队可谓很强，其中的几位研究生C++修养很好，拿到VBA SDK时，他们对我说：“应当没问题，我们很快就会搞定VBA SDK”，可是几天过去了，连个例子都没出来，原来，虽然VBA SDK提供了MFC扩展类库（基于模版机制的MFC/ATL合成类库），可实现得极其别扭，我接手后的当天晚上，VBA 的IDE就集成到系统中，第二天可编程对象顺利出现在VBA 的IDE中，其余人觉得很奇怪，一看代码，原来我绕过Microsoft的例子，完全是另外的实现途径，那个时候，我感觉到，Microsoft这个家伙真的可恶，本来清晰的集成途径，却人为的让你绕来绕去增加技术难度，过后想想，也可以理解，不这样，第三方的Summit何以作技术支持？我经常想，如果没有商业利益，许多技术应当十分简洁、高效，这一点，Microsoft以及其他大公司都十分明白，如果一切都是最佳的实现模式，可能就另外一种局面了，复变函数论中有一个著名的定理：“复平面上处处解析的函数一定是常值函数。”， 学生们很难理解，当时我说，如果把一个省几十个县的最好学生组成一个班会怎样？结果是一定有一个较差的学生（除非这个班只有一个学生！），这是个无法抗拒的定则，你想想，用天下最好的20个菜形成的酒席是什么味道？那一定是最差的！ 
+
+　　Microsoft的MFC是值得你学习和使用的，如果你讨厌这个东西或者你认为这是个邪恶的东西，你学学乔北溟，实现正邪归一…… 
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 21:38:07 2005)  提到:
+
+有感于“鸡兔同笼” 
+
+　　小女初到北京时，对北京的教育颇为不适，铺天盖地的数学奥赛培训班向她压过来，孩子真是辛苦。她四年级时，就的对初等数论的基本内容进行强迫性的熟悉，还好，经过一段时间的努力，掌握了“鸡兔同笼”、“韩信点兵”等中国经典，马马虎虎的能证明费马小定理，有一天，她问我：“爸爸，大学数学什么样？还有‘鸡兔同笼’吗？”，我说，有，我特意找了本老外写的《Basic Algebra》，找到其中的“中国剩余定理”，小孩子接着问道：“这本书中还有中国人的数学内容吗？”，我在习题中给她找到华罗庚老先生的“反同构定理”，小孩子又接着问：“还有吗？”，我感到很没面子，因为真的找不到了…… 
+
+　　曾经的一个梦，就是当一个数学家！为此，研究生时期买了大量的数学书，当时我们系的资料室是联合国教科文组织的藏书室，可以说，里面就是一个装满武功秘籍的宝库。有一天我们打扫资料室的一个仓库，仓库里全是鼓鼓囊囊的麻袋包，上面落满灰尘，手触摸一下，能粘出几毫米厚的灰尘，可以想象有几年没有打扫了。同学无意中揭开一个麻袋，我们惊呆了，里面是美国60年代各大学的数学杂志，每个杂志的名字都是响当当的，那真叫浩如烟海！当时我们就想，我们的论文能发表到其中吗？如果侥幸发了几篇，可想而知，我们就可以当博导了，这些比国内所谓核心期刊有分量得多的杂志，就像CSDN上的帖子一样，很快就会被淹没了，也许很久都不会有人参考、访问……，有一天，我也当了老师，面临着种种考核，于是，我们就成了论文机器，不论是否有价值，只要是核心的，你就高人一等。那个时候，我经常想起那些麻袋里的文献…… 
+
+　　我们整体水平的落后，导致整体的浮躁，数量上上去了，质量却下来了。若干年后，也许我成熟了，我们这些曾经站在大学讲坛上的人，没什么好的东西讲（谈不上 ‘教’）给年轻的学生，记得当年我校的计算中心计划招个培训班，几天过去，仅有7人报名，第8人来时，前7人就退了3人，主任感到奇怪，问学生，学生不语，其中原委并不复杂。我发此帖并没有精心策划，的确如某些网友所言是随感而发，“鸡兔同笼”、“勾股定理”已经有了历史地位，如果仅仅够用，我们住草房子一样保暖，为何建大厦呢？为什么放弃传统的长袍、马褂而去穿西装革履？病毒软件大战几乎是自杀性的内战，没有撼动国外产品的分毫，我们许多人喜欢对自己人说三道四，是不是很少想一致对外？人家卖我们打折的产品，条件是附加一份“忏悔书”，而执行者却是我们国人，为什么？因为我们的东西匮乏！当年别人用钢铁武器掠夺了我们的财富，他们强大了，地痞无赖换上了绅士面孔，讲起了法律，当你用D版时，人家文明的指责你，你的人力、财力、物力统统为人所用，取之于你用之于你，而我们却依然陶醉在“鸡兔同笼”、“勾股定理”的历史成就之中，我们依然喜欢争论“勾股定理”谁发现得更早，π是谁最先精确计算的，就像谈论C++谁的水平更高一样。
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 21:38:49 2005)  提到:
+
+想起西太后……
+
+　　据说，西太后垂帘时期，洋人曾送给她一量火车，慈禧看过后，大骇，以为妖魔……。火车进入中国，最初可能也是引起争议的，大多数百姓都对此怀有惧怕的心理，时间长了，也就自然而然的接受了。
+
+　　想想Windows，最早也就是1983-1984年间出生的，到现在充其量也就20几岁，Linux大概比Windows小十岁。Windows来自一个贵族家庭，家长是Microsoft；Linux来自一个单身“母亲”，成长环境是一个社会，正可谓一个是贵族娇儿、一个是山野村夫。在洋人的世界里，Windows与Linux正如火如荼的争斗着，就跟人类历史上贵族与平民之间的争斗一样。我们很看不惯许多贵族娇儿，往往拿平民子弟的良好习惯与之比较，这一点都不奇怪。然而，我们平民阶层却有培养贵族的愿望，Linux社会也是如此，Linux社会已经分化出许多贵族了，为了各自的利益，面和心不和的联盟不知结了多少回，历史告诉我们，如果Windows死了而且如果Linux社会繁荣了，Linux社会就会出现一个贵族来接替Windows（叫不叫Windows无所谓，改朝换代吗）。某次，与国内一著名软件研究所的几个朋友一起进餐，谈到了Linux，话题自然很多，话题之一就是中国的Linux，朋友们笑曰：“……，自主知识产权的操作系统，也就是对开源代码内核的汉化，……”。人们可以列举许多关于Linux的强大之处，比如著名的电影《泰坦尼克》的特技制作，高性能计算Linux操作系统占据绝对主动等等……，其实对了解Linux的人而言，这一点并不奇怪：为某一特定的任务定制的Linux很容易剔除许多不必要的服务，这就好比轻装上阵，事实上，如果可以将许许多多的不必要的“虚拟”服务卸掉，Windows的性能并不差（Windows要加载许多虚拟服务），其实，即使Linux专家也承认，如果Windows允许向Linux一样可以按要求订制，许多弱点也许就不存在了，但市场也就是另一回事了。
+
+　　回到我们国人的立场，本人以为，没必要太多的对比Windows、Linux，如果我们Linux领域很强或者我们创造了Linux（毕竟这些都是洋玩意儿），倒也罢了，事实上，我们在Linux领域也不比Windows领域光彩多少，我们的许多人愿意用Linux说话，可是我们在Linux上拿出让我们立足的工作了吗？看看Linux社区就知道了！我们为什么不能把Windows、Linux都当作进入中国的两种新型火车而客观对待呢？在外交礼仪、航海公约以及种种标准等方面，我们已经潜移默化的接受了，为什么？因为我们弱势。Linux也是别人的，与Windows没什么区别。我们真正应该做的，是接受并使自己强大，许多网友给我回信，认为我的观点偏激或奉Microsoft为神，其实不对！只有认识一个强大的令你敬佩的敌人，你才有激情去强大自己。谈论Microsoft越多，其实客观上是对其承认越深，如果Microsoft不够强，就没必要拿它说话或对比，Microsoft给世界带来太多的负担，任何一个操作系统想战胜它，前提是必须兼容它给这个世界已经带来的积累，因此Microsoft很可能是无疾而终，铁木真的王国，是巨大无比的（据说他要讨伐一个对象，路上要在他的疆土内走上一年的时间），可并没有谁灭了这个王国，是自己灭的。我们认为铁木真是中国历史上的人物，可是有些国家认为是他们历史上的人物。其实只要客观对待Windows、Linux，能够正确定位他们的应用环节，Windows、Linux就都是好的东西！
+
+
+
+☆─────────────────────────────────────☆
+   flyuphigh (北邮人) 于  (Mon Jun  6 21:39:31 2005)  提到:
+
+我们应当更多的看到，IBM、Microsoft等的崛起，是公司行为，这些公司为美国创造的不仅仅是辉煌，而是国力！我们的软件，依赖国家行为的投资（我们的软件研究所拿出什么来了？），靠国家的资助，却抱怨别人在垄断，多可笑！我们应当搞清楚我们在食物链中的层次，然后再指责别人。你不强大，你就受人欺负，拳头是硬道理。看看我们的北大青鸟，如果你看了他们的组件工厂的论述，你会觉得这是世界上最好的东西，可是你看到市场上北大青鸟在干嘛？我们有太多的自欺欺人的东西，有太多的世界领先、国内首创的鉴定，可是回头来，我们不得不清醒了……
+如果大家有好的建议，请与我联系（sunhui@mail.apptemplate.com、sunhuizlz@yeah.net）,如果有北京的朋友肯帮忙协助，在下不胜感激，希望得到大家的支持！
+
+
+ 【文章标题】：[ZT]C++风格与技巧 【文章地址】：https://bbs.byr.cn/article/SoftDesign/104 【创建时间】：2005-04-27 【作者】：UnrealT 【评论】：0 【内容】：发信人: UnrealT (wahaha), 信区: SoftDesign
+标  题: [ZT]C++风格与技巧
+发信站: 北邮人论坛 (Wed Apr 27 20:49:59 2005), 站内
+
+C++风格与技巧
+
+（译注：本文的翻译相当艰苦。Bjarne Stroustrup不愧是创立C++语言的一代大师，不但思想博大精深，而且在遣词造句上，也非常精微深奥。有很多地方，译者反复斟酌，都不能取得理想的效果，只能尽力而为。 
+
+Html格式的文档见译者主页：<a target="_blank" href="http://www.wushuang.net">http://www.wushuang.net</a>
+
+如果你对这个翻译稿有任何意见和建议，请发信给译者：onekey@163.com。
+
+原文的地址为：<a target="_blank" href="http://www.research.att.com/~bs/bs_faq.html">http://www.research.att.com/~bs/bs_faq.html</a>）
+
+
+（Bjarne Stroustrup博士，1950年出生于丹麦，先后毕业于丹麦阿鲁斯大学和英国剑挢大学，AT&amp;T大规模程序设计研究部门负责人，AT&amp;T 贝尔实验室和ACM成员。1979年，B. S开始开发一种语言，当时称为"C with Class"，后来演化为C++。1998年，ANSI/ISO C++标准建立，同年，B. S推出其经典著作The C++ Programming Language的第三版。）
+
+
+这是一些人们经常向我问起的有关C++的风格与技巧的问题。如果你能提出更好的问题，或者对这些答案有所建议，请务必发Email给我(bs@research.att.com)。请记住，我不能把全部的时间都花在更新我的主页上面。
+
+
+更多的问题请参见我的general FAQ。
+
+
+关于术语和概念，请参见我的C++术语表（C++ glossary.）。
+
+
+请注意，这仅仅是一个常见问题与解答的列表。它不能代替一本优秀教科书中那些经过精心挑选的范例与解释。它也不能象一本参考手册或语言标准那样，提供详细和准确的说明。有关C++的设计的问题，请参见《C++语言的设计和演变》（The Design and Evolution of C++）。关于C++语言与标准库的使用，请参见《C++程序设计语言》（The C++ Programming Language）。
+
+
+目录：
+
+我如何写这个非常简单的程序？
+
+为什么编译要花这么长的时间？
+
+为什么一个空类的大小不为0？
+
+我必须在类声明处赋予数据吗？
+
+为什么成员函数默认不是virtual的？
+
+为什么析构函数默认不是virtual的？
+
+为什么不能有虚拟构造函数？
+
+为什么重载在继承类中不工作？
+
+我能够在构造函数中调用一个虚拟函数吗？
+
+有没有“指定位置删除”(placement delete)？
+
+我能防止别人继承我自己的类吗？
+
+为什么不能为模板参数定义约束（constraints）？
+
+既然已经有了优秀的qsort()函数，为什么还需要一个sort()？
+
+什么是函数对象（function object）？
+
+我应该如何对付内存泄漏？
+
+我为什么在捕获一个异常之后就不能继续？
+
+为什么C++中没有相当于realloc()的函数？
+
+如何使用异常？
+
+怎样从输入中读取一个字符串？
+
+为什么C++不提供“finally”的构造？
+
+什么是自动指针（auto_ptr），为什么没有自动数组（auto_array）？
+
+可以混合使用C风格与C++风格的内存分派与重新分配吗？
+
+我为什么必须使用一个造型来转换*void？
+
+我如何定义一个类内部（in-class）的常量？
+
+为什么delete不会将操作数置0？
+
+我能够写“void main()”吗？
+
+为什么我不能重载点符号，::，sizeof，等等？
+
+怎样将一个整型值转换为一个字符串？
+
+“int* p”正确还是“int *p”正确？
+
+对于我的代码，哪一种布局风格（layout style）是最好的？
+
+我应该将“const”放在类型之前还是之后？
+
+使用宏有什么问题？
+
+
+我如何写这个非常简单的程序？
+
+
+特别是在一个学期的开始，我常常收到许多关于编写一个非常简单的程序的询问。这个问题有一个很具代表性的解决方法，那就是（在你的程序中）读入几个数字，对它们做一些处理，再把结果输出。下面是一个这样做的例子：
+
+
+#include&lt;iostream&gt;
+
+#include&lt;vector&gt;
+
+#include&lt;algorithm&gt;
+
+using namespace std;
+
+
+int main()
+
+{
+
+vector&lt;double&gt; v;
+
+
+double d;
+
+while(cin&gt;&gt;d) v.push_back(d); // 读入元素
+
+if (!cin.eof()) { // 检查输入是否出错
+
+cerr &lt;&lt; "format error\n";
+
+return 1; // 返回一个错误
+
+}
+
+
+cout &lt;&lt; "read " &lt;&lt; v.size() &lt;&lt; " elements\n";
+
+
+reverse(v.begin(),v.end());
+
+cout &lt;&lt; "elements in reverse order:\n";
+
+for (int i = 0; i&lt;v.size(); ++i) cout &lt;&lt; v[i] &lt;&lt; '\n';
+
+
+return 0; // 成功返回
+
+}
+
+
+对这段程序的观察：
+
+
+这是一段标准的ISO C++程序，使用了标准库(standard library)。标准库工具在命名空间std中声明，封装在没有.h后缀的头文件中。
+
+
+如果你要在Windows下编译它，你需要将它编译成一个“控制台程序”（console application）。记得将源文件加上.cpp后缀，否则编译器可能会以为它是一段C代码而不是C++。
+
+
+是的，main()函数返回一个int值。
+
+
+读到一个标准的向量(vector)中，可以避免在随意确定大小的缓冲中溢出的错误。读到一个数组(array)中，而不产生“简单错误”(silly error)，这已经超出了一个新手的能力——如果你做到了，那你已经不是一个新手了。如果你对此表示怀疑，我建议你阅读我的文章“将标准C++作为一种新的语言来学习”("Learning Standard C++ as a New Language")，你可以在本人著作列表(my publications list)中下载到它。
+
+
+!cin.eof()是对流的格式的检查。事实上，它检查循环是否终结于发现一个end-of-file(如果不是这样，那么意味着输入没有按照给定的格式)。更多的说明，请参见你的C++教科书中的“流状态”(stream state)部分。
+
+
+vector知道它自己的大小，因此我不需要计算元素的数量。
+
+
+这段程序没有包含显式的内存管理。Vector维护一个内存中的栈，以存放它的元素。当一个vector需要更多的内存时，它会分配一些；当它不再生存时，它会释放内存。于是，使用者不需要再关心vector中元素的内存分配和释放问题。
+
+
+程序在遇到输入一个“end-of-file”时结束。如果你在UNIX平台下运行它，“end-of-file”等于键盘上的Ctrl+D。如果你在Windows平台下，那么由于一个BUG它无法辨别“end-of-file”字符，你可能倾向于使用下面这个稍稍复杂些的版本，它使用一个词“end”来表示输入已经结束。
+
+
+#include&lt;iostream&gt;
+
+#include&lt;vector&gt;
+
+#include&lt;algorithm&gt;
+
+#include&lt;string&gt;
+
+using namespace std;
+
+
+int main()
+
+{
+
+vector&lt;double&gt; v;
+
+
+double d;
+
+while(cin&gt;&gt;d) v.push_back(d); // 读入一个元素
+
+if (!cin.eof()) { // 检查输入是否失败
+
+cin.clear(); // 清除错误状态
+
+string s;
+
+cin &gt;&gt; s; // 查找结束字符
+
+if (s != "end") {
+
+cerr &lt;&lt; "format error\n";
+
+return 1; // 返回错误
+
+}
+
+}
+
+
+cout &lt;&lt; "read " &lt;&lt; v.size() &lt;&lt; " elements\n";
+
+
+reverse(v.begin(),v.end());
+
+cout &lt;&lt; "elements in reverse order:\n";
+
+for (int i = 0; i&lt;v.size(); ++i) cout &lt;&lt; v[i] &lt;&lt; '\n';
+
+
+return 0; // 成功返回
+
+}
+
+
+更多的关于使用标准库将事情简化的例子，请参见《C++程序设计语言》中的“漫游标准库”("Tour of the Standard Library")一章。
+
+
+为什么编译要花这么长的时间？
+
+
+你的编译器可能有问题。也许它太老了，也许你安装它的时候出了错，也许你用的计算机已经是个古董。在诸如此类的问题上，我无法帮助你。
+
+
+但是，这也是很可能的：你要编译的程序设计得非常糟糕，以至于编译器不得不检查数以百计的头文件和数万行代码。理论上来说，这是可以避免的。如果这是你购买的库的设计问题，你对它无计可施（除了换一个更好的库），但你可以将你自己的代码组织得更好一些，以求得将修改代码后的重新编译工作降到最少。这样的设计会更好，更有可维护性，因为它们展示了更好的概念上的分离。
+
+
+看看这个典型的面向对象的程序例子：
+
+
+class Shape {
+
+public: // 使用Shapes的用户的接口
+
+virtual void draw() const;
+
+virtual void rotate(int degrees);
+
+// ...
+
+protected: // common data (for implementers of Shapes)
+
+Point center;
+
+Color col;
+
+// ...
+
+};
+
+
+class Circle : public Shape {
+
+public: 
+
+void draw() const;
+
+void rotate(int) { }
+
+// ...
+
+protected:
+
+int radius;
+
+// ...
+
+};
+
+
+class Triangle : public Shape {
+
+public: 
+
+void draw() const;
+
+void rotate(int);
+
+// ...
+
+protected:
+
+Point a, b, c;
+
+// ...
+
+}; 
+
+
+设计思想是，用户通过Shape的public接口来操纵它们，而派生类（例如Circle和Triangle）的实现部分则共享由protected成员表现的那部分实现（implementation）。
+
+
+这不是一件容易的事情：确定哪些实现部分是对所有的派生类都有用的，并将之共享出来。因此，与public接口相比，protected成员往往要做多得多的改动。举例来说，虽然理论上“中心”(center)对所有的图形都是一个有效的概念，但当你要维护一个三角形的“中心”的时候，是一件非常麻烦的事情——对于三角形，当且仅当它确实被需要的时候，计算这个中心才是有意义的。
+
+
+protected成员很可能要依赖于实现部分的细节，而Shape的用户（译注：user此处译为用户，指使用Shape类的代码，下同）却不见得必须依赖它们。举例来说，很多（大多数？）使用Shape的代码在逻辑上是与“颜色”无关的，但是由于Shape中“颜色”这个定义的存在，却可能需要一堆复杂的头文件，来结合操作系统的颜色概念。
+
+
+当protected部分发生了改变时，使用Shape的代码必须重新编译——即使只有派生类的实现部分才能够访问protected成员。
+
+
+于是，基类中的“实现相关的信息”(information helpful to implementers)对用户来说变成了象接口一样敏感的东西，它的存在导致了实现部分的不稳定，用户代码的无谓的重编译（当实现部分发生改变时），以及将头文件无节制地包含进用户代码中（因为“实现相关的信息”需要它们）。有时这被称为“脆弱的基类问题”(brittle base class problem)。
+
+
+一个很明显的解决方案就是，忽略基类中那些象接口一样被使用的“实现相关的信息”。换句话说，使用接口，纯粹的接口。也就是说，用抽象基类的方式来表示接口：
+
+
+class Shape {
+
+public: //使用Shapes的用户的接口
+
+virtual void draw() const = 0;
+
+virtual void rotate(int degrees) = 0;
+
+virtual Point center() const = 0;
+
+// ...
+
+
+// 没有数据
+
+};
+
+
+class Circle : public Shape {
+
+public: 
+
+void draw() const;
+
+void rotate(int) { }
+
+Point center() const { return center; }
+
+// ...
+
+protected:
+
+Point cent;
+
+Color col;
+
+int radius;
+
+// ...
+
+};
+
+
+class Triangle : public Shape {
+
+public: 
+
+void draw() const;
+
+void rotate(int);
+
+Point center() const;
+
+// ...
+
+protected:
+
+Color col;
+
+Point a, b, c;
+
+// ...
+
+}; 
+
+
+现在，用户代码与派生类的实现部分的变化之间的关系被隔离了。我曾经见过这种技术使得编译的时间减少了几个数量级。
+
+
+但是，如果确实存在着对所有派生类（或仅仅对某些派生类）都有用的公共信息时怎么办呢？可以简单把这些信息封装成类，然后从它派生出实现部分的类：
+
+
+class Shape {
+
+public: //使用Shapes的用户的接口
+
+virtual void draw() const = 0;
+
+virtual void rotate(int degrees) = 0;
+
+virtual Point center() const = 0;
+
+// ...
+
+
+// no data
+
+};
+
+
+struct Common {
+
+Color col;
+
+// ...
+
+};
+
+
+class Circle : public Shape, protected Common {
+
+public: 
+
+void draw() const;
+
+void rotate(int) { }
+
+Point center() const { return center; }
+
+// ...
+
+protected:
+
+Point cent;
+
+int radius;
+
+};
+
+
+class Triangle : public Shape, protected Common {
+
+public: 
+
+void draw() const;
+
+void rotate(int);
+
+Point center() const;
+
+// ...
+
+protected:
+
+Point a, b, c;
+
+}; 
+
+
+为什么一个空类的大小不为0？
+
+
+要清楚，两个不同的对象的地址也是不同的。基于同样的理由，new总是返回指向不同对象的指针。
+
+看看：
+
+
+class Empty { };
+
+
+void f()
+
+{
+
+Empty a, b;
+
+if (&amp;a == &amp;b) cout &lt;&lt; "impossible: report error to compiler supplier";
+
+
+Empty* p1 = new Empty;
+
+Empty* p2 = new Empty;
+
+if (p1 == p2) cout &lt;&lt; "impossible: report error to compiler supplier";
+
+} 
+
+
+有一条有趣的规则：一个空的基类并不一定有分隔字节。
+
+struct X : Empty {
+
+int a;
+
+// ...
+
+};
+
+
+void f(X* p)
+
+{
+
+void* p1 = p;
+
+void* p2 = &amp;p-&gt;a;
+
+if (p1 == p2) cout &lt;&lt; "nice: good optimizer";
+
+}
+
+
+这种优化是允许的，可以被广泛使用。它允许程序员使用空类以表现一些简单的概念。现在有些编译器提供这种“空基类优化”(empty base class optimization)。
+
+
+我必须在类声明处赋予数据吗？
+
+
+不必须。如果一个接口不需要数据时，无须在作为接口定义的类中赋予数据。代之以在派生类中给出它们。参见“为什么编译要花这么长的时间？”。
+
+
+有时候，你必须在一个类中赋予数据。考虑一下复数类的情况：
+
+
+template&lt;class Scalar&gt; class complex {
+
+public:
+
+complex() : re(0), im(0) { }
+
+complex(Scalar r) : re(r), im(0) { }
+
+complex(Scalar r, Scalar i) : re(r), im(i) { }
+
+// ...
+
+
+complex&amp; operator+=(const complex&amp; a)
+
+{ re+=a.re; im+=a.im; return *this; }
+
+// ...
+
+private:
+
+Scalar re, im;
+
+};
+
+
+设计这种类型的目的是将它当做一个内建（built-in）类型一样被使用。在声明处赋值是必须的，以保证如下可能：建立真正的本地对象（genuinely local objects）(比如那些在栈中而不是在堆中分配的对象)，或者使某些简单操作被适当地inline化。对于那些支持内建的复合类型的语言来说，要获得它们提供的效率，真正的本地对象和inline化都是必要的。
+
+
+为什么成员函数默认不是virtual的？
+
+
+因为很多类并不是被设计作为基类的。例如复数类。
+
+
+而且，一个包含虚拟函数的类的对象，要占用更多的空间以实现虚拟函数调用机制——往往是每个对象占用一个字(word)。这个额外的字是非常可观的，而且在涉及和其它语言的数据的兼容性时，可能导致麻烦(例如C或Fortran语言)。
+
+
+要了解更多的设计原理，请参见《C++语言的设计和演变》（The Design and Evolution of C++）。
+
+
+为什么析构函数默认不是virtual的？
+
+
+因为很多类并不是被设计作为基类的。只有类在行为上是它的派生类的接口时(这些派生类往往在堆中分配，通过指针或引用来访问)，虚拟函数才有意义。
+
+
+那么什么时候才应该将析构函数定义为虚拟呢？当类至少拥有一个虚拟函数时。拥有虚拟函数意味着一个类是派生类的接口，在这种情况下，一个派生类的对象可能通过一个基类指针来销毁。例如：
+
+
+class Base {
+
+// ...
+
+virtual ~Base();
+
+};
+
+
+class Derived : public Base {
+
+// ...
+
+~Derived();
+
+};
+
+
+void f()
+
+{
+
+Base* p = new Derived;
+
+delete p; // 虚拟析构函数保证~Derived函数被调用
+
+}
+
+
+如果基类的析构函数不是虚拟的，那么派生类的析构函数将不会被调用——这可能产生糟糕的结果，例如派生类的资源不会被释放。
+
+
+为什么不能有虚拟构造函数？
+
+
+虚拟调用是一种能够在给定信息不完全(given partial information)的情况下工作的机制。特别地，虚拟允许我们调用某个函数，对于这个函数，仅仅知道它的接口，而不知道具体的对象类型。但是要建立一个对象，你必须拥有完全的信息。特别地，你需要知道要建立的对象的具体类型。因此，对构造函数的调用不可能是虚拟的。
+
+
+当要求建立一个对象时，一种间接的技术常常被当作“虚拟构造函数”来使用。有关例子，请参见《C++程序设计语言》第三版15.6.2.节。
+
+
+下面这个例子展示一种机制：如何使用一个抽象类来建立一个适当类型的对象。
+
+
+struct F { // 对象建立函数的接口
+
+virtual A* make_an_A() const = 0;
+
+virtual B* make_a_B() const = 0;
+
+};
+
+
+void user(const F&amp; fac)
+
+{
+
+A* p = fac.make_an_A(); // 将A作为合适的类型
+
+B* q = fac.make_a_B(); // 将B作为合适的类型
+
+// ...
+
+}
+
+
+struct FX : F {
+
+A* make_an_A() const { return new AX(); } // AX是A的派生
+
+B* make_a_B() const { return new BX(); } // AX是B的派生
+
+};
+
+
+struct FY : F {
+
+A* make_an_A() const { return new AY(); } // AY是A的派生
+
+B* make_a_B() const { return new BY(); } // BY是B的派生
+
+
+};
+
+
+int main()
+
+{
+
+user(FX()); // 此用户建立AX与BX
+
+user(FY()); // 此用户建立AY与BY
+
+// ...
+
+}
+
+
+这是所谓的“工厂模式”(the factory pattern)的一个变形。关键在于，user函数与AX或AY这样的类的信息被完全分离开来了。
+
+
+为什么重载在继承类中不工作？
+
+
+这个问题（非常常见）往往出现于这样的例子中：
+
+
+#include&lt;iostream&gt;
+
+using namespace std;
+
+
+class B {
+
+public:
+
+int f(int i) { cout &lt;&lt; "f(int): "; return i+1; }
+
+// ...
+
+};
+
+
+class D : public B {
+
+public:
+
+double f(double d) { cout &lt;&lt; "f(double): "; return d+1.3; }
+
+// ...
+
+};
+
+
+int main()
+
+{
+
+D* pd = new D;
+
+
+cout &lt;&lt; pd-&gt;f(2) &lt;&lt; '\n';
+
+cout &lt;&lt; pd-&gt;f(2.3) &lt;&lt; '\n';
+
+}
+
+
+它输出的结果是：
+
+
+f(double): 3.3
+
+f(double): 3.6
+
+
+而不是象有些人猜想的那样：
+
+
+f(int): 3
+
+f(double): 3.6
+
+
+换句话说，在B和D之间并没有发生重载的解析。编译器在D的区域内寻找，找到了一个函数double f(double)，并执行了它。它永远不会涉及（被封装的）B的区域。在C++中，没有跨越区域的重载——对于这条规则，继承类也不例外。更多的细节，参见《C++语言的设计和演变》和《C++程序设计语言》。
+
+
+但是，如果我需要在基类和继承类之间建立一组重载的f()函数呢？很简单，使用using声明：
+
+
+class D : public B {
+
+public:
+
+using B::f; // make every f from B available
+
+double f(double d) { cout &lt;&lt; "f(double): "; return d+1.3; }
+
+// ...
+
+};
+
+
+进行这个修改之后，输出结果将是：
+
+
+f(int): 3
+
+f(double): 3.6
+
+
+这样，在B的f()和D的f()之间，重载确实实现了，并且选择了一个最合适的f()进行调用。
+
+
+我能够在构造函数中调用一个虚拟函数吗？
+
+
+可以，但是要小心。它可能不象你期望的那样工作。在构造函数中，虚拟调用机制不起作用，因为继承类的重载还没有发生。对象先从基类被创建，“基类先于继承类(base before derived)”。
+
+
+看看这个：
+
+
+#include&lt;string&gt;
+
+#include&lt;iostream&gt;
+
+using namespace std;
+
+
+class B {
+
+public:
+
+B(const string&amp; ss) { cout &lt;&lt; "B constructor\n"; f(ss); }
+
+virtual void f(const string&amp;) { cout &lt;&lt; "B::f\n";}
+
+};
+
+
+class D : public B {
+
+public:
+
+D(const string &amp; ss) :B(ss) { cout &lt;&lt; "D constructor\n";}
+
+void f(const string&amp; ss) { cout &lt;&lt; "D::f\n"; s = ss; }
+
+private:
+
+string s;
+
+};
+
+
+int main()
+
+{
+
+D d("Hello");
+
+}
+
+
+程序编译以后会输出：
+
+
+B constructor
+
+B::f
+
+D constructor
+
+
+注意不是D::f。设想一下，如果出于不同的规则，B::B()可以调用D::f()的话，会产生什么样的后果：因为构造函数D::D()还没有运行，D::f()将会试图将一个还没有初始化的字符串s赋予它的参数。结果很可能是导致立即崩溃。
+
+
+析构函数在“继承类先于基类”的机制下运行，因此虚拟机制的行为和构造函数一样：只有本地定义(local definitions)被使用——不会调用虚拟函数，以免触及对象中的（现在已经被销毁的）继承类的部分。
+
+
+更多的细节，参见《C++语言的设计和演变》13.2.4.2和《C++程序设计语言》15.4.3。
+
+
+有人暗示，这只是一条实现时的人为制造的规则。不是这样的。事实上，要实现这种不安全的方法倒是非常容易的：在构造函数中直接调用虚拟函数，就象调用其它函数一样。但是，这样就意味着，任何虚拟函数都无法编写了，因为它们需要依靠基类的固定的创建(invariants established by base classes)。这将会导致一片混乱。
+
+
+有没有“指定位置删除”(placement delete)？
+
+
+没有，不过如果你需要的话，可以自己写一个。
+
+
+看看这个指定位置创建(placement new)，它将对象放进了一系列Arena中；
+
+
+class Arena {
+
+public:
+
+void* allocate(size_t);
+
+void deallocate(void*);
+
+// ...
+
+};
+
+
+void* operator new(size_t sz, Arena&amp; a)
+
+{
+
+return a.allocate(sz);
+
+}
+
+
+Arena a1(some arguments);
+
+Arena a2(some arguments);
+
+
+这样实现了之后，我们就可以这么写：
+
+
+X* p1 = new(a1) X;
+
+Y* p2 = new(a1) Y;
+
+Z* p3 = new(a2) Z;
+
+// ...
+
+
+但是，以后怎样正确地销毁这些对象呢？没有对应于这种“placement new”的内建的“placement delete”，原因是，没有一种通用的方法可以保证它被正确地使用。在C++的类型系统中，没有什么东西可以让我们确认，p1一定指向一个由Arena类型的a1分派的对象。p1可能指向任何东西分派的任何一块地方。
+
+
+然而，有时候程序员是知道的，所以这是一种方法：
+
+
+template&lt;class T&gt; void destroy(T* p, Arena&amp; a)
+
+{
+
+if (p) {
+
+p-&gt;~T(); // explicit destructor call
+
+a.deallocate(p);
+
+}
+
+}
+
+
+现在我们可以这么写：
+
+
+destroy(p1,a1);
+
+destroy(p2,a2);
+
+destroy(p3,a3);
+
+
+如果Arena维护了它保存着的对象的线索，你甚至可以自己写一个析构函数，以避免它发生错误。
+
+
+这也是可能的：定义一对相互匹配的操作符new()和delete()，以维护《C++程序设计语言》15.6中的类继承体系。参见《C++语言的设计和演变》10.4和《C++程序设计语言》19.4.5。
+
+
+我能防止别人继承我自己的类吗？
+
+
+可以，但你为什么要那么做呢？这是两个常见的回答：
+
+
+效率：避免我的函数被虚拟调用
+
+安全：保证我的类不被用作一个基类（例如，保证我能够复制对象而不用担心出事）
+
+
+根据我的经验，效率原因往往是不必要的担心。在C++中，虚拟函数调用是如此之快，以致于它们在一个包含虚拟函数的类中被实际使用时，相比普通的函数调用，根本不会产生值得考虑的运行期开支。注意，仅仅通过指针或引用时，才会使用虚拟调用机制。当直接通过对象名字调用一个函数时，虚拟函数调用的开支可以被很容易地优化掉。
+
+
+如果确实有真正的需要，要将一个类封闭起来以防止虚拟调用，那么可能首先应该问问为什么它们是虚拟的。我看见过一些例子，那些性能表现不佳的函数被设置为虚拟，没有其他原因，仅仅是因为“我们习惯这么干”。
+
+
+这个问题的另一个部分，由于逻辑上的原因如何防止类被继承，有一个解决方案。不幸的是，这个方案并不完美。它建立在这样一个事实的基础之上，那就是：大多数的继承类必须建立一个虚拟的基类。这是一个例子：
+
+
+class Usable;
+
+
+class Usable_lock {
+
+friend class Usable;
+
+private:
+
+Usable_lock() {}
+
+Usable_lock(const Usable_lock&amp;) {}
+
+};
+
+
+class Usable : public virtual Usable_lock {
+
+// ...
+
+public:
+
+Usable();
+
+Usable(char*);
+
+// ...
+
+};
+
+
+Usable a;
+
+
+class DD : public Usable { };
+
+
+DD dd; // 错误: DD::DD() 不能访问
+
+// Usable_lock::Usable_lock()是一个私有成员
+
+
+(来自《C++语言的设计和演变》11.4.3)
+
+
+为什么不能为模板参数定义约束（constraints）？
+
+
+可以的，而且方法非常简单和通用。
+
+
+看看这个：
+
+
+template&lt;class Container&gt;
+
+void draw_all(Container&amp; c)
+
+{
+
+for_each(c.begin(),c.end(),mem_fun(&amp;Shape::draw));
+
+}
+
+
+如果出现类型错误，可能是发生在相当复杂的for_each()调用时。例如，如果容器的元素类型是int，我们将得到一个和for_each()相关的含义模糊的错误(因为不能够对对一个int值调用Shape::draw的方法)。
+
+
+为了提前捕捉这个错误，我这样写：
+
+
+template&lt;class Container&gt;
+
+void draw_all(Container&amp; c)
+
+{
+
+Shape* p = c.front(); // accept only containers of Shape*s
+
+
+for_each(c.begin(),c.end(),mem_fun(&amp;Shape::draw));
+
+}
+
+
+对于现在的大多数编译器，中间变量p的初始化将会触发一个易于了解的错误。这个窍门在很多语言中都是通用的，而且在所有的标准创建中都必须这样做。在成品的代码中，我也许可以这样写：
+
+
+template&lt;class Container&gt;
+
+void draw_all(Container&amp; c)
+
+{
+
+typedef typename Container::value_type T;
+
+Can_copy&lt;T,Shape*&gt;(); // accept containers of only Shape*s
+
+
+for_each(c.begin(),c.end(),mem_fun(&amp;Shape::draw));
+
+}
+
+
+这样就很清楚了，我在建立一个断言(assertion)。Can_copy模板可以这样定义：
+
+
+template&lt;class T1, class T2&gt; struct Can_copy {
+
+static void constraints(T1 a, T2 b) { T2 c = a; b = a; }
+
+Can_copy() { void(*p)(T1,T2) = constraints; }
+
+};
+
+
+Can_copy(在运行时)检查T1是否可以被赋值给T2。Can_copy&lt;T,Shape*&gt;检查T是否是Shape*类型，或者是一个指向由Shape类公共继承而来的类的对象的指针，或者是被用户转换到Shape*类型的某个类型。注意这个定义被精简到了最小：
+
+
+一行命名要检查的约束，和要检查的类型
+
+一行列出指定的要检查的约束(constraints()函数)
+
+一行提供触发检查的方法(通过构造函数)
+
+
+注意这个定义有相当合理的性质：
+
+
+你可以表达一个约束，而不用声明或复制变量，因此约束的编写者可以用不着去设想变量如何被初始化，对象是否能够被复制，被销毁，以及诸如此类的事情。(当然，约束要检查这些属性的情况时例外。)
+
+使用现在的编译器，不需要为约束产生代码
+
+定义和使用约束，不需要使用宏
+
+当约束失败时，编译器会给出可接受的错误信息，包括“constraints”这个词（给用户一个线索），约束的名字，以及导致约束失败的详细错误（例如“无法用double*初始化Shape*”）。
+
+
+那么，在C++语言中，有没有类似于Can_copy——或者更好——的东西呢？在《C++语言的设计和演变》中，对于在C++中实现这种通用约束的困难进行了分析。从那以来，出现了很多方法，来让约束类变得更加容易编写，同时仍然能触发良好的错误信息。例如，我信任我在Can_copy中使用的函数指针的方式，它源自Alex Stepanov和Jeremy Siek。我并不认为Can_copy()已经可以标准化了——它需要更多的使用。同样，在C++社区中，各种不同的约束方式被使用；到底是哪一种约束模板在广泛的使用中被证明是最有效的，还没有达成一致的意见。
+
+
+但是，这种方式非常普遍，比语言提供的专门用于约束检查的机制更加普遍。无论如何，当我们编写一个模板时，我们拥有了C++提供的最丰富的表达力量。看看这个：
+
+
+template&lt;class T, class B&gt; struct Derived_from {
+
+static void constraints(T* p) { B* pb = p; }
+
+Derived_from() { void(*p)(T*) = constraints; }
+
+};
+
+
+template&lt;class T1, class T2&gt; struct Can_copy {
+
+static void constraints(T1 a, T2 b) { T2 c = a; b = a; }
+
+Can_copy() { void(*p)(T1,T2) = constraints; }
+
+};
+
+
+template&lt;class T1, class T2 = T1&gt; struct Can_compare {
+
+static void constraints(T1 a, T2 b) { a==b; a!=b; a&lt;b; }
+
+Can_compare() { void(*p)(T1,T2) = constraints; }
+
+};
+
+
+template&lt;class T1, class T2, class T3 = T1&gt; struct Can_multiply {
+
+static void constraints(T1 a, T2 b, T3 c) { c = a*b; }
+
+Can_multiply() { void(*p)(T1,T2,T3) = constraints; }
+
+};
+
+
+struct B { };
+
+struct D : B { };
+
+struct DD : D { };
+
+struct X { };
+
+
+int main()
+
+{
+
+Derived_from&lt;D,B&gt;();
+
+Derived_from&lt;DD,B&gt;();
+
+Derived_from&lt;X,B&gt;();
+
+Derived_from&lt;int,B&gt;();
+
+Derived_from&lt;X,int&gt;();
+
+
+Can_compare&lt;int,float&gt;();
+
+Can_compare&lt;X,B&gt;();
+
+Can_multiply&lt;int,float&gt;();
+
+Can_multiply&lt;int,float,double&gt;();
+
+Can_multiply&lt;B,X&gt;();
+
+
+Can_copy&lt;D*,B*&gt;();
+
+Can_copy&lt;D,B*&gt;();
+
+Can_copy&lt;int,B*&gt;();
+
+}
+
+
+// 典型的“元素必须继承自Mybase*”约束:
+
+
+template&lt;class T&gt; class Container : Derived_from&lt;T,Mybase&gt; {
+
+// ...
+
+};
+
+
+事实上，Derived_from并不检查来源（derivation），而仅仅检查转换（conversion），不过这往往是一个更好的约束。为约束想一个好名字是很难的。
+
+
+既然已经有了优秀的qsort()函数，为什么还需要一个sort()？
+
+
+对于初学者来说，
+
+
+qsort(array,asize,sizeof(elem),elem_compare);
+
+
+看上去太古怪了，而且比这个更难理解：
+
+
+sort(vec.begin(),vec.end());
+
+
+对于专家来说，在元素与比较方式（comparison criteria）都相同的情况下，sort()比qsort()更快，这是很重要的。而且，qsort()是通用的，所以它可以用于不同容器类型、元素类型、比较方式的任意有意义的组合。举例来说：
+
+
+struct Record {
+
+string name;
+
+// ...
+
+};
+
+
+struct name_compare { // 使用"name"作为键比较Record
+
+bool operator()(const Record&amp; a, const Record&amp; b) const
+
+{ return a.name&lt;b.name; }
+
+};
+
+
+void f(vector&lt;Record&gt;&amp; vs)
+
+{
+
+sort(vs.begin(), vs.end(), name_compare());
+
+// ...
+
+} 
+
+
+而且，很多人欣赏sort()是因为它是类型安全的，使用它不需要进行造型（cast），没有人必须去为基本类型写一个compare()函数。
+
+
+更多的细节，参见我的文章《将标准C++作为一种新的语言来学习》（Learning C++ as a New language），可以从我的文章列表中找到。
+
+
+sort()胜过qsort()的主要原因是，比较操作在内联（inlines）上做得更好。
+
+
+什么是函数对象（function object）？
+
+
+顾名思义，就是在某种方式上表现得象一个函数的对象。典型地，它是指一个类的实例，这个类定义了应用操作符operator()。
+
+
+函数对象是比函数更加通用的概念，因为函数对象可以定义跨越多次调用的可持久的部分（类似静态局部变量），同时又能够从对象的外面进行初始化和检查（和静态局部变量不同）。例如：
+
+
+class Sum {
+
+int val;
+
+public:
+
+Sum(int i) :val(i) { }
+
+operator int() const { return val; } // 取得值
+
+
+int operator()(int i) { return val+=i; } // 应用
+
+};
+
+
+void f(vector v)
+
+{
+
+Sum s = 0; // initial value 0
+
+s = for_each(v.begin(), v.end(), s); // 求所有元素的和
+
+cout &lt;&lt; "the sum is " &lt;&lt; s &lt;&lt; "\n";
+
+
+//或者甚至：
+
+cout &lt;&lt; "the sum is " &lt;&lt; for_each(v.begin(), v.end(), Sum(0)) &lt;&lt; "\n";
+
+}
+
+
+注意一个拥有应用操作符的函数对象可以被完美地内联化（inline），因为它没有涉及到任何指针，后者可能导致拒绝优化。与之形成对比的是，现有的优化器几乎不能（或者完全不能？）将一个通过函数指针的调用内联化。
+
+
+在标准库中，函数对象被广泛地使用以获得弹性。
+
+
+我应该如何对付内存泄漏？
+
+
+写出那些不会导致任何内存泄漏的代码。很明显，当你的代码中到处充满了new 操作、delete操作和指针运算的话，你将会在某个地方搞晕了头，导致内存泄漏，指针引用错误，以及诸如此类的问题。这和你如何小心地对待内存分配工作其实完全没有关系：代码的复杂性最终总是会超过你能够付出的时间和努力。于是随后产生了一些成功的技巧，它们依赖于将内存分配（allocations）与重新分配（deallocation）工作隐藏在易于管理的类型之后。标准容器（standard containers）是一个优秀的例子。它们不是通过你而是自己为元素管理内存，从而避免了产生糟糕的结果。想象一下，没有string和vector的帮助，写出这个：
+
+
+#include&lt;vector&gt;
+
+#include&lt;string&gt;
+
+#include&lt;iostream&gt;
+
+#include&lt;algorithm&gt;
+
+using namespace std;
+
+
+int main() // small program messing around with strings
+
+{
+
+cout &lt;&lt; "enter some whitespace-separated words:\n";
+
+vector&lt;string&gt; v;
+
+string s;
+
+while (cin&gt;&gt;s) v.push_back(s);
+
+
+sort(v.begin(),v.end());
+
+
+string cat;
+
+typedef vector&lt;string&gt;::const_iterator Iter;
+
+for (Iter p = v.begin(); p!=v.end(); ++p) cat += *p+"+";
+
+cout &lt;&lt; cat &lt;&lt; '\n';
+
+}
+
+
+你有多少机会在第一次就得到正确的结果？你又怎么知道你没有导致内存泄漏呢？
+
+
+注意，没有出现显式的内存管理，宏，造型，溢出检查，显式的长度限制，以及指针。通过使用函数对象和标准算法（standard algorithm），我可以避免使用指针——例如使用迭代子（iterator），不过对于一个这么小的程序来说有点小题大作了。
+
+
+这些技巧并不完美，要系统化地使用它们也并不总是那么容易。但是，应用它们产生了惊人的差异，而且通过减少显式的内存分配与重新分配的次数，你甚至可以使余下的例子更加容易被跟踪。早在1981年，我就指出，通过将我必须显式地跟踪的对象的数量从几万个减少到几打，为了使程序正确运行而付出的努力从可怕的苦工，变成了应付一些可管理的对象，甚至更加简单了。
+
+
+如果你的程序还没有包含将显式内存管理减少到最小限度的库，那么要让你程序完成和正确运行的话，最快的途径也许就是先建立一个这样的库。
+
+
+模板和标准库实现了容器、资源句柄以及诸如此类的东西，更早的使用甚至在多年以前。异常的使用使之更加完善。
+
+
+如果你实在不能将内存分配/重新分配的操作隐藏到你需要的对象中时，你可以使用资源句柄（resource handle），以将内存泄漏的可能性降至最低。这里有个例子：我需要通过一个函数，在空闲内存中建立一个对象并返回它。这时候可能忘记释放这个对象。毕竟，我们不能说，仅仅关注当这个指针要被释放的时候，谁将负责去做。使用资源句柄，这里用了标准库中的auto_ptr，使需要为之负责的地方变得明确了。
+
+
+#include&lt;memory&gt;
+
+#include&lt;iostream&gt;
+
+using namespace std;
+
+
+struct S {
+
+S() { cout &lt;&lt; "make an S\n"; }
+
+~S() { cout &lt;&lt; "destroy an S\n"; }
+
+S(const S&amp;) { cout &lt;&lt; "copy initialize an S\n"; }
+
+S&amp; operator=(const S&amp;) { cout &lt;&lt; "copy assign an S\n"; }
+
+};
+
+
+S* f()
+
+{
+
+return new S; // 谁该负责释放这个S？
+
+};
+
+
+auto_ptr&lt;S&gt; g()
+
+{
+
+return auto_ptr&lt;S&gt;(new S); // 显式传递负责释放这个S
+
+}
+
+
+int main()
+
+{
+
+cout &lt;&lt; "start main\n";
+
+S* p = f();
+
+cout &lt;&lt; "after f() before g()\n";
+
+// S* q = g(); // 将被编译器捕捉
+
+auto_ptr&lt;S&gt; q = g();
+
+cout &lt;&lt; "exit main\n";
+
+// *p产生了内存泄漏
+
+// *q被自动释放
+
+}
+
+
+在更一般的意义上考虑资源，而不仅仅是内存。
+
+
+如果在你的环境中不能系统地应用这些技巧（例如，你必须使用别的地方的代码，或者你的程序的另一部分简直是原始人类（译注：原文是Neanderthals，尼安德特人，旧石器时代广泛分布在欧洲的猿人）写的，如此等等），那么注意使用一个内存泄漏检测器作为开发过程的一部分，或者插入一个垃圾收集器（garbage collector）。
+
+
+我为什么在捕获一个异常之后就不能继续？
+
+
+换句话说，C++为什么不提供一种简单的方式，让程序能够回到异常抛出点之后，并继续执行？
+
+
+主要的原因是，如果从异常处理之后继续，那么无法预知掷出点之后的代码如何对待异常处理，是否仅仅继续执行，就象什么也没有发生一样。异常处理者无法知道，在继续之前，有关的上下文环境（context）是否是“正确”的。要让这样的代码正确执行，抛出异常的编写者与捕获异常的编写者必须对彼此的代码与上下文环境都非常熟悉才行。这样会产生非常复杂的依赖性，因此无论在什么情况下，都会导致一系列严重的维护问题。
+
+
+当我设计C++的异常处理机制时，我曾经认真地考虑过允许这种继续的可能性，而且在标准化的过程中，这个问题被非常详细地讨论过。请参见《C++语言的设计和演变》中的异常处理章节。
+
+
+在一次新闻组的讨论中，我曾经以一种稍微不同的方式回答过这个问题。
+
+
+为什么C++中没有相当于realloc()的函数？
+
+
+如果你需要，你当然可以使用realloc()。但是，realloc()仅仅保证能工作于这样的数组之上：它们被malloc()（或者类似的函数）分配，包含一些没有用户定义的复制构造函数（copy constructors）的对象。而且，要记住，与通常的期望相反，realloc()有时也必须复制它的参数数组。
+
+
+在C++中，处理内存重新分配的更好的方法是，使用标准库中的容器，例如vector，并让它自我增长。
+
+
+如何使用异常？
+
+
+参见《C++程序设计语言》第4章，第8.3节，以及附录E。这个附录针对的是如何在要求苛刻的程序中写出异常安全的代码的技巧，而不是针对初学者的。一个关键的技术是“资源获得即初始化”（resource acquisiton is initialization），它使用一些有析构函数的类，来实现强制的资源管理。
+
+
+怎样从输入中读取一个字符串？
+
+
+你可以用这种方式读取一个单独的以空格结束的词：
+
+
+#include&lt;iostream&gt;
+
+#include&lt;string&gt;
+
+using namespace std;
+
+
+int main()
+
+{
+
+cout &lt;&lt; "Please enter a word:\n";
+
+
+string s;
+
+cin&gt;&gt;s;
+
+
+cout &lt;&lt; "You entered " &lt;&lt; s &lt;&lt; '\n';
+
+}
+
+
+注意，这里没有显式的内存管理，也没有可能导致溢出的固定大小的缓冲区。
+
+
+如果你确实想得到一行而不是一个单独的词，可以这样做：
+
+
+
+#include&lt;iostream&gt;
+
+#include&lt;string&gt;
+
+using namespace std;
+
+
+int main()
+
+{
+
+cout &lt;&lt; "Please enter a line:\n";
+
+
+string s;
+
+getline(cin,s);
+
+
+cout &lt;&lt; "You entered " &lt;&lt; s &lt;&lt; '\n';
+
+}
+
+
+在《C++程序设计语言》（可在线获得）的第3章，可以找到一个对诸如字符串与流这样的标准库工具的简介。对于使用C与C++进行简单输入输出的详细比较，参见我的文章《将标准C++作为一种新的语言来学习》(Learning Standard C++ as a New Language)，你可以在本人著作列表(my publications list)中下载到它。
+
+
+为什么C++不提供“finally”的构造？
+
+
+因为C++提供了另外一种方法，它几乎总是更好的：“资源获得即初始化”（resource acquisiton is initialization）技术。基本的思路是，通过一个局部对象来表现资源，于是局部对象的析构函数将会释放资源。这样，程序员就不会忘记释放资源了。举例来说：
+
+
+class File_handle {
+
+FILE* p;
+
+public:
+
+File_handle(const char* n, const char* a)
+
+{ p = fopen(n,a); if (p==0) throw Open_error(errno); }
+
+File_handle(FILE* pp)
+
+{ p = pp; if (p==0) throw Open_error(errno); }
+
+
+~File_handle() { fclose(p); }
+
+
+operator FILE*() { return p; }
+
+
+// ...
+
+};
+
+
+void f(const char* fn)
+
+{
+
+File_handle f(fn,"rw"); //打开fn进行读写
+
+// 通过f使用文件
+
+}
+
+
+在一个系统中，需要为每一个资源都使用一个“资源句柄”类。无论如何，我们不需要为每一个资源获得都写出“finally”语句。在实时系统中，资源获得要远远多于资源的种类，因此和使用“finally”构造相比，“资源获得即初始化”技术会产生少得多的代码。
+
+
+什么是自动指针（auto_ptr），为什么没有自动数组（auto_array）？
+
+
+auto_ptr是一个非常简单的句柄类的例子，在&lt;memory&gt;中定义，通过“资源获得即初始化”技术支持异常安全。auto_ptr保存着一个指针，能够象指针一样被使用，并在生存期结束时释放指向的对象。举例：
+
+
+#include&lt;memory&gt;
+
+using namespace std;
+
+
+struct X {
+
+int m;
+
+// ..
+
+};
+
+
+void f()
+
+{
+
+auto_ptr&lt;X&gt; p(new X);
+
+X* q = new X;
+
+
+p-&gt;m++; // 象一个指针一样使用p
+
+q-&gt;m++;
+
+// ...
+
+
+delete q;
+
+}
+
+
+如果在...部分抛出了一个异常，p持有的对象将被auto_ptr的析构函数正确地释放，而q指向的X对象则产生了内存泄漏。更多的细节，参见《C++程序设计语言》14.4.2节。
+
+
+auto_ptr是一个非常简单的类。特别地，它不是一个引用计数（reference counted）的指针。如果你将一个auto_ptr赋值给另一个，那么被赋值的auto_ptr将持有指针，而原来的auto_ptr将持有0。举例：
+
+
+#include&lt;memory&gt;
+
+#include&lt;iostream&gt;
+
+using namespace std;
+
+
+struct X {
+
+int m;
+
+// ..
+
+};
+
+
+int main()
+
+{
+
+auto_ptr&lt;X&gt; p(new X);
+
+auto_ptr&lt;X&gt; q(p);
+
+cout &lt;&lt; "p " &lt;&lt; p.get() &lt;&lt; " q " &lt;&lt; q.get() &lt;&lt; "\n";
+
+}
+
+
+将会打印出一个指向0的指针和一个指向非0的指针。例如：
+
+
+p 0x0 q 0x378d0
+
+
+auto_ptr::get()返回那个辅助的指针。
+
+
+这种“转移”语义不同于通常的“复制”语义，这是令人惊讶的。特别地，永远不要使用auto_ptr作为一个标准容器的成员。标准容器需要通常的“复制”语义。例如：
+
+
+std::vector&lt;auto_ptr&lt;X&gt; &gt;v; // 错误
+
+
+auto_ptr只持有指向一个单独元素的指针，而不是指向一个数组的指针：
+
+
+void f(int n)
+
+{
+
+auto_ptr&lt;X&gt; p(new X[n]); //错误
+
+// ...
+
+}
+
+
+这是错误的，因为析构函数会调用delete而不是delete[]来释放指针，这样就不会调用余下的n-1个X的析构函数。
+
+
+那么我们需要一个auto_array来持有数组吗？不。没有auto_array。原因是根本没有这种需要。更好的解决方案是使用vector：
+
+
+void f(int n)
+
+{
+
+vector&lt;X&gt; v(n);
+
+// ...
+
+}
+
+
+当...部分发生异常时，v的析构函数会被正确地调用。
+
+
+可以混合使用C风格与C++风格的内存分派与重新分配吗？
+
+
+在这种意义上是可以的：你可以在同一个程序中使用malloc()和new。
+
+
+在这种意义上是不行的：你不能使用malloc()来建立一个对象，又通过delete来释放它。你也不能用new建立一个新的对象，然后通过free()来释放它，或者通过realloc()在数组中再建立一个新的。
+
+
+C++中的new和delete操作可以保证正确的构造和析构：构造函数和析构函数在需要它们的时候被调用。C风格的函数alloc(), calloc(), free(), 和realloc()却不能保证这一点。此外，用new和delete来获得和释放的原始内存，并不一定能保证与malloc()和free()兼容。如果这种混合的风格在你的系统中能够运用，只能说是你走运——暂时的。
+
+
+如果你觉得需要使用realloc()——或者要做更多——考虑使用标准库中的vector。例如：
+
+
+// 从输入中将词读取到一个字符串vector中
+
+
+vector&lt;string&gt; words;
+
+string s;
+
+while (cin&gt;&gt;s &amp;&amp; s!=".") words.push_back(s);
+
+
+vector会视需要自动增长。
+
+
+更多的例子与讨论，参见我的文章《将标准C++作为一种新的语言来学习》(Learning Standard C++ as a New Language)，你可以在本人著作列表(my publications list)中下载到它。
+
+
+我为什么必须使用一个造型来转换*void？
+
+
+在C语言中，你可以隐式地将*void转换为*T。这是不安全的。考虑一下：
+
+
+#include&lt;stdio.h&gt;
+
+
+int main()
+
+{
+
+char i = 0;
+
+char j = 0;
+
+char* p = &amp;i;
+
+void* q = p;
+
+int* pp = q; /* 不安全的，在C中可以，C++不行 */
+
+
+printf("%d %d\n",i,j);
+
+*pp = -1; /* 覆盖了从i开始的内存 */
+
+printf("%d %d\n",i,j);
+
+}
+
+
+使用一个并不指向T类型的T*将是一场灾难。因此，在C++中，如果从一个void*得到一个T*，你必须进行显式转换。举例来说，要得到上列程序的这个令人别扭的效果，你可以这样写：
+
+
+int* pp = (int*)q;
+
+
+或者使用一个新的类型造型，以使这种没有检查的类型转换操作变得更加清晰：
+
+
+int* pp = static_cast&lt;int*&gt;(q);
+
+
+造型被最好地避免了。
+
+
+在C语言中，这种不安全的转换最常见的应用之一，是将malloc()的结果赋予一个合适的指针。例如：
+
+
+int* p = malloc(sizeof(int));
+
+
+在C++中，使用类型安全的new操作符：
+
+
+int* p = new int;
+
+
+附带地，new操作符还提供了胜过malloc()的新特性：
+
+
+new不会偶然分配错误的内存数量；
+
+new会隐式地检查内存耗尽情况，而且
+
+new提供了初始化。
+
+
+举例：
+
+
+typedef std::complex&lt;double&gt; cmplx;
+
+
+/* C风格: */
+
+cmplx* p = (cmplx*)malloc(sizeof(int)); /* 错误：类型不正确 */
+
+/* 忘记测试p==0 */
+
+if (*p == 7) { /* ... */ } /* 糟糕，忘记了初始化*p */
+
+
+// C++风格:
+
+cmplx* q = new cmplx(1,2); // 如果内存耗尽，将抛出一个bad_alloc异常
+
+if (*q == 7) { /* ... */ }
+
+
+我如何定义一个类内部（in-class）的常量？
+
+
+如果你需要一个通过常量表达式来定义的常量，例如数组的范围，你有两种选择：
+
+
+class X {
+
+static const int c1 = 7;
+
+enum { c2 = 19 };
+
+
+char v1[c1];
+
+char v2[c2];
+
+
+// ...
+
+};
+
+
+乍看起来，c1的声明要更加清晰，但是要注意的是，使用这种类内部的初始化语法的时候，常量必须是被一个常量表达式初始化的整型或枚举类型，而且必须是static和const形式。这是很严重的限制：
+
+
+class Y {
+
+const int c3 = 7; // 错误：不是static
+
+static int c4 = 7; // 错误：不是const
+
+static const float c5 = 7; // 错误：不是整型
+
+};
+
+
+我倾向使用枚举的方式，因为它更加方便，而且不会诱使我去使用不规范的类内初始化语法。
+
+
+那么，为什么会存在这种不方便的限制呢？一般来说，类在一个头文件中被声明，而头文件被包含到许多互相调用的单元去。但是，为了避免复杂的编译器规则，C++要求每一个对象只有一个单独的定义。如果C++允许在类内部定义一个和对象一样占据内存的实体的话，这种规则就被破坏了。对于C++在这个设计上的权衡，请参见《C++语言的设计和演变》。
+
+
+如果你不需要用常量表达式来初始化它，那么可以获得更大的弹性：
+
+
+class Z {
+
+static char* p; // 在定义中初始化
+
+const int i; // 在构造函数中初始化
+
+public:
+
+Z(int ii) :i(ii) { }
+
+};
+
+
+char* Z::p = "hello, there";
+
+
+你可以获取一个static成员的地址，当且仅当它有一个类外部的定义的时候：
+
+
+class AE {
+
+// ...
+
+public:
+
+static const int c6 = 7;
+
+static const int c7 = 31;
+
+};
+
+
+const int AE::c7; // 定义
+
+
+int f()
+
+{
+
+const int* p1 = &amp;AE::c6; // 错误：c6没有左值
+
+const int* p2 = &amp;AE::c7; // ok
+
+// ...
+
+}
+
+
+为什么delete不会将操作数置0？
+
+
+考虑一下：
+
+
+delete p;
+
+// ...
+
+delete p;
+
+
+如果在...部分没有涉及到p的话，那么第二个“delete p;”将是一个严重的错误，因为C++的实现（译注：原文为a C++ implementation，当指VC++这样的实现了C++标准的具体工具）不能有效地防止这一点（除非通过非正式的预防手段）。既然delete 0从定义上来说是无害的，那么一个简单的解决方案就是，不管在什么地方执行了“delete p;”，随后都执行“p=0;”。但是，C++并不能保证这一点。
+
+
+一个原因是，delete的操作数并不需要一个左值（lvalue）。考虑一下：
+
+
+delete p+1;
+
+delete f(x);
+
+
+在这里，被执行的delete并没有拥有一个可以被赋予0的指针。这些例子可能很少见，但它们的确指出了，为什么保证“任何指向被删除对象的指针都为0”是不可能的。绕过这条“规则”的一个简单的方法是，有两个指针指向同一个对象：
+
+
+T* p = new T;
+
+T* q = p;
+
+delete p;
+
+delete q; // 糟糕！
+
+
+C++显式地允许delete操作将操作数左值置0，而且我曾经希望C++的实现能够做到这一点，但这种思想看来并没有在C++的实现中变得流行。
+
+
+如果你认为指针置0很重要，考虑使用一个销毁的函数：
+
+
+template&lt;class T&gt; inline void destroy(T*&amp; p) { delete p; p = 0; }
+
+
+考虑一下，这也是为什么需要依靠标准库的容器、句柄等等，来将对new和delete的显式调用降到最低限度的另一个原因。
+
+
+注意，通过引用来传递指针（以允许指针被置0）有一个额外的好处，能防止destroy()在右值上（rvalue）被调用：
+
+
+int* f();
+
+int* p;
+
+// ...
+
+destroy(f()); // 错误：应该使用一个非常量（non-const）的引用传递右值
+
+destroy(p+1); // 错误：应该使用一个非常量（non-const）的引用传递右值
+
+
+我能够写“void main()”吗？
+
+
+这种定义：
+
+
+void main() { /* ... */ }
+
+
+在C++中从未被允许，在C语言中也是一样。参见ISO C++标准3.6.1[2]或者ISO C标准5.1.2.2.1。规范的实现接受这种方式：
+
+
+int main() { /* ... */ }
+
+
+和
+
+
+int main(int argc, char* argv[]) { /* ... */ }
+
+
+一个规范的实现可能提供许多版本的main()，但它们都必须返回int类型。main()返回的int值，是程序返回一个值给调用它的系统的方式。在那些不具备这种方式的系统中，返回值被忽略了，但这并不使“void main()”在C++或C中成为合法的。即使你的编译器接受了“void main()”，也要避免使用它，否则你将冒着被C和C++程序员视为无知的风险。
+
+
+在C++中，main()并不需要包含显式的return语句。在这种情况下，返回值是0，表示执行成功。例如：
+
+
+#include&lt;iostream&gt;
+
+
+int main()
+
+{
+
+std::cout &lt;&lt; "This program returns the integer value 0\n";
+
+}
+
+
+注意，无论是ISO C++还是C99，都不允许在声明中漏掉类型。那就是说，与C89和ARM C++形成对照，当声明中缺少类型时，并不会保证是“int”。于是：
+
+
+#include&lt;iostream&gt;
+
+
+main() { /* ... */ }
+
+
+是错误的，因为缺少main()的返回类型。
+
+
+为什么我不能重载点符号，::，sizeof，等等？
+
+
+大多数的运算符能够被程序员重载。例外的是：
+
+
+. (点符号) :: ?: sizeof
+
+
+并没有什么根本的原因要禁止重载?:。仅仅是因为，我没有发现有哪种特殊的情况需要重载一个三元运算符。注意一个重载了 表达式1？表达式2：表达式3 的函数，不能够保证表达式2：表达式3中只有一个会被执行。
+
+
+Sizeof不能够被重载是因为内建的操作（built-in operations），诸如对一个指向数组的指针进行增量操作，必须依靠它。考虑一下：
+
+
+X a[10];
+
+X* p = &amp;a[3];
+
+X* q = &amp;a[3];
+
+p++; // p指向a[4]
+
+// 那么p的整型值必须比q的整型值大出一个sizeof(X)
+
+
+所以，sizeof(X)不能由程序员来赋予一个不同的新意义，以免违反基本的语法。
+
+
+在N::m中，无论N还是m都不是值的表达式；N和m是编译器知道的名字，::执行一个（编译期的）范围解析，而不是表达式求值。你可以想象一下，允许重载x::y的话，x可能是一个对象而不是一个名字空间（namespace）或者一个类，这样就会导致——与原来的表现相反——产生新的语法（允许 表达式1::表达式2）。很明显，这种复杂性不会带来任何好处。
+
+
+理论上来说，.（点运算符）可以通过使用和-&gt;一样的技术来进行重载。但是，这样做会导致一个问题，那就是无法确定操作的是重载了.的对象呢，还是通过.引用的一个对象。例如：
+
+
+
+class Y {
+
+public:
+
+void f();
+
+// ...
+
+};
+
+
+class X { // 假设你能重载.
+
+Y* p;
+
+Y&amp; operator.() { return *p; }
+
+void f();
+
+// ...
+
+};
+
+
+void g(X&amp; x)
+
+{
+
+x.f(); // X::f还是Y::f还是错误？
+
+}
+
+
+这个问题能够用几种不同的方法解决。在标准化的时候，哪种方法最好还没有定论。更多的细节，请参见《C++语言的设计和演变》。
+
+
+怎样将一个整型值转换为一个字符串？
+
+
+最简单的方法是使用一个字符串流（stringstream）：
+
+
+#include&lt;iostream&gt;
+
+#include&lt;string&gt;
+
+#include&lt;sstream&gt;
+
+using namespace std;
+
+
+string itos(int i) // 将int转换成string
+
+{
+
+stringstream s;
+
+s &lt;&lt; i;
+
+return s.str();
+
+}
+
+
+int main()
+
+{
+
+int i = 127;
+
+string ss = itos(i);
+
+const char* p = ss.c_str();
+
+
+cout &lt;&lt; ss &lt;&lt; " " &lt;&lt; p &lt;&lt; "\n";
+
+}
+
+
+自然地，这种技术能够将任何使用&lt;&lt;输出的类型转换为字符串。对于字符串流的更多说明，参见《C++程序设计语言》21.5.3节。
+
+
+“int* p”正确还是“int *p”正确？
+
+
+二者都是正确的，因为二者在C和C++中都是有效的，而且意义完全一样。就语言的定义与相关的编译器来说，我们还可以说“int*p”或者“int * p”。
+
+
+在“int* p”和“int *p”之间的选择与正确或错误无关，而只关乎风格与侧重点。C侧重表达式；对声明往往比可能带来的问题考虑得更多。另一方面，C++则非常重视类型。
+
+
+一个“典型的C程序员”写成“int *p”，并且解释说“*p表示一个什么样的int”以强调语法，而且可能指出C（与C++）的语法来证明这种风格的正确性。是的，在语法上*被绑定到名字p上。
+
+
+一个“典型的C++程序员”写成“int* p”，并且解释说“p是一个指向int的指针类型”以强调类型。是的，p是一个指向int的指针类型。我明确地倾向于这种侧重方向，而且认为对于学好更多的高级C++这是很重要的。
+
+
+严重的混乱（仅仅）发生在当人们试图在一条声明中声明几个指针的时候：
+
+
+int* p, p1; // 也许是错的：p1不是一个int*
+
+
+把*放到名字这一边，看来也不能有效地减少这种错误：
+
+
+int *p, p1; // 也许是错的？
+
+
+为每一个名字写一条声明最大程度地解决了问题——特别是当我们初始化变量的时候。人们几乎不会这样写：
+
+
+int* p = &amp;i;
+
+int p1 = p; // 错误：int用一个int*初始化了
+
+
+如果他们真的这么干了，编译器也会指出。
+
+
+每当事情可以有两种方法完成，有人就会迷惑。每当事情仅仅是一个风格的问题，争论就会没完没了。为每一个指针写一条声明，而且永远都要初始化变量，这样，混乱之源就消失了。更多的关于C的声明语法的讨论，参见《C++语言的设计和演变》。
+
+
+对于我的代码，哪一种布局风格（layout style）是最好的？
+
+
+这种风格问题属于个人的爱好。人们往往对布局风格的问题持有强烈的意见，不过，也许一贯性比某种特定的风格更加重要。象大多数人一样，我花了很长的时间，来为我的偏好作出一个固定的结论。
+
+
+我个人使用通常称为“K&amp;R”的风格。当使用C语言没有的构造函数时，需要增加新的习惯，这样就变成了一种有时被称为“Stroustrup”的风格。例如：
+
+
+class C : public B {
+
+public:
+
+// ...
+
+};
+
+
+void f(int* p, int max)
+
+{
+
+if (p) {
+
+// ...
+
+}
+
+
+for (int i = 0; i&lt;max; ++i) {
+
+// ...
+
+}
+
+}
+
+
+比大多数布局风格更好，这种风格保留了垂直的空格，我喜欢尽可能地在合理的情况下对齐屏幕。对函数开头的大括弧的放置，有助于我第一眼就分别出类的定义和函数的定义。
+
+
+缩进是非常重要的。
+
+
+设计问题，诸如作为主要接口的抽象基类的使用，使用模板以表现有弹性的类型安全的抽象，以及正确地使用异常以表现错误，比布局风格的选择要重要得多。
+
+
+我应该将“const”放在类型之前还是之后？
+
+
+我把它放在前面，但那仅仅是个人爱好问题。“const T”和“T const”总是都被允许的，而且是等效的。例如：
+
+
+const int a = 1; // ok
+
+int const b = 2; // also ok
+
+
+我猜想第一种版本可能会让少数（更加固守语法规范）的程序员感到迷惑。
+
+
+为什么？当我发明“const”（最初的名称叫做“readonly”，并且有一个对应的“writeonly”）的时候，我就允许它出现在类型之前或之后，因为这样做不会带来任何不明确。标准之前的C和C++规定了很少的（如果有的话）特定的顺序规范。
+
+
+我不记得当时有过任何有关顺序问题的深入思考或讨论。那时，早期的一些使用者——特别是我——仅仅喜欢这种样子：
+
+
+const int c = 10;
+
+
+看起来比这种更好：
+
+
+int const c = 10;
+
+
+也许我也受了这种影响：在我最早的一些使用“readonly”的例子中
+
+
+readonly int c = 10;
+
+
+比这个更具有可读性：
+
+
+int readonly c = 10;
+
+
+我创造的那些最早的使用“const”的（C或C++）代码，看来已经在全球范围内取代了“readonly”。
+
+
+我记得这个语法的选择在几个人——例如Dennis Ritchie——当中讨论过，但我不记得当时我倾向于哪种语言了。
+
+
+注意在固定指针（const pointer）中，“const”永远出现在“*”之后。例如：
+
+
+int *const p1 = q; // 指向int变量的固定指针
+
+int const* p2 = q; //指向int常量的指针
+
+const int* p3 = q; //指向int常量的指针
+
+
+使用宏有什么问题？
+
+
+宏不遵循C++中关于范围和类型的规则。这经常导致一些微妙的或不那么微妙的问题。因此，C++提供更适合其他的C++（译注：原文为the rest of C++，当指C++除了兼容C以外的部分）的替代品，例如内联函数、模板与名字空间。
+
+
+考虑一下：
+
+
+#include "someheader.h"
+
+
+struct S {
+
+int alpha;
+
+int beta;
+
+};
+
+
+如果某人（不明智地）地写了一个叫“alpha”或“beta”的宏，那么它将不会被编译，或者被错误地编译，产生不可预知的结果。例如，“someheader.h”可能包含：
+
+
+#define alpha 'a'
+
+#define beta b[2]
+
+
+将宏（而且仅仅是宏）全部大写的习惯，会有所帮助，但是对于宏并没有语言层次上的保护机制。例如，虽然成员的名字包含在结构体的内部，但这无济于事：在编译器能够正确地辨别这一点之前，宏已经将程序作为一个字符流进行了处理。顺便说一句，这是C和C++程序开发环境和工具能够被简化的一个主要原因：人与编译器看到的是不同的东西。
+
+
+不幸的是，你不能假设别的程序员总是能够避免这种你认为“相当白痴”的事情。例如，最近有人报告我，他们遇到了一个包含goto的宏。我也见过这种情况，而且听到过一些——在很脆弱的时候——看起来确实有理的意见。例如：
+
+
+#define prefix get_ready(); int ret__
+
+#define Return(i) ret__=i; do_something(); goto exit
+
+#define suffix exit: cleanup(); return ret__
+
+
+void f()
+
+{
+
+prefix;
+
+// ...
+
+Return(10);
+
+// ...
+
+Return(x++);
+
+//...
+
+suffix;
+
+}
+
+
+作为一个维护的程序员，就会产生这种印象；将宏“隐藏”到一个头文件中——这并不罕见——使得这种“魔法”更难以被辨别。
+
+
+一个常见的微妙问题是，一个函数风格的宏并不遵守函数参数传递的规则。例如：
+
+
+#define square(x) (x*x)
+
+
+void f(double d, int i)
+
+{
+
+square(d); // 好
+
+square(i++); // 糟糕：这表示 (i++*i++)
+
+square(d+1); //糟糕：这表示(d+1*d+1); 也就是 (d+d+1)
+
+// ...
+
+}
+
+
+“d+1”的问题，可以通过在“调用”时或宏定义时添加一对圆括号来解决：
+
+
+#define square(x) ((x)*(x)) /*这样更好 */
+
+
+但是， i++被执行了两次（可能并不是有意要这么做）的问题仍然存在。
+
+
+是的，我确实知道有些特殊的宏并不会导致C/C++预处理宏这样的问题。但是，我无心去发展C++中的宏。作为替代，我推荐使用C++语言中合适的工具，例如内联函数，模板，构造函数（用来初始化），析构函数（用来清除），异常（用来退出上下文环境），等等。
+
+--
+装B者死于自然灾害！
+
+帖子发的快删的也快,只有灌水是永恒的
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 219.142.139.*]
+ 【文章标题】：从“六十万游戏人才” 谈教育者职业操守 【文章地址】：https://bbs.byr.cn/article/SoftDesign/1908 【创建时间】：2005-11-24 【作者】：BlueStorm 【评论】：0 【内容】：发信人: BlueStorm (流氓军团&gt;||&lt;天之骄子), 信区: SoftDesign
+标  题: 从“六十万游戏人才” 谈教育者职业操守
+发信站: BBS 北邮人论坛站 (Thu Nov 24 16:42:45 2005), 站内
+
+从“六十万游戏人才” 谈教育者职业操守 
+2005.11.17  来自：eNet硅谷动力   
+ 
+　　最近看到一系列的文章，都包含着一个非常刺眼的内容：“中国的游戏开发行业上出现的人才缺口是六十万人（也有一说是“二十万”的）”，据说还是引用的信息产业部公布的数字。如果你还没有被这个数字惊呆，我想提供给你一个参考标准：六十万大约就是中国人民解放军现役全部海军和空军官兵的总和。现在估计你已经被吓着了。对游戏行业进行稍加了解，你就会更加觉得这简直就是彻头彻尾的疯话。 
+
+　　中国游戏行业目前谁是老大？感谢福布斯等机构的努力，类似这样的问题是不存在多大的争议的，答案当然是上海的盛大。但从盛大公司提交给美国证券交易委员会的报告可以看到，截至最近，盛大公司的员工总数1，400多人，而且这其中还包括着市场、运营甚至人力资源和财务这样的非开发人员。在2004年4月2日盛大公司出具的官方报告上精确地注明，至2004年3月31日 ，该公司的游戏开发人员一共186人而已。同样查一查网易等大公司的相关文件，就会看到，这些公司的开发人员的数量，普遍都只在百人的数量级上。是不是这些大公司所占的市场份额不够大，游戏人才都在其他更小的公司里？好像不是。即便是在鼓吹游戏人才缺口几十万人的那类文章上，关于网络游戏市场规模的描述，也只是说在二十五亿元左右。而盛大一家公司在过去十二个月(2004年8月至2005年8月)的营业收入，就已经达到了十六亿元，显然，市场主体确是在这些大公司的手中的。那么，这六十万人究竟谁来领走呢？争论至此，“六十万”的鼓吹者们，似乎也只好把我们的视线指向两个方向，一个是国外，一个是未来。 
+
+　　顺便说一句，近些年来，“国外如何如何”已经成了大小骗子们的防空洞了，似乎一扯到国外，所有荒谬的东西都具备了合理性，满口“某某国等国家很先进，研发很厉害，我们必须追赶才行”。让我们看看真实的所谓国外的情况。韩国和ACTOZ，应该是所有关注游戏行业发展的人们无比熟悉的两个词。韩国之所以让人熟悉，因为它已经成为了网络游戏的“好莱坞”；如果前面的比喻成立，那么ACTOZ公司无疑可以被叫做游戏“二十一世纪福克斯”。ACTOZ这个网络游戏研发的航母，是包括盛大在内的几个国内网游公司的上游开发商《传奇》、《A3》等众多著名网络游戏的版权拥有者。对于盛大，研发的命脉掌握在外人手中的可怖威胁，终于使得陈首富在若干个夜晚的辗转反侧后下定决心，于在2004年对ACTOZ 进行了收购，巩固了盛大的大后方。查看韩国KOSDAQ（相当于美国纳斯达克的韩国证券市场）的注册资料 ，你会惊奇地发现，即使是ACTOZ这样一个研发型的、具有行业领导地位的公司，也不过区区162人而已（2004年6月的数字），注意，是全部员工数字，前台接电话的小姐已经包含在内了！可见，即便是在韩国，真正从事游戏开发工作的人也是相当有限的。游戏作为一个信息类产品，最大的特点就是几乎为零的“边际成本”。通俗地说，就是一个产品开发好以后，究竟给多少人提供服务对成本的影响不会非常大。在鼓吹游戏人才缺口的文章中，有人感叹道，“一方面是两千万的游戏玩家，一方面是仅仅三千人的开发队伍”，言下之意，这人才短缺不是显而易见了吗。那么，我不禁要问，在目前“两千万用户”及“三千开发人员”的“窘迫”状况下，有多少玩家在游戏过程中感受到游戏公司的人手短缺了？好莱坞的电影拥有观众不下十亿，按照这样的逻辑，究竟安排几百万人去美国做电影比较合适呢？从用户数量和从业人员的数量之悬殊就得出从业人员数量将要增加的结论，是“六十万”理论最大的无知之处。 
+
+　　最后，一个相对难以通过查资料解决、求证的问题出现了：“这六十万人是否会出现在将来”？先看看“六十万”们的预测吧。这些文章当中说，“近年来，中国的游戏产业发展迅速，去年网络游戏市场规模达到二十四点七亿元人民币，比上一年增长近五成，预计经过三至四年的发展，中国网络游戏市场销售收入将达到一百亿元左右。”即便不去讨论这些数字的预测是否过于乐观，即便我们认定这样的增长一直会持续下去，我们也必须看到，游戏这类信息类产品的特点，决定了从业人员的增长必将大大落后于行业的规模增长速度。还是从盛大公司的情况看，在最近公布季度财务报告上，盛大的季度销售收入同比增加了93.1%，但是员工的数量仅从2004年3月底的931人，增加到了目前的1，429人，增长率仅53%。因此，以这样的速度，盛大的营业收入即使再翻一倍，员工也仅仅会增加不到1，000人，而且，我们有理由相信，这部分的增长，也会是以客服人员而不是以更加专业的开发人员为主的。盛大公司现在人均实现销售收入约100万元。按照这样的标准测算，即便那个行业收入过百亿的时代真的来了，这个行业也就能养活一万人而已。考虑到竞争使人均创收能力降低等因素，游戏行业顶多可以容纳2-3万人，而且是在不知道多久的将来。 
+
+　　对于所谓“六十万”的鼓噪，如果仅仅因为盲从与无知，可能还是尚可原谅的，但是此次宣传之猛烈，意图之明显，使稍有头脑的人都可以清楚地看到，其背后似有利益团体的操纵，而更加让人拍案的，是操纵者似乎是一批本该“为人师表”的教育工作者。笔者认为，要缔造所谓的和谐社会，有两类人的良心是万万坏不得的，一是媒体工作者，二是教育工作者。媒体工作者的职业良知之所以重要，是因为他们可以影响人群之广泛；教育工作者的职业操守之所以必须，是因为他们对受教育者产生的影响之深远。可悲的是，“六十万”论恰是在这两个人群当中少部分人的互动中所勾勒出的骗局。 
+
+　　在中国，从事教育工作是令人骄傲的。在“一日为师，终生为父”的训诫下，即便是改革的大潮涤荡、冲刷掉了绝大多数的传统遗风后，对教师的尊重依然存留于大多数人的心间。但是，我们的教育工作者在为别人“解惑”的同时，是否对“你们的责任有多大”这个问题，有着比较正确的答案？从事教育工作，特别是职业教育领域的人员，应该意识到，你们的教育对象-处于二十岁左右的青年，是处在他们职业生涯的“方向选择”阶段。在二十岁到三十岁前的这段时间，一个人尽管未必能实现在事业发展上的道路上行进多远，但对将来终生从事的职业方向，已经会有一个相对明确的取舍了。“六十万”们是否想过，在二十岁这样一个人的热情最高涨，但自信最脆弱的阶段，引导他走向一个所谓“游戏英雄”的海市蜃楼，最后的结果会是一个多大的灾难。一两万元的学费、一两年时间的损失也就罢了，但对于他们，当发现人生第一个他们所热爱并全心投入的、“社会急需的”、“老师们也都说好”的职业发展目标，竟是一个可望不可及的幻影时，梦想被击碎的他们将会用多长时间，才能理智地认识到这一切并非他们的无能，而是目标原本就被人悄悄移偏了方向？而当最终发现这个误导他们的人竟然是他们尊敬的老师时，他们会不会发出“如果老师都骗人，这个世界上我们究竟还可以相信谁”的哀叹？！教育假药是最毒的假药，不仅因为它们一旦服下就会危害终生，更因为服这个假药的一两年时间中，你可能无法同时摄入其他的营养；而且，你可能需要未来十年的时间，才认识到这剂药的质量存在瑕疵。不要忘了，在这些热血沸腾地选择游戏作为毕生事业的学员当中，有相当部分本来已经陷入游戏不能自拔了，这时以“社会最需要的就是你们这样的人才，缺口几十万”的光彩理由把他们再向前推，无疑将把他们送上事业上的不归迷途。 
+
+　　笔者供职的机构，也在进行游戏开发人才的培养工作。稍有不同的是，我们并不打算因为公众对游戏的热情、因为商业上的利益就把我们的判断力与良知拿出来待价而沽。在2005年，我们的培养计划仅仅是在百人数量级而已。教育机构、特别是职业教育机构应该认识到，教育机构真正扮演的角色是为各行业进行人力资源配套供应的服务性工作。在对行业进行定向人才培养时，应该时刻关注行业的人力资源需求情况，既不能超前，也不能落后，而是必须像影子一样仅仅跟随。在IT相关的领域当中，技能是无法保鲜的，即便游戏行业真的需要六十万开发人才，如果不能选择合适的时机进行培养，对这些学员来说，这个时间上的提前量也会造成灾难性的后果。 
+
+　　我们相信对学员前途而不是经营利润的真正关注，才是教育机构、包括经营性教育机构长期生存的根本，才是教育者职业操守的核心。我在这里非常希望提醒“六十万派”们，未来再准备放这类似“六十万”的卫星，先自己用手摸摸两个部位：摸一下头-确实不烧，摸一下心-当真无愧，再把这类惊人观点抛出来不迟。
+
+--
+
+人没有怨死，没有妄死，只有注定的一死；
+上帝为每个人精心设计了死亡，
+如果你逃脱了上帝的设计，
+那么上帝还将为你另外设计死亡……
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 61.144.67.*]
+ 
+
+
+【文章标题】：[转帖]痛苦的选择：不再只专注于技术 【文章地址】：https://bbs.byr.cn/article/SoftDesign/121 【创建时间】：2005-05-16 【作者】：SunFlowers 【评论】：0 【内容】：发信人: SunFlowers (突然有了), 信区: SoftDesign
+标  题: [转帖]痛苦的选择：不再只专注于技术
+发信站: BBS 北邮人论坛站 (Mon May 16 18:28:43 2005), 站内
+
+     我很长一段时间都在煎熬中度过，已经快到而立之年，对自己的发展方向、前途却还很迷茫。这么多年来，我一直受兴趣指引，走了很长的路，或曲或直，但我从来没有后悔过。可决定未来的方向却让我痛苦不已。
+
+     1987年，我开始在CONMAX（记得不是很清楚了）机器上学习BASIC，从此和程序语言结下了不解之缘。当时学校仅有两台苹果II型电脑，我们连碰的机会都没有。CONMAX机器开机就是BASIC，没有操作系统，没有磁盘（使用录音机记录程序），在这样的机器上，我和我的同学们用SHAPE命令编程序在屏幕上写自己的名字，写赛车游戏、碰碰球游戏。编程给我带来了无穷的乐趣。
+
+     93年考入大学，因为当时外贸非常热门，我放弃了感兴趣的自动化专业、机械专业，开始学习工业外贸。由于是工业外贸，所以在课程设置上包含了机械、电子、经济、英语、外贸等方向的多门课程。凭着自己的兴趣，在机械相关的课程上，我的平均成绩不在97分之下（画法几何还考了100分）。这也奠定了后来学习Auto CAD、3DS MAX的基础。电子类课程成绩也不错，基本上都是班中第一。我对外语和外贸并不是很感兴趣，但在周围同学的强大压力下，还是以73.5分的成绩通过了六级考试，并在全院第一个拿到了BEC2的证书，更没想到的是5年后我竟然成为了BEC的口语考官。
+
+     大学的生活非常紧张，除了在学生会任职之外，我还把学校中所有的计算机培训班课程学了一个遍，在这期间我接触了PASCAL、C语言、FoxBASE、FoxPro，也为我参加数学建模竞赛奠定了计算机基础。1995年，学校组队参加全国大学生数学建模竞赛，我没有被选中。在强烈要求下，我作为旁听生参加了近一年半的数学建模的培训。虽经过艰苦的准备，但最终由于一个小失误导致我们组在全国大学生数学建模竞赛上只拿到了河北省二等奖。为了挽回失去的荣誉，我放弃了考研，毅然决定与队友参加美国大学生数学建模竞赛，并最终取得了一等奖的好成绩。可笑的是，在参赛获奖的两组六个人中，竟然有三个人是当时的“旁听生”。
+
+   虽然外贸专业课没有学好，但大学的学习为我的英语、数学、计算机打下了很好的基础，这也是我的兴趣带我到这一步的。毕业后留校，并转行管理信息系统。比起管理信息系统专业的学生来，我欠缺了太多的知识。我把“计算机技术”作为我的专攻方向，不断追赶。VFP、VB、DELPHI、.NET、SQL Server……甚至成为了MCT，在计算机技术上走了很远。
+
+现在，我忽然发现“累”了。我发现我对编程、对计算机技术不象以前那么专注了。我更加感兴趣技术后面的东西：设计模式、分析模式、财务管理、营销策略、企业信息化……想起当时我的老师说管理信息系统是“数学”、“管理”、“计算机”的交叉地带，我现在花了7年的时间才明白“技术”不能代表一切。
+
+很多象我一样对计算机技术“狂热”的人，其中一个原因恐怕是“编程”容易上手，花上个把月的时间就可以学到一些“高深”东西，并且可以编程炫耀一番了。另外，编程是创造的过程，看着自己的想法付诸实现，总会有成就之感，即使程序编写的很糟糕。编程也能处处体现征服困难的喜悦，每当一个问题被解决，心里面总有一种成就感，即使这个问题早就有人解决过了。这也是为什么有人花上大量时间，用尽各种技巧用JavaScript编写一个Web控件，而根本不去琢磨是否有一种智能客户端的技术，可以使用功能丰富的Windows控件。
+
+编程中的这种体会引导着我的兴趣，让我走了很远，也失去了很多。“专注于计算机技术”让很多人放弃了外语、放弃了数学、放弃了管理。很多人说这种放弃是心甘情愿的，你可能花了两年的时间学习英语，然而收获很少，为什么不去学计算机呢，至少能够“速成”，而且喜悦伴随着整个的学习过程。可是，这错了。编程创造的价值是什么呢？当你开发一套系统的时候，这套系统的管理内涵决定了应用信息系统的价值，而不是编程技巧的高低。编程技巧的高低可以决定开发效率，但不能决定企业应用信息系统究竟能带来多大的收益。编程是一种机械性的工作，它里面的创新并不能象优化管理流程一样对企业带来的巨大的利润。Web Service技术也不是凭空出现的，而是应企业应用集成的需求而出现的。
+
+现在的编程技术也降低了编程的门槛（很多人的虚荣心可以更容易的实现了），寒枫天伤有一次推荐自动代码生成的一系列网站，我看了一些，其中“Constructor”软件让程序编写.net系统变的如此容易。应用MDA后恐怕更容易。也许有一天人们不用再写那么多的代码。程序开发员的价值是否也意味着会不断贬值呢？
+
+“开发”阵营的人往往感慨为什么中国程序员没有超过30的，为什么中国没有人能够创造出一门语言来。不再专注于技术不意味着放弃技术。过分专注技术，就会陷入一种“技术成功”做成的陷阱中，最终变成一个“快乐的井底之蛙”。另外，只有知道技术的发展方向，才能更好的专注于技术，而技术的发展方向往往不取决于技术本身。设想有一天，一个跨国公司经营的几千万种商品一小时内完成清点，配货，及时针对竞争对手作出决策，所有这一切都是技术本身的功劳吗？我想不全是，其中一大部分取决于管理。用过ERP产品的程序员都说，其实每个界面都很简单，但ERP的价值不在于编程是否简单，其最重要的价值就是理顺的管理流程，推动了企业的运转。
+
+我跟着兴趣走得太远了，而且这个“兴趣”实际上是“过分关注编程技术”带来的小恩小惠积累起来的，它让我走了条弯路（但我不后悔）。现在这个问题困扰了我太久了，我实在是很难割舍这些“小恩小惠”，可我还要割舍掉。我曾经放弃过自动化、机械选择了工业外贸，也曾经放弃了考研选择了参加美国大学生数学建模竞赛，还曾经放弃了我的大学专业工业外贸转行管理信息系统，现在我也要放弃“专注于技术”，将更多的精力专注在管理、财务、企业信息化上面。我不放弃技术，也会继续在博客园发表技术文章，只是不想再专注于技术这一方面了。
+
+
+--
+This ID belong to these two guys：
+ChenX ，  who uses it to water
+LuengC， who uese it to release his painting。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.179.*]
+ 

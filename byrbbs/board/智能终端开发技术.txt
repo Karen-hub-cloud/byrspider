@@ -1,0 +1,574 @@
+【文章标题】：[问题]问个问题不是很高深，关于多线程更新ui界面的 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/19083 【创建时间】：2014-12-19 【作者】：ocean2706 【评论】：10 【内容】：发信人: ocean2706 (【安静的美男子】猫富贵，勿相喵~), 信区: MobileTerminalAT
+标  题: [问题]问个问题不是很高深，关于多线程更新ui界面的
+发信站: 北邮人论坛 (Fri Dec 19 20:50:42 2014), 站内
+
+rt，写了3个线程同时更新ui界面的不同控件，感觉卡卡的，大家都是怎么写的，有没有高招呢？
+
+   我写是直接用new thread + handler.obtainMessage 写的。从来没用过AsyncTask，
+   1是多线程太多，都用asynctask觉得不合适；
+   2是觉得asynctask内部应该也是用的thread，只不过封装了消息循环罢了，用了反而变得复杂。
+
+看诸位高见，ui多线程卡顿不知道有没有高人有好方法，感激不尽<img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"><img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none">
+-----------------------------
+恩，性能差一点的机器上明显卡顿，性能好的看起来比较流畅，其实我更想知道大家都是怎么写类似的多线程的，怎么优化多线程的,看书上都说android用asynctask或handler+thread，有时候很不明白什么时候适合用asynctask，因为后者全部能解决前者的问题，前者只是封装好一点罢了，个人看法，大家都是怎么理解这个问题的呢~
+--
+※ 修改:·ocean2706 于 Dec 19 23:30:56 2014 修改本文·[FROM: 123.119.243.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.119.243.*]
+ 
+【文章标题】：求助怎么从崩溃线程的堆栈信息中分析崩溃原因？ 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/19106 【创建时间】：2014-12-21 【作者】：ytinrete 【评论】：19 【内容】：发信人: ytinrete (ytinrete), 信区: MobileTerminalAT
+标  题: 求助怎么从崩溃线程的堆栈信息中分析崩溃原因？
+发信站: 北邮人论坛 (Sun Dec 21 17:15:02 2014), 站内
+
+呃呃呃，又来麻烦各位大大了真是不好意思<img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none">
+
+事情是这样的，一个星期前公司项目上线，程序里面集成有testin，所以用户跑游戏崩掉在后台可以看到崩溃数据，现在是要从这些数据中找出崩溃的原因，提出解决方案。其中百分之八十的崩溃都是SIGSEGV（这是神马，只知道似乎跟内存有关而且一定不能吃，嗯）现在问题就来了，得到的数据只有崩溃那个时候的线程堆站数据，符号化之后就变成类似下面这种东西：
+Crash reason:  SIGSEGV
+Crash address: 0x555b0c58
+Thread 10 (crashed)
+ 0  0x555b0c58
+ 1  libcocos2dlua.so!cocos2d::CCLuaStack::executeFunction(int) [CCLuaStack.cpp : 446 + 0x7]
+ 2  libcocos2dlua.so!cocos2d::CCLuaStack::executeFunctionByHandler(int, int) [CCLuaStack.cpp : 492 + 0x9]
+ 3  libcocos2dlua.so!cocos2d::CCLuaEngine::executeNodeEvent(cocos2d::CCNode*, int) [CCLuaEngine.cpp : 129 + 0xb]
+ 4  libcocos2dlua.so!cocos2d::CCNode::onEnter() [CCNode.cpp : 918 + 0x9]
+ 5  libcocos2dlua.so!cocos2d::ui::Widget::onEnter() [UIWidget.cpp : 115 + 0x5]
+ 6  libcocos2dlua.so!cocos2d::CCNode::addChild(cocos2d::CCNode*, int, int) [CCNode.cpp : 614 + 0x9]
+ 7  libcocos2dlua.so!cocos2d::ui::Widget::addChild(cocos2d::CCNode*, int, int) [UIWidget.cpp : 145 + 0x3]
+ 8  libcocos2dlua.so!cocos2d::CCNode::addChild(cocos2d::CCNode*) [CCNode.cpp : 628 + 0x15]
+ 9  libcocos2dlua.so!cocos2d::ui::Widget::addChild(cocos2d::CCNode*) [UIWidget.cpp : 134 + 0x3]
+10  libcocos2dlua.so!tolua_CocoStudio_Widget_addChild00 [LuaCocoStudio.cpp : 6866 + 0xb]
+11  libcocos2dlua.so!tolua_CocoStudio_Widget_addChild01 [LuaCocoStudio.cpp : 6904 + 0x5]
+12  libcocos2dlua.so!tolua_CocoStudio_Widget_addChild02 [LuaCocoStudio.cpp : 6936 + 0x5]
+
+。。。完全看不懂啊，好可怕<img src="/img/ubb/emc/6.gif" alt="emc6" style="display:inline;border-style:none"><img src="/img/ubb/emc/6.gif" alt="emc6" style="display:inline;border-style:none"><img src="/img/ubb/emc/6.gif" alt="emc6" style="display:inline;border-style:none">
+
+我想问的是：
+1.。。。。。。这个是神马？<img src="/img/ubb/emc/4.gif" alt="emc4" style="display:inline;border-style:none">
+2.这个东西有用吗？还是完全没有价值呢？（求别，这货我拿来分类统计过的，花了好长时间了呢<img src="/img/ubb/emc/31.gif" alt="emc31" style="display:inline;border-style:none">）
+3.如果还有点用的话，分析问题的原因，应该从什么地方着手？
+
+
+<img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none"><img src="/img/ubb/emc/29.gif" alt="emc29" style="display:inline;border-style:none">
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.157.139.*]
+ 
+【文章标题】：关于安卓手机抓取周围小区信号强度的实现？ 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/17734 【创建时间】：2014-11-14 【作者】：aaa123456 【评论】：5 【内容】：发信人: aaa123456 (原来过得很快乐), 信区: MobileTerminalAT
+标  题: 关于安卓手机抓取周围小区信号强度的实现？
+发信站: 北邮人论坛 (Fri Nov 14 15:50:38 2014), 站内
+
+RT。目的是利用APP抓取所在地点周围小区的信号强度，该如何实现呢？
+好像是要在手机的工程模式下是吧？求大神指点，感激不尽<img src="/img/ubb/ema/11.gif" alt="ema11" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.162.*]
+ 
+【文章标题】：寻求有创意梦想的人集结 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/16617 【创建时间】：2014-09-27 【作者】：girlpretty 【评论】：1 【内容】：发信人: girlpretty (girlpretty), 信区: MobileTerminalAT
+标  题: 寻求有创意梦想的人集结
+发信站: 北邮人论坛 (Sat Sep 27 23:48:10 2014), 站内
+
+本人今年刚刚考进北邮的mba，手中有一个项目，移动互联网关于wifi的，想找乐于技术开发的同学组建初始团队，此项目在申请专利过程中，很有前景，每个人都有创业梦想关键需要一个好的项目，希望志同道合的学弟学妹参加进来，无论将来创业与否都是宝贵的财富。如有意向电话联系18611682516
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.202.190.*]
+ 
+【文章标题】：【急】求帮助，Android的soap通信问题 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/6033 【创建时间】：2012-04-17 【作者】：lovemai 【评论】：7 【内容】：发信人: lovemai (RobertLee), 信区: MobileTerminalAT
+标  题: 【急】求帮助，Android的soap通信问题
+发信站: 北邮人论坛 (Tue Apr 17 15:20:45 2012), 站内
+
+代码：
+            SoapObject rpc=new SoapObject(NAMESPACE, METHOD_NAME);
+            rpc.addProperty("UserName",username);
+            SoapSerializationEnvelope envelope= new SoapSerializationEnvelope(SoapEnvelope.VER11);
+            envelope.bodyOut=rpc;
+            envelope.dotNet=true;
+            envelope.setOutputSoapObject(rpc);
+            HttpTransportSE ht=new HttpTransportSE(URL);
+            ht.debug=true;
+            ht.call(SOAP_ACTION, envelope);
+            detail=(SoapObject)envelope.getResponse();
+            Log.v("detail", String.valueOf(detail.getProperty(0).toString()));
+
+倒数第二行出现问题“NullPointerException”
+lz自己研究了整整4天，就是没有解决，请各位大神帮帮忙....谢了~~
+--
+
+
+
+4.18..............
+rpc.addProperty参数的键值弄错了，唉，费了好多时间，谢谢大家了~
+※ 修改:·lovemai 于 Apr 18 20:19:35 2012 修改本文·[FROM: 10.201.8.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.246.160.*]
+ 
+【文章标题】：哭瞎，大家有什么想说的 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/18583 【创建时间】：2014-12-16 【作者】：dss886 【评论】：81 【内容】：发信人: dss886 (打击楼主), 信区: MobileTerminalAT
+标  题: 哭瞎，大家有什么想说的
+发信站: 北邮人论坛 (Tue Dec 16 22:07:27 2014), 站内
+
+
+<a target="_blank" href="/att/MobileTerminalAT/0/18583/535"><img border="0" title="" src="/att/MobileTerminalAT/0/18583/535" alt="" class="resizeable"></a>
+--
+　　　　www.dss886.com
+　　　　　　　　　　　　　　　　
+　我就是我，是颜色不一样的烟火　
+　　　　　　　　　　　　　　　　
+
+
+※ 修改:·dss886 于 Dec 16 22:07:55 2014 修改本文·[FROM: 10.210.24.*]
+※ 来源:·北邮人论坛 bbs.byr.cn·[FROM: 10.210.24.*]
+ 
+【文章标题】：本人有Java基础 求大神指点android学习路线以及资料 谢谢了 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/17870 【创建时间】：2014-11-20 【作者】：kafei123 【评论】：8 【内容】：发信人: kafei123 (kafei123), 信区: MobileTerminalAT
+标  题: 本人有Java基础 求大神指点android学习路线以及资料 谢谢了
+发信站: 北邮人论坛 (Thu Nov 20 10:16:08 2014), 站内
+
+求大神介绍android的学习资料 最好有视频教程 可以让我少走写弯路 <img src="/img/ubb/ema/23.gif" alt="ema23" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 223.99.193.*]
+ 
+【文章标题】：iOS开发者账号能借吗 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/18119 【创建时间】：2014-12-01 【作者】：wislov 【评论】：3 【内容】：发信人: wislov (禅净圆融), 信区: MobileTerminalAT
+标  题: iOS开发者账号能借吗
+发信站: 北邮人论坛 (Mon Dec  1 11:45:15 2014), 站内
+
+想在真机调试，但没账号。iOS开发者账号能借吗？有大侠愿意借吗
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.5.*]
+ 
+【文章标题】：【兼职】IOS大神快到碗里来，土豪待遇，保证项目进度即可。 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/18262 【创建时间】：2014-12-05 【作者】：jstyla 【评论】：8 【内容】：发信人: jstyla (jstyla), 信区: MobileTerminalAT
+标  题: 【兼职】IOS大神快到碗里来，土豪待遇，保证项目进度即可。
+发信站: 北邮人论坛 (Fri Dec  5 10:45:48 2014), 站内
+
+公司现急招IOS开发人员，比较青睐我邮大牛，不要求坐班，保证时间，保证项目进度即可，土豪级工资待遇，要求如下：
+1、代码能力纯属，能扛得住ios大梁
+2、可以保证时间，研一研二最好，本科大神也欢迎
+
+有意者站内或者发简历到512101725@qq.com详聊。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.85.*]
+ 
+【文章标题】：【求助】毕设android项目如果添加server端，难度、开发量会大多 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/18295 【创建时间】：2014-12-06 【作者】：iamwugong 【评论】：13 【内容】：发信人: iamwugong (peter不会老), 信区: MobileTerminalAT
+标  题: 【求助】毕设android项目如果添加server端，难度、开发量会大多
+发信站: 北邮人论坛 (Sat Dec  6 11:45:47 2014), 站内
+
+rt，lz和班里三个同学都是已经找上工作的，在一个做硬件的老师下面报了一个比较水的毕设，题目是做一个基于android的简单物料管理系统，也就是老师希望能够管理实验室电子器件方便点。
+
+我们觉得这个东西如果只做android，老师只分了界面、二维码扫描、数据库三个部分，每个人开发量有点少，所以想主动加一个server端存储物料的数据（看起来有点作死啊），但不知道难度如何，求版上大大们现身说法一下……
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.28.*]
+ 
+【文章标题】：[问题]@icyfox 你的Android论文找到方向没？ 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/18271 【创建时间】：2014-12-05 【作者】：lwbupt90 【评论】：17 【内容】：发信人: lwbupt90 (Android), 信区: MobileTerminalAT
+标  题: [问题]@icyfox 你的Android论文找到方向没？
+发信站: 北邮人论坛 (Fri Dec  5 14:55:30 2014), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 2001:da8:215:811:39d1:6adc:f44:*]
+ 
+【文章标题】：怎样才能非root后台截屏呢？ 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/18222 【创建时间】：2014-12-04 【作者】：limingji0503 【评论】：26 【内容】：发信人: limingji0503 (吉大大), 信区: MobileTerminalAT
+标  题: 怎样才能非root后台截屏呢？
+发信站: 北邮人论坛 (Thu Dec  4 09:08:00 2014), 站内
+
+如题 -- 
+
+ 最近被这个需求搞的焦头烂额的。大家有没有人曾经实现过类似的需求啊。
+ 
+ 这个功能肯定是能够实现的，如NoScreenShot。 但是它是怎么做到的呢？<img src="/img/ubb/emc/21.gif" alt="emc21" style="display:inline;border-style:none">
+
+ NoScreenShot用的时候先要在PC端enable一下，但没有root，很好奇它做了什么。
+
+ ps： apk 已经传上来了。大家最好慎重安装，测试过及时删除吧。
+
+http://soft.shouji.com.cn/down/20110.html
+--
+
+
+<a href="/att/MobileTerminalAT/0/18222/685" target="_blank" color="blue">附件(573KB)  NoScreenShot.apk</a>
+<a href="/att/MobileTerminalAT/0/18222/587501" target="_blank" color="blue">附件(4.4MB)  ScreenshotItEnabler_win.exe</a>
+※ 修改:·limingji0503 于 Dec  4 12:51:32 2014 修改本文·[FROM: 111.196.64.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.196.64.*]
+ 
+【文章标题】：【范文一】Service程序教程 (转载) 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/3 【创建时间】：2010-03-13 【作者】：haibara 【评论】：0 【内容】：发信人: haibara (苏颜&amp;竹下生|喝茶远目ING。。。), 信区: MobileTerminalAT
+标  题: 【范文一】Service程序教程
+发信站: 北邮人论坛 (Sat Mar 13 21:10:30 2010), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: zzsanduo (出太阳出太阳), 信区: Board_Apply
+标  题: 【范文一】Service程序教程
+发信站: 北邮人论坛 (Wed Mar 10 23:16:45 2010), 站内
+
+Service程序教程
+  
+在软件开发很多情况下，一些与用户很少需要产生交互的应用程序，我们一般让它们在后台运行就行了，而且在它们运行期间我们仍然能运行其他的应用。为了处理这种后台进程，OPhone引入了Service的概念。Service在OPhone OS中是一种长生命周期的组件，它不实现任何用户界面。最常见的例子如：媒体播放器程序，它可以在转到后台运行的时候仍然能保持播放歌曲；或者如文件下载程序，它可以在后台执行文件的下载。  
+让我们来看下如何创建Service：  
+创建一个Service  
+OPhone OS中已经提供了一个 ‘Service’类，所有其他的Service都继承于该类。Service类中定义了一系列的生命周期相关的方法，如： onCreate(), onStart(), onDestroy()。参见下例：  
+package com.wissen.testApp.service;  
+public class MyService extends Service {  
+     @Override  
+     public IBinder onBind(Intent intent) {  
+         return null;  
+     }  
+     @Override  
+     public void onCreate() {  
+         super.onCreate();  
+         Toast.makeText(this, “Service created…”, Toast.LENGTH_LONG).show();  
+     }  
+     @Override  
+     public void onDestroy() {  
+         super.onDestroy();  
+         Toast.makeText(this, “Service destroyed…”, Toast.LENGTH_LONG).show();  
+     }  
+}  
+上例中的这个Service主要做了这些事：当服务创建和销毁时通过界面消息提示用户。  
+如OPhone OS中的其它部件一样, Service也会和一系列Intent关联。Service的运行入口需要在OPhoneManifest.xml中进行配置,如下:  
+&lt;service class=”.service.MyService”&gt;  
+     &lt;intent-filter&gt;  
+         &lt;action android:value=”com.wissen.testApp.service.MY_SERVICE” /&gt;  
+     &lt;/intent-filter&gt;  
+&lt;/service&gt;  
+之后我们的Service就可以被其他代码所使用了。  
+使用Service:  
+应用程序可以通过调用 Context.startService方法来启动Service。如果当前没有指定的Service实例被创建，则该方法会调用 Service的onCreate方法来创建一个实例；否则调用Service的onStart方法。参见下列代码：  
+..  
+Intent serviceIntent = new Intent();  
+serviceIntent.setAction(”com.wissen.testApp.service.MY_SERVICE”);  
+startService(serviceIntent);  
+..  
+以上代码调用了startService方法，Service会持续运行，直到调用stopService()或stopSelf()方法。  
+还有另一种绑定Service的方式：  
+…  
+ServiceConnection conn = new ServiceConnection() {  
+     @Override  
+     public void onServiceConnected(ComponentName name, IBinder service) {  
+         Log.i(”INFO”, “Service bound “);  
+     }  
+     @Override  
+     public void onServiceDisconnected(ComponentName arg0) {  
+          Log.i(”INFO”, “Service Unbound “);  
+     }  
+};  
+bindService(new Intent(”com.wissen.testApp.service.MY_SERVICE”), conn, Context.BIND_AUTO_CREATE);  
+…  
+当应用程序绑定一个Service后，该应用程序和Service之间就能进行互相通信，通常，这种通信的完成依靠于我们定义的一些接口，请看下例:  
+package com.wissen.testApp;  
+public interface IMyService {  
+     public int getStatusCode();  
+}  
+这里定义了一个方法来获取Service的状态，但是Service是如何来使它起作用的呢？之前我们看到Service中有个返回IBinder对象的 onBind方法，这个方法会在Service被绑定到其他程序上时被调用，而这个IBinder对象和之前看到的onServiceConnected 方法中传入的那个IBinder是同一个东西。应用和Service间就依靠这个IBinder对象进行通信:  
+public class MyService extends Service {  
+     private int statusCode;  
+     private MyServiceBinder myServiceBinder = new MyServiceBinder();  
+      
+     @Override  
+     public IBinder onBind(Intent intent) {  
+         return myServiceBinder;  
+     }  
+     public class MyServiceBinder extends Binder implements IMyService {  
+         public int getStatusCode() {  
+              return statusCode;  
+        }  
+     }  
+      
+     …  
+}  
+下列代码是说明getStatusCode是如何被调用的:    
+ServiceConnection conn = new ServiceConnection() {  
+     @Override  
+     public void onServiceConnected(ComponentName name, IBinder service) {  
+         IMyService myService = (IMyService) service;  
+         statusCode = myService.getStatusCode();  
+         Log.i(”INFO”, “Service bound “);  
+     }  
+      
+     …  
+};  
+或者，你也可以通过使用ServiceListener接口来达成相同的目的。  
+与远程Service通信（进程间Service通信）:  
+如何两个进程间的Service需要进行通信，则需要把对象序列化后进行互相发送。  
+OPhone OS提供了一个 AIDL (接口定义语言)工具来处理序列化和通信。这种情况下Service需要以aidl文件的方式提供服务接口，AIDL工具将生成一个相应的java接口，并且在生成的服务接口中包含一个功能调用的stub服务桩类。Service的实现类需要去继承这个 stub服务桩类。Service的onBind方法会返回实现类的对象，之后你就可以使用它了，参见下例：  
+先创建一个IMyRemoteService.aidl文件，内容如下:  
+  
+package com.wissen.testApp;  
+interface IMyRemoteService {  
+     int getStatusCode();  
+}  
+如果你正在使用eclipse的 OPhone插件，则它会根据这个aidl文件生成一个Java接口类。生成的接口类中会有一个内部类Stub类，你要做的事就是去继承该Stub 类：  
+package com.wissen.testApp;  
+class RemoteService implements Service {  
+     int statusCode;  
+     @Override  
+     public IBinder onBind(Intent arg0) {  
+         return myRemoteServiceStub;  
+     }  
+     private IMyRemoteService.Stub myRemoteServiceStub = new IMyRemoteService.Stub() {  
+         public int getStatusCode() throws RemoteException {  
+             return 0;  
+         }  
+     };  
+      
+     …  
+}  
+当客户端应用连接到这个Service时，onServiceConnected方法将被调用，客户端就可以获得IBinder对象。参看下面的客户端 onServiceConnected方法：  
+…  
+ServiceConnection conn = new ServiceConnection() {  
+     @Override  
+     public void onServiceConnected(ComponentName name, IBinder service) {  
+         IMyRemoteService myRemoteService = IMyRemoteService.Stub.asInterface(service);  
+         try {  
+             statusCode = myRemoteService.getStatusCode();  
+        } catch(RemoteException e) {  
+            // handle exception  
+        }  
+         Log.i(”INFO”, “Service bound “);  
+     }  
+      
+     …  
+};  
+权限:  
+我们可以在OPhoneManifest.xml文件中使用&lt;service&gt;标签来指定Service访问的权限：  
+&lt;service class=”.service.MyService” android:permission=”com.wissen.permission.MY_SERVICE_PERMISSION”&gt;  
+     &lt;intent-filter&gt;  
+         &lt;action android:value=”com.wissen.testApp.service.MY_SERVICE” /&gt;  
+     &lt;/intent-filter&gt;  
+&lt;/service&gt;  
+之后应用程序要访问该Service的话就需要使用&lt;user-permission&gt;标签来指定相应的权限：  
+&lt;uses-permission android:name=”com.wissen.permission.MY_SERVICE_PERMISSION”&gt;  
+&lt;/uses-permission&gt;  
+--
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+阿信太帅啦~~~~~~~
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.207.*]
+ 【文章标题】：【公告】任命【jan2zhao】为【MobileTerminalAT】版版主 (转载) 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/7 【创建时间】：2010-03-13 【作者】：haibara 【评论】：0 【内容】：发信人: haibara (苏颜&amp;竹下生|喝茶远目ING。。。), 信区: MobileTerminalAT
+标  题: 【公告】任命【jan2zhao】为【MobileTerminalAT】版版主
+发信站: 北邮人论坛 (Sat Mar 13 21:11:03 2010), 站内
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: haibara (苏颜&amp;竹下生|喝茶远目ING。。。), 信区: BoardManager
+标  题: 【公告】任命【jan2zhao】为【MobileTerminalAT】版版主
+发信站: 北邮人论坛 (Sat Mar 13 21:08:56 2010), 站内
+
+	    经 jan2zhao 申请，并由站务委员会讨论通过,现决定任命
+	jan2zhao 为 MobileTerminalAT 版版主。本论坛实行正版主负责制，一切事宜
+	均直接由正版主负责解释和安排协调。正版主为排在第一
+	位的版主。试用期半个月，到期如无重大失误即可转正。
+
+	    请 jan2zhao 于三日内到BoardManager版面和BM_office报到，
+	否则取消其斑竹权限；同时请每周至少一次到BM_office参与
+	斑竹讨论，关注斑竹管理内部的一些知识。
+
+
+	        类  别：非群体版面
+ 	        分  区：学术科技
+  	        版  主：
+  	        备  注：希望严格遵守北邮人论坛相关规定，
+  	                尽职尽责，繁荣 MobileTerminalAT。
+
+
+  	                        北邮人论坛版主管理组
+                           日期：Sat Mar 13 21:08:56 2010
+
+ 
+【文章标题】：jike2006被取消在MobileTerminalAT版的发文权限 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/183 【创建时间】：2010-03-16 【作者】：jan2zhao 【评论】：0 【内容】：发信人: jan2zhao (马小跳|兄弟会|河蟹队队长), 信区: MobileTerminalAT
+标  题: jike2006被取消在MobileTerminalAT版的发文权限
+发信站: 北邮人论坛 (Tue Mar 16 17:27:21 2010), 站内
+
+由于 jike2006 在 MobileTerminalAT 版的 发表不恰当文章 行为，
+被暂时取消在本版的发文权力 7 天。
+                              版主:jan2zhao
+                              Tue Mar 16 17:27:17 2010
+
+ 
+
+【文章标题】：提供一些OPhone开发的交流网站 OPhone SDN 和 JIL SDN 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/30 【创建时间】：2010-03-13 【作者】：zhanshen 【评论】：0 【内容】：发信人: zhanshen (战神), 信区: MobileTerminalAT
+标  题: 提供一些OPhone开发的交流网站 OPhone SDN 和 JIL SDN
+发信站: 北邮人论坛 (Sat Mar 13 23:55:13 2010), 站内
+
+http://www.ophonesdn.com/
+这个网站上面有一些OPhone开发的实例程序和一些开发文档 ，另外，如果你遇到任何技术问题，可以在开发者社区进行交流
+
+
+http://jil.net.cn/
+JIL Widget中国开发者社区
+这个网站主要是为了基于OPhone的JIL Widget的技术推广，上面有一个SDN集成开发工具包，集成好了Eclipse开发平台和需要的工具包 不过目前这项技术处于刚刚起步阶段，开发者社区没有太多好的实例程序，但是可以及时提交BUG和你的改进意见，好的建议会把采纳。相信你在使用这个新的开发平台开发OPhone应用程序的过程，会体会到很多开拓创新的乐趣。<img src="/img/ubb/em/38.gif" alt="em38" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.33.175.*]
+ 
+【文章标题】：Ophone的Widget是啥？ 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/91 【创建时间】：2010-03-14 【作者】：fj 【评论】：3 【内容】：发信人: fj (bobo), 信区: MobileTerminalAT
+标  题: Ophone的Widget是啥？
+发信站: 北邮人论坛 (Sun Mar 14 12:49:23 2010), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.222.160.*]
+ 
+【文章标题】：疑惑 android 和 ophone 技术是不是重复了啊。 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/82 【创建时间】：2010-03-14 【作者】：blove 【评论】：10 【内容】：发信人: blove (大雨), 信区: MobileTerminalAT
+标  题: 疑惑 android 和 ophone 技术是不是重复了啊。
+发信站: 北邮人论坛 (Sun Mar 14 11:34:34 2010), 站内
+
+国内刻意回避ophone和android的区别，实际上技术没啥区别啊。无非是个人定制而已。ophone只不过改了改android原来的ui而已。
+--
+我爱大妮er
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9901:28fd:35:f6ac:*]
+ 
+【文章标题】：【zz】RTEMS简介-超越vxworks的嵌入式操作系统 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/61 【创建时间】：2010-03-14 【作者】：Tory 【评论】：4 【内容】：发信人: Tory (健行追者), 信区: MobileTerminalAT
+标  题: 【zz】RTEMS简介-超越vxworks的嵌入式操作系统
+发信站: 北邮人论坛 (Sun Mar 14 10:35:11 2010), 站内
+
+RTEMS是前美国军方研制的嵌入式系统, 最早用于美国国防系统，早期的名称为实时导弹系统（Real Time Executive for Missile Systems），后来改名为实时军用系统（Real Time Executive for Military Systems）, 目前的全称是实时(Real Time Executive for Multiprocessor Systems)用，他的特点是非常的稳定，而且速度快。现在是一个开源项目的RTOS, 在全球还是有不少的用户，其中包括Motorola，朗讯等，他有下面的特点：
+1.    非常好的实时性能（以前是控制导弹的，再差也差不到那里去） 
+2.    极其稳定 
+3.    使用面向对象技术构件,剪裁性和移植性好。 
+4.    包含POSIX 1003.1b API，并且支持POSIX Thread 
+5.    提供pSOS+的API 
+6.    提供遵循ITRON的API 
+7.    体系可伸缩（也就是常说的Scalable） 
+8.    多任务，支持事件驱动，优先级调度，抢占调度（preemptive scheduling） 
+9.    任务间的同步与通信 
+10.    优化的基于统计的单调频率RMS调度（Rate Monotonic Scheduling） 
+11.    优先级高度协议PCP(Priority Ceiling Protocols) 
+12.    支持优先级继承用于解决优先级反转的问题 
+13.    支持多处理器体系结构（不但支持同构的处理器，也支持异构处理器比如ARM+DSP） 
+14.    负责任的中断管理 
+15.    高度的可配置性 
+16.    提供可重入的ANSI C库 
+17.    提供TCP/IP协议栈以及WebServer等服务。 
+注：TRON全称是 (The Real-time Operating system Nucleus),ITRON（Industrial TRON）是一个由多家著名IT企业牵头的协议制定组织，同时IRTON也代表实时嵌入式系统的一个标准。ITRON提出了实时操作系统的一系列规范（包括系统调用接口规范，任务调度接口规范，TCP/IP网路链接API规范，本地与远程调试接口规范等等），遵循这个规范的操作系统上层软件可以相互移植，有点类似于UNIX世界里面的POSIX。日本所有的大型IT公司都开发了自己的基于ITRON的嵌入式系统
+此外他还提供了很多有些的附加属性：
+1.    优秀的网路支持，支持BSD套结字, TCP/IP, UDP/IP, TFTP, FTPd, HTTPd, SNMP, NTP, ICMP, ARP, DNS client, PPP, Remote Console, SNMP 
+2.    支持图形界面：microwindows GUI 
+3.    支持Webserver（GoAhead） 
+4.    支持CORBA（omniORB） 
+5.    支持大量的OpenSource库，比如：TCL, readline, zlib, ncurses, libavl 
+6.    对大多数API提供C++支持(可选) 
+7.    支持Ada 
+8.    支持文件系统 
+目前RTEMS是GPL的开源项目（准确的说，是GPL的一个变种），广泛应用于军事，工业，科研等领域。很多专业的软件（比较注明的如EPICS）开始移植到RTEMS平台上。
+    RTEMS从设计初始就是为较少内存与较少CPU主频的嵌入式系统提供可靠的实时内核。该系统分为若干模块，用户可以根据实际应用需要进行剪裁。     在国际控制年会Straumann的一篇报道做过如下的测试，测试的硬件平台是PowerPC 604（300MHz），Rtlinux，RTEMS和VxWorks的BSP都是由Motorola提供，测试内容包括初始化、中断处理、普通程序（包括网路程序、SPI、串口等）。测试中产生了2，000，000次中断，中断的平均频率为4kHz。可以看出，这个测试程序对内核的实时性以及任务调度都是一个严格的考验。测试的结果如下表所示：（单位10-6s）
+     中断时延    Context转换
+     系统负载中等
+     最大     平均    最大    平均
+RtLinux    13.5    1.7    33.1    8.7
+RTEMS    15.1    1.3    16.4    2.2
+RTEMS1    14.9    1.3    16.9    2.3
+VxWorks    13.1    2.0    19.0    3.1
+     重负载
+RtLinux    196.8    2.1    193.9    11.2
+RTEMS    20.5    2.9    51.3    3.7
+RTEMS1    19.2    2.4    213    10.4
+VxWorks    25.2    2.9    38.8     9.5
+注：RTEMS1（使用Pthread库）
+从表上的结果可以看出，RtLinux无论是实时性，还是线程任务迁移，都还远远不能满足要求。尤其是在重负载情况下，处理中断的时延波动非常厉害。想象一下，RtLinux他的中断处理平均时间是2.1us但是实际应用的时候可能要在200us才能处理。这在时间有严格要求的系统中是不能允许的。
+同时也可以看到，RTEMS在测试重表现的性能指标非常理想，基本上达到或者超过老牌商业系统VxWorks。值得一提的是RTEMS在使用了Pthread库后，RTEMS的性能有所下降。但是最差的情况也不会比RtLinux差。但让人欣喜的是，目前Pthread库的性能已经有了不少改善，详情可以参考RTEMS的邮件列表。 
+既然我把Rtems叫做嵌入式系统里面的老大哥，它支持的CPU类型自然是非常多的，可以说只要是GCC支持的，RTEMS就可以支持。其中值得一提的是一下的CPU
+&amp;#61607;    intel的i386,i960 
+&amp;#61607;    Hitachi的H8/300和SH系列 
+&amp;#61607;    Motorola的MC68xxx 
+&amp;#61607;    MIPS R46x0 
+&amp;#61607;    OPEN CORE的OR32 
+&amp;#61607;    PowerPC系列 
+&amp;#61607;    SPARC系列 
+&amp;#61607;    ARM系列 
+&amp;#61607;    AMD 29K 
+&amp;#61607;    HP PA-RISC 
+这些系列是比较成熟的工业级CPU,RTEMS在这些产品上面已经有多年的应用，所以对这些CPU支持的特别好。同时随着ARM和DSP的流行，RTEMS也在几年前支持了多种DSP和多个系列的ARM(ARM只是一个核心，实际的ARM芯片有上千种，一个操作系统不可能支持全部的ARM芯片)。
+
+ps:以上转载自：www.rtems.net。有兴趣的同学可以参考以下网址：RTEMS中文站：www.rtems.net,RTEMS英文站：www.rtems.com,RTEMS的官方wiki：<a target="_blank" href="http://www.rtems.com/wiki/index.php/Main_Page">http://www.rtems.com/wiki/index.php/Main_Page</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 114.246.153.*]
+ 
+【文章标题】：自己写的JIL Wdiget统一播放多媒体文件格式的函数接口 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/192 【创建时间】：2010-03-17 【作者】：icecode 【评论】：2 【内容】：发信人: icecode (icecode), 信区: MobileTerminalAT
+标  题: 自己写的JIL Wdiget统一播放多媒体文件格式的函数接口
+发信站: 北邮人论坛 (Wed Mar 17 11:04:59 2010), 站内
+
+由于JIL Wdiget播放多媒体音频或者视频的API函数，Multimedia 类把打开和播放多媒体文件的功能交给了AudioPlayer, VideoPlayer 两个子类，所以，如果想做一个程序，打开SD卡中的一个文件夹后，点击列出的文件能自动播放音频或者视频，则需要自己写一个自动解析文件格式的程序，然后调用不同的子类功能进行播放。
+
+
+例如：打开文件以后，列出以下文件
+1.mp3
+2.mp4
+4.3gp
+he.test.mp4
+点击相应的文件，则可以自动调用不同的程序来播放。就相当于做一个统一的自定义API函数 。我的思路是先解析文件格式，然后调用系统提供的不同的API
+实例代码如下：（希望大家多多指点）
+function playAudio(fileUrl){
+    if(Widget.Multimedia.isAudioPlaying || Widget.Multimedia.isVideoPlaying)
+    {
+        Widget.Multimedia.stopAll();
+
+    }
+
+        alert("begin play the " + fileUrl);
+        fileUrl = "file://" + fileUrl;
+        Widget.Multimedia.AudioPlayer.open(fileUrl);
+        Widget.Multimedia.AudioPlayer.play(5);
+    
+}
+function playVideo(fileUrl){
+    if(Widget.Multimedia.isAudioPlaying || Widget.Multimedia.isVideoPlaying)
+        {
+            Widget.Multimedia.stopAll();
+        }
+            var div = document.getElementById("front");
+            alert("It is playing the " + fileUrl);
+            fileUrl = "file://" + fileUrl;
+            var mvplayer = Widget.Multimedia.VideoPlayer;
+            mvplayer.setWindow(div);
+            mvplayer.open(fileUrl);
+            mvplayer.play(1);
+    
+}
+function playMedia(fileUrl)
+{
+    var i = 0;
+    var fileName;
+    var extArray = new Array(20);
+    var extFileNames = new Array(10);
+    var extFileName = "";
+    var index = 0;
+    fileName = "" + fileUrl;
+    extArray = fileName.split("/");
+    for(i=0;i&lt;20;i++)
+        if(extArray[i] == null)
+            {
+                index = i-1;
+                break;
+            }
+    extFileNames = ("" + extArray[index]).split(".");
+    index = 0;
+    for(i=0;i&lt;10;i++)
+        if(extFileNames[i] == null)
+            {
+                index = i-1;
+                break;
+            }
+        extFileName = "" + extFileNames[index];
+        if(extFileName == "mp3" || extFileName == "MP3" )
+            {
+                playAudio(fileUrl);
+            }
+        else if(extFileName == "mp4" || extFileName == "MP4" || extFileName == "3gp")
+            {
+                playVideo(fileUrl);
+            }
+        else 
+            alert("sorry,the format may be not media!");
+}
+
+
+
+--
+^_^缘分就是对的时间 对的地点 遇到对的人 +勇敢的表白
+
+※ 修改:·icecode 于 Mar 17 11:05:55 2010 修改本文·[FROM: 59.64.253.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.253.*]
+ 

@@ -1,0 +1,450 @@
+【文章标题】：爬取Twitter某个账号的推文，并自动下载推文里的视频或者图片 【文章地址】：https://bbs.byr.cn/article/Python/22068 【创建时间】：2018-06-06 【作者】：moby 【评论】：5 【内容】：发信人: moby (moby), 信区: Python
+标  题: 爬取Twitter某个账号的推文，并自动下载推文里的视频或者图片
+发信站: 北邮人论坛 (Wed Jun  6 17:22:26 2018), 站内
+
+各位有比较好的方法吗
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 163.177.68.*]
+ 
+【文章标题】：Scarpy爬虫速度慢 【文章地址】：https://bbs.byr.cn/article/Python/24225 【创建时间】：2019-08-12 【作者】：xiaoguiwk 【评论】：2 【内容】：发信人: xiaoguiwk (小鬼), 信区: Python
+标  题: Scarpy爬虫速度慢
+发信站: 北邮人论坛 (Mon Aug 12 23:46:23 2019), 站内
+
+不是说scrapy框架慢，而是我用scrapy写的爬虫有点慢。  
+爬的是b站的用户，每一个URL请求一次，每一个请求构成一个item，每分钟大概100出头，线程数开到最高了，delay设置为0，代理，cookies，ua全都设置了，问题可能出在数据库，但我也加了异步写入，查了资料明白写入会很大程度影响速度，但感觉不至于。。。大佬帮我看看代码。。
+代码比较长，在这里<a target="_blank" href="https://github.com/Gjh9508/asyncbili/tree/master/users">https://github.com/Gjh9508/asyncbili/tree/master/users</a>，写的比较烂，主要是想知道速度卡在哪里，异步的三个过程：下载、解析是scarpy管理的，只有数据库存储写在pipelines里面是自己写的，应该是实现了异步。当然我也考虑过问题可能出现在哪些地方，
+<pre class="markdown">1.比如存储换成mongodb，暂时先不考虑毕竟还要再学；  
+2.是不是代理比较慢，感觉不至于这么慢，代理用的是https://github.com/jhao104/proxy_pool这位大佬的应该没什么问题；  
+3.是不是start_url设置为列表生成器会快一点（好像并没有），写成迭代器的方式是不是不太对，导致每次要请求start_request这个函数，这里不太会改；  
+4.哔哩哔哩一共三亿多用户，虽然很多0级，但筛选过后也很大。我的目的并不是要这些数据，我想知道怎么样提高一下速度；  
+5.还有一个地方，获取代理的时候用了requests包，在middlewares.py文件里，这里不太会用scrapy.Request写，直接写成  
+&gt; def get_proxy(self):  
+       return Scrapy.Request("http://127.0.0.1:5010/get/")    
+这样会被认为是返回了一个Request对象，如果用r来接收，取其响应的文本写成  
+&gt; r.body()#这样不行，出来是二进制，无法进行拼接；  
+&gt; r.text()#这样也不行，r会被认为是一个Request对象，没有text方法；</pre>
+代码写的比较烂也没有太多注释，但本身篇幅很小一眼就明白，有同学知道我这种情况是卡在哪里了吗？
+--
+<pre class="markdown">补一点，代理的使用方法是这样的，这个框架已经做好了爬取并存储到redis数据库，直接请求本地http://127.0.0.1/get/可以得到一个这样的结果：  
+&gt; proxy:port  
+如果requests.get('http://127.0.0.1/get/').text就可以得到文本；</pre>
+※ 修改:·xiaoguiwk 于 Aug 12 23:50:47 2019 修改本文·[FROM: 10.205.41.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.41.*]
+ 
+【文章标题】：筹钱买贪心学院CV计算机视觉，自然语言处理培训课程啦，价值159 【文章地址】：https://bbs.byr.cn/article/Python/24242 【创建时间】：2019-08-15 【作者】：renqingmin 【评论】：2 【内容】：发信人: renqingmin (任庆民), 信区: Python
+标  题: 筹钱买贪心学院CV计算机视觉，自然语言处理培训课程啦，价值1598
+发信站: 北邮人论坛 (Thu Aug 15 13:20:44 2019), 站内
+
+100来块钱筹钱买贪心学院CV计算机视觉，自然语言处理培训课程啦，nlp官网价值15988元！！！
+100来块钱筹钱买贪心学院CV计算机视觉，自然语言处理培训课程啦，cv官网价值11988元！！！
+学弟学妹学长学姐好，有想凑钱学计算机视觉的吗，贪心学院cv计算机视觉集训营，官网价值11998，每人120，想学习提高下，无奈太贵了，云盘发大家，只差几个人了，想学习的同学可以加群交流学习也可
+<a target="_blank" href="http://hougejiaocheng.com/data/attachment/forum/201908/15/131619g1exffmefq1s999q.jpg"><img border="0" title="单击此在新窗口浏览图片" src="http://hougejiaocheng.com/data/attachment/forum/201908/15/131619g1exffmefq1s999q.jpg" alt="http://hougejiaocheng.com/data/attachment/forum/201908/15/131619g1exffmefq1s999q.jpg" class="resizeable"></a>
+http://hougejiaocheng.com/data/attachment/forum/201908/15/131950khs3vf2umbi3jfyf.jpg
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.106.86.*]
+ 
+【文章标题】：【500+/天】【编程兼职】【或者金融统计数学专业】 【文章地址】：https://bbs.byr.cn/article/Python/24203 【创建时间】：2019-07-31 【作者】：learncs19 【评论】：0 【内容】：发信人: learncs19 (learncs19), 信区: Python
+标  题: 【500+/天】【编程兼职】【或者金融统计数学专业】
+发信站: 北邮人论坛 (Wed Jul 31 19:18:23 2019), 站内
+
+【500+/天】【编程兼职】【或者金融统计数学专业】
+说明：
+我们多个同学做了一个技术外包服务，承接很多小任务、小系统。任务很多需要人手。以简单的编程课作业、编程设计为主。
+
+
+需求：
+
+用到技术如：
+
+①
+python java c+ （特别是会R matlab）sas spss stataeviews
+
+②
+会数据挖掘、数据分析，机器学习，深度学习、OpenGL、数据库、统计经济、汇编
+
+③
+还需要：金融、数理、线代等数学任务、或者写过商科essay的同学
+待遇：
+一般一两天就可以完成的任务。按照难度一次 数百+、上千+。
+可以根据自己时间灵活安排
+联系：
+微信：cservice2019
+
+或者扫二维码：
+<a target="_blank" href="/att/Python/0/24203/776"><img border="0" title="20190328_4fbb7ea8fcac205624e2we2X1OV4B089.jpg" src="/att/Python/0/24203/776" alt="20190328_4fbb7ea8fcac205624e2we2X1OV4B089.jpg" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.28.169.*]
+
+ 
+【文章标题】：【问题】selenium获取cookie的问题 【文章地址】：https://bbs.byr.cn/article/Python/24208 【创建时间】：2019-08-02 【作者】：youdianer 【评论】：0 【内容】：发信人: youdianer (youdianer), 信区: Python
+标  题: 【问题】selenium获取cookie的问题
+发信站: 北邮人论坛 (Fri Aug  2 16:36:03 2019), 站内
+
+<pre class="markdown">代码是先通过登录，保存cookies到文件：
+```python
+cookies = browser.get_cookies()
+with open('cookies', 'w') as f:
+        json.dump(cookies, f)
+```
+我想直接把保存的cookies拿出来登录，运行的时候程序报错，说 `invalid 'expiry'`。我去看了看保存的cookie文件，发现通过`get_cookies()`获取的cookie结果里居然有几个值是这种的`"expiry": 1596265762.392329`。为什么得到的`expiry`会带有小数点？后面我直接把这种小数点去掉，保留整数部分代码就能正常登录了。</pre>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.28.203.*]
+ 
+【文章标题】：请问一下，有affect-LM的论文复现代码吗？GitHub上搜到一个，生 【文章地址】：https://bbs.byr.cn/article/Python/24215 【创建时间】：2019-08-04 【作者】：BYACY 【评论】：0 【内容】：发信人: BYACY (emmm), 信区: Python
+标  题: 请问一下，有affect-LM的论文复现代码吗？GitHub上搜到一个，生
+发信站: 北邮人论坛 (Sun Aug  4 00:59:17 2019), 站内
+
+请问一下，有affect-LM的论文复现代码吗？
+GitHub上搜到一个，生成的不符合语法[捂脸]
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 117.136.0.*]
+ 
+【文章标题】：不懂就问，豆瓣屏蔽了50页以后的访问权限吗 【文章地址】：https://bbs.byr.cn/article/Python/24193 【创建时间】：2019-07-27 【作者】：xiaoguiwk 【评论】：6 【内容】：发信人: xiaoguiwk (小鬼), 信区: Python
+标  题: 不懂就问，豆瓣屏蔽了50页以后的访问权限吗
+发信站: 北邮人论坛 (Sat Jul 27 15:11:14 2019), 站内
+
+从book.douban.com右侧的标签进去，<a target="_blank" href="https://book.douban.com/tag/?view=type&amp;icn=index-sorttags-all">https://book.douban.com/tag/?view=type&amp;icn=index-sorttags-all</a>，随便一个标签就有好几百页比如<a target="_blank" href="https://book.douban.com/tag/%E5%B0%8F%E8%AF%B4">https://book.douban.com/tag/%E5%B0%8F%E8%AF%B4</a>小说分类有381页，但是修改请求地址start=980就请求不到了？
+同样在浏览器里面也请求不到，好像反爬已经从根源上杜绝了通过标签爬的方式？
+有同学知道有没有其他的方式整理链接吗？
+ps：登录也不好使。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.41.*]
+ 
+【文章标题】：python图像减去各个通道的均值应该怎么做啊？ 【文章地址】：https://bbs.byr.cn/article/Python/24209 【创建时间】：2019-08-03 【作者】：lt1103725556 【评论】：5 【内容】：发信人: lt1103725556 (挪威的森林), 信区: Python
+标  题: python图像减去各个通道的均值应该怎么做啊？
+发信站: 北邮人论坛 (Sat Aug  3 15:41:02 2019), 站内
+
+已知三个通道的均值，[104, 117, 123]，和一张三通道的图像，numpy.ndarray类型，shape=(443, 1024, 3)，怎么把这张图像减去这个均值呢？
+照理说opencv或者pillow都应该有相应函数的，可就是找不到。。想用numpy可是也不能直接减emmm。。。难道非要自己写个函数做吗<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+
+其实就是想把caffe的transformer.set_mean('data', np.array([104, 117, 123]))用其他方法实现，不然还要安个caffe太麻烦了，无奈搜索能力实在有限。。
+--
+※ 修改:·lt1103725556 于 Aug  3 15:43:37 2019 修改本文·[FROM: 58.213.147.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.213.147.*]
+ 
+【文章标题】：【有偿求助】爬虫代码编写 【文章地址】：https://bbs.byr.cn/article/Python/14017 【创建时间】：2016-05-09 【作者】：z1132571836 【评论】：0 【内容】：发信人: z1132571836 (逝雪逝雪), 信区: Python
+标  题: 【有偿求助】爬虫代码编写
+发信站: 北邮人论坛 (Mon May  9 15:11:31 2016), 站内
+
+本人需要高手帮忙写一段爬虫代码，在某网站上爬一点数据，报酬面议。有意者请加qq1480035135
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 101.5.64.*]
+ 
+【文章标题】：【求助】Python tkinter 显示图片遇到IOError: cannot identify 【文章地址】：https://bbs.byr.cn/article/Python/13970 【创建时间】：2016-05-06 【作者】：wxxhh 【评论】：1 【内容】：发信人: wxxhh (wxxhh), 信区: Python
+标  题: 【求助】Python tkinter 显示图片遇到IOError: cannot identify 
+发信站: 北邮人论坛 (Fri May  6 13:09:13 2016), 站内
+
+
+<a target="_blank" href="/att/Python/0/13970/436"><img border="0" title="daima.PNG" src="/att/Python/0/13970/436" alt="daima.PNG" class="resizeable"></a>
+代码如图，我的想法是在这个Toplevel窗口上显示和输入验证码，然后关闭窗口，但是出现的情况是第一次打开这个窗口是正常的，之后再重新打开就会报错IOError: cannot identify image file
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.17.*]
+
+ 
+【文章标题】：[问题]修改源码如何生效 【文章地址】：https://bbs.byr.cn/article/Python/13994 【创建时间】：2016-05-08 【作者】：supers 【评论】：4 【内容】：发信人: supers (supers || www.zing.ac.cn), 信区: Python
+标  题: [问题]修改源码如何生效
+发信站: 北邮人论坛 (Sun May  8 16:53:50 2016), 站内
+
+pip install sklearn
+在C:\Python34\Lib\site-packages\sklearn下修改了一些源码后
+在idle里import  没发现我新加进去的方法。
+
+求问，我应该怎么使修改的源码生效？  
+
+
+【已经解决 终结问题】
+--
+※ 修改:·supers 于 May  8 22:10:29 2016 修改本文·[FROM: 10.108.117.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.117.*]
+ 
+【文章标题】：这个代码是做指数函数的泰勒展开的，可是看不懂。。。求讲解 【文章地址】：https://bbs.byr.cn/article/Python/17472 【创建时间】：2017-03-06 【作者】：hz455122041 【评论】：6 【内容】：发信人: hz455122041 (包子不好蒸), 信区: Python
+标  题: 这个代码是做指数函数的泰勒展开的，可是看不懂。。。求讲解
+发信站: 北邮人论坛 (Mon Mar  6 22:07:30 2017), 站内
+
+def calc_e(x): #此函数是用来计算
+    reverse = False
+    if x &lt; 0:   # 处理负数
+        x = -x
+        reverse = True
+    ln2 = 0.69314718055994530941723212145818
+    c = x / ln2
+    a = int(c+0.5)
+    b = x - a*ln2
+    y = (2 ** a) * calc_e_small(b)
+    if reverse:
+        return 1/y
+    return y
+
+def calc_e_small(x):
+    n = 10
+    f = np.arange(1, n+1).cumprod()
+    b = np.array([x]*n).cumprod()
+    return np.sum(b / f) + 1
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.242.*]
+ 
+【文章标题】：请教装饰器的问题 【文章地址】：https://bbs.byr.cn/article/Python/14024 【创建时间】：2016-05-09 【作者】：lecher 【评论】：3 【内容】：发信人: lecher (【意涵团】Offer Offer Offer！！！), 信区: Python
+标  题: 请教装饰器的问题
+发信站: 北邮人论坛 (Mon May  9 20:36:57 2016), 站内
+
+如下代码：
+def memo(fn):
+    cache = {}
+    @wraps(fn)
+    def wrapper(*args):
+        result = cache.get(args, None)
+        if result is None:
+            result = fn(*args)
+            cache[args] = result
+        return result
+    return wrapper
+
+@memo
+def fib(n):
+    if n &lt; 2:
+        return n
+    return fib(n-1) + fib(n-2)
+
+为什么局部变量cache不会每次重新生成，而是只会有一个？
+然后改了下代码：
+def memo(fn):
+    cache = {}
+    count = 1
+    @wraps(fn)
+    def wrapper(*args):
+        count += 1
+        result = cache.get(args, None)
+        # --同上,略--
+这里就会报count未定义的错误
+环境是python 2.7
+求老司机解答， 感激不尽~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 42.120.74.*]
+ 
+【文章标题】：【nginx】部署问题 【文章地址】：https://bbs.byr.cn/article/Python/7773 【创建时间】：2015-07-11 【作者】：cm2b 【评论】：0 【内容】：发信人: cm2b (我擦), 信区: Python
+标  题: 【nginx】部署问题
+发信站: 北邮人论坛 (Sat Jul 11 10:13:16 2015), 站内
+
+nginx部署出现Active: failed (Result: exit-code)，有谁遇到活这个问题么
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.243.215.*]
+ 
+【文章标题】：字符串转义 【文章地址】：https://bbs.byr.cn/article/Python/17480 【创建时间】：2017-03-08 【作者】：boke1208 【评论】：7 【内容】：发信人: boke1208 (福莱), 信区: Python
+标  题: 字符串转义
+发信站: 北邮人论坛 (Wed Mar  8 13:38:27 2017), 站内
+
+同学问的，以前还真没注意
+print(r'\\\')
+会报错，请问这是为什么呀
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.21.166.*]
+ 
+【文章标题】：小白求问，关于python（x,y）和eclipse 【文章地址】：https://bbs.byr.cn/article/Python/13983 【创建时间】：2016-05-07 【作者】：forevertooti 【评论】：9 【内容】：发信人: forevertooti (forevertooti), 信区: Python
+标  题: 小白求问，关于python（x,y）和eclipse
+发信站: 北邮人论坛 (Sat May  7 16:43:11 2016), 站内
+
+刚开始学习利用python数据分析，使用plot时显示ImportError: No module named sip
+使用的是eclipse ，python版本为2.7.6，python(x,y)
+
+代码如下
+--import matplotlib
+import json
+
+
+from pandas import DataFrame,Series
+from collections import Counter
+import pandas as pd;import numpy as np
+path=r'C:\Users\banana\Desktop\text.txt'
+records=[json.loads(line) for line in open(path)]
+time_zone=[rec['tz'] for rec in  records if 'tz' in rec]
+
+frame =DataFrame(records)
+clean_tz=frame['tz'].fillna('missing')
+clean_tz[clean_tz=='']='unknown'
+tz_counts=clean_tz.value_counts()
+tz_counts[:10].plot(kind='barh',rot=0)
+
+plot这行出错，我导入matplotlib.pylab也提示相同的错误
+但是导入matplotlib没有问题，求解释
+※ 修改:·forevertooti 于 May  7 16:46:58 2016 修改本文·[FROM: 10.108.54.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.54.*]
+ 
+【文章标题】：python和java 【文章地址】：https://bbs.byr.cn/article/Python/17333 【创建时间】：2017-02-18 【作者】：TianYing 【评论】：44 【内容】：发信人: TianYing (天樱道), 信区: Python
+标  题: python和java
+发信站: 北邮人论坛 (Sat Feb 18 10:20:58 2017), 站内
+
+python程序言好找工作呢还是java程序员好找工作呢，还是python程序员有发现潜力呢还是java程序员有发展潜力呢
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮2.0』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 120.12.98.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/nuanyangyang"><img src="https://bbs.byr.cn/uploadFace/N/nuanyangyang.3973.gif"></a><a href="/user/query/nuanyangyang"><strong style="color:red;">nuanyangyang</strong></a>找工作不光靠语言啊。不管是会Python还是会Java，都只是大一上学期的水平。<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Python/17333?s=17340">第6楼</a></li><li><a href="/article/Python/ajax_voteup/17340.json" class="a-func-like" id="like_list17340"><samp class="ico-pos-zaninactive" id="icon_like_list17340"></samp>赞(23)</a></li><li><a href="/article/Python/ajax_votedown/17340.json" id="listCai17340" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai17340"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Python/post/17340" class="a-post">回复</a></li></ul><a class="a-nice-comment-face" href="/user/query/kitakami"><img src="https://bbs.byr.cn/img/face_default_m.jpg"></a><a href="/user/query/kitakami">kitakami</a>刚想吐槽这个人，突然发现好像是巨神，吐槽不起orz
+
+【 在 nuanyangyang 的大作中提到: 】
+: 找工作不光靠语言啊。不管是会Python还是会Java，都只是大一上学期的水平。
+: 
+
+<a target="_blank" href="http://guiyou.wangx.in">发自「贵邮」</a><ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Python/17333?s=17367">第12楼</a></li><li><a href="/article/Python/ajax_voteup/17367.json" class="a-func-like" id="like_list17367"><samp class="ico-pos-zaninactive" id="icon_like_list17367"></samp>赞(6)</a></li><li><a href="/article/Python/ajax_votedown/17367.json" id="listCai17367" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai17367"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Python/post/17367" class="a-post">回复</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：求教！用selenium解决网页内部拖动块问题 【文章地址】：https://bbs.byr.cn/article/Python/7738 【创建时间】：2015-07-07 【作者】：Qkimi 【评论】：1 【内容】：发信人: Qkimi (Qkimi), 信区: Python
+标  题: 求教！用selenium解决网页内部拖动块问题
+发信站: 北邮人论坛 (Tue Jul  7 20:19:40 2015), 站内
+
+最近刚接触selenium,遇到个问题，求大神帮忙~~
+在网页内部有一个时间的拖动块，可以左右拖动，选取时间，怎么样控制这个拖动块移动的位置呢？
+<a target="_blank" href="/att/Python/0/7738/419"><img border="0" title="QQ图片20150707201842.png" src="/att/Python/0/7738/419" alt="QQ图片20150707201842.png" class="resizeable"></a>
+大概就是这样，中间的滑动块要怎么样定位移动？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.204.239.*]
+
+ 
+【文章标题】：寻人启事（django）。。。 【文章地址】：https://bbs.byr.cn/article/Python/1701 【创建时间】：2014-07-17 【作者】：ghoulchu 【评论】：1 【内容】：发信人: ghoulchu (ghoula), 信区: Python
+标  题: 寻人启事（django）。。。
+发信站: 北邮人论坛 (Thu Jul 17 20:38:17 2014), 站内
+
+学了一段时间django了，还是觉得自己做点小东西，想问问坛子里有没有想一起搞点东西的，纯粹为了学习，可以一起开发个网站之类的，交流一下关于django的见解。更希望哪位大牛有项目，可以拉我入伙，不求任何回报，只想真正的去深入的学习一下django。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.131.110.*]
+ 
+【文章标题】：SyntaxError: 'utf8' codec can't decode byte 0xd5 in positio 【文章地址】：https://bbs.byr.cn/article/Python/7726 【创建时间】：2015-07-05 【作者】：spiritme 【评论】：4 【内容】：发信人: spiritme (spirit), 信区: Python
+标  题: SyntaxError: 'utf8' codec can't decode byte 0xd5 in position
+发信站: 北邮人论坛 (Sun Jul  5 23:38:16 2015), 站内
+
+新手提问啊，pycharm4.5.2  python2.7
+运行
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+老是报错，是why啊？求大牛指导。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 182.200.134.*]
+ 
+【文章标题】：【求助】刚学习python 【文章地址】：https://bbs.byr.cn/article/Python/1693 【创建时间】：2014-07-17 【作者】：cm2b 【评论】：3 【内容】：发信人: cm2b (我擦), 信区: Python
+标  题: 【求助】刚学习python
+发信站: 北邮人论坛 (Thu Jul 17 10:41:00 2014), 站内
+
+uesrList = ['1','2','3','4','5','6']
+subList1 = uesrList[2:5]
+subList2 = uesrList[-3:-1]
+subList3 = uesrList[0:-2]
+subList4 = uesrList[0:-3]
+subList5 = uesrList[-3:0]
+print(subList1)
+print(subList2)
+print(subList3)
+print(subList4)
+print(subList5)
+
+['3', '4', '5']
+['4', '5']
+['1', '2', '3', '4']
+['1', '2', '3']
+[]
+对后两个不理解，为什么会是这样
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.20.*]
+ 
+【文章标题】：[更新]大家都用的什么IDE呢？ 【文章地址】：https://bbs.byr.cn/article/Python/1263 【创建时间】：2014-06-24 【作者】：westwind2012 【评论】：53 【内容】：发信人: westwind2012 (吹渭水的西风), 信区: Python
+标  题: [更新]大家都用的什么IDE呢？
+发信站: 北邮人论坛 (Tue Jun 24 14:37:02 2014), 站内
+
+一觉醒来发现帖子回复了三页，太激动了好么<img src="/img/ubb/emc/32.gif" alt="emc32" style="display:inline;border-style:none"><img src="/img/ubb/emc/32.gif" alt="emc32" style="display:inline;border-style:none">
+十分感谢各位的建议，由于帖子太多就不一一回复了
+会像各位前辈建议的那样都试一试，反正又不费电<img src="/img/ubb/emc/17.gif" alt="emc17" style="display:inline;border-style:none"><img src="/img/ubb/emc/3.gif" alt="emc3" style="display:inline;border-style:none">
+
+
+
+——————————————————————
+初学python，想找款合适的IDE进行开发学习
+某学长网站里推荐的是pycharm，或者Eclipse的pydev插件
+不知道各位有什么合适的建议，谢过啦~<img src="/img/ubb/emc/8.gif" alt="emc8" style="display:inline;border-style:none"><img src="/img/ubb/emc/8.gif" alt="emc8" style="display:inline;border-style:none"><img src="/img/ubb/emc/8.gif" alt="emc8" style="display:inline;border-style:none"><img src="/img/ubb/emc/8.gif" alt="emc8" style="display:inline;border-style:none">
+--
+※ 修改:·westwind2012 于 Jun 25 10:48:25 2014 修改本文·[FROM: 220.176.158.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 220.176.158.*]
+ 
+【文章标题】：[问题]安装数据库mysql的问题？ 【文章地址】：https://bbs.byr.cn/article/Python/2960 【创建时间】：2014-08-17 【作者】：LiangJL 【评论】：1 【内容】：发信人: LiangJL (JLin_Leung), 信区: Python
+标  题: [问题]安装数据库mysql的问题？
+发信站: 北邮人论坛 (Sun Aug 17 16:59:14 2014), 站内
+
+easy_install mysql-connector-python成功安装驱动后，为什么import mysql.connector 会报ImPort Error：cannot import name errors 。
+--
+
+
+<a target="_blank" href="/att/Python/0/2960/461"><img border="0" title="" src="/att/Python/0/2960/461" alt="" class="resizeable"></a>
+<a target="_blank" href="/att/Python/0/2960/18480"><img border="0" title="" src="/att/Python/0/2960/18480" alt="" class="resizeable"></a>
+※ 修改:·LiangJL 于 Aug 17 17:00:32 2014 修改本文·[FROM: 10.8.176.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.176.*]
+ 
+【文章标题】：有没有python学习路线图 【文章地址】：https://bbs.byr.cn/article/Python/2925 【创建时间】：2014-08-14 【作者】：lilaoshi 【评论】：3 【内容】：发信人: lilaoshi (李老湿), 信区: Python
+标  题: 有没有python学习路线图
+发信站: 北邮人论坛 (Thu Aug 14 13:28:34 2014), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 49.212.151.193]
+ 
+【文章标题】：[问题]python windows下面easy_install 出现问题 错误如下，安 【文章地址】：https://bbs.byr.cn/article/Python/2968 【创建时间】：2014-08-19 【作者】：wwtwxlwjh 【评论】：4 【内容】：发信人: wwtwxlwjh (en我知道), 信区: Python
+标  题: [问题]python windows下面easy_install 出现问题 错误如下，安装
+发信站: 北邮人论坛 (Tue Aug 19 09:34:57 2014), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.90.*]
+
+
+<a target="_blank" href="/att/Python/0/2968/248"><img border="0" title="1.jpg" src="/att/Python/0/2968/248" alt="1.jpg" class="resizeable"></a> 
+【文章标题】：codeacademy里面学python遇到的问题，遇到个bug 一直过不去，急 【文章地址】：https://bbs.byr.cn/article/Python/2509 【创建时间】：2014-08-04 【作者】：Justin 【评论】：6 【内容】：发信人: Justin (Justin), 信区: Python
+标  题: codeacademy里面学python遇到的问题，遇到个bug 一直过不去，急
+发信站: 北邮人论坛 (Mon Aug  4 23:39:12 2014), 站内
+
+一直出现这个东西，我按照他的要求来关掉刷新，再运行程序还是会出现这个东西，于是我选择跳过，发现我每次跳过到下一个小模块都会出现这个东西，然后这个单元全部跳完了以后，于是就无法进入到下一个单元了，，请求帮忙啊 啊啊啊啊啊 啊a，对了我是win7，用的是360浏览器
+
+我想说，我在百度知道上发帖都没有人知道，在果壳网上发帖也没有人知道，最后最后就想到了北邮人论坛这个大神聚集的地方，求求大家帮我顶到前面一点，让大家都帮帮我吧，我要急死了
+--
+
+
+<a target="_blank" href="/att/Python/0/2509/762"><img border="0" title="" src="/att/Python/0/2509/762" alt="" class="resizeable"></a>
+※ 修改:·Justin 于 Aug  4 23:40:01 2014 修改本文·[FROM: 10.205.2.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.2.*]
+ 
+【文章标题】：新坑：自动签到，每天代打卡 【文章地址】：https://bbs.byr.cn/article/Python/2936 【创建时间】：2014-08-15 【作者】：binux 【评论】：12 【内容】：发信人: binux (足兆叉虫|中立生物|), 信区: Python
+标  题: 新坑：自动签到，每天代打卡
+发信站: 北邮人论坛 (Fri Aug 15 10:52:57 2014), 站内
+
+由于有一次PT站很久没登录被ban了，于是有了这个坑——自动签到框架
+同时也是对于抓取到数据的一个研究吧，虽然实际各种复杂，什么IP限制，什么会对密码hash，做成自动的没什么希望了。。
+
+https://qiandao.today/
+
+目前支持：
+百度贴吧签到
+什么值得买
+V2EX
+CHD
+U2
+虾米
+9gal
+
+或者你也可以自己制作签到模板（坑慎入）
+--
+※ 修改:·binux 于 Aug 17 11:34:51 2014 修改本文·[FROM: 219.142.244.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.135.169.*]
+ 
