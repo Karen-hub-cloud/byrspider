@@ -1,0 +1,2378 @@
+【文章标题】：问 个 鼠标 的 问题 【文章地址】：https://bbs.byr.cn/article/Windows/103501 【创建时间】：2009-10-29 【作者】：wakaka007 【评论】：1 【内容】：发信人: wakaka007 (老公), 信区: Windows
+标  题: 问 个 鼠标 的 问题
+发信站: 北邮人论坛 (Thu Oct 29 10:48:13 2009), 站内
+
+ 我的 笔记本  上 ，用 鼠标 打开个 窗口啥的， 鼠标指针 自动 跳到 程序 的相应 按钮 上了，  我想在 台式机上也实现，请问 这应该 在哪里设置！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.207.66.*]
+ 
+【文章标题】：[求助]用户切换 【文章地址】：https://bbs.byr.cn/article/Windows/103446 【创建时间】：2009-10-28 【作者】：hnzhoujunmei 【评论】：2 【内容】：发信人: hnzhoujunmei (sunflower), 信区: Windows
+标  题: [求助]用户切换
+发信站: 北邮人论坛 (Wed Oct 28 17:18:13 2009), 站内
+
+        原来的xp系统里有一个Administrator管理员，后来我又在控制面板里又添加了一个管理员，在启动时，就是新的管理员这个界面，但还是想用原来的那个，因为那里有好多安装的软件在新建的用户里没有，重启了界面还是新的用户，怎么 才能回到原来的那个账户，还有会不会新建一个管理员把以前的那个覆盖了？菜鸟，希望给与理解和解答
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1800:d11c:4053:4856:*]
+ 
+【文章标题】：win7 下杀毒软件可以用MCAFEE8.7 和MSE 【文章地址】：https://bbs.byr.cn/article/Windows/103484 【创建时间】：2009-10-29 【作者】：Caluin 【评论】：5 【内容】：发信人: Caluin (Caluin|巴渝人家), 信区: Windows
+标  题: win7 下杀毒软件可以用MCAFEE8.7 和MSE
+发信站: 北邮人论坛 (Thu Oct 29 01:23:07 2009), 站内
+
+正版的可以用  不知道盗版的怎么弄序列号
+<a target="_blank" href="/att/Windows/0/103484/349"><img border="0" title="s.png" src="/att/Windows/0/103484/349" alt="s.png" class="resizeable"></a>
+<a target="_blank" href="/att/Windows/0/103484/69941"><img border="0" title="Untitled.png" src="/att/Windows/0/103484/69941" alt="Untitled.png" class="resizeable"></a>
+<a target="_blank" href="/att/Windows/0/103484/118796"><img border="0" title="Untitled1.png" src="/att/Windows/0/103484/118796" alt="Untitled1.png" class="resizeable"></a>
+--
+Pursue my dream!
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 70.241.69.*]
+
+ 
+【文章标题】：装极品说缺少d3dx9_41.dll是怎么回事啊 【文章地址】：https://bbs.byr.cn/article/Windows/103573 【创建时间】：2009-10-29 【作者】：guoyicun 【评论】：10 【内容】：发信人: guoyicun (coffee), 信区: Windows
+标  题: 装极品说缺少d3dx9_41.dll是怎么回事啊
+发信站: 北邮人论坛 (Thu Oct 29 19:53:14 2009), 站内
+
+rt,请大牛指教
+--
+努力充实地活着
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8504:d541:2307:ca6d:*]
+ 
+【文章标题】：想找一个可信一点的零售版WIN7下载地址~ 【文章地址】：https://bbs.byr.cn/article/Windows/103267 【创建时间】：2009-10-26 【作者】：cloudqq 【评论】：6 【内容】：发信人: cloudqq (neilyo小运), 信区: Windows
+标  题: 想找一个可信一点的零售版WIN7下载地址~
+发信站: 北邮人论坛 (Mon Oct 26 20:41:03 2009), 站内
+
+   各位谁知道?  以前用的时候是英文版的，后来改成XP了，，，，
+--
+   我想划过去，但是滑过去了。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8620:9d26:72d3:5dec:*]
+ 
+【文章标题】：为什么win7下qq视频图像是倒的 【文章地址】：https://bbs.byr.cn/article/Windows/102908 【创建时间】：2009-10-21 【作者】：foreveryou 【评论】：4 【内容】：发信人: foreveryou (山上的石头), 信区: Windows
+标  题: 为什么win7下qq视频图像是倒的
+发信站: 北邮人论坛 (Wed Oct 21 22:36:21 2009), 站内
+
+rt
+!
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8206:61da:7ea9:d3cd:*]
+ 
+【文章标题】：windows 7直接装覆盖Vista，然后删了windows.old怎么在开机选择 【文章地址】：https://bbs.byr.cn/article/Windows/103475 【创建时间】：2009-10-28 【作者】：ohyes 【评论】：5 【内容】：发信人: ohyes (ohyes), 信区: Windows
+标  题: windows 7直接装覆盖Vista，然后删了windows.old怎么在开机选择中删掉Vista
+发信站: 北邮人论坛 (Wed Oct 28 22:26:37 2009), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:216:2121:ac3e:7ad4:d584:*]
+ 
+【文章标题】：哪个帅哥美女发一个能用的window7的安装包链接，谢谢 【文章地址】：https://bbs.byr.cn/article/Windows/102764 【创建时间】：2009-10-20 【作者】：sdlq101 【评论】：5 【内容】：发信人: sdlq101 (LQ101), 信区: Windows
+标  题: 哪个帅哥美女发一个能用的window7的安装包链接，谢谢
+发信站: 北邮人论坛 (Tue Oct 20 13:48:21 2009), 站内
+
+哪个帅哥美女发一个能用的window7的安装包链接
+--
+
+  ///////////  \成事在天  谋事在人  ///////
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 211.94.145.*]
+ 
+【文章标题】：华硕A8装win7 的问题 【文章地址】：https://bbs.byr.cn/article/Windows/103401 【创建时间】：2009-10-27 【作者】：IDEALS 【评论】：14 【内容】：发信人: IDEALS (IDEALS@北邮刷天下), 信区: Windows
+标  题: 华硕A8装win7 的问题
+发信站: 北邮人论坛 (Tue Oct 27 23:26:01 2009), 站内
+
+从硬盘安装的，第一次重启后就到了开机出现华硕logo，然后再重启，再出现logo，一直反复，连BIOS都进不去了，该怎么办啊？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 114.249.120.*]
+ 
+【文章标题】：我的win7  7100  怎么弄成正式版啊  求助 【文章地址】：https://bbs.byr.cn/article/Windows/103491 【创建时间】：2009-10-29 【作者】：superbyr 【评论】：5 【内容】：发信人: superbyr (小强), 信区: Windows
+标  题: 我的win7  7100  怎么弄成正式版啊  求助
+发信站: 北邮人论坛 (Thu Oct 29 09:41:27 2009), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.203.209.*]
+ 
+【文章标题】：求：怎么在手机里装系统 【文章地址】：https://bbs.byr.cn/article/Windows/103001 【创建时间】：2009-10-23 【作者】：rongshao2008 【评论】：10 【内容】：发信人: rongshao2008 (阿虎), 信区: Windows
+标  题: 求：怎么在手机里装系统
+发信站: 北邮人论坛 (Fri Oct 23 12:32:43 2009), 站内
+
+我的手机是NOKIA6500-S，不知道能不能再手机里装系统，谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.117.53.*]
+ 
+【文章标题】：【菜鸟求助】跪求刷bios的详细流程 【文章地址】：https://bbs.byr.cn/article/Windows/103181 【创建时间】：2009-10-25 【作者】：volcano991 【评论】：16 【内容】：发信人: volcano991 (峰巅), 信区: Windows
+标  题: 【菜鸟求助】跪求刷bios的详细流程
+发信站: 北邮人论坛 (Sun Oct 25 10:06:21 2009), 站内
+
+本人对于刷bios一无所知，看大家都说的好玄。。
+求大牛给一个刷bios的范例详细过程来学习学习。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.137.*]
+ 
+【文章标题】：【求救】病毒？？木马？？求高人解释。。。 【文章地址】：https://bbs.byr.cn/article/Windows/103599 【创建时间】：2009-10-29 【作者】：dillan 【评论】：0 【内容】：发信人: dillan (火山小生), 信区: Windows
+标  题: 【求救】病毒？？木马？？求高人解释。。。
+发信站: 北邮人论坛 (Thu Oct 29 23:05:35 2009), 站内
+
+一开机30左右个进程，什么也不干，CPU使用率狂飙到50%
+再一看几乎每一个进程都占用2%左右的CPU。。。
+
+<a href="/att/Windows/0/103599/373" target="_blank" color="blue">附件(2.9MB)  </a>
+有没有见过这情况的？？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.145.*]
+
+ 
+【文章标题】：[求助]怎么把搜狗浏览器书签导入火狐或者IE 【文章地址】：https://bbs.byr.cn/article/Windows/103601 【创建时间】：2009-10-29 【作者】：wang6120 【评论】：0 【内容】：发信人: wang6120 (wang6120), 信区: Windows
+标  题: [求助]怎么把搜狗浏览器书签导入火狐或者IE
+发信站: 北邮人论坛 (Thu Oct 29 23:15:31 2009), 站内
+
+RT,书签导出来是xml，有没有什么工具可以转啊？
+网上搜了。没什么解决方法，只能手工转
+--
+Life is not a lottery
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.163.*]
+ 
+【文章标题】：无法另存torrent为g:\创世纪.torrent点重试没反应 【文章地址】：https://bbs.byr.cn/article/Windows/103582 【创建时间】：2009-10-29 【作者】：walkisn 【评论】：10 【内容】：发信人: walkisn (walkisn), 信区: Windows
+标  题: 无法另存torrent为g:\创世纪.torrent点重试没反应
+发信站: 北邮人论坛 (Thu Oct 29 21:21:08 2009), 站内
+
+我安装的系统是win7  ,utorrent的版本是bt.byr.edu.cn上的第一个，比如我把种子文件存在D:\创世纪.torrent,再打开种子文件，选择任务后点确定，跳出对话框：无法另存torrent为D:\创世纪.torrent .点重试没反应同样的问题跳出来，点取消，请问是怎么回事？ 
+-- 
+
+<a target="_blank" href="/att/Windows/0/103582/502"><img border="0" title="" src="/att/Windows/0/103582/502" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.117.39.*]
+
+ 
+【文章标题】：t400安装win7后3GB内存显示2.46G可用是为什么 (转载) 【文章地址】：https://bbs.byr.cn/article/Windows/103135 【创建时间】：2009-10-24 【作者】：wps 【评论】：2 【内容】：发信人: wps (WPS文字处理系统|香港金山公司), 信区: Windows
+标  题: t400安装win7后3GB内存显示2.46G可用是为什么
+发信站: 北邮人论坛 (Sat Oct 24 18:34:25 2009), 站内
+
+【 以下文字转载自 Notebook 讨论区 】
+发信人: wps (WPS文字处理系统|香港金山公司), 信区: Notebook
+标  题: t400安装win7后3GB内存显示2.46G可用是为什么
+发信站: 北邮人论坛 (Sat Oct 24 18:22:43 2009), 站内
+
+如图，我的机器是9月份的学生机，T400，标配的内存是3G，分析初步原因可能是集成的显卡分配了一部分内存，进去资源监视器里看确实给硬件保留了500多M内存，但是我现在却是明明在独立显卡模式下工作，这是为什么呢，求大牛解释。。难道是为了热切换预先就保留好？
+
+
+<a target="_blank" href="/att/Windows/0/103135/29507"><img border="0" title="" src="/att/Windows/0/103135/29507" alt="" class="resizeable"></a>
+
+
+<a target="_blank" href="/att/Windows/0/103135/1167"><img border="0" title="" src="/att/Windows/0/103135/1167" alt="" class="resizeable"></a>
+--
+其实我想说：我真的是悲剧帝
+
+本人郑重声明：
+以上内容全部来自互联网，完全复制粘贴。看帖者请于24小时内自觉、主动、完全忘记。本次发帖行为并不意味本人同意、支持、反对，或了解、知晓文中观点，如有任何疑问请直接联系原作者本人。故本人不对以上内容负法律责任（包括民法、刑法或婚姻法，及文中提及或未提及之法律），如有异议请直接联系版主删帖，谢绝跨省追捕。谢谢合作！
+
+
+※ 修改:·wps 于 Oct 24 18:23:04 修改本文·[FROM: 114.249.122.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 114.249.122.*]
+ 
+【文章标题】：win7下安装QQ 【文章地址】：https://bbs.byr.cn/article/Windows/103355 【创建时间】：2009-10-27 【作者】：Cesc 【评论】：22 【内容】：发信人: Cesc (Cesc), 信区: Windows
+标  题: win7下安装QQ
+发信站: 北邮人论坛 (Tue Oct 27 18:35:32 2009), 站内
+
+大家都正常吗？不管是QQ2009还是TM都不行
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:7001:215:d88c:fbeb:b0a1:*]
+ 
+【文章标题】：[分享]windows7全系列包装清晰大图 【文章地址】：https://bbs.byr.cn/article/Windows/102977 【创建时间】：2009-10-23 【作者】：Xiaolinzi1 【评论】：4 【内容】：发信人: Xiaolinzi1 (小林子), 信区: Windows
+标  题: [分享]windows7全系列包装清晰大图
+发信站: 北邮人论坛 (Fri Oct 23 00:11:26 2009), 站内
+
+希望没有火星，分享给和我一样买不起正版又有收藏欲的人<img src="/img/ubb/em/21.gif" alt="em21" style="display:inline;border-style:none">
+有图有真相
+
+<a target="_blank" href="/att/Windows/0/102977/355"><img border="0" title="" src="/att/Windows/0/102977/355" alt="" class="resizeable"></a>
+
+然后是打包下载
+
+<a href="/att/Windows/0/102977/84458" target="_blank" color="blue">附件(1006.7KB)  Windows7.rar</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.222.166.*]
+
+ 
+【文章标题】：Re: Interesting pics 【文章地址】：https://bbs.byr.cn/article/Windows/103166 【创建时间】：2009-10-25 【作者】：原帖已删除 【评论】：0 【内容】：发信人: jinkeng (金坑是我家|我家欢迎您|金坑梯田欢迎您), 信区: Windows
+标  题: Re: Interesting pics
+发信站: 北邮人论坛 (Sun Oct 25 01:52:12 2009), 站内
+
+good
+【 在 Thinker (思想者) 的大作中提到: 】
+: Ubuntu 9.04 
+: [upload=1][/upload] 
+: Windows 7 
+: ................... 
+
+--
+<marquee width="100%" behavior="alternate" scrollamount="3">金坑梯田被誉为世界旅游景观一
+绝</marquee>
+恢弘磅礴的气势 云雾缭绕的山颠
+独具特色的瑶寨 多姿多彩的风情
+不仅是中外摄影 家向往的摄影天堂 
+也是中外游客休 闲观光的世界奇观
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 2001:da8:215:8202:d549:e184:2e73:*]
+ 
+【文章标题】：关于win7party的奖品 【文章地址】：https://bbs.byr.cn/article/Windows/103104 【创建时间】：2009-10-24 【作者】：zhbconan 【评论】：9 【内容】：发信人: zhbconan (冲田总受|路过团散骑|SL|猪头帮|天山南北), 信区: Windows
+标  题: 关于win7party的奖品
+发信站: 北邮人论坛 (Sat Oct 24 14:39:32 2009), 站内
+
+我会提供一个正版的Win7旗舰版的key作为抽奖的奖品。
+嗯。
+
+--
+
+何苦到处找杀软的Key呢？要么卡吧死机了，要么祥瑞误杀了。打好补丁，管好权限，不上@#%$网站，不点不清楚是什么的链接，windows也可以固若金汤的裸奔。其实微软送你的锁挺好用的，何苦非得额外买一套开次门要费半天劲的防盗门呢?
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.222.*]
+ 
+【文章标题】：Re: It is Time,Mr.Gates... 【文章地址】：https://bbs.byr.cn/article/Windows/103112 【创建时间】：2009-10-24 【作者】：原帖已删除 【评论】：9 【内容】：发信人: VOOO (Earth Eartha), 信区: Windows
+标  题: We use Linux,And you?
+发信站: 北邮人论坛 (Sat Oct 24 16:14:48 2009), 站内
+
+
+【 在 VOOO 的大作中提到: 】
+:  
+
+<a target="_blank" href="/att/Windows/0/103119/421"><img border="0" title="linuxchicks-002-1024x768.jpg" src="/att/Windows/0/103119/421" alt="linuxchicks-002-1024x768.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/Windows/0/103119/76670"><img border="0" title="linux-108-1024x768.jpg" src="/att/Windows/0/103119/76670" alt="linux-108-1024x768.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/Windows/0/103119/196027"><img border="0" title="linuxchicks-020-1024x768.jpg" src="/att/Windows/0/103119/196027" alt="linuxchicks-020-1024x768.jpg" class="resizeable"></a>
+--
+
+※ 修改:·VOOO 于 Oct 24 18:42:23 修改本文·[FROM: 2001:da8:215:6001:21f:3cff:fe4f:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:6001:21f:3cff:fe4f:*]
+ 
+【文章标题】：刚在BYRBT上发了Windows 7主题包，大家去试试吧~ 【文章地址】：https://bbs.byr.cn/article/Windows/103167 【创建时间】：2009-10-24 【作者】：s60000 【评论】：0 【内容】：发信人: s60000 (云之彼端), 信区: Windows
+标  题: 刚在BYRBT上发了Windows 7主题包，大家去试试吧~
+发信站: 北邮人论坛 (Sat Oct 24 23:33:08 2009), 站内
+
+种子地址：<a target="_blank" href="http://bt.byr.edu.cn/showdetail.php?id=36712">http://bt.byr.edu.cn/showdetail.php?id=36712</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8511:c50d:addc:6df9:*]
+ 
+【文章标题】：[win7 party]10月24日周六下午7点 茗香吧 【文章地址】：https://bbs.byr.cn/article/Windows/103093 【创建时间】：2009-10-24 【作者】：pt195 【评论】：13 【内容】：发信人: pt195 (无为的巴兰榭教授), 信区: Windows
+标  题: [win7 party]10月24日周六下午7点 茗香吧
+发信站: 北邮人论坛 (Sat Oct 24 10:23:47 2009), 站内
+
+恩 欢迎各位赏光 费用由我负责
+
+大家聊一聊 乐一乐
+
+由于没有投影仪 现征集一台14寸以上笔记本电脑
+
+除了例行微软安排的环节，还打算带点小游戏啥的
+
+以上
+
+
+
+
+今天晚上能来请跟帖~
+--
+生活家巴兰榭教授的墓志铭还没有想好，限于其面积不会大于十六平方英寸，估计只能写上一句话。
+
+“一个热爱一切的人。”
+
+"Lily, I'm waiting for you this time. 
+Six months, Six years, I'll be here." 
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8508:454c:b676:d041:*]
+ 
+【文章标题】：关于北邮人BT上下载的windows7旗舰版的激活 【文章地址】：https://bbs.byr.cn/article/Windows/103072 【创建时间】：2009-10-23 【作者】：wangxd1101 【评论】：19 【内容】：发信人: wangxd1101 (wangxd1101), 信区: Windows
+标  题: 关于北邮人BT上下载的windows7旗舰版的激活
+发信站: 北邮人论坛 (Fri Oct 23 22:48:07 2009), 站内
+
+北邮人BT上下载的windows7旗舰版,问各位大牛怎么激活?
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8609:3a:5c8a:51df:*]
+ 
+【文章标题】：windows7party 活动后问卷在哪里填写啊？ 【文章地址】：https://bbs.byr.cn/article/Windows/103189 【创建时间】：2009-10-25 【作者】：Gates 【评论】：1 【内容】：发信人: Gates (关门打狗), 信区: Windows
+标  题: windows7party 活动后问卷在哪里填写啊？
+发信站: 北邮人论坛 (Sun Oct 25 16:04:03 2009), 站内
+
+没有网址链接，不会是在现场填写吧？
+--
+可怜的狗狗。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1410:cb0:6859:34d:*]
+ 
+【文章标题】：win7 party 抽奖第二波 【文章地址】：https://bbs.byr.cn/article/Windows/103245 【创建时间】：2009-10-26 【作者】：pt195 【评论】：1 【内容】：发信人: pt195 (无为的巴兰榭教授), 信区: Windows
+标  题: win7 party 抽奖第二波
+发信站: 北邮人论坛 (Mon Oct 26 15:53:35 2009), 站内
+
+http://windows7-party.msn.ynet.com/questionnaire2/welcome.html 
+--
+生活家巴兰榭教授的墓志铭还没有想好，限于其面积不会大于十六平方英寸，估计只能写上一句话。
+
+“一个热爱一切的人。”
+
+"Lily, I'm waiting for you this time. 
+Six months, Six years, I'll be here." 
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.163.*]
+ 
+【文章标题】：win 7下打不开魔兽争霸（附图） 【文章地址】：https://bbs.byr.cn/article/Windows/102662 【创建时间】：2009-10-17 【作者】：ohyes 【评论】：7 【内容】：发信人: ohyes (ohyes), 信区: Windows
+标  题: win 7下打不开魔兽争霸（附图）
+发信站: 北邮人论坛 (Sat Oct 17 01:16:12 2009), 站内
+
+要么是上图那样说directx版本低，要么是未响应。。。
+--
+
+※ 修改:·ohyes 于 Oct 17 01:41:52 修改本文·[FROM: 2001:da8:216:2121:3d81:b011:c75a:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:216:2121:3d81:b011:c75a:*]
+ 
+【文章标题】：有谁试过在windows7上装Tornado这个软件 【文章地址】：https://bbs.byr.cn/article/Windows/103137 【创建时间】：2009-10-24 【作者】：lymickey 【评论】：2 【内容】：发信人: lymickey (低调的华丽ly), 信区: Windows
+标  题: 有谁试过在windows7上装Tornado这个软件
+发信站: 北邮人论坛 (Sat Oct 24 18:43:59 2009), 站内
+
+有谁试过在windows7上装Tornado这个软件，能正常使用吗?
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.159.*]
+ 
+【文章标题】：劲爆消息 ZHB 现场提供WIN7激活码3枚 抽奖所得~~ 【文章地址】：https://bbs.byr.cn/article/Windows/103143 【创建时间】：2009-10-24 【作者】：pt195 【评论】：7 【内容】：发信人: pt195 (无为的巴兰榭教授), 信区: Windows
+标  题: 劲爆消息 ZHB 现场提供WIN7激活码3枚 抽奖所得~~
+发信站: 北邮人论坛 (Sat Oct 24 19:11:02 2009), 站内
+
+RT~
+--
+生活家巴兰榭教授的墓志铭还没有想好，限于其面积不会大于十六平方英寸，估计只能写上一句话。
+
+“一个热爱一切的人。”
+
+"Lily, I'm waiting for you this time. 
+Six months, Six years, I'll be here." 
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1113:d935:10b2:de23:*]
+ 
+【文章标题】：[求助]windows server 2008 r2流式媒体服务角色 【文章地址】：https://bbs.byr.cn/article/Windows/103174 【创建时间】：2009-10-25 【作者】：CircleCandy 【评论】：10 【内容】：发信人: CircleCandy (聖殿騎士·猫), 信区: Windows
+标  题: [求助]windows server 2008 r2流式媒体服务角色
+发信站: 北邮人论坛 (Sun Oct 25 01:42:59 2009), 站内
+
+   今天准备搞一个网页玩玩，但是发现没有流式媒体服务角色，搜遍了GOOGLE,BAIDU都找不到一个能用的mediaserver，找到一个最接近的，但是是RC版的，无法安装<a target="_blank" href="http://support.microsoft.com/kb/963697/zh-cn">http://support.microsoft.com/kb/963697/zh-cn</a>
+有大牛用过R2的流式媒体角色的么？能给出一个有效的解决方法的～谢谢了<img src="/img/ubb/em/2.gif" alt="em2" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 58.207.148.*]
+ 
+【文章标题】：Win7玩不了游戏的进 【文章地址】：https://bbs.byr.cn/article/Windows/103172 【创建时间】：2009-10-24 【作者】：fish748 【评论】：3 【内容】：发信人: fish748 (北回归线~), 信区: Windows
+标  题: Win7玩不了游戏的进
+发信站: 北邮人论坛 (Sat Oct 24 23:46:39 2009), 站内
+
+首先，如果游戏没有强制你安装DirectX，不要装，Win7自带DX11
+其次，玩不了大都是显卡驱动的问题，去Nvidia或ATI的官网找找Win7的驱动
+--
+nothing
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.136.*]
+ 
+【文章标题】：现在装Windows7的话，哪个版本最合适 【文章地址】：https://bbs.byr.cn/article/Windows/103055 【创建时间】：2009-10-23 【作者】：uid 【评论】：6 【内容】：发信人: uid (uid), 信区: Windows
+标  题: 现在装Windows7的话，哪个版本最合适
+发信站: 北邮人论坛 (Fri Oct 23 19:55:57 2009), 站内
+
+
+没钱买正版
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1800:47:db22:afbf:*]
+ 
+【文章标题】：vmware,疯了疯了！求助！ 【文章地址】：https://bbs.byr.cn/article/Windows/103331 【创建时间】：2009-10-27 【作者】：Elle 【评论】：2 【内容】：发信人: Elle (Elle), 信区: Windows
+标  题: vmware,疯了疯了！求助！
+发信站: 北邮人论坛 (Tue Oct 27 16:26:29 2009), 站内
+
+vmware, bridge方式的网络连接，宿主机与虚拟机都是静态IP，同网段。
+
+宿主机与虚拟机都开了很久很久了，都是windows，一直没有关机，一直都没有任何问题。
+
+今天正在用着突然连不上虚拟机了。
+
+状况如下：
+1。我在笔记本上（与虚拟机非同网段）ping虚拟机，失败。
+2。我在另一个台机上（与虚拟机同网段）ping虚拟机，时通时断。
+3。从虚拟机上外ping一样。
+4。任何机器与宿主机之间网络通信都没有任何问题。
+5。重起宿主机，依然。
+
+有没有谁能够给点播一下？我疯了！着急！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.108.130.*]
+ 
+【文章标题】：怎么样从移动硬盘安装win 7？ 【文章地址】：https://bbs.byr.cn/article/Windows/102370 【创建时间】：2009-10-11 【作者】：selffish 【评论】：8 【内容】：发信人: selffish (自私的鱼), 信区: Windows
+标  题: 怎么样从移动硬盘安装win 7？
+发信站: 北邮人论坛 (Sun Oct 11 14:16:07 2009), 站内
+
+要求格式化C盘，敬请大牛解答----
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.184.*]
+ 
+【文章标题】：问一下win7都有哪些优点 【文章地址】：https://bbs.byr.cn/article/Windows/103247 【创建时间】：2009-10-26 【作者】：molihua 【评论】：6 【内容】：发信人: molihua (莉莉), 信区: Windows
+标  题: 问一下win7都有哪些优点
+发信站: 北邮人论坛 (Mon Oct 26 16:30:26 2009), 站内
+
+同上
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 114.244.163.*]
+ 
+【文章标题】：【求助】我的硬盘图标怎么了 【文章地址】：https://bbs.byr.cn/article/Windows/103292 【创建时间】：2009-10-27 【作者】：animob 【评论】：2 【内容】：发信人: animob (animob), 信区: Windows
+标  题: 【求助】我的硬盘图标怎么了
+发信站: 北邮人论坛 (Tue Oct 27 08:57:34 2009), 站内
+
+新电脑分了一下区，结果发现F盘的图标和可移动存储介质的一样。但是对F盘的使用没有任何影响，就是看着不爽。。。。。。大牛们知道怎么回事么？咋能把图标变成硬盘的图标呢？
+
+
+<a target="_blank" href="/att/Windows/0/103292/423"><img border="0" title="1.JPG" src="/att/Windows/0/103292/423" alt="1.JPG" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:cc0:2016:83:ccac:6a38:1055:*]
+
+ 
+【文章标题】：严重，急，WIN7系统下放大镜进入停靠模式就回不去了，那位高手 【文章地址】：https://bbs.byr.cn/article/Windows/103303 【创建时间】：2009-10-27 【作者】：ispike 【评论】：4 【内容】：发信人: ispike (ispike), 信区: Windows
+标  题: 严重，急，WIN7系统下放大镜进入停靠模式就回不去了，那位高手知道原因？
+发信站: 北邮人论坛 (Tue Oct 27 10:26:59 2009), 站内
+
+rt，我是指回不去镜头模式和全屏模式了。
+帮我看看，谢谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.178.*]
+ 
+【文章标题】：【求助】桌面图标出现了阴影，所有的办法试过了，可是还没变回 【文章地址】：https://bbs.byr.cn/article/Windows/103282 【创建时间】：2009-10-26 【作者】：Splendid 【评论】：7 【内容】：发信人: Splendid (hanhan), 信区: Windows
+标  题: 【求助】桌面图标出现了阴影，所有的办法试过了，可是还没变回透明
+发信站: 北邮人论坛 (Mon Oct 26 23:14:36 2009), 站内
+
+真难看，谁知道该怎么办？<img src="/img/ubb/em/23.gif" alt="em23" style="display:inline;border-style:none">
+--
+我信仰共产主义！
+虽然这个世界不是非黑即白，但真理只有一个！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9308:a1fa:8268:37c8:*]
+ 
+【文章标题】：Windows7下怎么使用远程桌面？ 【文章地址】：https://bbs.byr.cn/article/Windows/103362 【创建时间】：2009-10-27 【作者】：Kells 【评论】：4 【内容】：发信人: Kells (Provence), 信区: Windows
+标  题: Windows7下怎么使用远程桌面？
+发信站: 北邮人论坛 (Tue Oct 27 19:14:52 2009), 站内
+
+rt，怎么设置呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8502:242b:886d:f6ea:*]
+ 
+【文章标题】：求达人指点 【文章地址】：https://bbs.byr.cn/article/Windows/103365 【创建时间】：2009-10-27 【作者】：best1987good 【评论】：6 【内容】：发信人: best1987good (行云流水), 信区: Windows
+标  题: 求达人指点
+发信站: 北邮人论坛 (Tue Oct 27 19:32:04 2009), 站内
+
+
+<a target="_blank" href="/att/Windows/0/103365/261"><img border="0" title="" src="/att/Windows/0/103365/261" alt="" class="resizeable"></a>
+解压文件经常会这样 这是为何呢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.193.*]
+
+ 
+【文章标题】：优盘格式化时不小心拔下来。。。。就死了 【文章地址】：https://bbs.byr.cn/article/Windows/103378 【创建时间】：2009-10-27 【作者】：hanbin0714 【评论】：9 【内容】：发信人: hanbin0714 (浮云∮沉水), 信区: Windows
+标  题: 优盘格式化时不小心拔下来。。。。就死了
+发信站: 北邮人论坛 (Tue Oct 27 20:41:40 2009), 站内
+
+正在格式化优盘，非快速格式化，不小心就给拔下来了，再插上去就没有反应你了。。。。我该怎么办呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8512:96a:d080:1a1c:*]
+ 
+【文章标题】：请问有谁在用msdnaa呢？ 【文章地址】：https://bbs.byr.cn/article/Windows/103394 【创建时间】：2009-10-27 【作者】：alex 【评论】：4 【内容】：发信人: alex (Alex), 信区: Windows
+标  题: 请问有谁在用msdnaa呢？
+发信站: 北邮人论坛 (Tue Oct 27 22:34:20 2009), 站内
+
+请问有谁在用msdnaa呢？能不能给小弟加进去啊？
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.134.*]
+ 
+【文章标题】：ok，从Vista升级到win7成功了 【文章地址】：https://bbs.byr.cn/article/Windows/103300 【创建时间】：2009-10-27 【作者】：lixiao7755 【评论】：32 【内容】：发信人: lixiao7755 (7755), 信区: Windows
+标  题: ok，从Vista升级到win7成功了
+发信站: 北邮人论坛 (Tue Oct 27 09:51:29 2009), 站内
+
+首先要有10G的空间，它说需要16G，可是我只有10G，就没管它了。
+然后，双击setup.exe。
+然后等它检测程序，把它认为不兼容的那几个卸载了。
+然后就耐心的等待吧。
+中途一共迁移了42万个程序、文件和设置。
+过程中重启两三次。
+然后导入OEM证书。
+然后更新了一下驱动。
+ok。
+遗憾的是，t400的双显卡驱动有点问题，独显时不能调亮度，不过还好支持软切换。
+
+看来还得补充一下了：
+
+我的T400 SLIC 本来就是2.1的，然后我是U版的Vista升级成U版的win 7.
+然后是导入OEM证书激活的，没钱买key啊。
+
+升级的好处是，除了几个软件不兼容以外，其他的软件都正常使用，文档都在，设置都在，很方便。
+
+--
+
+※ 修改:·lixiao7755 于 Oct 27 17:16:08 修改本文·[FROM: 222.29.20.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8507:18d5:f81f:4f9c:*]
+ 
+【文章标题】：寻Win7 Home Basic 版 【文章地址】：https://bbs.byr.cn/article/Windows/103287 【创建时间】：2009-10-26 【作者】：td22 【评论】：12 【内容】：发信人: td22 (Tiger), 信区: Windows
+标  题: 寻Win7 Home Basic 版
+发信站: 北邮人论坛 (Mon Oct 26 23:20:23 2009), 站内
+
+哪位大虾有，给个地址，谢了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8108:6994:848:4af2:*]
+ 
+【文章标题】：为何从邮箱下载下来的文件总是打不开呢？[求助] 【文章地址】：https://bbs.byr.cn/article/Windows/103546 【创建时间】：2009-10-29 【作者】：purplebamboo 【评论】：8 【内容】：发信人: purplebamboo (purplebamboo), 信区: Windows
+标  题: 为何从邮箱下载下来的文件总是打不开呢？[求助]
+发信站: 北邮人论坛 (Thu Oct 29 17:06:46 2009), 站内
+
+PPT 压缩文件都打不开 不是粉碎了就是什么没有转换文件 什么意思啊?郁闷中...谁有办法？谢谢啦~~~~~~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8420:fc9c:7f78:a97b:*]
+ 
+【文章标题】：怎么重装系统win7 【文章地址】：https://bbs.byr.cn/article/Windows/103589 【创建时间】：2009-10-29 【作者】：kkkkkk 【评论】：2 【内容】：发信人: kkkkkk (xianghuijia), 信区: Windows
+标  题: 怎么重装系统win7
+发信站: 北邮人论坛 (Thu Oct 29 21:43:12 2009), 站内
+
+
+--很不懂。谢谢。
+※ 修改:·kkkkkk 于 Oct 29 21:52:08 2009 修改本文·[FROM: 2001:da8:215:9102:8c55:7415:fb8e:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9102:8c55:7415:fb8e:*]
+ 
+【文章标题】：IE被改了 【文章地址】：https://bbs.byr.cn/article/Windows/103622 【创建时间】：2009-10-30 【作者】：wwj 【评论】：0 【内容】：发信人: wwj (应急灯), 信区: Windows
+标  题: IE被改了
+发信站: 北邮人论坛 (Fri Oct 30 09:08:51 2009), 站内
+
+我的IE主页被改了，怎么样改回来啊？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:3310:71cd:3fff:57ec:*]
+ 
+【文章标题】：win7下能装MATLAB7么？ 【文章地址】：https://bbs.byr.cn/article/Windows/103315 【创建时间】：2009-10-27 【作者】：Kingsley 【评论】：10 【内容】：发信人: Kingsley (小K), 信区: Windows
+标  题: win7下能装MATLAB7么？
+发信站: 北邮人论坛 (Tue Oct 27 12:43:19 2009), 站内
+
+~
+--
+<a target="_blank" href="http://renren.com/profile.do?id=234846502">http://renren.com/profile.do?
+id=234846502</a>
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9306:b965:61de:c008:b1d3]
+ 
+【文章标题】：VMware 7注册问题 大虾们怎么注册的啊 【文章地址】：https://bbs.byr.cn/article/Windows/103632 【创建时间】：2009-10-30 【作者】：walkisn 【评论】：1 【内容】：发信人: walkisn (walkisn), 信区: Windows
+标  题: VMware 7注册问题 大虾们怎么注册的啊
+发信站: 北邮人论坛 (Fri Oct 30 11:05:10 2009), 站内
+
+看到bt上有wm7就装了 在win7下装的 还挺好的
+虚拟机的联网没测试 但是bt上发布有注册机  很顺利的得到了序列号 在输完序列号后 弹出网站 要在网站上注册 什么输入序列号 个人信息等 最后输完一大堆 enter后 说我的序列号不对  换了很多序列号 都同样的结果 这个问题怎么解决？我想注册~~`
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.166.*]
+ 
+【文章标题】：哪位是宏基4736系列的装了WIN 7的了吗？ 【文章地址】：https://bbs.byr.cn/article/Windows/103653 【创建时间】：2009-10-30 【作者】：lesslie 【评论】：1 【内容】：发信人: lesslie (lesslie), 信区: Windows
+标  题: 哪位是宏基4736系列的装了WIN 7的了吗？
+发信站: 北邮人论坛 (Fri Oct 30 15:20:20 2009), 站内
+
+SLIC是2.0的，装不了win7是吗？装了win7的说说怎么装吧。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.204.174.*]
+ 
+【文章标题】：请问怎么看自己的BIOS版本啊？ 【文章地址】：https://bbs.byr.cn/article/Windows/103651 【创建时间】：2009-10-30 【作者】：lesslie 【评论】：1 【内容】：发信人: lesslie (lesslie), 信区: Windows
+标  题: 请问怎么看自己的BIOS版本啊？
+发信站: 北邮人论坛 (Fri Oct 30 14:49:42 2009), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.204.174.*]
+ 
+【文章标题】：[求助]关于windows 2003服务器磁盘共享 【文章地址】：https://bbs.byr.cn/article/Windows/103544 【创建时间】：2009-10-29 【作者】：Sawubona 【评论】：2 【内容】：发信人: Sawubona (也不所以), 信区: Windows
+标  题: [求助]关于windows 2003服务器磁盘共享
+发信站: 北邮人论坛 (Thu Oct 29 16:39:59 2009), 站内
+
+情况是这样，实验室由一个服务器，系统是windows 2003；实验室里的电脑都是WINDOWs XP的；
+怎样才能让指定的服务器磁盘，比如E盘，出现在实验室电脑 我的电脑-&gt;本地资源 里边呢？
+就是在我的电脑里直接访问服务器磁盘，可以上传和下载，而不是通过FTP的方式；
+
+求指导下
+多谢了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.153.*]
+ 
+【文章标题】：寻win7系统 【文章地址】：https://bbs.byr.cn/article/Windows/103222 【创建时间】：2009-10-26 【作者】：cuiziqian 【评论】：8 【内容】：发信人: cuiziqian (zq03), 信区: Windows
+标  题: 寻win7系统
+发信站: 北邮人论坛 (Mon Oct 26 11:40:48 2009), 站内
+
+那位大哥有win7 home basic 版  或者那里可以下载？急！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8108:f1c6:c4ed:78cc:*]
+ 
+【文章标题】：哪里有惠普的win7安装包啊 【文章地址】：https://bbs.byr.cn/article/Windows/103444 【创建时间】：2009-10-28 【作者】：mwgoddivine 【评论】：7 【内容】：发信人: mwgoddivine (在水一方), 信区: Windows
+标  题: 哪里有惠普的win7安装包啊
+发信站: 北邮人论坛 (Wed Oct 28 16:47:40 2009), 站内
+
+RT
+--
+在漫长的等待中啊
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.96.46.*]
+ 
+【文章标题】：装了win 7玩不了游戏了...... 【文章地址】：https://bbs.byr.cn/article/Windows/102871 【创建时间】：2009-10-21 【作者】：ohyes 【评论】：70 【内容】：发信人: ohyes (ohyes), 信区: Windows
+标  题: 装了win 7玩不了游戏了......
+发信站: 北邮人论坛 (Wed Oct 21 20:09:10 2009), 站内
+
+RT.实况、2k9、魔兽争霸等等都玩不了......我都哭了.....
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:216:2121:1481:1fc8:cbc8:*]
+ 
+【文章标题】：【弱问】装win7跟装xp一样要下载跟笔记本配套的各种驱动么？ 【文章地址】：https://bbs.byr.cn/article/Windows/103666 【创建时间】：2009-10-30 【作者】：xzsherry 【评论】：7 【内容】：发信人: xzsherry (myxn), 信区: Windows
+标  题: 【弱问】装win7跟装xp一样要下载跟笔记本配套的各种驱动么？
+发信站: 北邮人论坛 (Fri Oct 30 17:15:46 2009), 站内
+
+我的是惠普的本，我到hp官网上查了还没有win7的驱动下载呢~
+请教一下该去哪下驱动呢？
+
+
+--
+我要住雪房子，我要做爱斯基摩人……
+可是我不敢捉海豹~~
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8419:e0f0:e636:350:2c28]
+ 
+【文章标题】：大牛帮忙，联想的机器，bios已经刷到2.1了 【文章地址】：https://bbs.byr.cn/article/Windows/103645 【创建时间】：2009-10-30 【作者】：heyeye 【评论】：5 【内容】：发信人: heyeye (LovElva军团之heyeye), 信区: Windows
+标  题: 大牛帮忙，联想的机器，bios已经刷到2.1了
+发信站: 北邮人论坛 (Fri Oct 30 12:47:03 2009), 站内
+
+下了北邮人bt上的msdn版本的安装，无法激活，应该是证书和序列号的问题。
+如果我装联想OEM版本的，是不是直接装完就激活啊
+--
+That is all I'm praying...
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1301:c1dc:c562:90c4:*]
+ 
+【文章标题】：[求助]Oracle在win7中安装 【文章地址】：https://bbs.byr.cn/article/Windows/103460 【创建时间】：2009-10-28 【作者】：jakievictor 【评论】：5 【内容】：发信人: jakievictor (Jakie), 信区: Windows
+标  题: [求助]Oracle在win7中安装
+发信站: 北邮人论坛 (Wed Oct 28 20:50:21 2009), 站内
+
+有没有在win7中成功安装Oracle的，指点一下…
+安装时提示兼容性有问题，悲剧了
+谁给个招，谢谢
+
+--
+
+
+----------------------------
+据说一定要有签名，不然会被鄙视，阿门……
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1800:9ddd:efe8:ff2e:*]
+ 
+【文章标题】：[求助]装Win7给C盘分多大合适？ 【文章地址】：https://bbs.byr.cn/article/Windows/103505 【创建时间】：2009-10-29 【作者】：tony180 【评论】：63 【内容】：发信人: tony180 (running), 信区: Windows
+标  题: [求助]装Win7给C盘分多大合适？
+发信站: 北邮人论坛 (Thu Oct 29 11:33:30 2009), 站内
+
+总共100G。原来装XP时给C盘分了15G，所有软件都装到其他盘里，结果现在还是不够用。。。
+不知道给Win7分30G够用吗？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8515:20d4:450b:9fc8:*]
+ 
+【文章标题】：WIN7下都能用哪种杀毒软件？BYR上的卡巴斯基行不？ 【文章地址】：https://bbs.byr.cn/article/Windows/103461 【创建时间】：2009-10-28 【作者】：ispike 【评论】：12 【内容】：发信人: ispike (ispike), 信区: Windows
+标  题: WIN7下都能用哪种杀毒软件？BYR上的卡巴斯基行不？
+发信站: 北邮人论坛 (Wed Oct 28 20:52:04 2009), 站内
+
+如题，诚征高手！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.178.*]
+ 
+【文章标题】：[求助]BUPT病毒 【文章地址】：https://bbs.byr.cn/article/Windows/103860 【创建时间】：2009-11-02 【作者】：chinadjh 【评论】：8 【内容】：发信人: chinadjh (超越梦想), 信区: Windows
+标  题: [求助]BUPT病毒
+发信站: 北邮人论坛 (Mon Nov  2 18:29:07 2009), 站内
+
+d盘所有文件都变成了系统保护文件，多了个bupt.dat，这个怎么杀啊？
+各位帮帮忙~~~
+--
+喂喂喂！大家不要生气，生气会犯了嗔戒的！悟空你也太调皮了，我跟你说过叫你不要乱扔东西，你怎么又…你看我还没说完你又把棍子给扔掉了！月光宝盒是宝物，你把他扔掉会污染环境，要是砸到小朋友怎么办？就算砸不到小朋友砸到那些花花草草也是不对的！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.129.*]
+ 
+【文章标题】：请问win7下win+s是什么快捷键 【文章地址】：https://bbs.byr.cn/article/Windows/103958 【创建时间】：2009-11-04 【作者】：LostThePast 【评论】：2 【内容】：发信人: LostThePast (失落的过去), 信区: Windows
+标  题: 请问win7下win+s是什么快捷键
+发信站: 北邮人论坛 (Wed Nov  4 17:33:35 2009), 站内
+
+        谢谢
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 123.122.108.*]
+ 
+【文章标题】：请问如何激活win7,【winloader不行啊】 【文章地址】：https://bbs.byr.cn/article/Windows/103743 【创建时间】：2009-10-31 【作者】：jackcheung 【评论】：2 【内容】：发信人: jackcheung (路人癫), 信区: Windows
+标  题: 请问如何激活win7,【winloader不行啊】
+发信站: 北邮人论坛 (Sat Oct 31 23:25:54 2009), 站内
+
+本人是HP4411S，系统是win7 专业版
+宿舍一个是宏基的，弄了个激活的，上面居然还有选择品牌电脑，然后根据品牌然后激活，我的按照HP的，和宏基的都无法激活；
+
+后来论坛一哥们又发了一个，然后根据提示，说呀在管理员身份运行，我是以管理员身份运行，但还是不行，请问如何是好
+
+我在论坛上下些旗舰版的注册码，可惜我用不上，请问达人赐教
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9905:514b:70cd:54fb:*]
+ 
+【文章标题】：32位win7修改内核，能上4G 【文章地址】：https://bbs.byr.cn/article/Windows/103903 【创建时间】：2009-11-03 【作者】：janeyre 【评论】：7 【内容】：发信人: janeyre (菲靡之音), 信区: Windows
+标  题: 32位win7修改内核，能上4G
+发信站: 北邮人论坛 (Tue Nov  3 19:20:31 2009), 站内
+
+按网上的教程做的
+上图，这是旧内核：
+
+<a target="_blank" href="/att/Windows/0/103903/342"><img border="0" title="Windows_7-2009-11-03-16-05-38.PNG" src="/att/Windows/0/103903/342" alt="Windows_7-2009-11-03-16-05-38.PNG" class="resizeable"></a>
+
+这是用修改过的内核启动的：
+
+<a target="_blank" href="/att/Windows/0/103903/195261"><img border="0" title="Windows_7-2009-11-03-16-11-07.PNG" src="/att/Windows/0/103903/195261" alt="Windows_7-2009-11-03-16-11-07.PNG" class="resizeable"></a>
+
+图是在虚拟机截的
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.129.39.*]
+
+ 
+【文章标题】：win7激活文件的生成位置 【文章地址】：https://bbs.byr.cn/article/Windows/103988 【创建时间】：2009-11-05 【作者】：IcePoint 【评论】：2 【内容】：发信人: IcePoint (冷静), 信区: Windows
+标  题: win7激活文件的生成位置
+发信站: 北邮人论坛 (Thu Nov  5 08:42:38 2009), 站内
+
+最开始有个Vista，正版的舍不得删掉，主要是有些驱动找都找不到，然后就留下了，装了win7之后用激活软件软激活发现它老是把激活生成的文件往Vista系统盘那个地方生成，搞得激活win7之后Vista就黑了，搞得很郁闷，难道是因为Vista那个盘是prim，win7是logic，所以它就是要往上装？求高人指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 150.59.20.*]
+ 
+【文章标题】：IBM装联想的OEM要密钥，可没有密钥 【文章地址】：https://bbs.byr.cn/article/Windows/103886 【创建时间】：2009-11-03 【作者】：guoyicun 【评论】：16 【内容】：发信人: guoyicun (coffee), 信区: Windows
+标  题: IBM装联想的OEM要密钥，可没有密钥
+发信站: 北邮人论坛 (Tue Nov  3 13:54:57 2009), 站内
+
+怎么办，大牛解答一下，谢谢……谢谢
+--
+努力充实地活着
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8504:b8ce:96b9:7bd:*]
+ 
+【文章标题】：[求助]win7 英文版 激活码 【文章地址】：https://bbs.byr.cn/article/Windows/103966 【创建时间】：2009-11-04 【作者】：henrydee 【评论】：4 【内容】：发信人: henrydee (henry), 信区: Windows
+标  题: [求助]win7 英文版 激活码
+发信站: 北邮人论坛 (Wed Nov  4 21:15:46 2009), 站内
+
+装了个7600.16385.090713-1255_x86fre_client_en-us_Retail_Ultimate 哪位给个激活码啊 急急急 
+--
+欢迎大家到学三地下ThinkPad体验中心来参观，新装修，明亮舒坦哈
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.119.243.*]
+ 
+【文章标题】：请问Win7下打开学校数据库的PDF文件adobe出错是什么原因呢？ 【文章地址】：https://bbs.byr.cn/article/Windows/103993 【创建时间】：2009-11-05 【作者】：ffiioo 【评论】：2 【内容】：发信人: ffiioo (Eric), 信区: Windows
+标  题: 请问Win7下打开学校数据库的PDF文件adobe出错是什么原因呢？
+发信站: 北邮人论坛 (Thu Nov  5 11:05:08 2009), 站内
+
+系统是win7 浏览器用了搜狗 360 还有IE8都不好使
+Adobe是9.0 pro 请达人帮忙诊断诊断
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:201:1074:10d8:ae36:146b:*]
+ 
+【文章标题】：【求助】崩溃了 【文章地址】：https://bbs.byr.cn/article/Windows/103999 【创建时间】：2009-11-05 【作者】：idictation 【评论】：0 【内容】：发信人: idictation (love dictation), 信区: Windows
+标  题: 【求助】崩溃了
+发信站: 北邮人论坛 (Thu Nov  5 19:58:34 2009), 站内
+
+我的计算机出问题了，不管是从邮件中下载的word附件，还是从中国知网下的论文，还是随便从百度下首歌，是成功下载，但是目标文件夹中就是没有。如果打开开始菜单的最近打开文件，就会弹出一个窗口，说是缺少快捷方式。以前下载都好好的啊，而且资源也没有问题，同宿舍别的人下载就好好的。为什么我就不行呢？？哭死啊~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8401:90d7:7128:7b28:*]
+ 
+【文章标题】：win7 旗舰版比专业版占资源多多少呢？ 【文章地址】：https://bbs.byr.cn/article/Windows/104002 【创建时间】：2009-11-05 【作者】：Dig 【评论】：0 【内容】：发信人: Dig (羡慕去吧), 信区: Windows
+标  题: win7 旗舰版比专业版占资源多多少呢？
+发信站: 北邮人论坛 (Thu Nov  5 20:49:14 2009), 站内
+
+win7 兼容超过软件吗？
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:0:cf2e:3096:0:efd2:c493:*]
+ 
+【文章标题】：求达人解答 【文章地址】：https://bbs.byr.cn/article/Windows/104031 【创建时间】：2009-11-06 【作者】：sunnylj 【评论】：0 【内容】：发信人: sunnylj ( 天使在唱歌), 信区: Windows
+标  题: 求达人解答
+发信站: 北邮人论坛 (Fri Nov  6 10:22:15 2009), 站内
+
+如何用vba在excel中加入一个宏，从而实现在excel在2003和2007中都可以打开？
+求好心人帮忙解答。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.141.*]
+ 
+【文章标题】：正版的Vista商用版可以免费升级到Windows7吗？ 【文章地址】：https://bbs.byr.cn/article/Windows/104053 【创建时间】：2009-11-06 【作者】：huhaoran005 【评论】：7 【内容】：发信人: huhaoran005 (然), 信区: Windows
+标  题: 正版的Vista商用版可以免费升级到Windows7吗？
+发信站: 北邮人论坛 (Fri Nov  6 13:13:44 2009), 站内
+
+是不是升级了不用激活？直接用msdn的那个光盘升级就行了吧？
+--
+
+
+
+
+
+新泡网，电影、游戏、软件、电子书、bt下载
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 220.249.88.*]
+ 
+【文章标题】：求助:win7出现两个网络连接... 【文章地址】：https://bbs.byr.cn/article/Windows/104049 【创建时间】：2009-11-06 【作者】：check 【评论】：1 【内容】：发信人: check (哭泣的小mj), 信区: Windows
+标  题: 求助:win7出现两个网络连接...
+发信站: 北邮人论坛 (Fri Nov  6 12:30:42 2009), 站内
+
+前天装的win7 旗舰版,现在出现了网络连接的问题
+我用的是联通的网络,在插好网线后发现:
+查看网络连接那里，发现有两个网络，一个是“网络”，一个“未识别的网络”，两个网络都是提示“无Internet连接”
+但是如果我把本地连接禁用了之后再启用，那个未识别的网络就会不见了，然后又可以正常上网了
+但是这样每次都去禁用再启用的话很麻烦，有没有一些根本一点的解决方法可以让那个未识别的网络不再出现呢？？？
+哪位大牛能帮我解决下这个问题呢?
+--
+
+※ 修改:·check 于 Nov  6 12:30:56 2009 修改本文·[FROM: 114.245.226.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 114.245.226.*]
+ 
+【文章标题】：重装系统之后，打dota老是会蓝屏，怎么回事啊？ 【文章地址】：https://bbs.byr.cn/article/Windows/104008 【创建时间】：2009-11-05 【作者】：zhangweitai 【评论】：4 【内容】：发信人: zhangweitai (&amp;#10084;紫侠狼&amp;#10084;), 信区: Windows
+标  题: 重装系统之后，打dota老是会蓝屏，怎么回事啊？
+发信站: 北邮人论坛 (Thu Nov  5 22:02:19 2009), 站内
+
+请教大牛！！先谢谢啦
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.174.*]
+ 
+【文章标题】：求光盘版的win7旗舰版~ 【文章地址】：https://bbs.byr.cn/article/Windows/103929 【创建时间】：2009-11-04 【作者】：NeverBeHere 【评论】：30 【内容】：发信人: NeverBeHere (板凳), 信区: Windows
+标  题: 求光盘版的win7旗舰版~
+发信站: 北邮人论坛 (Wed Nov  4 08:22:41 2009), 站内
+
+哪位同学把论坛上的win7 u版刻成光盘了，呃，32位的。我想重装系统，格盘分区什么的。。。。。能借用一下不？感激不尽呐<img src="/img/ubb/em/21.gif" alt="em21" style="display:inline;border-style:none">
+--
+囧人也做俯卧撑
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.170.*]
+ 
+【文章标题】：用了4个月Win7，从未遇见软件不兼容的情况 【文章地址】：https://bbs.byr.cn/article/Windows/103157 【创建时间】：2009-10-24 【作者】：fish748 【评论】：28 【内容】：发信人: fish748 (北回归线~), 信区: Windows
+标  题: 用了4个月Win7，从未遇见软件不兼容的情况
+发信站: 北邮人论坛 (Sat Oct 24 22:14:47 2009), 站内
+
+win7兼容性真的很强
+
+--
+nothing
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.136.*]
+ 
+【文章标题】：有人申请联想86元win7么 【文章地址】：https://bbs.byr.cn/article/Windows/104077 【创建时间】：2009-11-06 【作者】：god11900 【评论】：2 【内容】：发信人: god11900 (6V), 信区: Windows
+标  题: 有人申请联想86元win7么
+发信站: 北邮人论坛 (Fri Nov  6 17:11:10 2009), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.124.164.*]
+ 
+【文章标题】：[求助]win7 PRO系统盘莫名其妙出现3G左右的.tmp文件，求解 【文章地址】：https://bbs.byr.cn/article/Windows/104086 【创建时间】：2009-11-06 【作者】：parker 【评论】：0 【内容】：发信人: parker (ＢＵＰＴ首席说唱手), 信区: Windows
+标  题: [求助]win7 PRO系统盘莫名其妙出现3G左右的.tmp文件，求解
+发信站: 北邮人论坛 (Fri Nov  6 20:44:55 2009), 站内
+
+没有运行过大型工程软件，只是每次在想要删除其他分区（如D,E盘）下的超过1G的文件时会卡死，具体情况为右键点击时不出现选项，而是在地址栏出现绿色进度条，读取缓慢，大约十几分钟后才会出现右键选项单，点删除后提示文件正在被另一个进程使用（虽然在此之前从未运行或打开过此文件），删除不能，随即系统盘的TEMP文件夹下会出现2~3G左右的.tmp文件。
+后在安全模式下再次删除操作，可正常删除。
+用优化大师磁盘医生检查没有问题，求解
+--
+男人的奶就是拿来吸的。。。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 115.30.168.*]
+ 
+【文章标题】：美职业顾问公布15个谷歌面试题 【文章地址】：https://bbs.byr.cn/article/Windows/104033 【创建时间】：2009-11-06 【作者】：crazytongue 【评论】：2 【内容】：发信人: crazytongue (江淮人家|勤俭持身), 信区: Windows
+标  题: 美职业顾问公布15个谷歌面试题
+发信站: 北邮人论坛 (Fri Nov  6 10:49:35 2009), 站内
+
+美职业顾问公布15个谷歌面试题
+
+ugmbbc发布于 2009-11-06 06:52:08|9283 次阅读 字体：大 小 打印预览
+Google / 谷歌
+
+感谢shilin8805的投递
+新闻来源:驱动之家 据国外媒体昨日报道，美国西雅图市求职顾问刘易斯·林(Lewis Lin)收集了谷歌向应聘者提出过的140个问题，其中15个问题让许多应聘者自叹弗如。
+对那些身处经济衰退大潮中的初级经理和软件开发者而言，谷歌是一个避风港。但其招聘门槛较高，首先，谷歌更青睐长春藤联盟(由美国八所知名大学所组成)的毕业生；其次，即使应聘者已年过30，谷歌也很在意其GPA(平均成绩点数)分数；第三，谷歌需要的是那些想改变世界的人。而且，即使应聘者满足了上述要求，也有可能在面试中被谷歌提出的问题所难倒。以下是15个让许多应聘者感到自己很愚笨的谷歌面试题。
+
+问题：一辆校车能装下多少个高尔夫球？
+
+应聘职位：产品经理
+
+问题：如果让你清洗西雅图市所有的窗户，你会对此索价多少？
+
+应聘职位：产品经理
+
+问题：在一个重男轻女的国家里，每家每户都想生男孩。若一户人家生了一个女孩，便会再生一个，直到生下的是男孩为止。请问这个国家的男女比例是多少？
+
+应聘职位：产品经理
+
+问题：全世界共有多少位钢琴调音师？
+
+应聘职位：产品经理
+
+问题：下水道井盖为什么是圆的？
+
+应聘职位：软件工程师
+
+问题：为旧金山市设计一个紧急疏散方案。
+
+应聘职位：产品经理
+
+问题：时钟的指针一天内总共会重合多少次？
+
+应聘职位：产品经理
+
+问题：阐释“死牛肉”的意义所在。
+
+应聘职位：软件工程师
+
+问题：一个人开车来到旅馆，变得一无所有。究竟发生了什么事情？
+
+应聘职位：软件工程师
+
+问题：你想知道好友鲍勃是否有你正确的电话号码，但又不能直接问他。你必须在卡片上留言，让伊芙将卡片较交给鲍勃。除了问题以外，你还应该在卡片上写什么，才能既确保鲍勃能看懂留言，又使伊芙看不出卡片上写有你的电话号码。
+
+应聘职位：软件工程师
+
+问题：你是一艘海盗船的船长，你的船员要投票决定如何平分金条。如果与你意见一致的船员数量少于一半，你将被杀死。你应该如何提议分配金条，才能既分得较多赃物，又能活下来？
+
+应聘职位：工程经理
+
+问题：你有8个大小一样的球，其中7个重量相同，只有一个略重一些。给你一个天平，而且只准称两次，如何找出重量不同的那个球？
+
+
+应聘职位：产品经理
+
+问题：你在一幢100层高的大楼中，给了你两个鸡蛋。鸡蛋有时非常易碎，有时又异常坚韧。这意味着，如果在第1层扔下鸡蛋，鸡蛋或许会碎裂，而如果是从第100层扔下鸡蛋，鸡蛋或许安然无恙。这两只鸡蛋一模一样。你需要计算出，最高从哪层楼扔下时，鸡蛋不会碎。问题是，你需要扔多少次鸡蛋才能算出该楼层。整个过程中，你只允许打碎两个鸡蛋。
+
+应聘职位：产品经理
+
+问题：向你8岁的侄子或外甥解释什么是数据库，只能用三个句子。
+
+应聘职位：产品经理
+
+问题：你缩小到只有一枚五分硬币那么高，你的质量也成比例缩小以保持原有密度不变。随后你被扔到一个空的玻璃搅拌器里，搅拌刀片将在60秒后开始运转，你该怎么办？
+
+应聘职位：产品经理
+--
+你要相信美女也是分级的，就像公路，有国道、省道，也有市道、县道，以至于村道、
+羊肠小道；对于牛逼的人，完全可以面对目标撒一泡尿，冲出一条痕迹来，然后对其他人
+说，这就是路
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 2001:da8:215:8201:493c:cf47:5bd6:*]
+ 
+【文章标题】：恩。。。获得WIN7旗舰签名版资格了 【文章地址】：https://bbs.byr.cn/article/Windows/104010 【创建时间】：2009-11-05 【作者】：pt195 【评论】：13 【内容】：发信人: pt195 (无为的巴兰榭教授), 信区: Windows
+标  题: 恩。。。获得WIN7旗舰签名版资格了
+发信站: 北邮人论坛 (Thu Nov  5 22:30:45 2009), 站内
+
+感谢捧场的各位
+
+在没有OFFER的黑暗日子里
+
+带来些许欢乐
+
+真的感谢捧场的各位
+
+【信春哥是拿到OFFER的唯一真理】
+
+
+<a target="_blank" href="/att/Windows/0/104010/634"><img border="0" title="22657854.jpg" src="/att/Windows/0/104010/634" alt="22657854.jpg" class="resizeable"></a>
+--
+生活家巴兰榭教授的墓志铭还没有想好，限于其面积不会大于十六平方英寸，估计只能写上一句话。
+
+“一个热爱一切的人。”
+
+"Lily, I'm waiting for you this time. 
+Six months, Six years, I'll be here." 
+
+
+※ 修改:·pt195 于 Nov  5 22:36:31 2009 修改本文·[FROM: 118.229.163.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.163.*]
+ 
+【文章标题】：我发现我本本打开ppt就死机的原因了。。。 【文章地址】：https://bbs.byr.cn/article/Windows/104102 【创建时间】：2009-11-06 【作者】：NeverBeHere 【评论】：1 【内容】：发信人: NeverBeHere (板凳), 信区: Windows
+标  题: 我发现我本本打开ppt就死机的原因了。。。
+发信站: 北邮人论坛 (Fri Nov  6 23:45:48 2009), 站内
+
+汉语目录下的ppt文件打开就死机，英文目录下的完全没问题。
+E:\speech\演讲稿.pptx，打开没问题
+E:\演讲\演讲稿.pptx，打开就死机
+
+
+囧。。。。。
+--
+囧人也做俯卧撑
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8522:80e0:3111:76b:*]
+ 
+【文章标题】：新手询问，刚装了win7 【文章地址】：https://bbs.byr.cn/article/Windows/104012 【创建时间】：2009-11-05 【作者】：Dig 【评论】：9 【内容】：发信人: Dig (羡慕去吧), 信区: Windows
+标  题: 新手询问，刚装了win7
+发信站: 北邮人论坛 (Thu Nov  5 23:01:23 2009), 站内
+
+c盘和d盘都有Program Files (x86)  和Program Files 这两文件夹。
+可以删除哪个啊？
+我装的 64位的 旗舰版win7
+再就是 c盘的windows.old  没用的话可以del了吧？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.39.47.*]
+ 
+【文章标题】：刚装了home premium版本，电话激活了 【文章地址】：https://bbs.byr.cn/article/Windows/103970 【创建时间】：2009-11-04 【作者】：Sawyer 【评论】：9 【内容】：发信人: Sawyer (I am back.), 信区: Windows
+标  题: 刚装了home premium版本，电话激活了
+发信站: 北邮人论坛 (Wed Nov  4 21:36:32 2009), 站内
+
+看了各个版本的区别，觉得hp版已经够我用的了。
+尝试了一下电话，原来真的可以电话激活……
+--
+yellow9 (小虫虫，抓到了) 于  (Sun Jan 18 10:03:02 2009)  提到:
+偶尔缅怀，是情思，
+过于缅怀，是沉沦。
+【 在 xzm (陌陌无语) 的大作中提到: 】
+:    当一切都已过去 我知道 我会把你忘记 
+:    心上的重担卸落 请你 请你原谅我 
+
+※ 修改:·Sawyer 于 Nov  4 21:36:47 2009 修改本文·[FROM: 222.35.238.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.35.238.*]
+ 
+【文章标题】：window7下有什么恢复误删除的文件的软件啊？ 【文章地址】：https://bbs.byr.cn/article/Windows/103985 【创建时间】：2009-11-05 【作者】：IDEALS 【评论】：7 【内容】：发信人: IDEALS (IDEALS@北邮刷天下), 信区: Windows
+标  题: window7下有什么恢复误删除的文件的软件啊？
+发信站: 北邮人论坛 (Thu Nov  5 00:04:35 2009), 站内
+
+以前XP下用easyrecovery，貌似windows7 下用不了啊~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 114.246.151.*]
+ 
+【文章标题】：D盘文件夹中文件还在，但文件夹却显示不了了，怎么办？ 【文章地址】：https://bbs.byr.cn/article/Windows/104108 【创建时间】：2009-11-07 【作者】：APTX486900 【评论】：4 【内容】：发信人: APTX486900 (欧扬1999), 信区: Windows
+标  题: D盘文件夹中文件还在，但文件夹却显示不了了，怎么办？
+发信站: 北邮人论坛 (Sat Nov  7 00:30:11 2009), 站内
+
+RT，谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.208.*]
+ 
+【文章标题】：请教各位大牛有关win7的一个问题~~~ 【文章地址】：https://bbs.byr.cn/article/Windows/104100 【创建时间】：2009-11-06 【作者】：mengbupt 【评论】：7 【内容】：发信人: mengbupt (虎牙HY), 信区: Windows
+标  题: 请教各位大牛有关win7的一个问题~~~
+发信站: 北邮人论坛 (Fri Nov  6 23:34:36 2009), 站内
+
+我刚装Win7，然后装office2007，开始安装office时选择的是典型安装，但是安装完后，右键新建只有word，而没有新建excle 和ppt（但确实已经安装上了）,后来自定义安装后还是不能新建excle 和ppt,该怎么解决能够右键新建ppt等啊？？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8208:d81e:14a7:b5f3:*]
+ 
+【文章标题】：Re: win7有杂音，换了最新的驱动，还是没用。。 【文章地址】：https://bbs.byr.cn/article/Windows/103863 【创建时间】：2009-11-07 【作者】：原帖已删除 【评论】：3 【内容】：发信人: jiangyuyi (水螅|鱼酱|电脑故障义务杂工), 信区: Windows
+标  题: Re: win7有杂音，换了最新的驱动，还是没用。。
+发信站: 北邮人论坛 (Tue Nov  3 11:32:15 2009), 站内
+
+我猜是华硕F81SE（当然其他的也有不少有这个问题）
+这个问题似乎目前还不好解决……继续等待驱动更新吧……
+或者楼下大牛继续？
+--
+长期承接修电脑收好人卡（大误）的工作
+欢迎光临鱼酱的动漫ftp~10月新番已更新~
+详见<a target="_blank" href="http://bbs.byr.edu.cn/wForum/disparticle.php?boardName=Comic&amp;ID=81&amp;pos=4&amp;page=5">http://bbs.byr.edu.cn/wForum/disparticle.php?boardName=Comic&amp;ID=81&amp;pos=4&amp;page=5</a>
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8209:910f:97ca:57b6:*]
+ 
+【文章标题】：[讨论]win7不兼容eclipse ,用什么编译器呢？ 【文章地址】：https://bbs.byr.cn/article/Windows/104029 【创建时间】：2009-11-06 【作者】：wish15 【评论】：19 【内容】：发信人: wish15 (111米栏), 信区: Windows
+标  题: [讨论]win7不兼容eclipse ,用什么编译器呢？
+发信站: 北邮人论坛 (Fri Nov  6 10:02:58 2009), 站内
+
+大家讨论下吧，呼唤高手。
+--
+1种信念，1种追求，1种超越，那怕是一点点.....
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.117.48.*]
+ 
+【文章标题】：也许是我火星了32位winXP用4G内存的方法 给大家共享下 【文章地址】：https://bbs.byr.cn/article/Windows/103933 【创建时间】：2009-11-04 【作者】：cordialz 【评论】：5 【内容】：发信人: cordialz (Cordial), 信区: Windows
+标  题: 也许是我火星了32位winXP用4G内存的方法 给大家共享下
+发信站: 北邮人论坛 (Wed Nov  4 09:28:47 2009), 站内
+
+新生第一次发帖 请多关照
+
+&amp;shy;4G内存现在已经成了白菜货（虽然狗日的资本主义又让内存涨价了），XP也还没有被时代淘汰，那伴随而来的必然是32位系统中4G内存只能用3G，有1G内存永远不会被读取。浪费是可耻的，今天给大家分享点东西，希望不要火星了。
+在开始之前我们先要修改一下boot.bin 我的电脑--属性--高级--启动和故障恢复--设置--编辑 打开一个记事本文件。在“multi(0)disk(0)rdisk(0)partition(1)\WINDOWS="Microsoft Windows XP Professional"”之后加入“空格 /PAE”(E与后面一个字符有空格)保存退出以启用物理内存扩展。现在在我的电脑--属性的第一页中就能看到物理内存扩展的字样了。
+第一个软件是RAMDISK4G
+首先运行RAMDISK4G注册表补丁，重启计算机。这样RAMDISK就可以认出被遗忘的那1G内存，接下来运行RAMDISK点install ramdisk设置好大小（如果你是4G内存设为1G或768M就可以）apply就可以了。现在你会发现我的电脑里多了个R盘，很好，继续。我的电脑--属性--高级--性能--高级--虚拟内存--更改，进入虚拟内存的更改页面，这时你可以大方的把C盘上的虚拟内存取消，并把虚拟内存设到R盘上，大小就填R盘的全部大小（如果经常上网的话可以留出500M左右把IE临时文件设到上面，上网速度巨增）保存退出，重启。恭喜你，你的内存实际使用量已经极为接近4G了。
+第二个软件是supercache II supervolume,安装并注册后，重启电脑。现在你可以在硬盘的属性里看到performance选项卡，选择它，然后选择超级缓存II，start分配给它一定量的物理内存当做缓存。然后你会在HD TUNE测试里发现出乎意料的高速度，翻了近20倍（增加192M）。
+大家玩的愉快哦
+我的硬盘修改后读取速度
+
+峰值从60-70M/S 暴增到&gt;1500M/s
+
+
+http://d.namipan.com/d/ramdisk4g.rar/3088544822615832e1916eb463320ae8feb3c203db400200
+
+http://www.namipan.com/d/supercacher2.rar/2c486ac5e7493b8cd4cec22d1d07468a7d96f1da3f9d4500
+
+连接粘的别人的 连不上的话 去google搜吧
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:3910:1c13:6c88:9386:*]
+ 
+【文章标题】：请大牛帮助一下，时不时上不了网？ 【文章地址】：https://bbs.byr.cn/article/Windows/104118 【创建时间】：2009-11-07 【作者】：vwhy12 【评论】：3 【内容】：发信人: vwhy12 (vwhy), 信区: Windows
+标  题: 请大牛帮助一下，时不时上不了网？
+发信站: 北邮人论坛 (Sat Nov  7 10:23:56 2009), 站内
+
+电脑突然时不时不能上网了，以前xp这样，重装了win7还是这样。
+是硬件的问题吗？
+<a target="_blank" href="/att/Windows/0/104118/337"><img border="0" title="" src="/att/Windows/0/104118/337" alt="" class="resizeable"></a>
+<a target="_blank" href="/att/Windows/0/104118/30082"><img border="0" title="" src="/att/Windows/0/104118/30082" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.136.*]
+
+ 
+【文章标题】：问,如何激活window ultimate ? 【文章地址】：https://bbs.byr.cn/article/Windows/103696 【创建时间】：2009-10-31 【作者】：AAAA 【评论】：10 【内容】：发信人: AAAA (BUPT的小鱼), 信区: Windows
+标  题: 问,如何激活window ultimate ?
+发信站: 北邮人论坛 (Sat Oct 31 00:02:54 2009), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.121.175.*]
+ 
+【文章标题】：win7下突然没声音。且屏幕亮度变暗。 【文章地址】：https://bbs.byr.cn/article/Windows/103728 【创建时间】：2009-10-31 【作者】：imlhr456 【评论】：2 【内容】：发信人: imlhr456 (Yesterday Once More~), 信区: Windows
+标  题: win7下突然没声音。且屏幕亮度变暗。
+发信站: 北邮人论坛 (Sat Oct 31 15:41:58 2009), 站内
+
+
+--
+或有或无吧，也许~
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8108:7474:fda:4108:*]
+ 
+【文章标题】：求一个winloader（应该是这么写吧） 【文章地址】：https://bbs.byr.cn/article/Windows/103692 【创建时间】：2009-10-30 【作者】：jackcheung 【评论】：5 【内容】：发信人: jackcheung (路人癫), 信区: Windows
+标  题: 求一个winloader（应该是这么写吧）
+发信站: 北邮人论坛 (Fri Oct 30 23:40:04 2009), 站内
+
+激活win7系统的，之前看了论坛上有人发过，找不到了，那个好心人帮我发一个啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9905:d1a0:8dbb:10f8:*]
+ 
+【文章标题】：[求助]弱问一下，d630的vista business 可以直接升windows7吗？ 【文章地址】：https://bbs.byr.cn/article/Windows/103720 【创建时间】：2009-10-31 【作者】：symfling 【评论】：4 【内容】：发信人: symfling (星喻), 信区: Windows
+标  题: [求助]弱问一下，d630的vista business 可以直接升windows7吗？
+发信站: 北邮人论坛 (Sat Oct 31 13:26:38 2009), 站内
+
+正打算下一个windows7  ultimate MSDN RTM正式版，可以直接升级成正版吗吗？谢谢~
+--
+
+※ 修改:·symfling 于 Oct 31 21:49:33 2009 修改本文·[FROM: 2001:da8:215:8611:24bf:bc9b:39b:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8611:1d41:abfd:81c:*]
+ 
+【文章标题】：问问电脑达人，杀毒软件和防火墙都用的360安全不？ 【文章地址】：https://bbs.byr.cn/article/Windows/103707 【创建时间】：2009-10-31 【作者】：single116655 【评论】：3 【内容】：发信人: single116655 (ヤ济世沧公ヤ), 信区: Windows
+标  题: 问问电脑达人，杀毒软件和防火墙都用的360安全不？
+发信站: 北邮人论坛 (Sat Oct 31 08:24:39 2009), 站内
+
+360本身=防火墙，最近又出了免费的360杀毒软件，不知道行不
+--
+情圣？情剩？请慎？——迷离扑朔，茫然！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8210:91dc:6af0:1db2:*]
+ 
+【文章标题】：【求64位的pe~~~】 【文章地址】：https://bbs.byr.cn/article/Windows/103580 【创建时间】：2009-10-29 【作者】：awhwahhaw 【评论】：1 【内容】：发信人: awhwahhaw (我怎么会知道), 信区: Windows
+标  题: 【求64位的pe~~~】
+发信站: 北邮人论坛 (Thu Oct 29 20:41:12 2009), 站内
+
+rt~~谁有给传一个~~我QQ526043354，thanks~~~
+
+--
+ 上帝看见你口渴，创造了水；上帝看见你饿，创造了米；上帝看见你没有可爱的朋友，创造了我；然而他也看见这世界上没有白痴，顺便也创造你。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8611:21f9:c363:60a0:*]
+ 
+【文章标题】：win7 xp双系统怎么删除xp 【文章地址】：https://bbs.byr.cn/article/Windows/103630 【创建时间】：2009-10-30 【作者】：walkisn 【评论】：7 【内容】：发信人: walkisn (walkisn), 信区: Windows
+标  题: win7 xp双系统怎么删除xp
+发信站: 北邮人论坛 (Fri Oct 30 10:56:33 2009), 站内
+
+我的xp在c盘win7
+在d盘
+
+现在基本不用xp 不想占着茅坑不拉屎  释放空间 怎么弄哈
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.166.*]
+ 
+【文章标题】：关于win7版本与使用时间的问题 【文章地址】：https://bbs.byr.cn/article/Windows/103749 【创建时间】：2009-11-01 【作者】：deepocean 【评论】：2 【内容】：发信人: deepocean (【意涵团】新人帝｜御姐控｜宏福妹头), 信区: Windows
+标  题: 关于win7版本与使用时间的问题
+发信站: 北邮人论坛 (Sun Nov  1 00:20:50 2009), 站内
+
+以前一直用的都是7231，据说是能用到明年3月1日。
+后来在BT上下了个MSDN,不知道这个版本能用到什么时候呢？
+另外MSDN能用什么方式激活呢？硬软激活？激活码？
+谢谢大牛了~
+--
+要耐得住寂寞，要经得起诱惑
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.117.47.*]
+ 
+【文章标题】：[求助]32个进程，55%的cpu使用率，电脑是不是出问题了？ 【文章地址】：https://bbs.byr.cn/article/Windows/103684 【创建时间】：2009-10-30 【作者】：sylph 【评论】：4 【内容】：发信人: sylph (潇潇|生如夏花般绚烂|齐鲁青未了), 信区: Windows
+标  题: [求助]32个进程，55%的cpu使用率，电脑是不是出问题了？
+发信站: 北邮人论坛 (Fri Oct 30 22:32:56 2009), 站内
+
+重装的是xp系统，可是cpu使用率好高，而且风扇的声音特别大，是不是出问题了？
+--
+                                                       ╭⌒╮
+              ├─┐                                   .˙╭⌒╭⌒╮
+              ┌─┐                                       ︶︶︶︶
+     ╭⌒╮   │╮│     ー   _セっ
+      ︶~~    ┼┼┤ ー  ナ、 /ㄖ|） э      ξ白ξ
+ ⌒╮         └─╯             |   で ㄐ夬   ホ   の ..εεンζ
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.206.210]
+ 
+【文章标题】：强悍隐藏文件病毒，急需高手相助，急！万分感谢！ 【文章地址】：https://bbs.byr.cn/article/Windows/103738 【创建时间】：2009-10-31 【作者】：lixiaoyao 【评论】：6 【内容】：发信人: lixiaoyao (逆流), 信区: Windows
+标  题: 强悍隐藏文件病毒，急需高手相助，急！万分感谢！
+发信站: 北邮人论坛 (Sat Oct 31 22:16:09 2009), 站内
+
+本人在校打印处打印以后，把U盘带回，插入电脑，然后点击里面的文件，随后里面的文件消失了，而且每个盘出现了一个不能打开也不能删除的文件：System Volume Infomation。后来查出文件是被隐藏了。但是在工具栏内点击“文件夹选项——查看——显示所有文件夹”也没用，而且点击文件的属性，“隐藏”项已经变灰色，无法改变。最后在网上查到应该是注册表被病毒入侵。但是查到的方法只是针对WINDOWS2000，程序是：regedit 
+HKEY_LOCAL_MACHINE\Software\Microsoft\windows\CurrentVersion\explorer\Advanced\ 
+Folder\Hidden\SHOWALL，再更改 
+SHOWALL里面的值， 
+而我用的是XP系统，点击到Hidden后却不出现SHOWALL。所以不知道怎么更改才能显示被隐藏的文件。所以急需高手指导。谁知道的话，恳求发到我的QQ邮箱：304125155@qq.com,或者加我的号告诉我，万分感谢！ 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.175.*]
+ 
+【文章标题】：[求]惠普v3906的系统盘一用！谢。。 【文章地址】：https://bbs.byr.cn/article/Windows/100093 【创建时间】：2009-09-02 【作者】：wanggang929 【评论】：0 【内容】：发信人: wanggang929 (海滨), 信区: Windows
+标  题: [求]惠普v3906的系统盘一用！谢。。
+发信站: 北邮人论坛 (Wed Sep  2 19:06:33 2009), 站内
+
+RT。。。。。
+--
+
+※ 修改:·wanggang929 于 Sep  2 19:12:19 修改本文·[FROM: 2001:da8:215:8608:e41e:fe1b:794:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8608:e41e:fe1b:794:*]
+ 
+【文章标题】：[求助]能ping通的地址为啥打不开 【文章地址】：https://bbs.byr.cn/article/Windows/100330 【创建时间】：2009-09-07 【作者】：leg 【评论】：4 【内容】：发信人: leg (（）), 信区: Windows
+标  题: [求助]能ping通的地址为啥打不开
+发信站: 北邮人论坛 (Mon Sep  7 22:47:35 2009), 站内
+
+提问之前,我有看过置顶
+
+提问之前,我有上Google/百度等搜过
+
+求助关键字:
+
+可以ping通，不能打开
+
+具体症状:
+
+开了直通车后，ping baidu之类的网址可以ping通 但是为啥打不开。。。。我要纠结了，求助一下下一步检测的措施，ps：windows 7操作系统
+
+已经尝试过的解决方法:
+
+骚扰客服，回答我可能学校更改了pptp协议-。- 囧
+
+备注:
+
+模板挺好玩的
+
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.162.*]
+ 
+【文章标题】：vista HOME PREMIUM 能装VC6.0吗？ 【文章地址】：https://bbs.byr.cn/article/Windows/100339 【创建时间】：2009-09-08 【作者】：Lepo 【评论】：2 【内容】：发信人: Lepo (蒙风), 信区: Windows
+标  题: vista HOME PREMIUM 能装VC6.0吗？
+发信站: 北邮人论坛 (Tue Sep  8 13:26:54 2009), 站内
+
+RT~
+是不是只有basic版才可以用？
+
+谢谢大牛
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.136.*]
+ 
+【文章标题】：求高手解答问题哈 【文章地址】：https://bbs.byr.cn/article/Windows/100382 【创建时间】：2009-09-08 【作者】：yellow1029 【评论】：1 【内容】：发信人: yellow1029 (波波帅哥), 信区: Windows
+标  题: 求高手解答问题哈
+发信站: 北邮人论坛 (Tue Sep  8 22:32:51 2009), 站内
+
+玩DOTA的时候，经常出现按一个技能的快捷键，甚至是A键，鼠标就突然卡一下，卡大概0.5秒不能动。
+有时候更加出奇，电脑无故突然从耳机里面发出一声“滴”的巨响，鼠标卡进1秒钟不能动。
+但是平时浏览网页这些啥的都没事。
+
+上周的时候出现的鼠标挪动卡的现象（浏览网页都莫名其妙的卡），然后我就重装了系统，并且是将D/E/F盘全部格式化后重装的，现在平时到好了，但是一玩DOTA就卡，我还没有测试其他的游戏是不是这样，电脑硬盘只有魔兽，空荡荡的。
+
+求高手给出解决方法。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.200.173.*]
+ 
+【文章标题】：如何删除文件名带“\”的文件 【文章地址】：https://bbs.byr.cn/article/Windows/100337 【创建时间】：2009-09-08 【作者】：freehello 【评论】：8 【内容】：发信人: freehello (freehello), 信区: Windows
+标  题: 如何删除文件名带“\”的文件
+发信站: 北邮人论坛 (Tue Sep  8 13:17:36 2009), 站内
+
+首先在windows下无法创建这样的文件，是同学在linux下考到移动硬盘里产生的。
+在windows下删除的时候系统会自动把“\”理解为下一级目录而造成找不到文件的现象，结果也无法删除该文件。
+先请教一下，如果不去linux，在windows下有可行的办法吗
+--
+                       
+                        志存高远，天辽地宁
+           凤凰鸣兮，于彼高岗；梧桐生兮，于彼朝阳
+
+
+※ 修改:·freehello 于 Sep  8 13:18:05 修改本文·[FROM: 123.124.209.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.124.209.*]
+ 
+【文章标题】：求助哇。。 【文章地址】：https://bbs.byr.cn/article/Windows/99371 【创建时间】：2009-08-18 【作者】：wo1516 【评论】：6 【内容】：发信人: wo1516 (1516), 信区: Windows
+标  题: 求助哇。。
+发信站: 北邮人论坛 (Tue Aug 18 22:34:20 2009), 站内
+
+重装系统之后，优酷的视频看不了了，就是一片空白，左上角有个小符号那样。
+但是土豆网的就可以看，校内分享的优酷也可以看。
+论坛上的flash，刚打开页面的时候是显示空白以及符号，过一会就显出flash来了……
+而优酷始终不行……
+求好心人帮助啊~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9311:85a8:410:a206:*]
+ 
+【文章标题】：哪位大牛帮解决一下win7显卡问题 【文章地址】：https://bbs.byr.cn/article/Windows/111061 【创建时间】：2010-05-09 【作者】：jasonyyf 【评论】：6 【内容】：发信人: jasonyyf (Saga岳), 信区: Windows
+标  题: 哪位大牛帮解决一下win7显卡问题
+发信站: 北邮人论坛 (Sun May  9 19:57:40 2010), 站内
+
+  我电脑是康柏B2800，显卡是ATI MOBILITY RADEON X600 SE。安装win7后显卡驱动装不上，求大牛帮忙解决。先谢谢了！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.136.*]
+ 
+【文章标题】：IE7无法保存代理密码 【文章地址】：https://bbs.byr.cn/article/Windows/111300 【创建时间】：2010-05-17 【作者】：MIT 【评论】：1 【内容】：发信人: MIT (囧囧有神), 信区: Windows
+标  题: IE7无法保存代理密码
+发信站: 北邮人论坛 (Mon May 17 13:50:30 2010), 站内
+
+在IE7里使用学校的代理，提示输入用户名和密码，输入用户名和密码以后，也把 记住我的密码 勾选上，可是关闭浏览器再打开网页，用户名和密码栏都是空的，还得再次输入，这如何解决啊？
+--
+人生不可无春游。
+
+※ 修改:·MIT 于 May 17 13:56:23 2010 修改本文·[FROM: 59.64.141.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.141.*]
+ 
+【文章标题】：求助设备管理器里一片空白 【文章地址】：https://bbs.byr.cn/article/Windows/111280 【创建时间】：2010-05-16 【作者】：mop 【评论】：4 【内容】：发信人: mop (记忆邮心), 信区: Windows
+标  题: 求助设备管理器里一片空白
+发信站: 北邮人论坛 (Sun May 16 14:46:21 2010), 站内
+
+症状如下：
+1 设备管理器里，什么都没有。
+2 打开我的电脑界面寻找项目一段时间才能看到盘符，但是浏览其他路径的文件都没问题
+3 鼠标右键菜单只要划过发送到，电脑就会卡半天才显示出盘符
+4 插入U盘可以用，但是右下角看不到图标
+5 打开RAR文件，也是需要等待一段时间才能显示出来
+6 3G无线上网客户端无法使用，总是提示不能同时有2个上网卡
+7 安全模式下一切正常
+谁知道怎么回事，或者有什么办法解决吗？除了重装系统。
+--
+
+<a target="_blank" href="http://h.mop.com">喜欢航海探索类游戏的点</a>    
+
+<a target="_blank" href="http://golden124.bokee.com">金天不冷云</a>     
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.83.228.*]
+ 
+【文章标题】：wmp播旅游卫视的时候为何出现这样的提示? 【文章地址】：https://bbs.byr.cn/article/Windows/111299 【创建时间】：2010-05-17 【作者】：LONHOPE 【评论】：1 【内容】：发信人: LONHOPE (LONHOPE), 信区: Windows
+标  题: wmp播旅游卫视的时候为何出现这样的提示?
+发信站: 北邮人论坛 (Mon May 17 12:13:49 2010), 站内
+
+Windows Media Player 无法播放该文件。网络防火墙可能阻止播放机使用 UDP 传输协议打开该文件。如果在“打开 URL”对话框中键入了 URL，请尝试使用其他传输协议(例如“http:”)。
+
+只有旅游卫视会这样......如何解决?
+我是外校的
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.242.200.*]
+ 
+【文章标题】：MSE更新问题 【文章地址】：https://bbs.byr.cn/article/Windows/111315 【创建时间】：2010-05-18 【作者】：Chon 【评论】：2 【内容】：发信人: Chon (Chon), 信区: Windows
+标  题: MSE更新问题
+发信站: 北邮人论坛 (Tue May 18 18:00:15 2010), 站内
+
+貌似从上个月开始就没法更新了，进度条一直卡在那儿，然后我就用各种代理工具...用代理的情况下就可以更新，其他用MSE的同学有没有遇到这样的情况呢？我用的是HF的联通宽带，宿舍另一同学也无法更新，一个在天津的同学也说无法更新。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.244.162.*]
+ 
+【文章标题】：【求助】一键还原用啥软件？最有图文教程 【文章地址】：https://bbs.byr.cn/article/Windows/111231 【创建时间】：2010-05-14 【作者】：doria 【评论】：7 【内容】：发信人: doria (doria), 信区: Windows
+标  题: 【求助】一键还原用啥软件？最有图文教程
+发信站: 北邮人论坛 (Fri May 14 13:52:36 2010), 站内
+
+偶尔中病毒，懒得一次次的重装系统了，主要是驱动装起来太麻烦了，那个大牛给我推荐个一键还原软件，简单，没啥风险。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 110.245.40.*]
+ 
+【文章标题】：我们学校是不是不能用杀毒软件麦咖啡? 【文章地址】：https://bbs.byr.cn/article/Windows/111237 【创建时间】：2010-05-14 【作者】：h1109 【评论】：11 【内容】：发信人: h1109 (冰龙), 信区: Windows
+标  题: 我们学校是不是不能用杀毒软件麦咖啡?
+发信站: 北邮人论坛 (Fri May 14 17:03:58 2010), 站内
+
+我电脑上的麦咖啡老是不能更新，手动也不行，提示不能连接到Internet。 是不是学校的服务器禁止连到麦咖啡官网啊？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.131.*]
+ 
+【文章标题】：[求助]优酷和土豆突然不能边下载边观看了 【文章地址】：https://bbs.byr.cn/article/Windows/111301 【创建时间】：2010-05-17 【作者】：Nurburgring 【评论】：2 【内容】：发信人: Nurburgring (战神), 信区: Windows
+标  题: [求助]优酷和土豆突然不能边下载边观看了
+发信站: 北邮人论坛 (Mon May 17 15:36:55 2010), 站内
+
+没有新装什么软件，就一夜之间这些网站的视频只有全部下载完了才开始播放，而不能正常的边下载边播放了，flash插件和播放器都更新过了，还是不行，怎么办？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.142.4.*]
+ 
+【文章标题】：问下关于设置窗口文本的消息的问题 【文章地址】：https://bbs.byr.cn/article/Windows/111361 【创建时间】：2010-05-21 【作者】：shuitian 【评论】：1 【内容】：发信人: shuitian (水天), 信区: Windows
+标  题: 问下关于设置窗口文本的消息的问题
+发信站: 北邮人论坛 (Fri May 21 16:53:57 2010), 站内
+
+请问下大牛们，设置窗口的文字，除了用WM_SETTEXT外，还可以用什么系统消息完成窗口文本的设置？
+     比如往Nero拖拽文件后，显示拖拽的文件的信息那一栏
+     名称            类型                大小
+  ” ××文件       MP3文件             xxKB“
+     我加引号的这一栏是通过什么系统消息设置的啊？
+     PS:"spy++”观察得到的结果是不是M_SETETXT设置的，但不知道是啥消息设置的。
+    
+     万分感谢！！
+--
+生命是一种无法抗拒的前进。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.129.*]
+ 
+【文章标题】：请问有线路由和无线路由连接问题 【文章地址】：https://bbs.byr.cn/article/Windows/111325 【创建时间】：2010-05-18 【作者】：likuncheng 【评论】：2 【内容】：发信人: likuncheng (), 信区: Windows
+标  题: 请问有线路由和无线路由连接问题
+发信站: 北邮人论坛 (Tue May 18 23:11:20 2010), 站内
+
+就是宿舍有个有线路由，然后自己买了个无线路由，但是笔记本搜索不到，itouch和手机却可以，上网查说是无线和有线路由ip冲突，有线就是192.168.1.1，无线也是这个所以要改成192.168.11.1，之后笔记本可以搜到了，但是前两天又不可以了，是说ip又冲突了么？可是改了无线的ip还是不行，请大牛指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 60.28.165.*]
+ 
+【文章标题】：win7上运行ITUNES有问题 【文章地址】：https://bbs.byr.cn/article/Windows/111305 【创建时间】：2010-05-18 【作者】：afone 【评论】：18 【内容】：发信人: afone (以后有人叫我师傅), 信区: Windows
+标  题: win7上运行ITUNES有问题
+发信站: 北邮人论坛 (Tue May 18 14:12:44 2010), 站内
+
+win7 32位，安装itunes无异常，点击图标运行，没有任何反应，但是进程管理器有itunes.exe，而且这个进程杀不掉，杀掉了立刻自动重启。
+
+请问各位有成功在win7上运行itunes的吗？谢谢指教
+--
+
+挂靴了？
+不，封套而已。。。
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 210.21.208.*]
+ 
+【文章标题】：求大牛推荐pdf转换成word的软件 【文章地址】：https://bbs.byr.cn/article/Windows/111260 【创建时间】：2010-05-15 【作者】：hohomo 【评论】：4 【内容】：发信人: hohomo (sjtu), 信区: Windows
+标  题: 求大牛推荐pdf转换成word的软件
+发信站: 北邮人论坛 (Sat May 15 20:55:25 2010), 站内
+
+用epdf转换发现pdf的图片和公式都乱码了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.252.*]
+ 
+【文章标题】：[求助]ftp下载速度很慢 【文章地址】：https://bbs.byr.cn/article/Windows/111393 【创建时间】：2010-05-22 【作者】：shane 【评论】：6 【内容】：发信人: shane (shane), 信区: Windows
+标  题: [求助]ftp下载速度很慢
+发信站: 北邮人论坛 (Sat May 22 23:27:42 2010), 站内
+
+校内的ftp，下载速度几乎只有10k左右，为什么会出现这种情况呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.147.*]
+ 
+【文章标题】：关于双windows系统的问题 【文章地址】：https://bbs.byr.cn/article/Windows/111342 【创建时间】：2010-05-20 【作者】：lanphon 【评论】：10 【内容】：发信人: lanphon (上善若水), 信区: Windows
+标  题: 关于双windows系统的问题
+发信站: 北邮人论坛 (Thu May 20 12:07:24 2010), 站内
+
+由于软件需要，要安装xp，又不想删除原先的win7
+直接安装xp,能不能看到win7的启动项呢？如果不能是不是要修复呀？
+--
+考前：GE，你懂的
+考后：GE，为什么
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.179.*]
+ 
+【文章标题】：windows7装Visual Studio 2008老是失败 【文章地址】：https://bbs.byr.cn/article/Windows/96814 【创建时间】：2009-06-22 【作者】：ghlsb 【评论】：15 【内容】：发信人: ghlsb (guohua), 信区: Windows
+标  题: windows7装Visual Studio 2008老是失败
+发信站: 北邮人论坛 (Mon Jun 22 12:56:31 2009), 站内
+
+看日志也看不出什么问题
+7229
+setup.exe已经停止工作
+--
+
+※ 修改:·ghlsb 于 Jun 22 13:27:43 修改本文·[FROM: 118.229.179.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.179.*]
+ 
+【文章标题】：[求助]（已解决）win7启动问题，事关毕设，bg大果粒or八喜or绿 【文章地址】：https://bbs.byr.cn/article/Windows/111371 【创建时间】：2010-05-21 【作者】：flymysky 【评论】：10 【内容】：发信人: flymysky (冲动是魔鬼*肉鲨), 信区: Windows
+标  题: [求助]（已解决）win7启动问题，事关毕设，bg大果粒or八喜or绿豆沙冰or西
+发信站: 北邮人论坛 (Fri May 21 19:39:00 2010), 站内
+
+呵呵谢谢大家的帮助。可能是自己太着急了，都忘了用安全模式进去，看了duvet同学的建议，恍然大悟。不过最后发现问题不在于Damon tools，而是出于显卡驱动（顺便bs一下索尼的显卡。。以及其驱动）。由于毕设截止在即，所以先不着急找显卡驱动了，先这么用着吧。呵呵
+----------------------------------------------------------------------------------
+
+
+装了win7有一段时间了，运行正常。前些天由于毕设需要，装了从bt上下的Visio 2007，由于是光盘版我又下了Damon tools。结果昨天启动win7时提示由于硬件或者软件的原因win7无法正常启动，点击自动修复，显示为无法自动修复。点击还原，还原到装Visio的那个时间点，还原完毕以后也没法启动。
+
+机子是索尼的fz15，启动的时候不知道是不是显卡出现问题，屏幕有一道道的竖纹。跳过自动修复直接开机的话，就停留在win7徽标以及“正在启动windows”的画面了。
+
+由于毕设资料都放在桌面，所以实在不愿重装系统。求大牛帮帮解决这个问题~夏天到了，那就bg大果粒or八喜or绿豆沙冰or西瓜吧
+--
+你看着我来 我看着你走 就算捂住耳朵 我还能听见你呼吸的温柔 就算我会心痛 你的好永远都填满我心中 
+--by 邱妙津
+※ 修改:·flymysky 于 May 22 17:40:53 2010 修改本文·[FROM: 118.229.163.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.205.15.*]
+ 
+【文章标题】：给大家推荐一个网站 【文章地址】：https://bbs.byr.cn/article/Windows/111363 【创建时间】：2010-05-21 【作者】：Line 【评论】：13 【内容】：发信人: Line (Line), 信区: Windows
+标  题: 给大家推荐一个网站
+发信站: 北邮人论坛 (Fri May 21 17:51:27 2010), 站内
+
+各位同学好，我是51免费软件站站长，<a target="_blank" href="http://www.51freeware.com">51freeware</a>每天为大家推荐一款免费软件，如果同学们需要什么类型的软件可以给我留言，谢谢大家支持！
+
+<img src="/img/ubb/ema/11.gif" alt="ema11" style="display:inline;border-style:none"><b><u>找免费软件，上51freeware.com</u></b>
+--
+找免费软件，上51freeware.com
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.124.2.*]
+ 
+【文章标题】：[合集] 去村里买XP和office安装盘需要注意一些什么么？ 【文章地址】：https://bbs.byr.cn/article/Windows/82671 【创建时间】：2008-11-22 【作者】：lxin 【评论】：0 【内容】：发信人: lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主), 信区: Windows
+标  题: [合集] 去村里买XP和office安装盘需要注意一些什么么？
+发信站: 北邮人论坛 (Sat Nov 22 00:20:02 2008), 站内
+
+☆─────────────────────────────────────☆
+   english123 (井井) 于  (Fri Nov 21 20:43:24 2008)  提到:
+
+呵呵，虽然就几块钱的东西，但是需要注意一些什么么？
+
+
+☆─────────────────────────────────────☆
+   Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 于  (Fri Nov 21 20:45:08 2008)  提到:
+
+自己下ISO就搞定。不用进村。学校FTP一大把
+【 在 english123 (井井) 的大作中提到: 】
+: 呵呵，虽然就几块钱的东西，但是需要注意一些什么么？ 
+
+
+
+
+☆─────────────────────────────────────☆
+   english123 (井井) 于  (Fri Nov 21 20:46:49 2008)  提到:
+
+
+【 在 Tiaoka 的大作中提到: 】
+: 自己下ISO就搞定。不用进村。学校FTP一大把 
+我不在校内阿，呜呜
+
+
+☆─────────────────────────────────────☆
+   Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 于  (Fri Nov 21 20:48:52 2008)  提到:
+
+那迅雷也是一大把
+【 在 english123 (井井) 的大作中提到: 】
+: 我不在校内阿，呜呜 
+
+
+
+
+☆─────────────────────────────────────☆
+   caspar (爱慕|天冷了) 于  (Fri Nov 21 21:27:48 2008)  提到:
+
+路上小心钱包被偷。村里人多。
+【 在 english123 (井井) 的大作中提到: 】
+: 呵呵，虽然就几块钱的东西，但是需要注意一些什么么？ 
+
+
+
+
+☆─────────────────────────────────────☆
+   newcomer (I'm the fucking xiaobaitu' fans.) 于  (Fri Nov 21 21:54:37 2008)  提到:
+
+囧。。
+【 在 caspar (爱慕|天冷了) 的大作中提到: 】
+: 路上小心钱包被偷。村里人多。 
+
+
+
+
+☆─────────────────────────────────────☆
+   lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 于  (Fri Nov 21 22:16:48 2008)  提到:
+
+。。。。。。。。。。。。。
+【 在 caspar (爱慕|天冷了) 的大作中提到: 】
+: 路上小心钱包被偷。村里人多。 
+
+
+
+
+☆─────────────────────────────────────☆
+   Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 于  (Fri Nov 21 22:17:17 2008)  提到:
+
+版大又打点-。-
+【 在 lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 的大作中提到: 】
+: 。。。。。。。。。。。。。 
+
+
+
+
+☆─────────────────────────────────────☆
+   lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 于  (Fri Nov 21 22:21:46 2008)  提到:
+
+干嘛
+不行吗
+【 在 Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 的大作中提到: 】
+: 版大又打点-。- 
+
+
+
+
+☆─────────────────────────────────────☆
+   Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 于  (Fri Nov 21 22:22:07 2008)  提到:
+
+我什么都没说啊。O(∩_∩)O
+【 在 lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 的大作中提到: 】
+: 干嘛 
+: 不行吗 
+
+
+
+
+☆─────────────────────────────────────☆
+   newcomer (I'm the fucking xiaobaitu' fans.) 于  (Fri Nov 21 22:28:55 2008)  提到:
+
+一定要注意简易包装上是否印有“正版软件”
+【 在 english123 (井井) 的大作中提到: 】
+: 呵呵，虽然就几块钱的东西，但是需要注意一些什么么？ 
+
+
+
+
+☆─────────────────────────────────────☆
+   Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 于  (Fri Nov 21 22:29:26 2008)  提到:
+
+-。-  这贴好囧
+【 在 newcomer (I'm the fucking xiaobaitu' fans.) 的大作中提到: 】
+: 一定要注意简易包装上是否印有“正版软件” 
+
+
+
+
+☆─────────────────────────────────────☆
+   bylee (China bylee) 于  (Fri Nov 21 23:02:22 2008)  提到:
+
+
+【 在 english123 的大作中提到: 】
+: 呵呵，虽然就几块钱的东西，但是需要注意一些什么么？ 
+不要被卖硬件的拉过去了。
+
+
+☆─────────────────────────────────────☆
+   wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 于  (Fri Nov 21 23:50:09 2008)  提到:
+
+其实说实在的正版还是要支持的
+
+据说微软有个DeamSpark的项目很好的
+
+学生通过 自己的xx.edu.cn的邮箱可以得到免费的正版的一些ms的软件
+【 在 english123 (井井) 的大作中提到: 】
+: 呵呵，虽然就几块钱的东西，但是需要注意一些什么么？ 
+
+
+
+
+☆─────────────────────────────────────☆
+   Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 于  (Fri Nov 21 23:50:38 2008)  提到:
+
+嘻嘻。本版有那个项目的帖子。
+【 在 wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 的大作中提到: 】
+: 其实说实在的正版还是要支持的 
+: 据说微软有个DeamSpark的项目很好的 
+: 学生通过 自己的xx.edu.cn的邮箱可以得到免费的正版的一些ms的软件 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 于  (Fri Nov 21 23:51:15 2008)  提到:
+
+哦。。。。我是来灌水的 ^_^
+【 在 Tiaoka (SK8@Fucking BUPT★PCtrade狂拍正太) 的大作中提到: 】
+: 嘻嘻。本版有那个项目的帖子。 
+
+
+
+
+☆─────────────────────────────────────☆
+   lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 于  (Fri Nov 21 23:51:52 2008)  提到:
+
+现在bupt.cn邮箱也可以
+嗯
+【 在 wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 的大作中提到: 】
+: 其实说实在的正版还是要支持的 
+: 据说微软有个DeamSpark的项目很好的 
+: 学生通过 自己的xx.edu.cn的邮箱可以得到免费的正版的一些ms的软件 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 于  (Fri Nov 21 23:52:56 2008)  提到:
+
+哦。。。。我只在它主页上面看到 **.edu.cn是可以的
+【 在 lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 的大作中提到: 】
+: 现在bupt.cn邮箱也可以 
+: 嗯 
+
+
+
+
+☆─────────────────────────────────────☆
+   caspar (爱慕|天冷了) 于  (Fri Nov 21 23:53:51 2008)  提到:
+
+ms俱乐部的人搞定了bupt.cn的注册
+【 在 wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 的大作中提到: 】
+: 哦。。。。我只在它主页上面看到 **.edu.cn是可以的 
+
+
+
+
+☆─────────────────────────────────────☆
+   lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 于  (Fri Nov 21 23:54:06 2008)  提到:
+
+Windows创新协会
+谢谢
+【 在 caspar (爱慕|天冷了) 的大作中提到: 】
+: ms俱乐部的人搞定了bupt.cn的注册 
+
+
+
+
+☆─────────────────────────────────────☆
+   caspar (爱慕|天冷了) 于  (Fri Nov 21 23:55:22 2008)  提到:
+
+不是ms俱乐部么？
+
+反正是zhb那小子干的。
+
+【 在 lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 的大作中提到: 】
+: Windows创新协会 
+: 谢谢 
+
+
+
+
+☆─────────────────────────────────────☆
+   lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 于  (Fri Nov 21 23:57:46 2008)  提到:
+
+显然不是
+【 在 caspar (爱慕|天冷了) 的大作中提到: 】
+: 不是ms俱乐部么？ 
+: 反正是zhb那小子干的。 
+
+
+
+
+☆─────────────────────────────────────☆
+   wisky (小夕·路过团云州牧·心系燕赵·英雄传说) 于  (Fri Nov 21 23:58:03 2008)  提到:
+
+不管是谁 搞定这种事情总都是很牛的
+【 在 lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 的大作中提到: 】
+: 显然不是 
+
+
+
+
+☆─────────────────────────────────────☆
+   caspar (爱慕|天冷了) 于  (Fri Nov 21 23:58:34 2008)  提到:
+
+哦……
+【 在 lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 的大作中提到: 】
+: 显然不是 
+
+
+
+
+☆─────────────────────────────────────☆
+   caspar (爱慕|天冷了) 于  (Fri Nov 21 23:58:52 2008)  提到:
+
+那是盟主你干的么
+【 在 caspar (爱慕|天冷了) 的大作中提到: 】
+: 哦…… 
+
+
+
+
+☆─────────────────────────────────────☆
+   lxin (〖冰雪猪联盟〗|玲珑冰雪猪|盟主) 于  (Fri Nov 21 23:59:29 2008)  提到:
+
+zhb干的
+嗯
+【 在 caspar (爱慕|天冷了) 的大作中提到: 】
+: 那是盟主你干的么 
+
+
+
+
+☆─────────────────────────────────────☆
+   english123 (井井) 于  (Sat Nov 22 00:02:25 2008)  提到:
+
+我才离开一小会，你们就把我的帖子水成这样？
+
+
+ 
+【文章标题】：[转帖]语言与区域设置ID （Language ID、Locales ID / LCID） 【文章地址】：https://bbs.byr.cn/article/Windows/84460 【创建时间】：2008-12-13 【作者】：xPaL0nE 【评论】：0 【内容】：发信人: xPaL0nE (【天山南北烤肉军团】四等小兵兼烤炉 ), 信区: Windows
+标  题: [转帖]语言与区域设置ID （Language ID、Locales ID / LCID）
+发信站: 北邮人论坛 (Sat Dec 13 14:31:55 2008), 站内
+
+源文档 &lt;<a target="_blank" href="http://www.cnblogs.com/wangweixf/archive/2008/08/15/1268537.html">http://www.cnblogs.com/wangweixf/archive/2008/08/15/1268537.html</a>&gt; 
+
+语言 ID
+
+语言 ID 决定网站中网页文本（例如“网站设置”页上的文本）使用的语言。创建网站时可用的语言取决于在服务器或服务器场中安装的语言模板包。基于 Windows SharePoint Services 的网站可用以下语言创建。
+ID     语言     ID     语言
+1025     阿拉伯语     1041     日语
+1028     繁体中文     1042     朝鲜语
+1029     捷克语     1043     荷兰语
+1030     丹麦语     1044     挪威语
+1031     德语     1045     波兰语
+1032     希腊语     1046     葡萄牙语 - 巴西
+1033     英语     1049     俄语
+1034     西班牙语     1053     瑞典语
+1035     芬兰语     1054     泰语
+1036     法语     1055     土耳其语
+1037     希伯来语     2052     简体中文
+1038     匈牙利语     2070     葡萄牙语
+1040     意大利语     3076     汉语 - 香港
+
+Windows SharePoint Services 还支持用下列语言输入和显示文本，但不能用这些语言创建网站。
+ID     语言     ID     语言
+1026     保加利亚语     1048     罗马尼亚语
+1050     克罗地亚语     2074     塞尔维亚语
+1061     爱沙尼亚语     1051     斯洛伐克语
+1081     印度印地语     1060     斯洛文尼亚语
+1062     拉脱维亚语     1058     乌克兰语
+1063     立陶宛语     
+    
+区域设置 ID
+
+区域设置 ID 控制网站的编号、排序、日历和时间格式。可以使用“区域设置”网页更改网站的区域设置。基于 Windows SharePoint Services 的网站可设置为以下区域设置 ID。
+ID     区域设置     ID     区域设置
+1078     南非荷兰语     1037     希伯来语
+1052     阿尔巴尼亚语     1081     印地语
+5121     阿拉伯语(阿尔及利亚)     1038     匈牙利语
+15361     阿拉伯语(巴林)     1039     冰岛语
+3073     阿拉伯语(埃及)     1057     印度尼西亚语
+2049     阿拉伯语(伊拉克)     1040     意大利语(意大利)
+11265     阿拉伯语(约旦)     2064     意大利语(瑞士)
+13313     阿拉伯语(科威特)     1041     日语
+12289     阿拉伯语(黎巴嫩)     1099     卡纳达语
+4097     阿拉伯语(利比亚)     1087     哈萨克语
+6145     阿拉伯语(摩洛哥)     1111     孔卡尼语
+8193     阿拉伯语(阿曼)     1042     朝鲜语
+16385     阿拉伯语(卡塔尔)     1088     吉尔吉斯语(西里尔文)
+1025     阿拉伯语(沙特阿拉伯)     1062     拉脱维亚语
+10241     阿拉伯语(叙利亚)     1063     立陶宛语
+7169     阿拉伯语(突尼斯)     1071     马其顿语(FYROM)
+14337     阿拉伯语(阿拉伯联合酋长国)     2110     马来语(文莱达鲁萨兰国)
+9217     阿拉伯语(也门)     1086     马来语(马来西亚)
+1067     亚美尼亚语     1102     马拉地语
+2092     阿塞拜疆语(西里尔文)     1104     蒙古语(西里尔文)
+1068     阿塞拜疆语(拉丁语系)     1044     挪威语(博克马尔语)
+1069     巴斯克语     2068     挪威语(尼诺斯克语)
+1059     白俄罗斯语     1045     波兰语
+1026     保加利亚语     1046     葡萄牙语(巴西)
+1027     加泰罗尼亚语     2070     葡萄牙语(葡萄牙)
+3076     汉语（香港）     1094     旁遮普语
+5124     汉语（澳门）     1048     罗马尼亚语
+2052     汉语（中华人民共和国）     1049     俄语
+4100     汉语（新加坡）     1103     梵语
+1028     汉语（台湾）     3098     塞尔维亚语(西里尔文)
+1050     克罗地亚语     2074     塞尔维亚语(拉丁语系)
+1029     捷克语     1051     斯洛伐克语
+1030     丹麦语     1060     斯洛文尼亚语
+1125     马尔代夫语     11274     西班牙语(阿根廷)
+2067     荷兰语(比利时)     16394     西班牙语(玻利维亚)
+1043     荷兰语(荷兰)     13322     西班牙语(智利)
+3081     英语(澳大利亚)     9226     西班牙语(哥伦比亚)
+10249     英语(伯利兹)     5130     西班牙语(哥斯达黎加)
+4105     英语(加拿大)     7178     西班牙语(多米尼加共和国)
+9225     英语(加勒比海)     12298     西班牙语(厄瓜多尔)
+6153     英语(爱尔兰)     17418     西班牙语(萨尔瓦多)
+8201     英语(牙买加)     4106     西班牙语(危地马拉)
+5129     英语(新西兰)     18442     西班牙语(洪都拉斯)
+13321     英语(菲律宾)     2058     西班牙语(墨西哥)
+7177     英语(南非)     19466     西班牙语(尼加拉瓜)
+11273     英语(特立尼达岛)     6154     西班牙语(巴拿马)
+2057     英语(英国)     15370     西班牙语(巴拉圭)
+1033     英语（美国）     10250     西班牙语(秘鲁)
+12297     英语(津巴布韦)     20490     西班牙语(波多黎各)
+1061     爱沙尼亚语     3082     西班牙语(西班牙)
+1080     法罗语     1034     西班牙语(传统风格)
+1065     波斯语     14346     西班牙语(乌拉圭)
+1035     芬兰语     8202     西班牙语(委内瑞拉)
+2060     法语(比利时)     1089     斯瓦希里语
+3084     法语(加拿大)     1053     瑞典语
+1036     法语(法国)     2077     瑞典语(芬兰)
+5132     法语(卢森堡)     1114     古叙利亚语
+6156     法语(摩纳哥)     1097     泰米尔语
+4108     法语(瑞士)     1092     鞑靼语
+1110     加利西亚语     1098     泰卢固语
+1079     格鲁吉亚语     1054     泰语
+3079     德语(奥地利)     1055     土耳其语
+1031     德语(德国)     1058     乌克兰语
+5127     德语(列支敦士登)     1056     乌尔都语
+4103     德语(卢森堡)     2115     乌兹别克语(西里尔文)
+2055     德语(瑞士)     1091     乌兹别克语(拉丁语系)
+1032     希腊语     1066     越南语
+1095     古吉拉特语     
+    
+时区
+
+基于 Windows SharePoint Services 的网站可以设置为 Microsoft Windows Server 2003 承认的任何时区。
+代码     时区     代码     时区
+39     (GMT-12:00) 埃尼威托克，夸贾林岛     59     (GMT+02:00) 赫尔辛基，里加，塔林
+16     (GMT-11:00) 中途岛, 萨摩亚群岛     27     (GMT+02:00) 耶路撒冷 26 (GMT+03:00) 巴格达
+15     (GMT-10:00) 夏威夷     74     (GMT+03:00) 科威特，利雅得
+14     (GMT-09:00) 阿拉斯加     51     (GMT+03:00) 莫斯科，圣彼得堡，伏尔加格勒
+13     (GMT-08:00) 太平洋时间（美国和加拿大）： 蒂华纳     56     (GMT+03:00) 内罗毕
+38     (GMT-07:00) 亚利桑那     25     (GMT+03:30) 德黑兰
+12     (GMT-07:00) 山区时间（美国和加拿大）     24     (GMT+04:00) 阿布扎比，马斯喀特
+55     (GMT-06:00) 中美洲     54     (GMT+04:00) 巴库，第比利斯，埃里温 48 (GMT+04:30) 喀布尔
+11     (GMT-06:00) 中部时间(美国和加拿大)     58     (GMT+05:00) 叶卡捷琳堡
+37     (GMT-06:00) 墨西哥城     47     (GMT+05:00) 伊斯兰堡，卡拉奇，塔什干
+36     (GMT-06:00) 萨斯喀彻温省     23     (GMT+05:30) 加尔各答，马德拉斯，孟买，新德里
+35     (GMT-05:00) 波哥大，利马，基多     62     (GMT+05:45) 加德满都 46 (GMT+06:00) 阿拉木图，新西伯利亚
+10     (GMT-05:00) 东部时间(美国和加拿大)     71     (GMT+06:00) 阿斯塔纳，达卡
+34     (GMT-05:00) 印地安纳（东部）     66     (GMT+06:00) 科特
+9     (GMT-04:00) 大西洋时间（加拿大）     61     (GMT+06:30) 仰光
+33     (GMT-04:00) 加拉加斯，拉巴斯     22     (GMT+07:00) 曼谷，河内，雅加达
+65     (GMT-04:00) 圣地亚哥     64     (GMT+07:00) 克拉斯诺亚尔斯克
+28     (GMT-03:30) 纽芬兰 8 (GMT-03:00) 巴西利亚     45     (GMT+08:00) 北京，重庆，香港，乌鲁木齐
+32     (GMT-03:00) 布宜诺斯艾利斯，乔治敦     63     (GMT+08:00) 伊尔库次克，乌兰巴托
+60     (GMT-03:00) 格陵兰     21     (GMT+08:00) 吉隆坡，新加坡
+30     (GMT-02:00) 中大西洋     73     (GMT+08:00) 珀斯 75 (GMT+08:00) 台北
+29     (GMT-01:00) 亚速尔群岛     20     (GMT+09:00) 大坂，扎幌，东京 72 (GMT+09:00) 汉城
+53     (GMT-01:00) 佛得角群岛     70     (GMT+09:00) 雅库茨克 19 (GMT+09:30) 阿德莱德
+31     (GMT) 卡萨布兰卡，蒙罗维亚     44     (GMT+09:30) 达尔文
+2     (GMT) 格林威治；都柏林，爱丁堡，里斯本，伦敦     18     (GMT+10:00) 布里斯班
+4     (GMT+01:00) 阿姆斯特丹，柏林，伯尔尼，罗马，斯德哥尔摩，维也纳     76     (GMT+10:00) 堪培拉，墨尔本，悉尼
+6     (GMT+01:00) 贝尔格莱德，布拉迪斯拉发，布达佩斯，卢布尔雅那，布拉格     43     (GMT+10:00) 关岛，莫尔兹比港
+3     (GMT+01:00) 布鲁塞尔，哥本哈根，马德里，巴黎     42     (GMT+10:00) 霍巴特
+57     (GMT+01:00) 萨拉热窝，斯科普里，索非亚，维尔纽斯，华沙，萨格勒布     68     (GMT+10:00) 符拉迪沃斯托克(海参崴)
+69     (GMT+01:00) 中非西部     41     (GMT+11:00) 马加丹，所罗门群岛，新喀里多尼亚
+7     (GMT+02:00) 雅典，伊斯坦布尔，明斯克     17     (GMT+12:00) 奥克兰，惠灵顿
+5     (GMT+02:00) 布加勒斯特     40     (GMT+12:00) 斐济，勘察加半岛，马绍尔群岛
+49     (GMT+02:00) 开罗     67     (GMT+13:00) 努库阿洛法
+50     (GMT+02:00) 哈拉雷，比勒陀利亚     
+    
+货币 ID
+
+基于 Windows SharePoint Services 的网站可以设置为使用以下货币。
+ID     货币     ID     货币
+5121     1,254 .&amp;#1580;.&amp;#1583; (阿拉伯地区-阿尔及利亚)     4106     Q1,254 (危地马拉)
+15361     1,254 .&amp;#1576;.&amp;#1583; (阿拉伯地区-巴林)     18442     L. 1254 (洪都拉斯)
+3073     1,254 .&amp;#1605;.&amp;#1580; (阿拉伯地区-埃及)     3076     HK$1,254 (香港)
+2049     1,254 .&amp;#1593;.&amp;#1583; (阿拉伯地区-伊拉克)     1038     1 254 Ft (匈牙利)
+11265     1,254 .&amp;#1575;.&amp;#1583; (阿拉伯地区-约旦)     1081     &amp;#2352;&amp;#2369; 1,254 (印度)
+13313     1,254 .&amp;#1603;.&amp;#1583; (阿拉伯地区-科威特)     6153     IR&amp;#163;1,254 (爱尔兰)
+12289     1,254 .&amp;#1604;.&amp;#1604; (阿拉伯地区-黎巴嫩)     1037     &amp;#8362;1,254 (以色列)
+4097     1,254 .&amp;#1604;.&amp;#1583; (阿拉伯地区-利比亚)     1041     &amp;#165;1,254 (日本)
+6145     1,254 .&amp;#1605;.&amp;#1583; (阿拉伯地区-摩洛哥)     1042     &amp;#8361;1,254 (韩国)
+8193     1,254 .&amp;#1593;.&amp;#1585; (阿拉伯地区-阿曼)     2058     $1,254 (墨西哥)
+16385     1,254 .&amp;#1602;.&amp;#1585; (阿拉伯地区-卡塔尔)     5129     $1,254 (新西兰)
+1025     1,254 .&amp;#1587;.&amp;#1585; (阿拉伯地区-沙特阿拉伯)     19466     C$ 1254 (尼加拉瓜)
+10241     1,254 .&amp;#1587;.&amp;#1604; (阿拉伯地区-叙利亚)     1044     kr 1 254 (挪威)
+7169     1,254 .&amp;#1578;.&amp;#1583; (阿拉伯地区-突尼斯)     1056     Rs 1,254 (巴基斯坦)
+14337     1,254 .&amp;#1573;.&amp;#1583; (阿拉伯地区-阿拉伯联合酋长国)     6154     B/. 1,254 (巴拿马)
+9217     1,254 .&amp;#1610;.&amp;#1585; (阿拉伯地区-也门)     15370     Gs 1.254 (巴拉圭)
+11274     $ 1.254 (阿根廷)     2052     ￥1,254 (中国)
+3081     $1,254 (澳大利亚)     10250     S/. 1,254 (秘鲁)
+3079     &amp;#246;S 1.254 (奥地利)     1045     1 254 z&amp;#322; (波兰)
+16394     $b 1.254 (玻利维亚)     1049     1 254р. (俄罗斯)
+1046     R$ 1.254 (巴西)     4100     $1,254 (新加坡)
+3084     1 254 $ (加拿大)     1051     1 254 Sk (斯洛伐克)
+4105     $1,254 (加拿大)     1060     1.254 SIT (斯洛文尼亚)
+13322     $ 1.254 (智利)     7177     R 1,254 (南非)
+9226     $ 1.254 (哥伦比亚)     1053     1.254 kr (瑞典)
+5130     C1.254 (哥斯达黎加)     2055     SFr. 1'254 (瑞士)
+1029     1 254 K&amp;#269; (捷克共和国)     1028     NT$1,254 (台湾)
+1030     kr 1.254 (丹麦)     1054     &amp;#3647;1,254 (泰国)
+7178     RD$1,254 (多米尼加共和国)     1055     1.254 TL (土耳其)
+17418     C1254 (萨尔瓦多)     2057     &amp;#163;1,254 (英国)
+-2     1,254 &amp;#8364; (欧盟)     1033     $1,254 (美国)
+-1     &amp;#8364; 1,254 (欧盟)     14346     $U 1.254 (乌拉圭)
+1065     1,254 &amp;#1585;&amp;#1610;&amp;#1575;&amp;#1604; (波斯语)     8202     Bs 1.254 (委内瑞拉)
+1032     1.254 Δρχ (希腊)     1066     1,254 &amp;#8363; (越南语)
+
+
+--
+My shadow's the only one that walks beside me 
+My shallow heart's the only thing that's beating 
+Sometimes I wish someone out there will find me 
+'Til then I walk alone
+ftp://xp:xp@118.229.172.249
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.172.*]
+ 
+【文章标题】：【公告】同意【lxin】辞去windows版版主的申请 (转载) 【文章地址】：https://bbs.byr.cn/article/Windows/84325 【创建时间】：2008-12-11 【作者】：clean 【评论】：0 【内容】：发信人: clean (晴～の天～ㄨ～！), 信区: Windows
+标  题: 【公告】同意【lxin】辞去windows版版主的申请
+发信站: 北邮人论坛 (Thu Dec 11 20:54:41 2008), 站内
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: clean (晴～の天～ㄨ～！), 信区: BoardManager
+标  题: 【公告】同意【lxin】辞去windows版版主的申请
+发信站: 北邮人论坛 (Thu Dec 11 20:54:18 2008), 站内
+
+   
+       经 lxin 申请，并由站务委员会讨论通过,现
+   决定批准 windows 版版主 lxin 的辞职申请。
+      
+       备    注：感谢长期对北邮人论坛的贡献！
+            
+                         北邮人论坛版主管理组
+                            时间：2008-12-11
+ 
+
+--
+<a target="_blank" href="http://forum.byr.edu.cn/pc/index.php?id=clean">我天生善良又可爱－－！</a>
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.146.164]
+ 
+【文章标题】：这是中了什么病毒啊 【文章地址】：https://bbs.byr.cn/article/Windows/84511 【创建时间】：2008-12-13 【作者】：butme 【评论】：6 【内容】：发信人: butme (小伙人才), 信区: Windows
+标  题: 这是中了什么病毒啊
+发信站: 北邮人论坛 (Sat Dec 13 22:05:44 2008), 站内
+
+今天电脑插了好几个U盘后
+中毒了
+卡巴杀不出来
+
+就是点击进入文件夹后，窗口就自动关了
+除非在资源管理器的模式下才能点开
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.170.*]
+ 
+【文章标题】：【公告】任命【flycat】为【Windows】版版主 (转载) 【文章地址】：https://bbs.byr.cn/article/Windows/84324 【创建时间】：2008-12-11 【作者】：clean 【评论】：7 【内容】：发信人: clean (晴～の天～ㄨ～！), 信区: Windows
+标  题: 【公告】任命【flycat】为【Windows】版版主
+发信站: 北邮人论坛 (Thu Dec 11 20:54:36 2008), 站内
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: clean (晴～の天～ㄨ～！), 信区: BoardManager
+标  题: 【公告】任命【flycat】为【Windows】版版主
+发信站: 北邮人论坛 (Thu Dec 11 20:53:30 2008), 站内
+
+	    经 flycat 申请，并由站务委员会讨论通过,现决定任命
+	flycat 为 Windows 版版主。本论坛实行正版主负责制，一切事宜
+	均直接由正版主负责解释和安排协调。正版主为排在第一
+	位的版主。试用期半个月，到期如无重大失误即可转正。
+
+	    请 flycat 于三日内到BoardManager版面和BM_office报到，
+	否则取消其斑竹权限；同时请每周至少一次到BM_office参与
+	斑竹讨论，关注斑竹管理内部的一些知识。
+
+
+	        类  别：非群体版面
+ 	        分  区：学术科技
+  	        版  主：Tiaoka
+  	        备  注：希望严格遵守北邮人论坛相关规定，
+  	                尽职尽责，繁荣 Windows。
+
+
+  	                        北邮人论坛版主管理组
+                           日期：Thu Dec 11 20:53:30 2008
+
+ 
+【文章标题】：[转帖]软件静默安装参数详解 【文章地址】：https://bbs.byr.cn/article/Windows/84456 【创建时间】：2008-12-13 【作者】：xPaL0nE 【评论】：3 【内容】：发信人: xPaL0nE (【天山南北烤肉军团】四等小兵兼烤炉 ), 信区: Windows
+标  题: [转帖]软件静默安装参数详解
+发信站: 北邮人论坛 (Sat Dec 13 13:05:01 2008), 站内
+
+大部分软件，其安装都具备一定的智能性，换句话说，许多软件的安装都能采取全自动或半自动的方式进行。
+下面以不同的安装方式进行讨论：
+一、 Microsoft Windows Installer
+如果某个软件是用Windows Installer打包的，那你就应该能在文件夹中看到*.msi文件。
+这是最典型的特征，这些文件通常可以使用 /QB和 /QN参数进行自动安装。。
+/qb 会在窗口中显示一个基本的安装进程
+/qn 参数则不会显示任何窗口，直接在后台自动安装
+&amp;#160;&amp;#160;&amp;#160;&amp;#160; 为了阻止某些程序安装成功后自动重启动（例如Kerio Personal Firewall 4），你可以在 /qn 或者 /qb参数后使用REBOOT=Suppress标记，例如：
+如安装虚拟光驱 DaemonTools：msiexec /i dtools.msi /qb REBOOT=SUPPRESS
+二、 Windows 补丁包
+有两种情况，一种是类似IE增量补丁包的那种安装文件，要使之静默安装，只需要在执行文件后加上　/q:a /r:n　参数即可；一种是　Windows　常用的补丁文件，一般情况下加上 /U /N /Z 即可实现静默安装。
+(对于新的系统补丁，也可使用 /passive /norestart)。这通用大部分情况，但某些特定的补丁不能用此法进行静默安装。
+
+三、InstallShield
+a.要使用静默安装的方式安装用InstallShield技术打包的程序，首先要在现有的操作系统中创建一个setup.iss文件。
+在命令行窗口中使用 -R 参数（大小写敏感）运行安装程序。
+例如：Setup.exe -R
+b. 接着会显示常见的安装屏幕，并且询问你一些问题，例如要安装的目录等有一点是很重要的，在安装结束后你不能选择“立刻重启动计算机”的选项。如果你选了，在批处理文件中的其他命令就会因为计算机重启动而无法执行。
+c. 在安装程序运行完毕后，打开你的C:\Windows（或者C:\WINNT）目录,然后找到setup.iss文件，把这个文件和你将要静默安装的程序setup.exe保存在同一个目录中
+d. 用以下命令进行静默安装：setup.exe -s [-sms]
+
+我怎么知道哪个程序是使用InstallShield技术打包的？
+&amp;#160;&amp;#160;&amp;#160; 大部分这类程序的安装文件都可以被压缩软件解压缩，安装文件setup.exe的属性对话框中应该有“InstallShield (R) Setup Launcher”或者其他类似的字样。
+&amp;#160;&amp;#160;&amp;#160; 最后，如果你在保存安装文件的文件夹中看到了一个setup.iss文件，那么毫无疑问这是用InstallShield打包了！
+四、InstallShield with MSI
+InstallShield with MSI 制作的安装文件，请使用类似：setup.exe /s /v"/qb" 来安装
+五、WISE Installer
+用WISE技术打包的软件在安装的时候可以选择使用 /s参数进行自动安装：setup.exe /s
+六、Inno Setup
+Inno Setup 制作的安装文件，请使用：setup.exe /sp- /silent /norestart
+我怎么知道哪个安装程序是用Inno 技术打包的？
+这种软件安装时第一个界面一般如下图所示
+在窗口标题栏左侧的图标上点击鼠标左键，然后再探出菜单上点击“About Setup”可以看见安装类型
+七、NullSoft Installation System
+使用 NSIS (NullSoft Installation System) 制作的安装文件，可用 /S （注意大写）来进行静默安装。示例：setup.exe /S
+使用NSIS 打包的安装文件可以用 /S参数进行自动安装（“S”是大小写敏感的）：
+Setup.exe /S
+你也可以用 /D参数选择将要安装的目标分区和文件夹：
+Setup.exe /S /D=E:\Software\CDex
+&amp;#160;&amp;#160;&amp;#160; 像Winamp 和CDex这类的软件都会在安装结束后显示一个确认屏幕（CDex）或者一个设置文件关联方式的结束安装屏幕（Winamp）
+我怎么知道哪个程序是使用NSIS技术打包的？
+很多用NSIS打包的程序在安装的时候都有类似这样的窗口，例如Winamp 和CDex：
+&amp;#160;&amp;#160;
+八、Wise Installation Professional 制作的安装文件，可用 /silent 参数进行静默安装。
+&amp;#160;&amp;#160; 反正拿到一个安装程序，大家用各静默安装参数试试就知道了（[/s] [/S] [/silent [/noreboot]] [/verysilent [/sp-] [/norestart]] [/q] [/qn] [/qb] [REBOOT=SUPPRESS]&amp;#160;&amp;#160; [/s /v/qn] [/q:a /r:n] [/u /n /z] [/quiet] [/SilentInstallNoSponsor] [/SilentInstall] [/s /qn] [/s /qd] [-s] [-q] 等）。
+
+源文档 &lt;<a target="_blank" href="http://hi.baidu.com/hmdn/blog/item/275d520f9c82042e6059f3f5.html">http://hi.baidu.com/hmdn/blog/item/275d520f9c82042e6059f3f5.html</a>&gt; 
+
+--
+My shadow's the only one that walks beside me 
+My shallow heart's the only thing that's beating 
+Sometimes I wish someone out there will find me 
+'Til then I walk alone
+ftp://xp:xp@118.229.172.249
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.172.*]
+ 
+【文章标题】：~~牛牛指教，怎么删除电脑里的系统更新之后不用的文件~~ 【文章地址】：https://bbs.byr.cn/article/Windows/84623 【创建时间】：2008-12-15 【作者】：zsueduwy 【评论】：1 【内容】：发信人: zsueduwy (Hero), 信区: Windows
+标  题: ~~牛牛指教，怎么删除电脑里的系统更新之后不用的文件~~
+发信站: 北邮人论坛 (Mon Dec 15 14:44:52 2008), 站内
+
+牛牛指教，怎么删除电脑里的系统更新之后不用的文件
+多谢~~
+--
+Everyone has so many dreams during the life, some dreams are shattered, some dreams are realized, I would like to share my dreams that I have achieved, and I also share the common pursuing dreams and invite you to achieve the 
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.204.104.*]
+ 
+【文章标题】：诡异事件！ 【文章地址】：https://bbs.byr.cn/article/Windows/84640 【创建时间】：2008-12-15 【作者】：shenlei 【评论】：5 【内容】：发信人: shenlei (我爱果子/mg), 信区: Windows
+标  题: 诡异事件！
+发信站: 北邮人论坛 (Mon Dec 15 19:22:45 2008), 站内
+
+今天是12.15号吧，我截图时间右下角有，问题是那个程序要明天装。。。
+--
+欢迎大家玩Q版超人气网游——梦幻西游。xyq版欢迎您~~
+欢迎大家学习传说中的程序设计语言——C++。CPP版欢迎您~~
+学习游戏两不误哈~~
+欢迎大家玩Q版超人气网游——梦幻西游。xyq版欢迎您~~
+欢迎大家学习传说中的程序设计语言——C++。CPP版欢迎您~~
+学习游戏两不误哈~~
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.195.*]
+
+
+<a target="_blank" href="/att/Windows/0/84640/567"><img border="0" title="" src="/att/Windows/0/84640/567" alt="" class="resizeable"></a> 
+【文章标题】：呃，秀主题 【文章地址】：https://bbs.byr.cn/article/Windows/84433 【创建时间】：2008-12-12 【作者】：mglb122 【评论】：11 【内容】：发信人: mglb122 (北邮灬 小雨～～), 信区: Windows
+标  题: 呃，秀主题
+发信站: 北邮人论坛 (Fri Dec 12 21:53:56 2008), 站内
+
+废话不说了，上3图……
+
+<a target="_blank" href="/att/Windows/0/84433/584"><img border="0" title="" src="/att/Windows/0/84433/584" alt="" class="resizeable"></a>
+
+<a target="_blank" href="/att/Windows/0/84433/138127"><img border="0" title="" src="/att/Windows/0/84433/138127" alt="" class="resizeable"></a>
+
+<a target="_blank" href="/att/Windows/0/84433/259934"><img border="0" title="" src="/att/Windows/0/84433/259934" alt="" class="resizeable"></a>
+完了。
+Microsoft Windows Vista Basic，用了第三方软件
+http://soft.deepin.org/read.php?tid=884475深度论坛的帖子，发过来一下，更换文件夹背景的，
+
+主题我是用vista优化大师更换的，搞了一天，人都囧了
+--
+Manaphy………………
+
+※ 修改:·mglb122 于 Dec 12 22:07:20 修改本文·[FROM: 219.143.158.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.143.158.*]
+ 
+【文章标题】：[求助]求下操作系统概念第六版课后习题答案。。。。。 【文章地址】：https://bbs.byr.cn/article/Windows/84691 【创建时间】：2008-12-16 【作者】：zgq2007 【评论】：1 【内容】：发信人: zgq2007 (靜水流深), 信区: Windows
+标  题: [求助]求下操作系统概念第六版课后习题答案。。。。。
+发信站: 北邮人论坛 (Tue Dec 16 20:12:51 2008), 站内
+
+今年复习要用下。。哪位好心人给我传一份课后习题答案。。。。谢谢。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.249.255.*]
+ 
+【文章标题】：求助：请问这是怎么回事？ 【文章地址】：https://bbs.byr.cn/article/Windows/84697 【创建时间】：2008-12-16 【作者】：aigo 【评论】：1 【内容】：发信人: aigo (爱国者), 信区: Windows
+标  题: 求助：请问这是怎么回事？
+发信站: 北邮人论坛 (Tue Dec 16 21:25:25 2008), 站内
+
+电脑开机之后，总是出现这个图片？哪位大牛给解释一下。
+<a href="/att/Windows/0/84697/356" target="_blank" color="blue">附件(235KB)  </a>
+--
+花开在眼前：<a target="_blank" href="http://you.video.sina.com.cn/b/17560381-1550934241.html">http://you.video.sina.com.cn/b/17560381-1550934241.html</a>
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.131.140.*]
+
+ 
+【文章标题】：微软学生中心注册求助！ 【文章地址】：https://bbs.byr.cn/article/Windows/84705 【创建时间】：2008-12-16 【作者】：PT 【评论】：1 【内容】：发信人: PT (hehe), 信区: Windows
+标  题: 微软学生中心注册求助！
+发信站: 北邮人论坛 (Tue Dec 16 22:57:50 2008), 站内
+
+用咱学校的邮箱注册的,但是照提示无法获得win2008的激活码啊,大家现在有人注册成功的吗?以前是怎么成功的呢~教教我~谢谢.
+<img src="/img/ubb/em/11.gif" alt="em11" style="display:inline;border-style:none">
+--
+wa
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.35.62.*]
+ 
+【文章标题】：我的IPTV出什么问题了 打不开  求教大牛 【文章地址】：https://bbs.byr.cn/article/Windows/84728 【创建时间】：2008-12-17 【作者】：Jordan23 【评论】：1 【内容】：发信人: Jordan23 (炽天翼), 信区: Windows
+标  题: 我的IPTV出什么问题了 打不开  求教大牛
+发信站: 北邮人论坛 (Wed Dec 17 14:09:55 2008), 站内
+
+
+<a target="_blank" href="/att/Windows/0/84728/260"><img border="0" title="" src="/att/Windows/0/84728/260" alt="" class="resizeable"></a>
+RT
+谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.141.*]
+
+ 
+【文章标题】：谁告诉我winhec上发的win7是啥版本的？ 【文章地址】：https://bbs.byr.cn/article/Windows/84647 【创建时间】：2008-12-15 【作者】：yegle 【评论】：2 【内容】：发信人: yegle (一阁@SL小分队@lp是大牛), 信区: Windows
+标  题: 谁告诉我winhec上发的win7是啥版本的？
+发信站: 北邮人论坛 (Mon Dec 15 22:46:02 2008), 站内
+
+att
+
+--
+               混穿王&amp;&amp;可乐男&amp;&amp;驼背男
+               
+               
+               <a target="_blank" href="http://yegle.net">http://yegle.net</a>
+               秋风清 秋风明 落叶聚还散 寒鸦栖复惊 相思相见知何日 此时此夜难为情                                       <a target="_blank" href="ftp://movie:password@118.229.164.134">ftp://movie:password@118.229.164.134</a>
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.164.*]
+ 
+【文章标题】：【求助】用U盘装vista系统时提示不是合适卷~~ 【文章地址】：https://bbs.byr.cn/article/Windows/84651 【创建时间】：2008-12-15 【作者】：TxiaoT 【评论】：22 【内容】：发信人: TxiaoT (小小木马穿花衣), 信区: Windows
+标  题: 【求助】用U盘装vista系统时提示不是合适卷~~
+发信站: 北邮人论坛 (Mon Dec 15 23:01:27 2008), 站内
+
+rt；
+我的c盘是NTFS的，装其他盘也一样~
+ps：我电脑目前没有光驱！
+--
+
+※ 修改:·TxiaoT 于 Dec 15 23:05:25 修改本文·[FROM: 118.229.173.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.173.*]
+ 
+【文章标题】：想播放1080P的高清KMP需要什么设置吗？ 【文章地址】：https://bbs.byr.cn/article/Windows/84699 【创建时间】：2008-12-16 【作者】：tomharold 【评论】：1 【内容】：发信人: tomharold (Tomharold), 信区: Windows
+标  题: 想播放1080P的高清KMP需要什么设置吗？
+发信站: 北邮人论坛 (Tue Dec 16 22:24:04 2008), 站内
+
+用KMPLAYER播放TS格式的高清时怎么没有图像，不知是不是需要设置什么？？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.152.*]
+ 
+【文章标题】：最近IE漏洞的补丁 【文章地址】：https://bbs.byr.cn/article/Windows/84783 【创建时间】：2008-12-18 【作者】：djE 【评论】：0 【内容】：发信人: djE (差不多), 信区: Windows
+标  题: 最近IE漏洞的补丁
+发信站: 北邮人论坛 (Thu Dec 18 11:15:45 2008), 站内
+
+http://download.microsoft.com/download/F/1/C/F1C06266-86BE-407A-A693-223A89500E8D/IE7-WindowsXP-KB960714-x86-CHS.exe
+
+<a target="_blank" href="http://download.microsoft.com/download/F/1/C/F1C06266-86BE-407A-A693-223A89500E8D/IE7-WindowsXP-KB960714-x86-CHS.exe">补丁官方下载</a>
+
+
+--
+<marquee width="100%" behavior="alternate" scrollamount="3"><b>*********************************
+
+         差不多行了！！
+
+*********************************</b></marquee>
+
+
+※ 修改:·djE 于 Dec 18 11:16:06 修改本文·[FROM: 59.64.140.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.140.*]
+ 
+【文章标题】：【求助】vista系统下不能访问论坛 【文章地址】：https://bbs.byr.cn/article/Windows/96529 【创建时间】：2009-06-16 【作者】：qiumiao 【评论】：1 【内容】：发信人: qiumiao (qiumiao), 信区: Windows
+标  题: 【求助】vista系统下不能访问论坛
+发信站: 北邮人论坛 (Tue Jun 16 23:23:42 2009), 站内
+
+我的本是sl500,用的是预装的vista系统，用自带的IE浏览器访问北邮人论坛时只能显示文字，不能显示图片。下了搜狗浏览器，结果点游客都没有反应~~
+各位大牛帮忙呀，谢啦~~
+--
+
+※ 修改:·qiumiao 于 Jun 16 23:24:30 修改本文·[FROM: 118.229.175.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.175.*]
+ 
+【文章标题】：请问有人遇到stackhash的问题么？ 【文章地址】：https://bbs.byr.cn/article/Windows/96517 【创建时间】：2009-06-16 【作者】：hihuang 【评论】：2 【内容】：发信人: hihuang (江淮人家@EE不舍$hi huang|Q8之皮丘|), 信区: Windows
+标  题: 请问有人遇到stackhash的问题么？
+发信站: 北邮人论坛 (Tue Jun 16 18:51:13 2009), 站内
+
+最近总遇到，然后word qq 浏览器就会崩溃（不是一起）
+vista系统，请问有人遇到过么？
+有解决方案么？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8603:f5aa:e464:c58b:*]
+ 
+【文章标题】：Win7玩游戏 怎么不是全屏啊  周围是黑的  中间是游戏 【文章地址】：https://bbs.byr.cn/article/Windows/96298 【创建时间】：2009-06-11 【作者】：superbyr 【评论】：8 【内容】：发信人: superbyr (小强), 信区: Windows
+标  题: Win7玩游戏 怎么不是全屏啊  周围是黑的  中间是游戏
+发信站: 北邮人论坛 (Thu Jun 11 20:27:28 2009), 站内
+
+有大牛会吗？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8101:903d:7ebe:a25f:*]
+ 

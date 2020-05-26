@@ -100,3 +100,626 @@
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.219.*]
  
+【文章标题】：搜索引擎概述（转自维库） 【文章地址】：https://bbs.byr.cn/article/SearchEngine/66 【创建时间】：2006-10-23 【作者】：Anchor 【评论】：0 【内容】：发信人: Anchor (Sayid), 信区: SearchEngine
+标  题: 搜索引擎概述（转自维库）
+发信站: 北邮人论坛 (Mon Oct 23 17:27:29 2006), 站内
+
+                                      <b>搜索引擎</b>
+原文链接：<a target="_blank" href="http://www.wikilib.com/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E">http://www.wikilib.com/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E</a>
+
+
+    搜索引擎 （网络）搜索引擎指自动从因特网搜集信息，经过一定整理以后，提供给用户进行查询的系统。因特网上的信息浩瀚万千，而且毫无秩序，所有的信息象汪洋上的一个个小岛，网页链接是这些小岛之间纵横交错的桥梁，而搜索引擎，则为用户绘制一幅一目了然的信息地图，供用户随时查阅。 
+
+<b>搜索引擎的工作原理 </b>
+ 
+    搜索引擎的工作原理大致可以分为： 
+    搜集信息：搜索引擎的信息搜集基本都是自动的。搜索引擎利用称为网络爬虫(spider)的自动搜索机器人程序来連上每一個網頁上的超連結。机器人程序根据网页链到其他中的超链接，就象日常生活中所说的“一传十，十传百……”一样，从少数几个网页开始，連到數據庫上所有到其他网页的链接。理论上，若網頁上有適當的超連結，机器人便可以遍历绝大部分网页。 
+    整理信息：搜索引擎整理信息的过程称为“建立索引”。搜索引擎不仅要保存搜集起来的信息，还要将它们按照一定的规则进行编排。这样，搜索引擎根本不用重新翻查它所有保存的信息而迅速找到所要的资料。想象一下，如果信息是不按任何规则地随意堆放在搜索引擎的数据库中，那么它每次找资料都得把整个资料库完全翻查一遍，如此一来再快的计算机系统也没有用。 
+    接受查询：用户向搜索引擎发出查询，搜索引擎接受查询并向用户返回资料。搜索引擎每时每刻都要接到来自大量用户的几乎是同时发出的查询，它按照每个用户的要求检查自己的索引，在极短时间内找到用户需要的资料，并返回给用户。目前，搜索引擎返回主要是以网页链接的形式提供的，这些通过这些链接，用户便能到达含有自己所需资料的网页。通常搜索引擎会在这些链接下提供一小段来自这些网页的摘要信息以帮助用户判断此网页是否含有自己需要的内容。 
+
+<b>搜索引擎发展史</b> 
+
+    1990年初当时万维网(World Wide Web)还未出现，为了查询散布在各个分散的主机中的文件，曾有过Archie、Gopher等搜索工具，随着互联网的迅速发展，基于HTTP访问的web技术的迅速普及，他们就不再能适应用户的需要。在1994年1月，第一个既可搜索又可浏览的分类目录EINet Galaxy（Tradewave Galaxy）上线，它还支持Gopher和Telnet搜索。同年4月，Yahoo目录诞生，随着访问量和收录链接数的增长，开始支持简单的数据库查询。这就是我们说的早期的目录导航系统，他们的缺点网站收录/更新都是要考人工维护，所以在信息量剧增的条件下，就不是非常受用了。 
+
+    1994年7月，Lycos推出了基于robot的数据发现技术，并支持搜索结果相关性排序，并且他第一个开始在搜索结果中使用了网页自动摘要。Infoseek也是同时期的一个重要代表，他们是搜索引擎史上一个重要的进步。 
+
+    1995年，一种新的搜索引擎工具出现了——元搜索引擎，第一个元搜索引擎是華盛頓大學的学生开发的Metacrawler。用户只需提交一次搜索请求，由元搜索引擎负责转换处理后提交给多个预先选定的独立搜索引擎，并将从各独立搜索引擎返回的所有查询结果，集中起来处理后再返回给用户。 
+
+    1995年12月才登场亮相的AltaVista推出了大量的创新功能使它迅速到达当时搜索引擎的顶峰，它第一个支持自然语言搜索的搜索引擎，具备了基于网页内容分析，智能处理的能力，第一个实现高级搜索语法的搜索引擎（如AND 、OR、NOT等），同时AltaVista还支持搜索新闻群组（Newsgroups），搜索图片等具有划时代意义的功能。同时期还有inktomi、HotBot等搜索引擎。 
+
+    1997年8月Northernlight 公司正式推出搜索引擎，它第一个支持对搜索结果进行简单的自动分类，也是当时拥有最大数据库的搜索引擎之一。 
+
+    1998年10月，Google诞生。它是目前最流行的搜索引擎之一，具备很多独特而且优秀的功能，并且在界面等实现了革命性创新。 
+
+    1999年5月，Fast（Alltheweb）公司发布了自己的搜索引擎AllTheWeb，它的网页搜索可利用ODP自动分类，支持Flash和pdf搜索，支持多语言搜索，还提供新闻搜索、图像搜索、视频、MP3、和FTP搜索，拥有极其强大的高级搜索功能。它曾经是最流行的搜索引擎之一，后在2003年2月被Overture收购。 
+
+    在中文搜索引擎领域，1996年8月成立的搜狐公司是最早参与作网络信息分类导航的网站，曾一度有“出门找地图，上网找搜狐的”美誉。由于其人工分类提交的局限性，随着网络信息的暴增，逐渐被基于robot自动抓取智能分类的新一代信息技术取代。 
+
+    台湾中正大学吴升教授所领导的GAIS实验室1998年1月创立了Openfind中文搜索引擎,是最早开发的中文智能搜索引擎，采用GAIS实验室推出多元排序(PolyRankTM)核心技术，截止2002年6月，宣布累计抓取网页35亿，开始进入英文搜索领域。 
+
+    北大天网是教育网最流行的搜索引擎，它由北大计算机系网络与分布式系统研究室开发，于1997年10月29日正式在CERNET上提供服务, 2000年初成立天网搜索引擎新课题组，由国家973重点基础研究发展规划项目基金资助开发，收录网页约6000万，利用教育网优势，有强大的ftp搜索功能。 
+
+    百度中文搜索由超链分析专利发明人、前Infoseek资深工程师李彦宏和好友徐勇2000年1月创建,目前支持网页信息检索，图片，Flash，音乐等多媒体信息的检索。并且百度在中文领域第一个开始使用ppc经营模式。 
+
+    2002年开始很多公司受搜索市场前景和Google神话的吸引，积极进入搜索引擎市场，谋求一席之地。但是不幸的是他们当中很多公司尤其是不少中国公司采用流氓手段进行自己搜索引擎的推广工作，常用的手段是浏览器劫持、恶意捆绑adware/spyware等等，比较恶劣的典型公司是中搜、3721等等。中搜是由慧聪国际主持开发的，自称是搜索领域的后起之秀。目前处于起步阶段，但是采用流氓软件手段推广后，强占了不少用户的搜索引擎选择。2003年年底慧聪搜索改名为中国搜索，推出第三代智能搜索引擎。最近中国搜索主推桌面搜索--网络猪，是臭名昭著的流氓软件之一。 
+
+    2003年11月，Yahoo全资收购3721公司。2005年8月，阿里巴巴和Yahoo达成战略合作，全资收购雅虎中国，并更名为阿里巴巴雅虎，并将其业务重点全面转向搜索领域。 
+
+ 本页最后修改于06:09 2006年4月28日。 
+--
+▁▂▃▄▅▆▇█  我搜！sososososososososososo
+     sosososososososo  我搜！sosososososososososo
+ sosososososososososososos我搜！搜！搜 ！！█▇▆▅▄▃▂▁sosososososososo
+
+<b><span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=SearchEngine">欢迎来到||搜索引擎版||  享受搜索的乐趣 </a></span></b>
+
+
+※ 修改:·Anchor 于 Oct 23 17:28:08 修改本文·[FROM: 59.64.218.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.218.*]
+ 
+【文章标题】：世界各国的Google网址 【文章地址】：https://bbs.byr.cn/article/SearchEngine/69 【创建时间】：2006-10-23 【作者】：Anchor 【评论】：0 【内容】：发信人: Anchor (Sayid), 信区: SearchEngine
+标  题: 世界各国的Google网址
+发信站: 北邮人论坛 (Mon Oct 23 17:42:59 2006), 站内
+
+
+1. <a target="_blank" href="http://www.google.as/">东萨摩亚</a>
+2. <a target="_blank" href="http://www.google.off.ai/">安圭拉岛</a>
+3. <a target="_blank" href="http://www.google.com.ag/">安提瓜和巴布达岛</a>
+4. <a target="_blank" href="http://www.google.com.ar/">阿根廷</a>
+5. <a target="_blank" href="http://www.google.com.au/">澳洲</a>
+6. <a target="_blank" href="http://www.google.at/">奥地利</a>
+7. <a target="_blank" href="http://www.google.az/">阿塞拜疆</a>
+8. <a target="_blank" href="http://www.google.be/">比利时</a>
+9. <a target="_blank" href="http://www.google.com.br/">巴西</a>
+10. <a target="_blank" href="http://www.google.vg/">英属维京群岛</a>
+11. <a target="_blank" href="http://www.google.bg/">保加利亚</a>
+12. <a target="_blank" href="http://www.google.bi/">布隆迪</a>
+13. <a target="_blank" href="http://www.google.ca/">加拿大</a>
+14. <a target="_blank" href="http://www.google.td/">乍得</a>
+15. <a target="_blank" href="http://www.google.cl/">智利</a>
+16. <a target="_blank" href="http://www.google.com.co/">哥伦比亚</a>
+17. <a target="_blank" href="http://www.google.co.cr/">哥斯达黎加</a>
+18. <a target="_blank" href="http://www.google.ci/">科特迪瓦</a>
+19. <a target="_blank" href="http://www.google.com.cu/">古巴</a>
+20. <a target="_blank" href="http://www.google.cd/">刚果民主共和国</a>
+21. <a target="_blank" href="http://www.google.dk/">丹麦</a>
+22. <a target="_blank" href="http://www.google.dj/">吉布提</a>
+23. <a target="_blank" href="http://www.google.com.do/">多米尼加共和国</a>
+24. <a target="_blank" href="http://www.google.com.ec/">厄瓜多尔</a>
+25. <a target="_blank" href="http://www.google.com.sv/">萨尔瓦多</a>
+26. <a target="_blank" href="http://www.google.fm/">密克罗尼西亚联邦</a>
+27. <a target="_blank" href="http://www.google.com.fj/">斐济</a>
+28. <a target="_blank" href="http://www.google.fi/">芬兰</a>
+29. <a target="_blank" href="http://www.google.fr/">法国</a>
+30. <a target="_blank" href="http://www.google.gm/">冈比亚</a>
+31. <a target="_blank" href="http://www.google.ge/">格鲁吉亚</a>
+32. <a target="_blank" href="http://www.google.de/">德国</a>
+33. <a target="_blank" href="http://www.google.com.gi/">直布罗陀</a>
+34. <a target="_blank" href="http://www.google.com.gr/">希腊</a>
+35. <a target="_blank" href="http://www.google.gl/">格陵兰</a>
+36. <a target="_blank" href="http://www.google.gg/">英属格恩西</a>
+37. <a target="_blank" href="http://www.google.hn/">洪都拉斯</a>
+38. <a target="_blank" href="http://www.google.com.hk/">香港</a>
+39. <a target="_blank" href="http://www.google.co.hu/">匈牙利</a>
+40. <a target="_blank" href="http://www.google.co.in/">印度</a>
+41. <a target="_blank" href="http://www.google.ie/">爱尔兰</a>
+42. <a target="_blank" href="http://www.google.co.im/">英属马恩岛</a>
+43. <a target="_blank" href="http://www.google.co.il/">以色列</a>
+44. <a target="_blank" href="http://www.google.it/">意大利</a>
+45. <a target="_blank" href="http://www.google.com.jm/">牙买加</a>
+46. <a target="_blank" href="http://www.google.co.jp/">日本</a>
+47. <a target="_blank" href="http://www.google.co.je/">英属泽西岛</a>
+48. <a target="_blank" href="http://www.google.kz/">哈萨克斯坦</a>
+49. <a target="_blank" href="http://www.google.co.kr/">韩国</a>
+50. <a target="_blank" href="http://www.google.lv/">拉脱维亚</a>
+51. <a target="_blank" href="http://www.google.co.ls/">莱索托</a>
+52. <a target="_blank" href="http://www.google.li/">列支敦士登</a>
+53. <a target="_blank" href="http://www.google.lt/">立陶宛</a>
+54. <a target="_blank" href="http://www.google.lu/">卢森堡</a>
+55. <a target="_blank" href="http://www.google.mw/">马拉维</a>
+56. <a target="_blank" href="http://www.google.com.my/">马来西亚</a>
+57. <a target="_blank" href="http://www.google.com.mt/">马耳他</a>
+58. <a target="_blank" href="http://www.google.mu/">毛里求斯</a>
+59. <a target="_blank" href="http://www.google.com.mx/">墨西哥</a>
+60. <a target="_blank" href="http://www.google.ms/">英属蒙特塞拉特岛</a>
+61. <a target="_blank" href="http://www.google.com.na/">纳米比亚</a>
+62. <a target="_blank" href="http://www.google.com.np/">尼泊尔</a>
+63. <a target="_blank" href="http://www.google.nl/">荷兰</a>
+64. <a target="_blank" href="http://www.google.co.nz/">新西兰</a>
+65. <a target="_blank" href="http://www.google.com.ni/">尼加拉瓜</a>
+66. <a target="_blank" href="http://www.google.com.nf/">诺福克岛</a>
+67. <a target="_blank" href="http://www.google.com.pk/">巴基斯坦</a>
+68. <a target="_blank" href="http://www.google.com.pa/">巴拿马</a>
+69. <a target="_blank" href="http://www.google.com.py/">巴拉圭</a>
+70. <a target="_blank" href="http://www.google.com.pe/">秘鲁</a>
+71. <a target="_blank" href="http://www.google.com.ph/">菲律宾</a>
+72. <a target="_blank" href="http://www.google.pn/">英属皮特克恩岛</a>
+73. <a target="_blank" href="http://www.google.pl/">波兰</a>
+74. <a target="_blank" href="http://www.google.pt/">葡萄牙</a>
+75. <a target="_blank" href="http://www.google.com.pr/">波多黎各</a>
+76. <a target="_blank" href="http://www.google.cg/">刚果</a>
+77. <a target="_blank" href="http://www.google.ro/">罗马尼亚</a>
+78. <a target="_blank" href="http://www.google.ru/">俄罗斯</a>
+79. <a target="_blank" href="http://www.google.rw/">卢旺达</a>
+80. <a target="_blank" href="http://www.google.sh/">圣赫勒拿岛</a>
+81. <a target="_blank" href="http://www.google.sm/">圣马力诺</a>
+82. <a target="_blank" href="http://www.google.com.sg/">新加坡</a>
+83. <a target="_blank" href="http://www.google.sk/">斯洛伐克</a>
+84. <a target="_blank" href="http://www.google.co.za/">南非</a>
+85. <a target="_blank" href="http://www.google.es/">西班牙</a>
+86. <a target="_blank" href="http://www.google.se/">瑞典</a>
+87. <a target="_blank" href="http://www.google.ch/">瑞士</a>
+88. <a target="_blank" href="http://www.google.com.tw/">台湾</a>
+89. <a target="_blank" href="http://www.google.co.th/">泰国</a>
+90. <a target="_blank" href="http://www.google.tt/">特立尼达和多巴哥</a>
+91. <a target="_blank" href="http://www.google.com.tr/">土耳其</a>
+92. <a target="_blank" href="http://www.google.com.ua/">乌克兰</a>
+93. <a target="_blank" href="http://www.google.ae/">阿拉伯联合酋长国</a>
+94. <a target="_blank" href="http://www.google.co.uk/">英国</a>
+95. <a target="_blank" href="http://www.google.com.uy/">乌拉圭</a>
+96. <a target="_blank" href="http://www.google.uz/">乌兹别克斯坦</a>
+97. <a target="_blank" href="http://www.google.vu/">新赫布里底群岛</a>
+98. <a target="_blank" href="http://www.google.co.ve/">委内瑞拉</a>
+99. <a target="_blank" href="http://www.google.com.vn/">越南</a>
+100. <a target="_blank" href="http://www.google.cn/">中国</a>
+
+--
+▁▂▃▄▅▆▇█  我搜！sososososososososososo
+     sosososososososo  我搜！sosososososososososo
+ sosososososososososososos我搜！搜！搜 ！！█▇▆▅▄▃▂▁sosososososososo
+
+<b><span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=SearchEngine">欢迎来到||搜索引擎版||  享受搜索的乐趣 </a></span></b>
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.218.*]
+ 
+【文章标题】：[合集] [提案]成立看版(谷歌) (转载) 【文章地址】：https://bbs.byr.cn/article/SearchEngine/1 【创建时间】：2006-10-22 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: SearchEngine
+标  题: [合集] [提案]成立看版(谷歌)
+发信站: 北邮人论坛 (Sun Oct 22 23:20:53 2006), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Apply
+标  题: [合集] [提案]成立看版(谷歌)
+发信站: 北邮人论坛 (Fri Aug 25 12:58:12 2006), 站内
+
+☆─────────────────────────────────────☆
+   Anchor (九局下半) 于  (Mon Jun 19 17:21:24 2006)  提到:
+
+标题: [提案]成立看版(谷歌)   
+内容: (1). 英文版名: (Google) (最多14英文字母)  
+       (2). 中文版名: (谷歌) (最多12个汉字)  
+分区：学术科技   
+类别: 类别名（非水版）  
+  
+(2). 版面宗旨：Google作为新一代IT公司的代表在世界范围内已经越来越火了，其技术本身成为众多计算机爱好者学习与追随的目标。在这种大趋势下我想成立Google（谷歌）版以介绍Google的使用技巧与最新相关信息或者趣闻，打造北邮Gfans的交流平台。  
+  
+(3). 申请人信息:   
+申请人 ID： Anchor 
+申请人是否曾经担任过本站的管理或非管理职务？若有，可否列举？  
+无
+申请人是否承诺一旦开版成功，即担任版主：是 
+申请人是否承诺一旦开版成功，将支持并接受站务委员会的管理：是  
+申请人是否了解新开设或新恢复的主题版面应在通过复审后一周内，由版主在版面与版面管理版同时提交正式的制版方针：是 
+  
+(4). 范文文件标题列表  
+[范文一]在Google Maps上直接使用kml文件 
+[范文二]Google“员工”大曝内幕（精彩）
+[范文三]Google推出Picasa网络相册服务 
+  
+(5). 连署人   
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.218.*]
+
+
+☆─────────────────────────────────────☆
+   danieldn (龙虾) 于  (Mon Jun 19 17:26:11 2006)  提到:
+
+路过
+支持
+
+
+☆─────────────────────────────────────☆
+   ki (谁) 于  (Mon Jun 19 17:27:46 2006)  提到:
+
+好啊
+
+
+
+☆─────────────────────────────────────☆
+   purpleagle (purpleagle) 于  (Mon Jun 19 17:29:31 2006)  提到:
+
+帮顶啊
+
+
+
+☆─────────────────────────────────────☆
+   danieldn (龙虾) 于  (Mon Jun 19 17:30:38 2006)  提到:
+
+
+【 在 purpleagle 的大作中提到: 】
+: 帮顶啊 
+
+寒冰！
+
+
+☆─────────────────────────────────────☆
+   lichengao (似水流年 详见签名档) 于  (Mon Jun 19 17:32:14 2006)  提到:
+
+好创意
+
+
+☆─────────────────────────────────────☆
+   nickYY (尤丽) 于  (Mon Jun 19 17:35:40 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   gentleangel (北邮人) 于  (Mon Jun 19 17:43:17 2006)  提到:
+
+顶
+
+
+☆─────────────────────────────────────☆
+   aidlife (晴空) 于  (Mon Jun 19 17:46:57 2006)  提到:
+
+deng 
+
+
+☆─────────────────────────────────────☆
+   serguy (色鱼|八卦帮之火地晋) 于  (Mon Jun 19 18:27:14 2006)  提到:
+
+支持！
+
+
+☆─────────────────────────────────────☆
+   munan (木南 /随风旋转) 于  (Mon Jun 19 20:25:13 2006)  提到:
+
+支持！！
+
+
+☆─────────────────────────────────────☆
+   deliever2003 (童童) 于  (Mon Jun 19 20:30:21 2006)  提到:
+
+民民支持你!!!
+
+
+☆─────────────────────────────────────☆
+   Entstehung (ent) 于  (Mon Jun 19 20:42:04 2006)  提到:
+
+支持
+联署人：Entstehung
+
+
+☆─────────────────────────────────────☆
+   fridayshow (fridayshow must go on) 于  (Mon Jun 19 21:09:00 2006)  提到:
+
+顶！好像会很有意思的
+
+
+☆─────────────────────────────────────☆
+   ninetigers (剑精灵) 于  (Mon Jun 19 21:27:04 2006)  提到:
+
+ding
+
+
+
+☆─────────────────────────────────────☆
+   rourou (yaya) 于  (Mon Jun 19 21:30:06 2006)  提到:
+
+厚厚，友情帮顶
+【 在 Anchor 的大作中提到: 】
+: 标题: [提案]成立看版(谷歌)    
+: 内容: (1). 英文版名: (Google) (最多14英文字母)   
+:        (2). 中文版名: (谷歌) (最多12个汉字)   
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   helenei (Helenei) 于  (Mon Jun 19 21:32:23 2006)  提到:
+
+友情帮顶，too
+【 在 Anchor 的大作中提到: 】
+: 标题: [提案]成立看版(谷歌)    
+: 内容: (1). 英文版名: (Google) (最多14英文字母)   
+:        (2). 中文版名: (谷歌) (最多12个汉字)   
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   lazygirl (lazygirl) 于  (Mon Jun 19 21:33:09 2006)  提到:
+
+帮顶
+【 在 Anchor 的大作中提到: 】
+: 标题: [提案]成立看版(谷歌)    
+: 内容: (1). 英文版名: (Google) (最多14英文字母)   
+:        (2). 中文版名: (谷歌) (最多12个汉字)   
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   stephanie03 (好孩子) 于  (Mon Jun 19 21:41:15 2006)  提到:
+
+支持一个！！！
+
+
+☆─────────────────────────────────────☆
+   alexander00 (国台办发言人★九段) 于  (Mon Jun 19 21:46:28 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   zhige (小智) 于  (Mon Jun 19 21:51:47 2006)  提到:
+
+看起来不错的样子，支持，加油！
+
+
+☆─────────────────────────────────────☆
+   K9999 (涅磐のK9999≮雪域≯冷火[冷主]) 于  (Mon Jun 19 22:36:08 2006)  提到:
+
+k9999
+强烈支持！
+
+
+☆─────────────────────────────────────☆
+   haoying (..) 于  (Mon Jun 19 23:01:53 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   phallalgia (老师老师别生气) 于  (Mon Jun 19 23:02:54 2006)  提到:
+
+支持啊~支持
+
+
+☆─────────────────────────────────────☆
+   DimKnight (Aragorn) 于  (Mon Jun 19 23:33:15 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   GoogleEarth (Google Earth) 于  (Tue Jun 20 11:30:50 2006)  提到:
+
+哎，支持一下吧~能开的话当个友好版面，GE可以共同讨论~
+
+
+
+
+☆─────────────────────────────────────☆
+   nirvana0 (♂ＰｉｎＫ→ｊ♀) 于  (Tue Jun 20 22:05:55 2006)  提到:
+
+nice
+
+
+☆─────────────────────────────────────☆
+   THEOTHERSHOE (水晶鞋) 于  (Tue Jun 20 23:17:17 2006)  提到:
+
+有没有想过成立搜索引擎专版？
+创意很不错哦 呵呵
+
+
+☆─────────────────────────────────────☆
+   Phyche (且听风吟) 于  (Wed Jun 21 17:17:38 2006)  提到:
+
+这个不错!
+
+
+☆─────────────────────────────────────☆
+   FAR (雨弦) 于  (Wed Jun 21 20:07:29 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   shirshov (绿色狂飙) 于  (Thu Jun 22 22:13:01 2006)  提到:
+
+对！！！！！！
+
+
+ 【文章标题】：[公告] 开设 SearchEngine/搜索引擎 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/SearchEngine/2 【创建时间】：2006-10-22 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: SearchEngine
+标  题: [公告] 开设 SearchEngine/搜索引擎 版面
+发信站: 北邮人论坛 (Sun Oct 22 23:20:59 2006), 站内
+
+【 以下文字转载自 Board_Management 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Management
+标  题: [公告] 开设 SearchEngine/搜索引擎 版面
+发信站: 北邮人论坛 (Sun Oct 22 23:19:02 2006), 站内
+
+经版面管理组讨论，同意开设 SearchEngine/搜索引擎 版面，
+并任命 Anchor 为第一任版主。
+
+分区位置：学术科技
+是否计发文数：计入
+是否计入十大统计：计入
+是否直接提供附件功能：不直接提供
+
+需要改变上述属性的，请在开版满两周后在 Board_Management 按格式提出申请。
+
+本版其他版主申请，请到 BM_Apply 版按申请的格式进行。
+
+申请人作为版主，请在收到正式任命通知后 3 天内到 BoardManager 版报道。
+同时建议多到 BM_Office 版学习和讨论版务事宜。
+
+新开设版面应在通过一周内，由版主在版面、Board_Document 版
+同时提交正式的版规。版规未经审批通过的，不能通过后
+续的新开版期考核，直接终止版面。
+
+新开设版面成立满 2 个月后，应由版主在版面与 Board_Document 版同时
+提交版面发展总结报告并申请通过新开期考核。版面管理组将对报告进行讨论，并
+决定是否接受申请。
+
+通过新开版期考核的版面将成为本站的正式版面，并视情况改变其版面属性。
+ 
+                                                    北邮人论坛版面管理组
+
+--
+不要等到时过境迁才知道今天是多么的幸福 
+ 
+ 
+ 
+ 
+ 
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.217.*]
+ 
+
+【文章标题】：三言二拍：百度的性格 【文章地址】：https://bbs.byr.cn/article/SearchEngine/23 【创建时间】：2006-10-23 【作者】：Anchor 【评论】：0 【内容】：发信人: Anchor (Sayid), 信区: SearchEngine
+标  题: 三言二拍：百度的性格
+发信站: 北邮人论坛 (Mon Oct 23 10:23:50 2006), 站内
+
+三言二拍：百度的性格    来自：对牛乱弹琴 | Playin' with IT  
+http://feeds.feedburner.com/~r/PlayinWithIt/~3/24752483/1042860.aspx
+
+强势的企业领导人，常常会让公司变成他自己的一个化身。所以，百度的性格，就是李彦宏的性格。李彦宏聪明、自负、敏感、警觉……这一切，都成为百度企业性格的一部分。百度就像一只刺猬，里面柔软、温暖，但外面全都是冷冰冰的刺。
+
+性格决定命运。百度一方面在市场上继续高歌猛进，一方面面临大量外界的质疑和非议。尽管百度也试图在内部反思，试图弄明白“百度怎么了”，但在其自负的性格之下，这种反思的结果，只能是继续将所有的矛头指向外部。梁冬以负责市场及公关战略的副总裁身份加盟百度，仅仅一年多的时间，显然未能将百度的外部环境变得湿润。这并非梁冬的问题， 换谁到他这个位置上，都不可能解决公司的性格问题。但他依然不得不为此 付出代价。
+
+有人用智商和情商来解释百度，认为这家公司智商很高，情商很低。有道理。在百度看来，这个世界是一个草木皆兵的世界，所有人都对百度不怀好意，所有人都与百度为敌，所有人都全身心全天候全方位地盯着百度，并把骂百度当成一种时髦。不仅百度高层这么认为，百度的每一个基层员工，也都在这种文化的浸淫中，把自己变成了义和团。无论遇到何种问题，百度的第一反应永远是，我没错，错误都是别人的。
+
+百度的问题，并不是换个人负责PR和市场就能解决的，因为没有人敢于挑战李彦宏的权威，也没有人能够改变李彦宏的性格。最终，没有人能够改变百度的性格。百度正在陷入越来越多的非议、责难乃至诉讼之中，因为它并不是孤岛上的鲁滨逊，它不可能不与外界发生关联。任何外界的个人和企业，离百度越近，越容易被刺伤。而所有被刺伤的人，都必须接受百度的逻辑：错在自己，而非百度。
+
+百度在市场上越成功，就越麻烦缠身。业界不得不接纳这样一个蛮横自负、自行其是、不好相处的邻居，百度也不得不接受邻居们的不满。这就是百度问题的关键。
+--
+▁▂▃▄▅▆▇█  我搜！sososososososososososo
+     sosososososososo  我搜！sosososososososososo
+ sosososososososososososos我搜！搜！搜 ！！█▇▆▅▄▃▂▁sosososososososo
+
+<b><span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=SearchEngine">欢迎来到||搜索引擎版||  享受搜索的乐趣 </a></span></b>
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.218.*]
+ 
+【文章标题】：Google 从企业管理到自我管理 【文章地址】：https://bbs.byr.cn/article/SearchEngine/25 【创建时间】：2006-10-23 【作者】：Anchor 【评论】：0 【内容】：发信人: Anchor (Sayid), 信区: SearchEngine
+标  题: Google 从企业管理到自我管理
+发信站: 北邮人论坛 (Mon Oct 23 10:26:16 2006), 站内
+
+Google 从企业管理到自我管理    来自：Google Show  
+http://www.googleshow.net/?p=502
+
+文/李默涵
+
+全新的市场、全新的团队为Google（中国）带来巨大的挑战。如何在陌生的环境下生存，并带来更好的发展，年轻的中国Googler（Google员工对自己的称呼）告诉我们，当所有业务都需要创新的时候，人力资源管理也要而且必须创新。
+
+“我们只雇佣最聪明的人”，这是Google一直以来选择人才的宗旨。他们相信只有“最聪明的人”才
+ 
+
+能在这个全新的领域创新。因此他们为这些“聪明人”创造着一切轻松自由的环境。走进Google的办公室，你就会被这里的自由气息所感染：彩色的墙面、彩色的门厅、彩色的Logo，甚至连打印机和会议室的名字也风格独特，据说命名原则就是员工“海选”；每个人都有权装饰自己的工作空间……
+
+Google相信，聪明人能够很好地管理自己。实际上这些做法真正的意义在于保持所有人拥有最活跃的思维，保证员工（主要是工程师）拥有旺盛的创造力。
+
+有这样一个故事，美国Google总部地处旧金山市南面40英（大约是64公里），许多员工却住在旧金山市区。公司为员工提供了免费的早晚班车，但是由于种种原因，几次调整后，仍然很难让人满意。于是常坐班车的几个工程师自发组成了一个“解决班车问题”小组。经过研究，他们发现班车问题其实是个非常经典的数学统计问题，只要给他们所有数据：遍布于市区各处员工的住址、每个站点、每个时段的满员情况，他们就可以用这些数据来做一个最优化的路线车次时间表，满足大多数乘车员工的需求。
+
+在这个小组发表了新的班车时间表之后，原本怨声载道的公司内部论坛班车讨论版一下子变得门可罗雀。后来这个结果应用到新产品上，形成了具有Google特色的公交检索。这并不是一个特例，很多Google的产品就是由这种方式酝酿而生的。
+
+Google的故事告诉我们，先对员工产生怀疑，而后防微杜渐的传统人力资源管理方式并不是最好的解决办法。优秀的管理者会尽全力给予员工信任，并让他们最大程度地发挥自己的聪明才智，不过分关注眼前利益而做长远打算，才能为企业的发展铺好更宽阔的道路。值得一提的是，这种方式不仅促进了创新，而且可以有效地节约管理成本，得到事半功倍的效果。
+--
+▁▂▃▄▅▆▇█  我搜！sososososososososososo
+     sosososososososo  我搜！sosososososososososo
+ sosososososososososososos我搜！搜！搜 ！！█▇▆▅▄▃▂▁sosososososososo
+
+<b><span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=SearchEngine">欢迎来到||搜索引擎版||  享受搜索的乐趣 </a></span></b>
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.218.*]
+ 
+【文章标题】：百度发布Q3财报 净利润增长率超900％ 【文章地址】：https://bbs.byr.cn/article/SearchEngine/341 【创建时间】：2006-11-01 【作者】：abao 【评论】：0 【内容】：发信人: abao (此时 我未成名卿未嫁), 信区: SearchEngine
+标  题: 百度发布Q3财报 净利润增长率超900％
+发信站: 北邮人论坛 (Wed Nov  1 20:12:36 2006), 站内
+
+
+
+DoNews11月1日北京消息（记者 吴客）全球最大的中文搜索引擎公司百度(Nasdaq：BIDU)今天公布了截至2006年9月30日的第三季度未经审计的财务报告。
+
+　　2006年第三季度业绩要点：
+
+　　第三季度营业收入比上一季度增长24.9%，与去年同期相比增长169.1%，达到2.393亿人民币；
+
+　　净利润比2006年第二季度增长45.8%，比2005年第三季度增长902.5%，达到约8530万元人民币。2006年第三季度每股盈利为2.54元人民币，稀释后每股盈利为2.46元人民币；
+
+　　2006年第三季度不含股权报酬费用的净利润增长至1.016亿元人民币。按扣除股权报酬费用前利润计算，每股盈利及稀释后每股盈利分别为3.03元人民币及2.94元人民币；
+
+　　第三季度为超过10.2万家客户提供服务，比上一季度增长13.3%。
+
+　　百度董事会主席兼首席执行官李彦宏表示：
+
+　　这个季度，百度强化了作为全球最大中文搜索服务提供商的领先地位。专注于提升核心搜索功能及扩展社区搜索产品，使流量和市场份额继续得到显著增长。
+
+　　在六月份，我们优化了智能起价系统，从而使关键词的竞价更加合理化。九月，我们又推出了智能排名系统，通过把相关性引入排名算法，同时提高了用户的搜索体验和客户的投资回报率。尽管这些创新在近期会影响公司收入的增长速度，但从长远来看，我们坚信这些战略性的举措会为公司的收入带来持续强劲的增长。
+
+　　在产品层面，百度第三季度发布的“百度空间”，与其他搜索社区化产品－百度知道和百度贴吧－一样，持续受到用户的欢迎。同时我们也推出或进一步升级了许多垂直搜索产品，例如法律搜索、百度指数、大学搜索、政府搜索以及少儿搜索等，以满足用户的特定搜索需求。此外，百度针对手机及WAP设备开发的移动搜索产品也得到了扩展。
+
+　　10月，百度与维亚康姆签订协议，为广大中国互联网用户提供了丰富的视听娱乐资料。这项合作使得百度能在自己的平台上推广维亚康姆旗下MTV网络，尼克儿童频道及其他五家唱片公司的正版授权内容。
+
+
+　　百度首席财务官王湛生表示：
+
+　　利润的强劲增长再次证明了百度独特的商业模式所蕴含的规模效应；本季度，我们开始了北京市场上从分销到直销的转型，同时也继续协助其它地区市场的代理商提高服务客户的能力。
+
+　　对搜索技术的投入和对商业模式的研究将使我们获得长期的增长。这些技术改进已经使我们的客户和用户立刻受益。而且从长远来看，我们坚信这些举措将为股东带来巨大的价值。
+
+　　2006年第三季度财务业绩分析
+
+　　2006年第三季度营业收入为2.393亿元人民币，比上一季度增长24.9%，比2005年同期增长169.1%。
+
+　　网络营销收入为2.376亿元人民币，比上一季度增长25.7%，与去年同比增长176.7%。这个增长主要来自不断增加的客户数量。在第三季度百度为超过10.2万家客户提供服务，比上一季度增长了13.3%。户均收入从第二季度的2081元人民币上升为第三季度的2330元人民币，增幅为 12.0%。
+
+　　联盟成本约为2160万元人民币，占该季度营业收入的9.0%，上一季度该比例为9.2％。
+
+　　销售及管理费用第三季度约为7020万元人民币，比上一季度增长19.5%，比2005年第三季度增长90.0%。
+
+　　研发费用约为2450万元人民币，比上季度增长34.2%；比2005年第三季度增长66.9%，这主要因为研发团队人数的增加。
+
+　　股权报酬费用由上一季度的1170万元人民币增加至约1640万元人民币。股权报酬费用的增长是由于对期权放弃比率的会计估计变更。第三季度内，公司并没有大规模授予股票期权或者限制性股票。
+
+　　营业利润约为7620万元人民币，与2006年第二季度及2005年第三季度相比，分别增长了31.5%和1002.0%。在不考虑股票报酬费用的情况下，2006年第三季度的营业利润约为9260万元人民币，与上一季度及2005年同期相比，增幅分别为32.8%和422.5%。
+
+　　所得税约为200万元人民币，与2006年第二季度相比，减少了80.5%；与2005年第三季度相比增加了8.4%。2006年第三季度所得税少于第二季度主要是由于百度的一个子公司获得了税收优惠。因此，以前季度多计提的所得税费用在第三季度冲销，金额约为600万元人民币。
+
+　　净利润约为8530万元人民币，比上一季度增长45.8%，比2005年第三季度增长902.5%。2006年第三季度每股盈利为2.54元人民币，稀释后每股盈利为2.46元人民币。
+　　不含股权报酬费用的净利润增长至1.016亿元人民币，与2006年第二季度及2005年第三季度相比，分别增长了44.8%和426.3%。按扣除股权报酬费用前利润计算，每股盈利及稀释后每股盈利分别为3.03元人民币及2.94元人民币。
+
+　　截至2006年9月30日，公司的现金、现金等价物及短期投资为10.833亿元人民币。2006年第三季度经营活动的净现金流和资本性支出分别为1.311亿元人民币和5130万元人民币。资本性支出的增加主要是为满足本季度流量的显著增长。
+
+　　经调整之EBITDA是指调整后的扣除利息、税项、折旧、摊销、营业外收入和股权报酬费用前的盈利。2006年第三季度的该项盈利为1.123亿元人民币。与本年上一季度及2005年同期相比分别增长了32.2%和304.4%。
+
+　　首席技术官员辞职
+
+　　百度于2006年10月24日对外宣布，公司首席技术官刘建国由于个人原因已经向公司递交辞呈，并将于2006年12月19日离职。百度的技术团队是由一批对百度核心技术的各个方面都有着丰富经验的高级工程师组成。这个团队将继续领导百度未来的技术创新。公司正在考虑接替刘建国工作的不同方案。
+
+　　2006年第四季度展望
+
+　　百度预计在2006年第四季度的收入会在2.7亿元人民币至2.8亿元人民币之间，比2005年第四季度增长135%至143%。但此预测是管理层基于现有信息所作的初步估计，实际业绩可能与估计有所不同。
+
+　　电话会议：
+
+　　百度将于美国东部时间2006年10月31日晚上8点（北京/香港时间2006年11月1日早上9点）召开电话会议。届时百度管理层将出席电话会议，回答投资者提问。百度电话会议网络直播的网址为ir.baidu.com。
+
+　　要收听百度电话会议，美国用户可拨打1 617 786 2961，英国用户可拨打44 207 365 8426，中国香港用户可拨打852 3002 1672，密码均为4602 5967。美国东部时间2006年11月3日晚上11点之前，投资者还可以收听百度电话会议的录音。要收听电话录音，国际用户可拨打1 617 801 6888，密码为92261904。(完)<a target="_blank" href="http://www.donews.com/Content/200611/0d9957bba3494faeb670ff74d95eeff9.shtm">http://www.donews.com/Content/200611/0d9957bba3494faeb670ff74d95eeff9.shtm</a>
+--
+我的个人主页 <a target="_blank" href="http://andyviking.googlepages.com">http://andyviking.googlepages.com</a>
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.108.111.*]
+ 
+【文章标题】：传MSN将在校园网架设服务器与QQ争学生用户 【文章地址】：https://bbs.byr.cn/article/SearchEngine/342 【创建时间】：2006-11-01 【作者】：abao 【评论】：0 【内容】：发信人: abao (此时 我未成名卿未嫁), 信区: SearchEngine
+标  题: 传MSN将在校园网架设服务器与QQ争学生用户
+发信站: 北邮人论坛 (Wed Nov  1 20:15:30 2006), 站内
+
+新浪科技讯 10月31晚，据消息人士透露，微软即时聊天软件live Messenger即将开通在教育网的服务器，使得国内大学生在教育网内也可以使用其服务，消息人士表示，微软中国在线服务部门对此合作非常重视，希望借此与腾讯QQ争夺学生用户。
+
+　　据悉，微软中国在线服务部门已经和教育部、赛尔网等多个机构就此商谈了较长时间，目前合作已经基本确定，技术测试也已经完成，服务器可能将于近日正式推出使用，而微软的其他live在线服务可能也将逐渐进入校园网内。
+
+　　微软的live Messenger即此前的MSN Messenger，由于其的服务器一直在国外，而校园网与公网的互联互通情况并不理想，因此国内高校的学生几乎无法使用live Messenger的服务，在教育网内架设服务器后，将可通过教育网的国际出口登陆live Messenger的服务器，而不再需要通过公众网中转，这样在教育网内也可以轻易登陆live Messenger了。
+
+　　消息人士表示，此前腾讯QQ在校园网内比较流行，但微软对学生用户也很看重，希望通过此次举动来与腾讯QQ争夺学生用户。10月31日晚，微软MSN一位内部人士表示对此事还不清楚。
+--
+我的个人主页 <a target="_blank" href="http://andyviking.googlepages.com">http://andyviking.googlepages.com</a>
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.108.111.*]
+ 

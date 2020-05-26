@@ -33,3 +33,2708 @@
 ※ 修改:·xiongQQ 于 Apr  8 03:12:35 修改本文·[FROM: 59.64.211.73]
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.209.146]
  
+【文章标题】：herohzy被取消在OfficeTool版的发文权限 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31739 【创建时间】：2012-12-10 【作者】：police 【评论】：0 【内容】：发信人: police (没头脑和不高兴), 信区: OfficeTool
+标  题: herohzy被取消在OfficeTool版的发文权限
+发信站: 北邮人论坛 (Mon Dec 10 23:41:48 2012), 站内
+
+由于 herohzy 在 OfficeTool 版的 广告贴 行为，
+被暂时取消在本版的发文权力 14 天。
+                              版主:police
+                              Mon Dec 10 23:41:48 2012
+
+
+ 
+【文章标题】：急救~~笔记本输入不了中文了~~ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31720 【创建时间】：2012-11-30 【作者】：wumingmianju 【评论】：1 【内容】：发信人: wumingmianju (。。。), 信区: OfficeTool
+标  题: 急救~~笔记本输入不了中文了~~
+发信站: 北邮人论坛 (Fri Nov 30 20:53:18 2012), 站内
+
+笔记本输入不了中文了。。智能ABC和搜狗都只能输英文，微软拼音还是能用的。。有木有人知道是怎么回事呀。。 <img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none"><img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.204.39.*]
+ 
+【文章标题】：【求助】word表格粘贴进excel的问题，急急急！！！ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31746 【创建时间】：2012-12-11 【作者】：jiy29104983 【评论】：0 【内容】：发信人: jiy29104983 (佐罗), 信区: OfficeTool
+标  题: 【求助】word表格粘贴进excel的问题，急急急！！！
+发信站: 北邮人论坛 (Tue Dec 11 13:14:47 2012), 站内
+
+word表格复制进excel时，如果word单个表格里有回车，在excel中就自动变成两格了。
+如何让它保持一格啊？？用宏可以不？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.119.182.*]
+ 
+【文章标题】：求一个office2010的秘钥 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31735 【创建时间】：2012-12-09 【作者】：gaojielove 【评论】：3 【内容】：发信人: gaojielove (王小波的门下走狗), 信区: OfficeTool
+标  题: 求一个office2010的秘钥
+发信站: 北邮人论坛 (Sun Dec  9 23:04:24 2012), 站内
+
+大谢啊~~~
+<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.213.4.*]
+ 
+【文章标题】：ppt是不是文件太大了，容易程序crash啊？ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31725 【创建时间】：2012-12-04 【作者】：zixiao 【评论】：5 【内容】：发信人: zixiao (), 信区: OfficeTool
+标  题: ppt是不是文件太大了，容易程序crash啊？
+发信站: 北邮人论坛 (Tue Dec  4 14:38:01 2012), 站内
+
+别人的一个ppt，里面好多图，ppt文件800多m，无法保存，保存powerpoint就崩溃。何解？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.207.212.*]
+ 
+【文章标题】：两个excel文件如何比对 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31509 【创建时间】：2012-07-24 【作者】：yyg747 【评论】：6 【内容】：发信人: yyg747 (记忆邮心|YYG), 信区: OfficeTool
+标  题: 两个excel文件如何比对
+发信站: 北邮人论坛 (Tue Jul 24 22:23:36 2012), 站内
+
+内容格式一致，有若干列。一个文档有若干行，另外一个文档比这个文档数据少了几行
+，用什么方法能把这少的几行找出来？
+
+
+
+--
+
+※ 来源:·北邮人论坛 bbs.byr.cn·[FROM: 114.248.133.*]
+ 
+【文章标题】：求助，EXCEL文件的修复 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31736 【创建时间】：2012-12-10 【作者】：VeryYang 【评论】：6 【内容】：发信人: VeryYang (魔术师.杨), 信区: OfficeTool
+标  题: 求助，EXCEL文件的修复
+发信站: 北邮人论坛 (Mon Dec 10 10:13:37 2012), 站内
+
+
+真是躺着中枪，今早一打开电脑就提示一个桌面excel文件损坏，需要运行什么chkdsk，然后就打不开了。试了百度的几个办法都不行，只能来求助了，跪求大家帮忙。 
+  
+因为文件不大方便公开，所以如果有能帮忙的校友我再单独传给你，感激不尽！ 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.42.110.246]
+ 
+【文章标题】：装软件时弹出框 user account control enabled 该怎么处理啊， 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31762 【创建时间】：2012-12-18 【作者】：GUA 【评论】：2 【内容】：发信人: GUA (papaya), 信区: OfficeTool
+标  题: 装软件时弹出框 user account control enabled 该怎么处理啊，求
+发信站: 北邮人论坛 (Tue Dec 18 16:13:40 2012), 站内
+
+如题
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.146.*]
+ 
+【文章标题】：word中的公式编辑器打不出加、减、卷积等符号 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31779 【创建时间】：2012-12-21 【作者】：modaocun 【评论】：1 【内容】：发信人: modaocun (liuxu), 信区: OfficeTool
+标  题: word中的公式编辑器打不出加、减、卷积等符号
+发信站: 北邮人论坛 (Fri Dec 21 17:49:42 2012), 站内
+
+用的word2003，编辑公式时，打不出减号、点乘和卷积等符号。怎么解决呢？
+谢谢。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.215.3.*]
+ 
+【文章标题】：herohzy被取消在OfficeTool版的发文权限 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31816 【创建时间】：2013-01-04 【作者】：police 【评论】：0 【内容】：发信人: police (没头脑和不高兴), 信区: OfficeTool
+标  题: herohzy被取消在OfficeTool版的发文权限
+发信站: 北邮人论坛 (Fri Jan  4 10:45:54 2013), 站内
+
+由于 herohzy 在 OfficeTool 版的 未经许可的版面商业行为 行为，
+被暂时取消在本版的发文权力 70 天。
+                              版主:police
+                              Fri Jan  4 10:45:54 2013
+
+
+ 
+【文章标题】：大家谁有Demo3D软件啊 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31822 【创建时间】：2013-01-05 【作者】：mockingbird 【评论】：0 【内容】：发信人: mockingbird (mockingbird), 信区: OfficeTool
+标  题: 大家谁有Demo3D软件啊
+发信站: 北邮人论坛 (Sat Jan  5 22:14:20 2013), 站内
+
+急求，谢谢大家~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.37.*]
+ 
+【文章标题】：请教视频更改编辑问题 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31824 【创建时间】：2013-01-10 【作者】：endless 【评论】：2 【内容】：发信人: endless (困难户), 信区: OfficeTool
+标  题: 请教视频更改编辑问题
+发信站: 北邮人论坛 (Thu Jan 10 13:35:27 2013), 站内
+
+请教各位技术达人，我有一个视频，是avi格式的，类似于一个flash动画，我想更改上面的画面（原视频中有几个人，我想把头像换一下），请问有什么软件可以编辑，或者那个同学能帮我编辑一下，请吃饭...灰常感谢！！ 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.65.188.*]
+ 
+【文章标题】：[问题]如何使word的每张的页眉都不同？温7系统，windows word07 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31812 【创建时间】：2013-01-03 【作者】：lizzie1 【评论】：3 【内容】：发信人: lizzie1 (lizzie), 信区: OfficeTool
+标  题: [问题]如何使word的每张的页眉都不同？温7系统，windows word07
+发信站: 北邮人论坛 (Thu Jan  3 19:05:56 2013), 站内
+
+windows word07
+※ 修改:·lizzie1 于 Jan  3 19:06:55 2013 修改本文·[FROM: 10.8.4.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.4.*]
+ 
+【文章标题】：[问题]图片转pdf有什么好使的工具吗？ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31794 【创建时间】：2012-12-26 【作者】：lookstar 【评论】：10 【内容】：发信人: lookstar (Offer Hunter), 信区: OfficeTool
+标  题: [问题]图片转pdf有什么好使的工具吗？
+发信站: 北邮人论坛 (Wed Dec 26 15:41:02 2012), 站内
+
+求助呀
+网上下的工具，图片转pdf以后会有水印，直接用网上的应用又怕泄密
+求一款可以一次性将好几个图片文件转为一个pdf文件的工具，谢谢
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.95.*]
+ 
+【文章标题】：mathtype中的公式复制到PPT中自动变成文本了 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31771 【创建时间】：2012-12-19 【作者】：zh124294440 【评论】：3 【内容】：发信人: zh124294440 (小赵.exe), 信区: OfficeTool
+标  题: mathtype中的公式复制到PPT中自动变成文本了
+发信站: 北邮人论坛 (Wed Dec 19 11:36:00 2012), 站内
+
+在mathtype中写好的公式，复制粘贴到ppt中应该是矢量图才对，可是现在变成文本了，可以调整里面字母的大小（像调整字体大小一样），但是边框只能左右拉伸，无法上下放大或缩小。
+而且外边框的形状明显不同，可以看下面的图片，求大牛说下这个是神马原因？O(∩_∩)O谢谢！
+第1个图应该是正常的，第2个图是今天出的问题，求问如何能将mathtype中输出的公式变成第一个那样的
+
+<a target="_blank" href="/att/OfficeTool/0/31771/702"><img border="0" title="1.jpg" src="/att/OfficeTool/0/31771/702" alt="1.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/OfficeTool/0/31771/6347"><img border="0" title="2.jpg" src="/att/OfficeTool/0/31771/6347" alt="2.jpg" class="resizeable"></a>
+--
+※ 修改:·zh124294440 于 Dec 19 11:37:35 2012 修改本文·[FROM: 10.117.11.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.117.11.*]
+ 
+【文章标题】：求推荐编辑图片或网页（保存在本地）的软件 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31827 【创建时间】：2013-01-11 【作者】：origin 【评论】：7 【内容】：发信人: origin (一笑白云外), 信区: OfficeTool
+标  题: 求推荐编辑图片或网页（保存在本地）的软件
+发信站: 北邮人论坛 (Fri Jan 11 22:38:26 2013), 站内
+
+功能：在图片上画横线或者框
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.43.*]
+ 
+【文章标题】：office2010两个鲜为人知的功能 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31566 【创建时间】：2012-09-16 【作者】：Kinnari 【评论】：11 【内容】：发信人: Kinnari (版主), 信区: OfficeTool
+标  题: office2010两个鲜为人知的功能
+发信站: 北邮人论坛 (Sun Sep 16 12:01:55 2012), 站内
+
+在文件选项卡的选项里面
+
+
+<a target="_blank" href="/att/OfficeTool/0/31566/389"><img border="0" title="2012-9-16_11-54-53.png" src="/att/OfficeTool/0/31566/389" alt="2012-9-16_11-54-53.png" class="resizeable"></a>
+
+可以调节office的界面颜色
+
+
+<a target="_blank" href="/att/OfficeTool/0/31566/78673"><img border="0" title="2012-9-16_11-55-30.png" src="/att/OfficeTool/0/31566/78673" alt="2012-9-16_11-55-30.png" class="resizeable"></a>
+
+每次打开文档时会启动微软拼音输入法，在高级里可以关掉此功能
+
+
+<a target="_blank" href="/att/OfficeTool/0/31566/116811"><img border="0" title="2012-9-16_11-56-02.png" src="/att/OfficeTool/0/31566/116811" alt="2012-9-16_11-56-02.png" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.216.168.*]
+
+ 
+【文章标题】：北邮校园网提供免费的SSH服务吗？MyEtunnel+SSH+AutoProxy 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31864 【创建时间】：2013-01-22 【作者】：A1123275234 【评论】：2 【内容】：发信人: A1123275234 (郭大侠), 信区: OfficeTool
+标  题: 北邮校园网提供免费的SSH服务吗？MyEtunnel+SSH+AutoProxy
+发信站: 北邮人论坛 (Tue Jan 22 12:15:02 2013), 站内
+
+最近需要查资料，所以想用翻墙技术，总是一直连接都显示plink.exe: FATAL ERROR: Network error: Network is unreachable  想问问谁知道怎么破啊？
+--
+※ 修改:·A1123275234 于 Jan 22 12:15:53 2013 修改本文·[FROM: 10.8.183.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.183.*]
+ 
+【文章标题】：【请教】关于论文标题格式 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31823 【创建时间】：2013-01-06 【作者】：echo1988 【评论】：8 【内容】：发信人: echo1988 (cici), 信区: OfficeTool
+标  题: 【请教】关于论文标题格式
+发信站: 北邮人论坛 (Sun Jan  6 15:32:05 2013), 站内
+
+论文的格式要求
+第一章 XXX
+1.1 XXX
+1.1.1 XXX
+1.2 XXX
+第二章 XXX
+2.1 XXX
+
+问题：如何在章节中使用汉字编号“一”，而在后面的编号中使用阿拉伯数字‘1’。<b>同时保证章节中自动生成的图片标号正确。如 图1-1，而不能是 图 一-1.</b>试过的方法：
+        1 第一章 XXX
+        2 第二章 XXX
+这种方法，还是用的阿拉伯数字编号，将号码写在一开始，并设成白色影藏，最后需要手动修改生成的目录。
+
+--
+※ 修改:·echo1988 于 Jan 16 20:28:41 2013 修改本文·[FROM: 10.208.9.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.123.*]
+ 
+【文章标题】：急急急。。。如何刻盘？能在DVD上播放 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31879 【创建时间】：2013-01-26 【作者】：spicewolf 【评论】：2 【内容】：发信人: spicewolf (女神只有Minami和Ayanami), 信区: OfficeTool
+标  题: 急急急。。。如何刻盘？能在DVD上播放
+发信站: 北邮人论坛 (Sat Jan 26 15:56:34 2013), 站内
+
+哪位大牛有过经验？求介绍操作流程。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.240.*]
+ 
+【文章标题】：【求助】word正文文本自动变成1级文本 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31163 【创建时间】：2011-12-27 【作者】：sxushilei 【评论】：11 【内容】：发信人: sxushilei (请输入您的昵称), 信区: OfficeTool
+标  题: 【求助】word正文文本自动变成1级文本
+发信站: 北邮人论坛 (Tue Dec 27 17:17:57 2011), 站内
+
+请各位大牛帮忙看看是什么问题（下图）：
+每次一打开那份word文档，在文档结构图中，有几个小标题应该是正文文本的，结果变成了1级文本。然后在大纲视图里面将其修改为正文文本后，关闭再打开，又变成了1级。
+PS1：就这一份文档是这个情况，别的都没有这种问题。
+PS2：估计也不是电脑的问题，已经在4台电脑上试过了。
+PS3：将整个文档复制粘帖到另外一个好的文档中，还是会出现这个情况
+
+已经被弄疯了，求各位帮忙看看吧
+
+
+
+<a target="_blank" href="/att/OfficeTool/0/31163/728"><img border="0" title="" src="/att/OfficeTool/0/31163/728" alt="" class="resizeable"></a>
+※ 修改:·sxushilei 于 Dec 27 17:24:38 2011 修改本文·[FROM: 118.229.234.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.234.*]
+ 
+【文章标题】：[问题]【PowerPoint】如何在PPT普通视图上显示配色方案 【文章地址】：https://bbs.byr.cn/article/OfficeTool/31837 【创建时间】：2013-01-14 【作者】：sherryvs 【评论】：5 【内容】：发信人: sherryvs (【搞个帮】费食鱼), 信区: OfficeTool
+标  题: [问题]【PowerPoint】如何在PPT普通视图上显示配色方案
+发信站: 北邮人论坛 (Mon Jan 14 09:38:39 2013), 站内
+
+在看别人的PPT展示时候看到的，在PPT普通视图那个模式下，在页边上显示有所有的配色列表，具体显示的为位置是图上黑框圈起来的部分，
+
+<a target="_blank" href="/att/OfficeTool/0/31837/643"><img border="0" title="" src="/att/OfficeTool/0/31837/643" alt="" class="resizeable"></a>
+然后对PPT修改时，直接在页边的色彩列表里调颜色就可以了。我找了半天也不知道这是怎么显式的。想问下这是什么功能呢？
+P.S. 我用的是2013版，不知道和版本会不会有关系。。。
+--
+※ 修改:·sherryvs 于 Jan 14 09:39:03 2013 修改本文·[FROM: 114.255.193.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.193.*]
+ 
+【文章标题】：[求助]关于Word2007转换成PDF的文档结构图的问题 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5795 【创建时间】：2007-11-19 【作者】：BUPTZXQ 【评论】：1 【内容】：发信人: BUPTZXQ (兄弟如手足), 信区: OfficeTool
+标  题: [求助]关于Word2007转换成PDF的文档结构图的问题
+发信站: 北邮人论坛 (Mon Nov 19 16:57:55 2007), 站内
+
+请教高人：如何将word2007格式的文档转换成PDF格式还能带文档结构图（就是PDF里面的书签）？试了office2007的那个另存为WPS和PDF的插件，不行；也试了在word里打印成Acrobat7.0的PDF格式，也不行。
+
+多谢啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.122.32.*]
+ 
+【文章标题】：【求助】word2007打开图片问题 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5817 【创建时间】：2007-11-21 【作者】：Ecook 【评论】：1 【内容】：发信人: Ecook (Ecook), 信区: OfficeTool
+标  题: 【求助】word2007打开图片问题
+发信站: 北邮人论坛 (Wed Nov 21 22:35:30 2007), 站内
+
+用word 2000做了份文档，但用2007打开时，其中的有些图片只能显示个框．该怎么解决啊？
+--
+
+※ 修改:·xiongQQ 于 Nov 21 23:11:55 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.209.*]
+ 
+【文章标题】：【office系列讲座之word】多个Word文档总页数的快速统计技巧 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5916 【创建时间】：2007-12-04 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (◆红蘑菇、橙蘑菇◆　■绿蘑菇、蓝蘑菇■), 信区: OfficeTool
+标  题: 【office系列讲座之word】多个Word文档总页数的快速统计技巧
+发信站: 北邮人论坛 (Tue Dec  4 00:02:20 2007), 站内
+
+　　如果用Word来编写一本书，许多朋友习惯将每一章分别存为一个单独的文件。当全书完成时，通常会需要统计一下全书的页数。一个一个地将文件打开查看页数并加起来，显然比较麻烦。本文将介绍一种实用的Word技巧，无需打开所有文件，只使用Windows的资源管理器即可轻松查看Word文档的页数，然后将其相加即可。
+
+　　下面以Windows XP为例，介绍快速统计多个Word文档页数的技巧。
+
+　　1.使用资源管理器打开包含要统计页数的多个Word文档的文件夹。
+
+　　2.单击工具栏中的“查看”按钮，然后单击弹出菜单中的“详细信息”命令，如图1所示。这样将以“详细信息”视图查看文档。
+
+
+<a target="_blank" href="/att/OfficeTool/0/5916/1416"><img border="0" title="1.jpg" src="/att/OfficeTool/0/5916/1416" alt="1.jpg" class="resizeable"></a>
+
+图1
+
+　　3.右键单击详细信息视图中的任意列(如名称或大小等)，然后单击弹出菜单中的“其他...”命令，如图2所示。此时将会打开“选择详细信息”对话框。
+
+
+<a target="_blank" href="/att/OfficeTool/0/5916/67310"><img border="0" title="2.jpg" src="/att/OfficeTool/0/5916/67310" alt="2.jpg" class="resizeable"></a>
+
+图2
+
+　　4.在“选择详细信息”对话框中，选中“页数”复选框，如图3所示。
+
+
+<a target="_blank" href="/att/OfficeTool/0/5916/129923"><img border="0" title="3.jpg" src="/att/OfficeTool/0/5916/129923" alt="3.jpg" class="resizeable"></a>
+
+图3
+
+　　5.单击“确定”按钮，在资源管理器中会看到多出一个“页数”列，并显示出了每个文档的页数。
+
+　　6.为了方便查看每一章对应的页数，将“页数”列拖放到“名称”列的右侧，这样每一章共有多少页就一目了然了，如图4所示。
+
+
+<a target="_blank" href="/att/OfficeTool/0/5916/168096"><img border="0" title="4.jpg" src="/att/OfficeTool/0/5916/168096" alt="4.jpg" class="resizeable"></a>
+
+图4
+
+--
+
+※ 修改:·xiongQQ 于 Dec  4 00:03:02 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+
+ 
+【文章标题】：【已解决】word的替换问题 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5840 【创建时间】：2007-11-25 【作者】：iPenny 【评论】：1 【内容】：发信人: iPenny (iPenny), 信区: OfficeTool
+标  题: 【已解决】word的替换问题
+发信站: 北邮人论坛 (Sun Nov 25 19:38:54 2007), 站内
+
+哪位高手知道下面的替换是否可行？
+
+把所有数字标号（阿拉伯+点）替换成加粗的字体。或者说替换成另外的字体？
+
+依此类推，能否把中英文混排的东西，把英文全部加粗？
+--
+
+※ 修改:·xiongQQ 于 Nov 25 19:49:29 修改本文·[FROM: 2001:da8:215:81:f92d:ff74:c1a2:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.199.*]
+ 
+【文章标题】：【资料】PDFEditor2.0 绿色版 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5889 【创建时间】：2007-12-01 【作者】：physics 【评论】：0 【内容】：发信人: physics (Be My Wife), 信区: OfficeTool
+标  题: 【资料】PDFEditor2.0 绿色版
+发信站: 北邮人论坛 (Sat Dec  1 13:40:41 2007), 站内
+
+
+<a href="/att/OfficeTool/0/5889/693" target="_blank" color="blue">附件(2.4MB)  PDFEditor2.0.rar</a>
+--
+当蜘蛛网无情地查封了我的炉台，    当灰烬的余烟叹息着贫困的悲哀
+我依然固执地铺平失望的灰烬，      用美丽的雪花写下：相信未来 
+当我的紫葡萄化为深秋的露水，      当我的鲜花依偎在别人的情怀
+我依然固执地用凝霜的枯藤，        在凄凉的大地上写下：相信未来 
+我要用手指那涌向天边的排浪，      我要用手掌那托住太阳的大海
+摇曳着曙光那枝温暖漂亮的笔杆，    用孩子的笔体写下：相信未来 
+
+※ 修改:·xiongQQ 于 Dec  3 23:53:29 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.213.*]
+ 
+【文章标题】：【软件】福昕阅读器-Foxit Reader 2.2 简体中文版发布 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5926 【创建时间】：2007-12-04 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (◆红蘑菇、橙蘑菇◆　■绿蘑菇、蓝蘑菇■), 信区: OfficeTool
+标  题: 【软件】福昕阅读器-Foxit Reader 2.2 简体中文版发布
+发信站: 北邮人论坛 (Tue Dec  4 23:38:36 2007), 站内
+
+福昕阅读器-Foxit Reader 2.2 简体中文版发布
+
+
+<a href="/att/OfficeTool/0/5926/3428" target="_blank" color="blue">附件(2.4MB)  FoxitReader_setup.exe</a>
+ 
+北京时间07年12月 4日, 福昕软件正式推出Foxit Reader 2.2官方简体中文版”福昕阅读器”.官方中文版彻底解决英文界面带来的使用不便, 让更多中国用户能快速上手, 体验更多使用福昕阅读器的乐趣.Foxit Reader为福昕软件的一款极为出色的阅读器, 具有速度快、体积小、节省系统资源、功能丰富以及安全性高等特点, 目前已是国际市场上最流行的PDF阅读器之一.
+中文版不仅为中国用户提供了一个全新的中文界面, 将所有界面元素如菜单栏、工具栏、状态栏、提示信息、工具提示、对话框及书签等内容完全中文化, 而且保留了英文版2.2的所有功能, 支持中文查找、注释、选择等功能, 更加优秀的支持PDF文件中文内容的阅读和操作.另外福昕还提供中文在线技术支持、中文网站咨询等国内本地技术支持服务.
+
+福昕阅读器V2.2新功能 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+福昕阅读器V2.2主要进行了如下改进：
+
+1. 支持屏幕取词
+
+福昕阅读器支持对PDF文件的鼠标取词。只要用户安装了支持屏幕取词的字典，就可以在阅读PDF文件时，通过鼠标移动直接在PDF页面上取词翻译。用户可通过选择主菜单“编辑”下的“选项”按钮，点击“常规”，选中“屏幕取词”来开启该功能。
+ 
+2. 全新的查找功能
+
+用户不仅可以在单个PDF文件中查找字符串，还可以在某个文件夹下的多个PDF文件中进行查找。查找完成后，所有的查找结果将以树型罗列，方便用户预览与跳转。
+
+3. 允许最小化至系统托盘
+
+为了节省桌面空间，用户可以将福昕阅读器最小化至系统托盘。要开启该功能，请选择主菜单“编辑”下的“选项”按钮，点击“常规”，选中“最小化到系统托盘”。 
+
+4. 更友好的书签显示方式
+
+在页面滚动和跳转时，书签与页面实现同步显示。用户还可点击书签右边框的手柄显示或隐藏书签栏。 
+
+5. 一键去除试用标识
+
+试用版福昕阅读器会在修改页面上添加试用标识。购买产品后，用户可以通过选择“帮助”菜单下的“去除所有评估版本标记”去除文档的所有试用标识。
+
+6. 支持页面尺寸显示
+
+状态栏右方支持显示文档页面的实际大小。
+
+7. 更加方便的文本选择工具
+
+支持横向和纵向滚屏选择文本。当用户用鼠标拖动选择文字时，福昕阅读器将实现自动滚屏方便用户选择当前文本。2.2版本同时解决了旧版本文本选择工具的问题。
+
+8. 更多增强的功能
+
+其它改进主要包括： 
+1)支持基本和完整两种工具栏显示模式
+2)更完善的命令行支持 
+3)更完善的东亚字体支持 
+
+9. Bug修复
+
+
+请访问<a target="_blank" href="http://www.fuxinsoftware.com.cn/pdf/rd_intro.php">http://www.fuxinsoftware.com.cn/pdf/rd_intro.php</a>了解更多信息。
+
+福昕软件公司
+www.fuxinsoftware.com.cn
+--
+    ◢█◣          ◢█◣          ◢█◣          ◢█◣                      
+  ◢███◣      ◢███◣      ◢███◣      ◢███◣     红蘑菇         
+◢█████◣  ◢█████◣  ◢█████◣  ◢█████◣     黄蘑菇       
+█          █  █          █  █          █  █          █       绿蘑菇     
+◥  ︵  ︵  ◤  ◥  ×  ×  ◤  ◥  ＝  ＝  ◤  ◥  Ｔ　Ｔ  ◤         蓝蘑菇   
+                      。              。              —                        
+
+
+※ 修改:·xiongQQ 于 Dec  4 23:47:17 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+
+ 
+【文章标题】：【资料】Foxit Reader Pro绿色版（可用lingoes取词） 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5874 【创建时间】：2007-11-29 【作者】：epavel 【评论】：1 【内容】：发信人: epavel (Aerith), 信区: OfficeTool
+标  题: 【资料】Foxit Reader Pro绿色版（可用lingoes取词）
+发信站: 北邮人论坛 (Thu Nov 29 10:41:47 2007), 站内
+
+
+<a href="/att/OfficeTool/0/5874/468" target="_blank" color="blue">附件(4MB)  Foxit_PDF_Reader_Pro_2.2.2129.part1.rar</a>
+
+--
+
+Our deepest fear is not that we are inadequate but more powerful beyond measure.
+欢迎访问<a target="_blank" href="http://spaces.msn.com/members/epave23/">http://spaces.msn.com/members/epave23/</a>
+
+※ 修改:·xiongQQ 于 Nov 29 21:10:53 修改本文·[FROM: 59.64.205.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.138.*]
+
+ 
+【文章标题】：【资料】PDF-Xchange Viewer  绿色版的 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5887 【创建时间】：2007-12-01 【作者】：physics 【评论】：1 【内容】：发信人: physics (Be My Wife), 信区: OfficeTool
+标  题: 【资料】PDF-Xchange Viewer  绿色版的
+发信站: 北邮人论坛 (Sat Dec  1 13:38:55 2007), 站内
+
+
+<a href="/att/OfficeTool/0/5887/702" target="_blank" color="blue">附件(2.9MB)  pdf-viewer.part1.rar</a>
+--
+当蜘蛛网无情地查封了我的炉台，    当灰烬的余烟叹息着贫困的悲哀
+我依然固执地铺平失望的灰烬，      用美丽的雪花写下：相信未来 
+当我的紫葡萄化为深秋的露水，      当我的鲜花依偎在别人的情怀
+我依然固执地用凝霜的枯藤，        在凄凉的大地上写下：相信未来 
+我要用手指那涌向天边的排浪，      我要用手掌那托住太阳的大海
+摇曳着曙光那枝温暖漂亮的笔杆，    用孩子的笔体写下：相信未来 
+
+※ 修改:·xiongQQ 于 Dec  3 23:53:18 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.213.*]
+ 
+【文章标题】：【求助】打印当前页 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5937 【创建时间】：2007-12-05 【作者】：teath 【评论】：2 【内容】：发信人: teath (悠闲), 信区: OfficeTool
+标  题: 【求助】打印当前页
+发信站: 北邮人论坛 (Wed Dec  5 14:29:51 2007), 站内
+
+word2007里，有没有 打印当前页 的自定义按钮或者快捷方式？
+谢谢。
+--
+
+※ 修改:·teath 于 Dec  5 16:22:57 修改本文·[FROM: 59.64.148.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.148.*]
+ 
+【文章标题】：【求助】ｅｘｃｅｌ的归类问题． 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5950 【创建时间】：2007-12-06 【作者】：cancerian 【评论】：2 【内容】：发信人: cancerian (北邮人), 信区: OfficeTool
+标  题: 【求助】ｅｘｃｅｌ的归类问题．
+发信站: 北邮人论坛 (Thu Dec  6 19:36:10 2007), 站内
+
+　　　　比方说，在ｅｘｃｅｌ的某一列显示了张三，李四，王五，每个人都出现了若干次，怎么能够让张三在连续的几列显示，李四在接下来的连续几列显示，依次类推呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.236.*]
+ 
+【文章标题】：【招募】本版诚征版主一名 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5976 【创建时间】：2007-12-07 【作者】：ls 【评论】：0 【内容】：发信人: ls (S要建地形， !T嬆?c  ), 信区: OfficeTool
+标  题: 【招募】本版诚征版主一名
+发信站: 北邮人论坛 (Fri Dec  7 15:08:23 2007), 站内
+
+
+    由于学业工作等原因，我准备辞去本版版务的职务。特此在关注
+本版的人口中招募版主一名，协助xiongQQ进行相关的版务工作。
+
+    希望该同学具备以下条件：
+
+    1、 有责任感、有热情、愿意为同学服务
+    2、 有一定课余时间关注officeTool版面 (每周总计3~5小时即可,最好每天都能看看)
+    3、 掌握 或 愿意学习T操作 (版主常用操作很容易)
+    4、 乐意尝试各种officeTool的操作
+
+    在这个版面上，你能够：
+     
+    1、 学习和巩固 解决常见Office工具软件问题的办法
+    2、 学习到更多新的提高工作效率的工具软件
+    3、 在为他人解决问题的过程中得到自身能力的提高 和 被认同的快乐
+    4、 通过担任版主一职体会到更多的使命感和责任感
+
+    希望越来越多的人们加入到这个版面中来
+    希望办公软件版能帮助越来越多的人
+
+                                               2007.12.08
+
+--
+
+※ 修改:·xiongQQ 于 Dec  8 00:32:48 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 211.68.71.*]
+ 
+【文章标题】：【office系列讲座之Office】Office文档恢复功能的一些基本知识 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5991 【创建时间】：2007-12-08 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (◆红蘑菇、橙蘑菇◆　■绿蘑菇、蓝蘑菇■), 信区: OfficeTool
+标  题: 【office系列讲座之Office】Office文档恢复功能的一些基本知识
+发信站: 北邮人论坛 (Sat Dec  8 00:30:25 2007), 站内
+
+Office文档恢复功能的一些基本知识 
+ 
+
+　　文档恢复功能的用处是：如果 Microsoft Office 或 Office 家族程序遇到问题并停止响应，您可以按可控制的方式关闭程序。对正在使用的文件进行分析以查找错误，如果可能，则恢复其中的信息。但在某些情况下，无法恢复任何信息。
+
+　　“文档恢复”任务窗格(任务窗格：Office 应用程序中提供常用命令的窗口。它的位置适宜，尺寸又小，您可以一边使用这些命令，同时继续处理文件。)列出了程序停止响应时已恢复的所有文件。
+
+
+　　文件名后面将是状态指示器，显示在恢复过程中已对文件所做的操作。
+
+状态指示器 说明  
+[原始文件]  基于最后一次手动保存的源文件  
+[已恢复]  在恢复过程中已恢复的文件，或在“自动恢复”保存过程中已保存的文件  
+
+　　“文档恢复”任务窗格可让您打开文件、查看所做的修复以及对已恢复的版本进行比较。然后您可以保存最佳版本并删除其他版本，或保存所有打开的文件以便以后预览。
+
+　　附加文件安全性
+
+　　您可以进一步帮助保护您的工作，方法是：使用“自动恢复”功能定期保存正在使用的文件的临时副本。若要在停电或发生类似问题后恢复工作，必须在发生问题之前已经打开“自动恢复”功能。可以将“自动恢复”保存时间间隔设为不到 10 分钟保存一次(默认设置为每 10 分钟保存一次)。例如，如果设为每 5 分钟保存一次，与设为每 10 分钟保存一次相比将会恢复更多信息。
+
+　　在打开“自动恢复”功能的情况下，如果 Office 或 Office 家族程序停止响应，而同时有若干打开的文件，则可使用“Microsoft Office 应用程序恢复”对话框，已恢复的文件将显示在“文档恢复”任务窗格中。文件中的数据反映“自动恢复”最后一次保存文件时的数据。“自动恢复”不应用作手动保存或备份文件的替代方式。
+
+　　更改自动文件恢复的保存间隔
+
+　　在“工具”菜单上，单击“选项”，再单击“保存”选项卡。
+
+　　选中“自动保存时间间隔”复选框。
+
+　　在“分钟”框中，指定希望 Microsoft Office 程序保存文件的频率。
+
+　　注释 不要使用“自动恢复”来代替通过单击“常用”工具栏 上的“保存” 所进行的常规保存操作。
+
+　　指定保存自动恢复文件的位置
+
+　　在“工具”菜单上，单击“选项”，然后单击“文件位置”选项卡。
+
+　　在“文件类型”框中，单击“‘自动恢复’文件”。
+
+　　单击“修改”。
+
+　　如果要在另一个文件夹下保存自动恢复文件，请定位并打开该文件夹。
+ 
+
+--
+    ◢█◣          ◢█◣          ◢█◣          ◢█◣   红蘑菇             
+  ◢███◣      ◢███◣      ◢███◣      ◢███◣   黄蘑菇           
+◢█████◣  ◢█████◣  ◢█████◣  ◢█████◣   绿蘑菇         
+█          █  █          █  █          █  █          █     蓝蘑菇       
+◥  ¤  ¤  ◤  ◥  ★  ★  ◤  ◥  ◇  ◇  ◤  ◥  ■　■  ◤                  
+      ―              ︾              ︿              ∪        统统把你们吃掉  
+
+
+※ 修改:·xiongQQ 于 Dec  8 00:32:40 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+ 
+【文章标题】：Re: 【求助】求一个音频剪辑软件 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5927 【创建时间】：2007-12-08 【作者】：原帖已删除 【评论】：0 【内容】：发信人: BUPTZXQ (兄弟如手足), 信区: OfficeTool
+标  题: Re: 【求助】求一个音频剪辑软件
+发信站: 北邮人论坛 (Sat Dec  8 21:45:36 2007), 站内
+
+
+【 在 wwj 的大作中提到: 】
+: 大家推荐一个好用的 
+
+<a href="/att/OfficeTool/0/5997/298" target="_blank" color="blue">附件(1.6MB)  </a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.229.*]
+
+ 
+【文章标题】：【office系列讲座之Office 2007】无法卸载也无法安装的解决 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5963 【创建时间】：2007-12-07 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (◆红蘑菇、橙蘑菇◆　■绿蘑菇、蓝蘑菇■), 信区: OfficeTool
+标  题: 【office系列讲座之Office 2007】无法卸载也无法安装的解决
+发信站: 北邮人论坛 (Fri Dec  7 00:08:17 2007), 站内
+
+Office 2007无法卸载也无法安装的解决 
+ 
+
+　　Office 2007无法卸载，也无法安装——我的同事计算机上安装的Office 2007坏掉了，想卸载后重新安装，但卸载也卸载不掉，安装也安装不上去。是软件，无非就是两个地方：注册表和文件，我查找了一下kb，然后结合以前的经验，成功的卸载并重新安装了Office 2007。强制卸载office 2007需要执行如下步骤：
+
+　　Office 2007文件夹文件
+
+　　%windir%\installer
+
+　　1、按住winkey(windows徽标键)+R，输入%windir%\Installer，回车。打开installer文件夹。
+
+　　2、右键点击窗口右边的空白处，查看-详细信息。
+
+　　3、到资源管理器菜单栏，查看，勾选状态栏。这样您就可以在资源管理器最下面的状态栏看到文件的详细信息。
+
+　　4、依次点击每个MSI，留意看状态栏的详细信息。找到每个Office 2007的相关文件，这可能包括word2007等相关组件。
+
+　　5、在每个Office 2007的msi上，点击右键，选择 卸载。
+
+　　Office Source Engine服务
+
+　　1、按住winkey(windows徽标键)+R，输入 services.msc，回车。打开服务器管理器。
+
+　　2、找到Office Source Engine，右键点击，选择停止。
+
+　　Office 2007安装文件和目录
+
+　　1、按住winkey(windows徽标键)+R，输入 %CommonProgramFiles%\Microsoft Shared，回车。
+
+　　2、删除Office12 和 Source Engine 目录
+
+　　3、按住winkey(windows徽标键)+R，输入%ProgramFiles%\Microsoft Office，回车。
+
+　　4、删除Office12目录
+
+　　5、按住winkey(windows徽标键)+R，输入 %appdata%\microsoft\templates ，回车
+
+　　6、删除 Normal.dotm 和Normalemail.dotm 文件。
+
+　　5、按住winkey(windows徽标键)+R，输入 %appdata%\microsoft\document building blocks，进入2052或者1033文件夹
+
+　　6、删除 Building blocks.dotx 文件
+
+　　7、按住winkey(windows徽标键)+R，输入 %AllUsersprofile%\Application Data\Microsoft\Office\Data 回车
+
+　　8、删除所有文件
+
+　　临时文件
+
+　　1、按住winkey(windows徽标键)+R，输入 %temp%，回车
+
+　　2、删除所有文件
+
+　　缓存文件
+
+　　1、在资源管理器 ：工具菜单-文件夹选项-查看-高级设置，依次执行如下点击或勾选：
+
+　　·勾选“显示系统文件夹内容"
+
+　　·取消勾选“隐藏受保护的操作系统文件”
+
+　　·点选“显示所有文件和文件夹”
+
+　　·取消勾选“隐藏已知文件类型的扩展名”
+
+　　·点击应用
+
+　　·点击“应用到所有文件夹”
+
+　　2、查找所有本地硬盘的根目录，找到 \MSOCache\All Users 目录，进入。
+
+　　3、删除该目录下所有包含这样字样的目录： 0FF1CE)-
+
+　　Office 2007注册表
+
+　　1、regedit
+
+　　2、浏览到 HKEY_CURRENT_USER\Software\Microsoft\Office\12.0
+
+　　3、删除12.0这个子键
+
+　　4、浏览到如下子键，删除对应的子键
+
+　　&amp;#8226; HKEY_CURRENT_USER\Software\Microsoft\Office\12.0
+
+　　&amp;#8226; HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\12.0
+
+　　&amp;#8226; HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\Delivery\SourceEngine\Downloads\*0FF1CE}-*
+
+　　&amp;#8226; HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*0FF1CE*
+
+　　&amp;#8226; HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\*F01FEC
+
+　　&amp;#8226; HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\*F01FEC
+
+　　&amp;#8226; HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ose
+
+　　&amp;#8226; HKEY_CLASSES_ROOT\Installer\Features\*F01FEC
+
+　　&amp;#8226; HKEY_CLASSES_ROOT\Installer\Products\*F01FEC
+
+　　&amp;#8226; HKEY_CLASSES_ROOT\Installer\UpgradeCodes\*F01FEC
+
+　　&amp;#8226; HKEY_CLASSES_ROOT\Installer\Win32Assemblies\*Office12*
+
+　　注：上面以星号括起来的子键，例如 *office12*，表示前后都有文字，这个子键名称可能是变化的，但一定含有office12的字样。并不是说以星号开头结尾的子键。
+
+　　5、浏览到 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+
+　　6、依次查看每个 UninstallString ，找到所有的 office12的相关项，这可能包含 \Office Setup Controller\Setup.exe 这样的字样。
+
+　　7、删除每个找到的子键。
+
+　　重新启动计算机 重新安装Office 2007。
+ 
+原文来自<a target="_blank" href="http://it.21cn.com/software/">http://it.21cn.com/software/</a>
+--
+    ◢█◣          ◢█◣          ◢█◣          ◢█◣   红蘑菇             
+  ◢███◣      ◢███◣      ◢███◣      ◢███◣   黄蘑菇           
+◢█████◣  ◢█████◣  ◢█████◣  ◢█████◣   绿蘑菇         
+█          █  █          █  █          █  █          █     蓝蘑菇       
+◥  ¤  ¤  ◤  ◥  ★  ★  ◤  ◥  ◇  ◇  ◤  ◥  ■　■  ◤                  
+      ―              ︾              ︿              ∪        统统把你们吃掉  
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+ 
+【文章标题】：【office系列讲座之excel】Excel使用中常被忽略的十条实用技巧 【文章地址】：https://bbs.byr.cn/article/OfficeTool/5998 【创建时间】：2007-12-08 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (◆红蘑菇、橙蘑菇◆　■绿蘑菇、蓝蘑菇■), 信区: OfficeTool
+标  题: 【office系列讲座之excel】Excel使用中常被忽略的十条实用技巧
+发信站: 北邮人论坛 (Sat Dec  8 22:19:45 2007), 站内
+
+Excel使用中常被忽略的十条实用技巧
+
+http://www.sina.com.cn 2007年11月30日 08:13  天极yesky
+
+　　作者： 吴旭城 原创
+
+　　Office技巧里最常用到的还是Excel技巧。以下是一些常被忽略的Excel技巧，您看有没有用？
+
+　　“End+方向键”进行快速定位至最边上单元格
+
+　　如图1所示，假如当前单元格在c3的位置，按End键后再按↑键，当前单元格则会跳到最上方c1单元格，而如果按的是↓键则会跳到最下文的c5单元格，按←键会跳到最左方单元格，按→键会跳到最右方单元格。也就是说不管当前单元格在哪个位置，反正按End键后再按方向键就会定位到最边上的单元格。而如果中间有空白单元格则会先会定位至空白单元格。这个作用是如果工作表中有很多行或列时，用此快捷键则可以快速找到空白单元格或定位至边上单元格。
+
+
+<a target="_blank" href="/att/OfficeTool/0/5998/3752"><img border="0" title="1.jpg" src="/att/OfficeTool/0/5998/3752" alt="1.jpg" class="resizeable"></a>
+图1
+
+　　隔行列快速粘贴
+
+　　如图2所示，按Ctrl键后同时选中a1、e1、a5、e5四个单元格，复制后粘贴会发现复制的内容连接到了一起。这样可以达到快速复制不连接单元格的作用。当然如果中间有空白单元格则是无法选中的。
+
+
+<a target="_blank" href="/att/OfficeTool/0/5998/21606"><img border="0" title="2.jpg" src="/att/OfficeTool/0/5998/21606" alt="2.jpg" class="resizeable"></a>
+图2
+
+　　"填充内容"#与"填充内容"@单元格格式类型
+
+　　当你需要输入大量前面部分或后面部分的相同内容时，可以在单元格格式中设置单元格类型为"填充内容"#或#"填充内容"，其中“"填充内容"”为自动填充的相同部分的内容，“#”为手动输入的部分。输入数字时用“#”，输入字符时用“@”。
+
+　　中英文输入自动切换
+
+　　在编辑表格时，有的单元格中要输入英文，有的单元格中要输入中文，反复切换输入法实在不方便，这时可以选中需要输入中文的单元格区域，执行“数据→有效性”命令，打开“数据有效性”对话框，切换到“输入法模式”标签下，按“模式”右侧的下拉按钮，选中“打开”选项后确定退出。 现在当选中需要输入中文的单元格时，中文输入法就会自动打开，而当选中其它单元格时，中文输入法自动关闭。
+
+　　用连字符“&amp;”来合并文本
+
+　　如果想将多列的内容合并到一列中，不需要利用函数，用连字符“&amp;”就能够轻松将它搞定。在最后合并的单元格中输入公式：=“单元格1”&amp;“单元格2”，回车后即可合并。
+
+　　按“Ctrl+Enter”组合键后定位在同一单元格
+
+　　有时，为了测试某个公式，需要在某个单元格内反复输入多个测试值。但是每次输入一个值后按下Enter键查看结果后，活动单元格就会默认移到下一个单元格上，必须用鼠标或上移箭头重新选定原单元格，极不方便。如果你按“Ctrl+Enter”组合键，则活动单元格仍为当前单元格。
+
+　　自动打开工作簿
+
+　　将需要自动打开的工作薄的快捷方式放到C:\Program Files\Microsoft Office\Office10\XLStart文件夹中，以后每次启动时，Excel都会自动打开这个工作簿。
+
+　　在选定单元格中输入内容
+
+　　如果在一行中输入完后想切换至下一行，这时一般用鼠标移动并定位至要输入的单元格再开始输入，这样感觉很麻烦。不过我们可以先选中要输入的区域，然后可以按Tab键进行切换，如果要退回原来的单元格则可以用Shift+Tab键。
+
+　　快速打印多个工作表
+
+　　打印多个工作表时无需一个一个打印，可以直接选中需要打印的工作表的标签，然后点击工具栏的打印按钮就可以了。
+
+　　用选择性粘贴的“转置”功能快速转换行列
+
+　　有时我们需要把Word中的一个表格的行列进行转换，这时我们可以复制后，在Excel中执行“选择性粘贴→转置”来快速转换，准确又方便。
+
+
+
+--
+         ┌─┬─┐  ┌───┐    ┌           ┐                              
+         ├┐│┌┤  ├───┐    │       ├─┼—          独 自 精 彩       
+         └─┼─┘  │      │  ┌┴┐     ┘  │                              
+           ─┼─    ├───│  │  │       ─┼─                            
+         └─┴─┘  │      │  │  │         │             - angela -       
+        └┘┘└└┘ └───┘  ┘  └─┘ └─┴─┘                                        要是
+
+
+※ 修改:·xiongQQ 于 Dec  8 22:20:05 修改本文·[FROM: 59.64.205.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.205.*]
+ 
+【文章标题】：【求助】菜鸟求助：如何把电脑的默认播放器改了？ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6004 【创建时间】：2007-12-09 【作者】：chanbeyond 【评论】：1 【内容】：发信人: chanbeyond (海阔天空), 信区: OfficeTool
+标  题: 【求助】菜鸟求助：如何把电脑的默认播放器改了？
+发信站: 北邮人论坛 (Sun Dec  9 10:20:24 2007), 站内
+
+电脑上原来的默认播放器是Realplayer，但是装了个Kmplayer之后感觉比较好用，现在想把它设为默认的播放器，主要是播放IPTV节目时较为好用。
+求教达人：在哪个地方可以改这个默认播放器？万分感谢!
+--
+仍然自由自我，永远高唱我歌，走遍千里！
+PS:千万不要低估了一颗冠军的心,但千万不要高估了一颗从来没有冲破季后赛首轮的球星的心！
+
+※ 修改:·xiongQQ 于 Dec  9 18:13:13 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.237.*]
+ 
+【文章标题】：【资料】normal.dot的问题 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6012 【创建时间】：2007-12-09 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (◆红蘑菇、橙蘑菇◆　■绿蘑菇、蓝蘑菇■), 信区: OfficeTool
+标  题: 【资料】normal.dot的问题
+发信站: 北邮人论坛 (Sun Dec  9 23:53:20 2007), 站内
+
+normal.dot问题
+
+01、工具-&gt;模版及加载项-&gt;（选择多于插件）删除-&gt;确定。（缺点：很多软件有自动加载自动侦测功能，除非软件卸载，否则手动删除不了。）
+
+2、手动删除插件，在路径C:\Documents and Settings\Admin\Application Data\Microsoft\Word直接下删除插件文件。
+
+3、在改动normal.dat文件加载位置后，该文件在缺省目录下和改动后的目录下都有，这样的情况也会导致word启动非常慢，必须保证缺省目录下的normal.dat文件已经删除。
+
+4)、以上办法都不行，可以直接删除路径C:\Documents and Settings\Admin\Application Data\Microsoft\Templates下的normal.dot文件，word启动后会自动重建。这可能是最有效的方法
+
+5、工具-选项-取消“键入时检查拼写”，“键入时检查语法”，“随拼写检查语法”，因为据说打开一个大的文档，它要从头检查到尾，会很慢。
+
+6、工具－模板加载，看到PDF的模板总是自动加载的，找到路径.../office11/starup/PDFmaker.doc 删掉。
+
+7、还是慢的话，到杀毒软件里，去掉对office的监控。
+
+8、搜索Normal.dot文件删除
+
+注：使用中须将上文中的Admin替换成你自己的用户名
+--
+   ■▔▔.   .| |.◢ ▔▔▔▔▔▔▔┬┴┬┴┬┴┬┴┬┴┬┴▔ ◣       
+   ▎..||.|      ゜ ▎▏⿻ ▕      |趙|子|半|不|處|草|家|黃|▕゜       
+   ▎|.  .  .┃  .| ▎       δ ﹐ |師|落|閑|到|蛙|池|家|梅|▕ |       
+    . |.  | .  |    ▎  ——〃乀ㄧ |秀|燈|敲|過|有|塘|雨|時|▕ .       
+    ﹏﹎﹏﹍﹎﹏﹏   ▔▔▔▔▔▔▔|▓|花|棋|夜|約|處|青|節|           
+      "" ┈ "┈  ""┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴        
+
+
+※ 修改:·xiongQQ 于 Dec  9 23:53:38 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+ 
+【文章标题】：【新闻】Microsoft Office 2007 Service Pack 1 发布 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6015 【创建时间】：2007-12-12 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (不蘑菇了　准备生蛋), 信区: OfficeTool
+标  题: 【新闻】Microsoft Office 2007 Service Pack 1 发布
+发信站: 北邮人论坛 (Wed Dec 12 15:48:32 2007), 站内
+
+Microsoft Office 2007 SP1 发布,现在已经提供下载,让我们首先看看更新情况:
+修正了图标颜色,让红绿色盲能够看清图像和文字.
+修正了Excel不会做算术的Bug(65,534 - 100,001的著名问题)
+SharePoint 开始支持 Windows Server 2008
+ASP.net AJAX 支持SharePoint
+Outlook 再打开大邮件时的迟滞被修复.
+更详细的更新可以参考文后提供的技术白皮书,现在一起来下载吧!自动更新将在3-6个月内
+开始部署.
+
+http://office.microsoft.com/en-us/downloads/default.aspx
+
+Microsoft Office 2007 SP1 技术白皮书
+http://office.microsoft.com/search/redir.aspx?AssetID=AM102512381033
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.216.*]
+ 
+【文章标题】：【office系列讲座之excel】常用办公软件 Excel技巧整理讲解 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6024 【创建时间】：2007-12-13 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (不蘑菇了　准备生蛋), 信区: OfficeTool
+标  题: 【office系列讲座之excel】常用办公软件 Excel技巧整理讲解
+发信站: 北邮人论坛 (Thu Dec 13 00:03:32 2007), 站内
+
+常用办公软件 Excel技巧的整理、讲解，在这里给读者们看一看，给大家一些提示，希望在你在平时能用得上。
+
+　　1、两列数据查找相同值对应的位置
+
+　　=MATCH(B1,A:A，0)
+
+　　2、已知公式得结果
+
+　　定义名称=EVALUATE(Sheet1!C1)
+
+　　已知结果得公式
+
+　　定义名称=GET.CELL(6,Sheet1!C1)
+
+　　3、强制换行
+
+　　用Alt+Enter
+
+　　4、超过15位数字输入
+
+　　这个问题问的人太多了，也收起来吧。一、单元格设置为文本;二、在输入数字前先输入'
+
+　　5、如果隐藏了B列，如果让它显示出来?
+
+　　选中A到C列，点击右键，取消隐藏
+
+　　选中A到C列，双击选中任一列宽线或改变任一列宽
+
+　　将鼠标移到到AC列之间，等鼠标变为双竖线时拖动之。
+
+　　6、EXCEL中行列互换
+
+　　复制，选择性粘贴，选中转置，确定即可
+
+　　7、Excel是怎么加密的
+
+　　(1)、保存时可以的另存为&gt;&gt;右上角的"工具"&gt;&gt;常规&gt;&gt;设置
+
+　　(2)、工具&gt;&gt;选项&gt;&gt;安全性
+
+　　8、关于COUNTIF
+
+　　COUNTIF函数只能有一个条件，如大于90，为=COUNTIF(A1:A10,"&gt;=90")
+
+　　介于80与90之间需用减，为 =COUNTIF(A1:A10,"&gt;80")-COUNTIF(A1:A10,"&gt;90")
+
+　　9、根据身份证号提取出生日期
+
+　　(1)、=IF(LEN(A1)=18,DATE(MID(A1,7,4),MID(A1,11,2),MID(A1,13,2)),IF(LEN(A1)=15,DATE(MID(A1,7,2),MID(A1,9,2),MID(A1,11,2)),"错误身份证号"))
+
+　　(2)、=TEXT(MID(A2,7,6+(LEN(A2)=18)*2),"#-00-00")*1
+
+　　10、想在SHEET2中完全引用SHEET1输入的数据
+
+　　工作组，按住Shift或Ctrl键，同时选定Sheet1、Sheet2。
+
+      11、一列中不输入重复数字
+
+　　[数据]--[有效性]--[自定义]--[公式]
+
+　　输入=COUNTIF(A:A,A1)=1
+
+　　如果要查找重复输入的数字
+
+　　条件格式》公式》=COUNTIF(A:A,A5)&gt;1》格式选红色
+
+　　12、直接打开一个电子表格文件的时候打不开
+
+　　“文件夹选项”-“文件类型”中找到.XLS文件，并在“高级”中确认是否有参数1%,如果没有，请手工加上
+
+　　13、Excel下拉菜单的实现
+
+　　[数据]-[有效性]-[序列]
+
+　　14、 10列数据合计成一列
+
+　　=SUM(OFFSET($A,(ROW()-2)*10+1,,10,1))
+
+　　15、查找数据公式两个(基本查找函数为VLOOKUP,MATCH)
+
+　　(1)、根据符合行列两个条件查找对应结果
+
+　　=VLOOKUP(H1，A1：E7，MATCH(I1，A1：E1，0)，FALSE)
+
+　　(2)、根据符合两列数据查找对应结果(为数组公式)
+
+　　=INDEX(C1：C7，MATCH(H1&amp;I1,A1:A7&amp;B1:B7,0))
+
+　　16、如何隐藏单元格中的0
+
+　　单元格格式自定义0;-0;;@ 或 选项》视图》零值去勾。呵呵，如果用公式就要看情况了。
+
+　　17、多个工作表的单元格合并计算
+
+　　=Sheet1!D4+Sheet2!D4+Sheet3!D4，更好的=SUM(Sheet1:Sheet3!D4)
+
+　　18、获得工作表名称
+
+　　(1)、定义名称：Name
+
+　　=GET.DOCUMENT(88)
+
+　　(2)、定义名称：Path
+
+　　=GET.DOCUMENT(2)
+
+　　(3)、在A1中输入=CELL("filename")得到路径级文件名
+
+　　在需要得到文件名的单元格输入
+
+　　=MID(A1,FIND("*",SUBSTITUTE(A1,"","*",LEN(A1)-LEN(SUBSTITUTE(A1,"",""))))+1,LEN(A1))
+
+　　(4)、自定义函数
+
+　　Public Function name()
+
+　　Dim filename As String
+
+　　filename = ActiveWorkbook.name
+
+　　name = filename
+
+　　End Function
+
+     19、如何获取一个月的最大天数
+
+　　:"=DAY(DATE(2002,3,1)-1)"或"=DAY(B1-1)",B1为"2001-03-01
+
+　　数据区包含某一字符的项的总和,该用什么公式
+
+　　=sumif(a:a,"*"&amp;"某一字符"&amp;"*",数据区)
+
+　　最后一行为文本：
+
+　　=offset($b,MATCH(CHAR(65535),b:b)-1,)
+
+　　最后一行为数字：
+
+　　=offset($b,MATCH(9.9999E+307,b:b)-1,)
+
+　　或者：=lookup(2,1/(b1:b1000&lt;&gt;""),b1:b1000)
+
+　　评委打分中，如何去掉两个以上最高分，两个以上最底分，求剩余人员的平均分?同时显示出被去掉的分数。
+
+　　看看trimmean()函数帮助。
+
+　　被去掉的分数：
+
+　　最大两个：=large(data,)
+
+　　最小两个：=small(data,)
+
+　　怎样很简单的判断最后一位是字母
+
+　　right(a1)*1
+
+　　出错的字母
+
+　　=IF(ISNUMBER(--RIGHT(A1,1)),"数字","字母")
+
+　　=IF(ISERR(RIGHT(A1)*1),"字母","数字")
+
+　　如何 设置单元格，令其不接受包含空格的字符
+
+　　选定A列
+
+　　数据——有效性——自定义——公式
+
+　　=iserror(find(" ",a1))
+
+　　数据--有效性--自定义--公式
+
+　　=len(a1)=len(trim(a1))
+
+　　原来的函数是=a1+a4+a7+a10+a13+a16+a19+a22.....
+
+　　现在是=sum(n(offset(a1,(row(1:10)-1)*3,)))
+
+　　在一个工作表中引用其他工作表中的数据,但是被引用的工作表不是固定的,根据我输入的工作表名自动选择相应的工作表中的数据,请问在公式里怎样引用?
+
+　　=INDIRECT("A1"&amp;"!"&amp;"E1") A1为工作表名
+
+　　奇数行求和 =SUMPRODUCT((A1:A1000)*MOD(ROW(A1:A1000),2))
+
+　　偶数行求和 =SUMPRODUCT((A1:A1000)*NOT(MOD(ROW(A1:A1000),2)))
+
+　　查看字符串字数
+
+　　=LEN(A1)
+
+　　求非空单元格数量
+
+　　公式计算出来的数据，COUNTA不能用的(否则空字符也计算进去了)
+
+　　=COUNTIF($E:$E536,"?*")
+
+　　动态求和公式,自A列A1单元格到当前行前面一行的单元格求和.
+
+　　=SUM(INDIRECT("A1:A"&amp;ROW()-1))
+
+　　20、比较好用的Excel文档修复工具
+
+　　ExcelRecovery
+
+　　21、EXCEL开方运算
+
+　　将8开3次方，可以用这个公式，在单元格中输入　　=8^(1/3)
+
+　　22、单元格中的数据分散对齐
+
+　　文本格式》全角输入
+
+　　23、查找工作表中的链接
+
+　　Ctrl+~ 或编辑》链接
+
+　　24、如何让空单元格自动填为0
+
+　　选中需更改的区域》查找》空》替换》0
+
+　　25、把Word里的数字转换到Excel
+
+　　方法有多种，选中》复制》设置输入单元格为文本》选择性粘贴》值
+
+　　选中》表格转换为文本》粘贴》分列》对分列选项设置为文本
+
+　　另存为文本文件》EXCEL中打开文本文件》对导入文本对话框进行对应设置
+
+原文地址：<a target="_blank" href="http://soft.yesky.com/448/7708948.shtml">http://soft.yesky.com/448/7708948.shtml</a>
+--
+
+※ 修改:·xiongQQ 于 Dec 13 00:03:57 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+ 
+【文章标题】：【求助】大清早谁来帮我解决这该死的回车问题啊 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6050 【创建时间】：2007-12-14 【作者】：helmoltz 【评论】：3 【内容】：发信人: helmoltz (相望), 信区: OfficeTool
+标  题: 【求助】大清早谁来帮我解决这该死的回车问题啊
+发信站: 北邮人论坛 (Fri Dec 14 08:54:25 2007), 站内
+
+
+word2007,想按章分页,于是在上一章的末尾插入了分页符,这样下一章的标题就应该在页面的最上面才是,可多出来一个回车符号 
+ 
+往前删吧,分页符没了;往后删吧,分页符倒是还在,只是下一章的标题格式就没有了,晕啊 
+ 
+PS: 在docx格式下保存就可以,但是一旦另存为97-03格式就会出现以上情况,但令我不解的是,以前用97-03格式的时候也没出现过这事啊,难道是哪儿没有设置对? 
+<a target="_blank" href="/att/OfficeTool/0/6050/674"><img border="0" title="www.jpg" src="/att/OfficeTool/0/6050/674" alt="www.jpg" class="resizeable"></a>
+--
+
+※ 修改:·xiongQQ 于 Dec 16 16:43:14 修改本文·[FROM: 59.64.205.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.224.142.*]
+ 
+【文章标题】：【office系列讲座之PPT】在PPT 2007里把PPT文档批量转为PDF 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6108 【创建时间】：2007-12-17 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (★大豆★啊★大豆★ 营养之花◆豆中之王), 信区: OfficeTool
+标  题: 【office系列讲座之PPT】在PPT 2007里把PPT文档批量转为PDF
+发信站: 北邮人论坛 (Mon Dec 17 23:58:50 2007), 站内
+
+在PowerPoint 2007里把PPT文档批量转为PDF
+
+2007-12-17 06:11 作者： 徐怀平 出处： 电脑报 责任编辑：still 
+
+　　在Office 2007中，要把PPT转换成PDF格式很简单，但如果要把大量的PPT转换成PDF就是一件很难的事情了，因为PowerPoint2007(下文简称PPT2007)本身不支持批量转换，不过我们可以利用VBS在PPT2007的外部实现PPT文档的转换，方法也很简单。下面我就教大家详细的转换方法。
+
+　　通过本文可以了解到：
+
+　　1.利用VBS在PPT2007的外部实现PPT文档转换成PDF(PDF.VBS)；
+
+　　2.文件夹选项中对指定类型的文件进行右键功能绑定；
+
+　　提示：Office2007只要安装一个SaveAsPDF的加载项之后，就可以直接利用Office2007中的具体应用来进行另存PDF。
+
+
+<a target="_blank" href="/att/OfficeTool/0/6108/3336"><img border="0" title="1.jpg" src="/att/OfficeTool/0/6108/3336" alt="1.jpg" class="resizeable"></a>
+
+(图示)
+
+　　经过笔者的尝试，最终知道PDF的文件类型是32，因此我们仍可以使用SaveAs的方法在脚本中实现另存为PDF功能，其关键语法就在于：MyPress.Saveas ls_new,32
+
+　　有了PDF.VBS在手，我们只要完成它和资源管理器的整合。批量转换的工作就迎刃而解了。在资源资源管理器中点“工具”菜单上的“文件夹选项”，单击“文件类型”标签，在“已注册的文件类型”中找到“PPT”(或“PPTX”)的文件类型，然后在右键菜单上注册相应的转换功能，如图1所示：
+
+
+<a target="_blank" href="/att/OfficeTool/0/6108/22704"><img border="0" title="2.jpg" src="/att/OfficeTool/0/6108/22704" alt="2.jpg" class="resizeable"></a>
+
+(图1)
+
+　　关键就在“用于执行操作的应用程序”里的内容(其中G:\Windows对应于系统所在路径，请根据系统路径进行设定)：
+
+　　G:\WINDOWS\system32\wscript.exe c:\pdf\pdf.vbs "%1"
+
+　　"%1"就是传入的第1个参数，加入双引号的目的是需要考虑全路径名中可能含有空格。接下来就是如何操作批量工作：只要找到多个PPT(PPTX类似)，然后点右键菜单中的PPT2PDF就可以了，图2就是此功能的应用：
+
+
+<a target="_blank" href="/att/OfficeTool/0/6108/35413"><img border="0" title="3.jpg" src="/att/OfficeTool/0/6108/35413" alt="3.jpg" class="resizeable"></a>
+
+(图2)
+
+　　转换过程中，PPT2007在调度过时并不真正关闭，会一直转换下去，这5个文件的转换也挺快，然后再看看我们的成果吧：
+
+
+<a target="_blank" href="/att/OfficeTool/0/6108/49519"><img border="0" title="4.jpg" src="/att/OfficeTool/0/6108/49519" alt="4.jpg" class="resizeable"></a>
+
+(图3)
+
+　　怎么样?这种批量转换的方法很过瘾吧?如果是几十个或者是几百个PPT(PPTX)的演示文档，或者是经常重复性的操作，使用此方法都非常方便。更让人叫绝的是：因为是和资源管理器进行集成，不论是同一目录还是多重子目录下PPT的转换过程，在利用Windows操作系统的搜索功能后，只要选中相应的文档，再点右键“PPT2PDF”，就可以完成我们“有PPT的地方就有PDF”的终极目标了(当然要求所在目录是可写的，而不是只读)。
+
+--
+     红豆  啊   红豆   绿豆  啊   绿豆     黄豆  啊   黄豆   秀豆  啊   秀豆    
+         ▂▃▂            ▂▃▂               ▂▃▂           ▂▃▂         
+    今 ◢◢██◣        ◢██◣◣ 营养      ◢◢██◣       ◢██◣◣ 今    
+  你天    ◥█｝▋      ▋｛█◤         之花    ◥█〉▋     ▋〈█◤    天你  
+了吃         ██        ██       豆中            ██       ██         吃了
+么     ◣    ◥◤        ◥◤    ◢      之王 ◣    ◥◤       ◥◤    ◢     么
+
+
+※ 修改:·xiongQQ 于 Dec 18 00:01:01 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+
+ 
+【文章标题】：【分享】万年历 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6174 【创建时间】：2007-12-25 【作者】：physics 【评论】：0 【内容】：发信人: physics (Be My Wife), 信区: OfficeTool
+标  题: 【分享】万年历
+发信站: 北邮人论坛 (Tue Dec 25 13:11:48 2007), 站内
+
+
+<a href="/att/OfficeTool/0/6174/680" target="_blank" color="blue">附件(554KB)  </a>
+--
+当蜘蛛网无情地查封了我的炉台，    当灰烬的余烟叹息着贫困的悲哀
+我依然固执地铺平失望的灰烬，      用美丽的雪花写下：相信未来 
+当我的紫葡萄化为深秋的露水，      当我的鲜花依偎在别人的情怀
+我依然固执地用凝霜的枯藤，        在凄凉的大地上写下：相信未来 
+我要用手指那涌向天边的排浪，      我要用手掌那托住太阳的大海
+摇曳着曙光那枝温暖漂亮的笔杆，    用孩子的笔体写下：相信未来 
+
+※ 修改:·physics 于 Dec 25 13:36:50 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.213.*]
+ 
+【文章标题】：【公告】同意【ls】辞去版主的申请 (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6068 【创建时间】：2007-12-15 【作者】：BoyFisher 【评论】：0 【内容】：发信人: BoyFisher (男孩之垂釣者|小龍快跑|八卦幫之火龍封印), 信区: OfficeTool
+标  题: 【公告】同意【ls】辞去版主的申请
+发信站: 北邮人论坛 (Sat Dec 15 16:38:37 2007), 站内
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: BoyFisher (男孩之垂釣者|小龍快跑|八卦幫之火龍封印), 信区: BoardManager
+标  题: 【公告】同意【ls】辞去版主的申请
+发信站: 北邮人论坛 (Sat Dec 15 16:36:22 2007), 站内
+
+   
+       经 ls 申请，并由站务委员会讨论通过,现
+   决定批准 officeTool 版版主 ls 的辞职申请。
+      
+       备    注：感谢长期对北邮人论坛的贡献！
+            
+                         北邮人论坛版主管理组
+                            时间：2007-12-15
+ 
+
+--
+广告时间：
+    研究生院版调整北邮校园-&gt;院系校区子目录下，欢迎各位光临
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.210.*]
+ 
+【文章标题】：【求助】怎么删掉WORD里的那些批注? 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6129 【创建时间】：2007-12-21 【作者】：where 【评论】：1 【内容】：发信人: where (where), 信区: OfficeTool
+标  题: 【求助】怎么删掉WORD里的那些批注?
+发信站: 北邮人论坛 (Fri Dec 21 11:43:20 2007), 站内
+
+WORD文档一打开就有修改的批注,怎么删了它但保留所做的更改?
+--
+我是姚黑!
+  
+
+※ 修改:·xiongQQ 于 Dec 23 13:46:35 修改本文·[FROM: 59.64.205.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.240.*]
+ 
+【文章标题】：【公告】任命【police】为【办公软件】版版主 (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6245 【创建时间】：2007-12-28 【作者】：BoyFisher 【评论】：0 【内容】：发信人: BoyFisher (男孩之垂釣者|小龍快跑|八卦幫之火龍封印), 信区: OfficeTool
+标  题: 【公告】任命【police】为【办公软件】版版主
+发信站: 北邮人论坛 (Fri Dec 28 18:22:52 2007), 站内
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: BoyFisher (男孩之垂釣者|小龍快跑|八卦幫之火龍封印), 信区: BoardManager
+标  题: 【公告】任命【police】为【办公软件】版版主
+发信站: 北邮人论坛 (Fri Dec 28 18:22:46 2007), 站内
+
+
+           经police申请，并由站务委员会讨论通过,现决定任命
+       police为办公软件版版主。本论坛实行正版主负责制，一切事宜
+       均直接由正版主负责解释和安排协调。正版主为排在第一
+       位的版主。试用期半个月，到期如无重大失误既可转正。   
+                   
+           请police于三日内到Board_manager版面和BM_office报到，
+       否则取消其斑竹权限；同时请每周至少一次到BM_office参与
+       斑竹讨论，关注斑竹管理内部的一些知识。
+                   
+                    
+               类  别：非群体版面
+               分  区：学术科技
+               版  主：xiongQQ
+               备  注：希望严格遵守北邮人论坛相关规定，
+                       尽职尽责，繁荣办公软件。
+                                   北邮人论坛版主管理组
+                                         日期：2007-12-28
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.210.*]
+ 
+【文章标题】：【求助】excel 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6144 【创建时间】：2007-12-23 【作者】：oooooooooo 【评论】：2 【内容】：发信人: oooooooooo (o), 信区: OfficeTool
+标  题: 【求助】excel
+发信站: 北邮人论坛 (Sun Dec 23 20:56:13 2007), 站内
+
+怎么把俩表或仨表中一样的数据筛选出来  谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.240.*]
+ 
+【文章标题】：Re: [讨论]word下按alt+x转换为什么编码？ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6336 【创建时间】：2008-01-02 【作者】：原帖已删除 【评论】：0 【内容】：发信人: maloco (山楂★山楂★山楂★【顶你小分队】|), 信区: OfficeTool
+标  题: Re: [讨论]word下按alt+x转换为什么编码？
+发信站: 北邮人论坛 (Wed Jan  2 16:21:06 2008), 站内
+
+Q：[Word]十进制字符与 Unicode 字符的转换 
+A：Unicode 字符是 Unicode Consortium 开发的一种字符编码标准。该标准采用多个字节代表每一字符，实现了使用单个字符集代表世界上几乎所有书面语言。而我们在日常工作中，使用的都是十进制字符，但需要使用其相应的Unicode字符时，身边却没有相应的转换软件，不用着急，Word可以解决这个难题。
+
+　　输入一个需转换的十进制字符后，将光标移至它的右侧，按下 Alt+X 组合键，该字符就转换为 Unicode 字符了，反之亦然。
+
+　　转换结果如下例：
+电——7535
+脑——8111
+爱——7231
+好——597D
+者——8005
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 211.94.155.*]
+ 
+【文章标题】：【原创】2008年第一贴  ＊（＾＿＜）＊ 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6320 【创建时间】：2008-01-01 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (＊（＾＿＜）＊), 信区: OfficeTool
+标  题: 【原创】2008年第一贴  ＊（＾＿＜）＊
+发信站: 北邮人论坛 (Tue Jan  1 00:00:37 2008), 站内
+
+
+--
+                                                                                
+I.   不要问BBS能为你做什么，而要问你为BBS做了什么                               
+II.  大牛努力回答牛问题，菜青虫努力回答菜问题。大家都要努力回答别人的问题       
+III. BBS是靠良性循环存在的，只想获取不愿奉献的人不是网络人:)                    
+IV.  一个好的站点是靠大家的努力建成的，懒于回答别人的人也不会得到别人的回答     
+V.   注意：本签名档拷贝粘帖而来，非本ID原创                                     
+
+
+※ 修改:·xiongQQ 于 Jan  1 18:26:34 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.216.*]
+ 
+【文章标题】：Re: 【求助】请问word中行距间距的问题 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6523 【创建时间】：2008-01-09 【作者】：原帖已删除 【评论】：0 【内容】：发信人: xiongQQ (一切皆有可能 没有什么不可能——能能语录), 信区: OfficeTool
+标  题: Re: 【求助】请问word中行距间距的问题
+发信站: 北邮人论坛 (Wed Jan  9 00:33:14 2008), 站内
+
+调整公式的行距
+
+如果试卷中添加了数学公式，那么行距就会变大许多，给我们的试卷排版带来很多不便。这时，使用“单倍行距”也不能减少这个行距。不过，解决此问题的方法还是有的，选中要调整的段落，点击菜单命令“格式→段落”，在打开的“段落”对话框中，点击“缩进和间距”选项卡，然后设置“段前”、“段后”均为“0行”，行距设为“单倍行距”，最后一定记得，要取消选择下方的“如果定义了文档网格，则对齐网格”复选项。这样，就可以把行距调整至最小。
+
+
+【 在 hnhn1211 (   小颦～☆吟) 的大作中提到: 】
+: 使用公式编辑器后行距间距变大， 
+: 怎么才能和其他正文内容的行距间距一样呢？ 
+
+
+--
+◢        ◣       ▂▄▂▁                                           _ ▂▁    
+ 来，玩亲亲 ◣  ◢     ◣  ◣   上次我查资料，突然蹦出一封          ◢ | ヾ ◣  
+◥        ◤   ◢  ◤◥◥◥                                        ▍◤ ◥//  ▏
+                    ∩  ∩        laoyao的站内信，然后很Ｈ很ＢＬ   ▎ －  -◥ ▎
+               ▋      З                                         ▋  ー  ー  ▍
+     laoyao ↗    ◥     ◤         我…… 我赶快就关了……        ▆◣ ° ◤▆                                         /╲⺗灬╱\ /╲⺗灬╱\
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.216.*]
+ 
+【文章标题】：【分享】Excel_2007：横向照片月历（含农历,_毎月_1_页） 【文章地址】：https://bbs.byr.cn/article/OfficeTool/6458 【创建时间】：2008-01-05 【作者】：xiongQQ 【评论】：0 【内容】：发信人: xiongQQ (换头像 迎鼠年), 信区: OfficeTool
+标  题: 【分享】Excel_2007：横向照片月历（含农历,_毎月_1_页）
+发信站: 北邮人论坛 (Sat Jan  5 11:37:51 2008), 站内
+
+
+<a href="/att/OfficeTool/0/6458/1321" target="_blank" color="blue">附件(1.3MB)  </a>
+--
+   生气的我    吃惊的我    可爱的我    很爽的我    痴呆的我   装婴儿的我
+ (￣╲┈╭╮  ╭.  (╭  ┄┈┄┄┈                     ━╋╋ .╭   ㊣ soulfox
+ ( · ╲( /︵ (·╲..  ┄┄┈╭⌒.(') ┄┄┈┈   ━━╮.┏━╮ ┣━━━
+ ╰╮· \/:︵  \   /    .    ( · \/.╯        ━━╋╋ ┣━┫·╋╋╋╋      ┈
+·.(·__/   ╯ (·)\ ·  ·   &gt;  ╱˙︶  ┈    . ━╋┛.╰━┛  ┻┻┻┻ ·┈┈
+   /,╯ \ .  . ·  ┄┄┈┈·(·丿\    .  · .   ┏╯┓ ━╋━ ┣━╮━╋   ·
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.216.*]
+
+ 
+【文章标题】：[合集] [提案]成立看版(officetool) (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/1 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: OfficeTool
+标  题: [合集] [提案]成立看版(officetool)
+发信站: 北邮人论坛 (Tue Sep  5 12:52:56 2006), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Apply
+标  题: [合集] [提案]成立看版(officetool)
+发信站: 北邮人论坛 (Fri Aug 25 12:57:31 2006), 站内
+
+☆─────────────────────────────────────☆
+   ls (世界上最美丽的语言是沉默) 于  (Sun Jun 11 22:30:45 2006)  提到:
+
+内容: (1). 英文版名: officetool
+      (2). 中文版名: (办公软件操作) 
+分区：2)
+类别: 类别名 (学术科技)
+
+(2). 版面宗旨：office软件在日常的学习生活中得到应用广泛。尽管如此，由于其强大的功能，大家对不少office操作还是有不了解的地方。为了让办公软件更好的为我们服务，让它的使用变得不那么困扰，特开此版方便大家交流学习，尽量做到有问必答。
+
+(3). 申请人信息:
+申请人 ID：ls   
+申请人是否曾经担任过本站的管理或非管理职务？是  health  &amp;  id
+申请人是否承诺一旦开版成功，即担任版主：是
+申请人是否承诺一旦开版成功，将支持并接受站务委员会的管理：是 
+申请人是否了解新开设或新恢复的主题版面应在通过复审后一周内，由版主在版面与版面管
+理版同时提交正式的制版方针：是 
+
+
+
+☆─────────────────────────────────────☆
+   TheMoment (我不是小孩) 于  (Sun Jun 11 23:03:52 2006)  提到:
+
+支持~
+
+
+☆─────────────────────────────────────☆
+   mejane (BT嚣张简) 于  (Sun Jun 11 23:27:19 2006)  提到:
+
+支持
+
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   serguy (色鱼|八卦帮之火地晋) 于  (Sun Jun 11 23:28:28 2006)  提到:
+
+支持！
+
+
+☆─────────────────────────────────────☆
+   we7ew (ew) 于  (Sun Jun 11 23:35:46 2006)  提到:
+
+不错
+
+
+☆─────────────────────────────────────☆
+   tonipump (不求甚解) 于  (Sun Jun 11 23:55:51 2006)  提到:
+
+恩，不错的。
+
+
+☆─────────────────────────────────────☆
+   thrillghost (thriller) 于  (Mon Jun 12 00:05:11 2006)  提到:
+
+up！
+
+
+☆─────────────────────────────────────☆
+   sunsimonny (KN~|处男处长) 于  (Mon Jun 12 12:50:04 2006)  提到:
+
+支持牛奶姐姐！
+
+严重支持！
+
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   littleboy (北邮首席宠物...) 于  (Mon Jun 12 12:54:57 2006)  提到:
+
+支持姐姐开版．．我ＰＰＴ还不会做．．
+
+
+☆─────────────────────────────────────☆
+   u0 (奈奈|我是一只幽灵) 于  (Mon Jun 12 12:57:10 2006)  提到:
+
+支持
+
+
+
+
+☆─────────────────────────────────────☆
+   GODfist (我心拳拳) 于  (Mon Jun 12 12:58:40 2006)  提到:
+
+支持支持～～
+
+
+☆─────────────────────────────────────☆
+   Hebe (Hebe | S.H.E) 于  (Mon Jun 12 12:58:42 2006)  提到:
+
+支持牛奶姐姐
+
+
+☆─────────────────────────────────────☆
+   JimmyDong (尤里安) 于  (Mon Jun 12 13:00:32 2006)  提到:
+
+牛奶好有精神啊
+
+支持
+
+
+☆─────────────────────────────────────☆
+   BeautySun (三年后的软件右边锋) 于  (Mon Jun 12 13:01:29 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   tony6 (燕京千景之九九归一|八卦帮之水泽节) 于  (Mon Jun 12 13:10:04 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   ceciliajsy (绾绾|八卦帮之泽火革|燕京千景之三七尔依) 于  (Mon Jun 12 13:20:24 2006)  提到:
+
+支持
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   Drj (DrJ) 于  (Mon Jun 12 13:25:25 2006)  提到:
+
+stand
+
+
+☆─────────────────────────────────────☆
+   hbzyc (氺ヾ去雲ァ留) 于  (Mon Jun 12 13:27:15 2006)  提到:
+
+强烈支持~~
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   hao123 (环顾四方) 于  (Mon Jun 12 13:27:32 2006)  提到:
+
+支持！
+
+
+
+
+☆─────────────────────────────────────☆
+   sqj19860404 (等待…) 于  (Mon Jun 12 13:33:49 2006)  提到:
+
+lsjj必然要订
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   DusTin (齐鲁山水人之崂山九水十八潭) 于  (Mon Jun 12 13:46:41 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   woailaopo (我爱老婆) 于  (Mon Jun 12 13:52:14 2006)  提到:
+
+ID：taiwan
+态度：支持
+
+
+☆─────────────────────────────────────☆
+   sunsimon (SunSimON) 于  (Mon Jun 12 14:28:24 2006)  提到:
+
+支持啊支持
+
+【 在 woailaopo (我爱老婆) 的大作中提到: 】
+: ID：taiwan 
+: 态度：支持 
+
+
+
+
+☆─────────────────────────────────────☆
+   nGN (bqt_caby|春分@光棍帮|所有国家都是我mj~) 于  (Mon Jun 12 14:46:23 2006)  提到:
+
+支持~~
+
+
+
+
+☆─────────────────────────────────────☆
+   BoyFisher (男孩之垂钓者|小龍快跑|推荐看看偶的QMD) 于  (Mon Jun 12 16:18:32 2006)  提到:
+
+zhichi
+
+
+☆─────────────────────────────────────☆
+   stonebreaker (BREAKSTONE) 于  (Mon Jun 12 16:47:34 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   halajy1005 (无厘国大老板~~~) 于  (Mon Jun 12 17:08:52 2006)  提到:
+
+支持~~~
+
+
+☆─────────────────────────────────────☆
+   Aiwen (爱文) 于  (Mon Jun 12 17:24:07 2006)  提到:
+
+id:aiwen
+
+attitude:support
+
+
+☆─────────────────────────────────────☆
+   realzxy (Raulseven  劳尔七号    ぺ至尊宝宝づ) 于  (Mon Jun 12 17:30:59 2006)  提到:
+
+支持
+
+
+
+☆─────────────────────────────────────☆
+   Neverwinter (Sci-Fi SG Atlantis) 于  (Tue Jun 13 18:51:49 2006)  提到:
+
+sp!
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+ 【文章标题】：【Word】Word安全保护技巧大搜罗 【文章地址】：https://bbs.byr.cn/article/OfficeTool/47 【创建时间】：2006-09-07 【作者】：ls 【评论】：0 【内容】：发信人: ls (世界上最美丽的语言是沉默), 信区: OfficeTool
+标  题: 【Word】Word安全保护技巧大搜罗
+发信站: 北邮人论坛 (Thu Sep  7 00:02:34 2006), 站内
+
+Office是比较通用的办公软件，关于它的技巧也是层出不穷，但是很多技巧缺乏系统地归类，在此小编急大家之所急，想大家之所想，整理出了一套完整的Office实用技巧，小巧实用。这次奉献给大家的是Word安全保护技巧，其他的会陆续发给大家：）
+　　有“自动恢复”不怕突然死机
+　　如果Windows突然死机，而且工作又没有及时保存。其实不必害怕，只要使用的是Word XP，那下次重新启动Word时就会弹出一个“文件恢复”任务窗格，单击某恢复文件后，就可以继续编辑了。
+
+　　使用自动保存功能
+　　选择“工具”→“选项”，单击“保存”标签，并选中“自动保存时间间隔”复选框，在“分钟”框中，输入时间间隔，以确定Word 2000/XP 保存文件的时间。时间越短，Word 2000/XP 保存文件越频繁，在Word 2000/XP 中打开文件后出现断电或类似问题时，能恢复的信息当然也就越多，一般设置为1分钟。
+　　经过上面的设置后，所有在发生断电或类似问题时处于打开状态的文件在下次启动Word时都会显示出来，可以对它们进行保存。不过在替换原有文件之前，请验证恢复文件包含有你需要的信息，不要覆盖了原先的文件。
+
+　　从文本中恢复
+　　选择“工具”→“选项”→“常规”，选中“打开时确认转换”复选框，再按下工具栏上的“打开”按钮，在“文件类型”选项中，单击“从任意文件中恢复文本”。如果没有则需要你安装“恢复文本转换器”。选择要恢复的文件，单击“打开”按钮，即可打开该文件。
+
+　　去文件头恢复文件
+　　如果有时使用“从任意文件中恢复文件”法无法挽救，这时可通过去掉其文件头的方法进行挽救：先建立一个空白Word文件，不输入任何内容，再将其复制一遍，在复制的文件中随便输入一些内容存盘，然后用16进制编辑器（这里是WinHex）比较两个文件，你会发现大致从Offset值为A00处开始，内容便出现明显不同。于是，将故障文件备份一次，用WinHex打开其备份文件，将Offset值为A00以前的一些内容删掉，开始可以少删一点，不行再多删一点。然后将删除后的文件保存。
+　　接着就是用Word打开“去头”的文件。在“打开”对话框的“文件类型”框中选择“从任意文件中恢复文本”项，然后双击“去头”文件，极有可能能够恢复原文件中的文本内容。
+
+　　用专用工具恢复
+　　从<a target="_blank" href="http://www.officerecovery.com">http://www.officerecovery.com</a>下载WordRecovery工具，完成安装后，只要打开Word，选择“文件”→Recovery命令，再选中欲修复的Word文件，然后按下Recover按钮，WordRecovery插件即会为自动修复选中的文件，接着会只要按照向导保存一下修复后的Word文件即可。
+
+　　挽救Excel文件
+　　如果Excel文件损坏，可借助Word作为“中介”来恢复：先进入Word，打开要修复的Excel文件（注意先将“文件类型”选为“所有文件”），打开后，先将文件中损坏的数据删除并且进行修复，再选择“表格”→“转换”→“表格转文本”，然后可以用逗号或其他的分隔符作为间隔符，再把转换后的文件另存为TXT文件。接着启动Excel，并插入该TXT文件，再另存为Excel文件即可。
+
+　　设置密码来保护文件
+　　选择“工具”→“选项”，单击“安全性”标签，在“打开权限密码”文本框中输入打开权限密码，并在“修改权限密码”中输入修改文件权限密码，按下“确定”按钮。再保存Word文件，以后把这个Word文件交给别人时只告诉用户打开权限密码。这样用户打开此文件时，会向用户询问密码，输入“打开权限密码”后，此时Word会向他（她）询问修改权限密码。
+
+　　不显示最近文件
+　　选择“工具”→“选项”，单击“常规”标签，取消“列出最近使用文件”前的对钩，便可不让Word显示最近用过的文件。
+　　另外，Windows“开始”菜单中的“文件”子菜单中也会列出在最近操作中使用过的文件，应注意及时清除“开始”菜单的“文件”中的内容。
+
+　　妥善处理文件中的用户信息
+　　如果在安装Office时如实填写了用户信息，这些信息会被Office自动加入到他所生成的每个文件中，而这些信息极有可能会泄漏的某些隐私。这时，可以选择“文件”→“属性”，在弹出的的窗口中选择“摘要”选项卡，并将其中各项中的内容删掉，再保存文件即可。
+
+　　保护窗体
+　　如果想保护Word窗体，那可以选择“工具”→“保护文件”，在弹出的对话框中选中“窗体”选项并设置密码，这样就将所创建的窗体保护了起来。如果用户不知道密码，只能够在设置的窗体中的特定区域进行操作，而无法对窗体进行修改或删除。只有知道密码的用户才可用窗体工具条中的“保护窗体”按钮在解除保护和保护状态之间进行切换。
+
+　　防止宏病毒
+　　选择“工具”→“宏”→“安全性”，在弹出的对话框中设置宏的安全级别（建议设置为高或中），使Word禁止非可靠来源文件中的宏的运行，或在运行前给出警告提示，让用户选择是否运行这个文件。但Word只能从一定程度上预防宏病毒而不能杀除它。所以要真正杜绝宏病毒，用户还需使用优秀的防毒杀毒软件。
+
+　　“非法操作”的应对办法
+　　在编辑文件时最担心出现“非法操作”的对话框，其实，不必担心，因为如果在Windows 98下，用户完全可以不去理会“非法操作”的对话框，直接单击Word中的保存按钮，待文件保存完毕后，单击“关闭”按钮，这样文件就得以保存了。
+　　如果是在Windows 2000/XP下，那重新启动Word后，会出现一个“文件恢复”窗格，单击相应文件即可打开上次“非法操作”后的文件，另存一下即可。
+
+　　恢复无响应Office XP文件
+　　如果Office XP程序没有响应，可以选择“开始”→“程序”→“Microsoft Office 工具”→“Microsoft Office 应用程序恢复”，再单击选中没有响应的程序。单击“重新启动应用程序”或“结束应用程序”按钮来执行相应的操作即可。
+
+　　杀死宏病毒
+　　如果怀疑机器感染了宏病毒，则可以按下Alt+F8键，在弹出的对话框中有已经记录的宏的话，那就极有可能是宏病毒，可以删除所有的宏试一试。
+
+　　利用SnagIt巧解保护
+　　如果的文件加上了保护密码，可有一天又想对这个文件重新进行排版修改，这时突然发现已把密码给忘了，可那可以使用SnagIt来拯救它：先打开要修改的文件，启动SnagIt，选中“文本捕获”，然后单击“捕获”，再把鼠标移到Word窗口上，单击鼠标，即可把要修改的文件中的文本捕获下来，然后把它们保存为文本文件，可再利用Word对它们进行编辑即可。
+
+　　利用启动参数拯救文件
+　　有些Word文件可能是被作者利用自动运行的宏功能进行了加密，或自动运行的宏代码中出现了错误，这时可利用Word的“/m”启动参数，禁止Word宏的运行，从而拯救Word文件：建立一个Word启动的快捷键，再右击此快捷方式，在“目标”项的文件名后加参数，比如“C:\Program Files \Microsoft Office\Office10\WINWord.EXE /m ”，双击此快捷方式，再打上述Word文件，试一试，说不定就可以恢复出其中的文本。
+
+　　我的密码你猜不着
+　　按住键盘上的Alt键不放，输入200，再松开Alt键，你将看到“ è ”出现在屏幕上。这就是ASCII码200对应的字符。因此，可以用这些字符来加密Word文件，这样Word文件被解密的可能性就小多了。
+　　小提示
+　　★000-031以及127是“控制符”，Office不接受；而032-126可以在键盘上直接打出来，所以，能用于这种特殊密码的，仅有128-255这些“字符”。
+　　★文件这样加密，若长度在8位以上，恐怕连神仙也猜不出来了。只是这样做的弊端也很明显，密码太难记了。
+
+　　请把你的激活信息保存好
+　　如果使用的是Office XP，那请保存好C:\Program Files\Common Files\Microsoft Shared\Office10\mso.dll文件，重装Office XP后，必须把这个文件拷贝到C:\Program Files\Common Files\Microsoft Shared\Office10文件夹中，以避免重新激活。
+
+　　备份你的模板
+　　如果是Windows 9x/Me，模板放在C:\Windows\Application Data\Microsoft\Templates文件夹下，如果是Windows 2000/XP，则放在C:\Documents and Settings\用户名\Application Data\Microsoft\Templates文件夹下（如C:\Documents and Settings\Administrator\Application Data\Microsoft\Templates）。用“资源管理器”定位到相应文件夹下后，会看到一些扩展名为DOT的文件，这些就是Word中自定义的模板文件，只要把它们拷贝备份出来，以后重新安装Office，再把它们拷贝到上述文件夹中即可。
+
+　　保存你自己的设置
+　　Office使用时间长了，必然会有很多自己的设置信息，如果使用的是Office XP，可单击“开始”→“程序”→“Microsoft Office 工具”→“用户设置保存向导”启动“用户设置保存向导”，通过它即可把本机Office XP当前设置保存到设置文件中，也可以从设置文件中恢复设置。
+
+　　备份自动更正信息
+　　Word具有自动更正功能，通过它确实可以给我们带来很多的方便，但可惜的是，Word却没有提供我们备份自动更正信息的功能。不过，可以从<a target="_blank" href="http://support.Microsoft.com/default.aspx">http://support.Microsoft.com/default.aspx</a>？scid=http://download.Microsoft.com/download/Word2002/utility/1.0/w98nt42kmexp/en-us/Support.exe下载Word 2002 Support Template软件，安装后单击“开始”→“程序”→Microsoft Office Tools→Word 2002 Support Template可以让Word XP打开该模板。按下Alt+F8键，再选中AutoCorrect Backup项，然后单击“运行”按钮，选择Backup按钮即可把当前自动更正信息备份到一个默认为AutoCorrect Backup Document.doc的文件中。以后，重安系统后只要再次安装一下Word 2002 Support Template模板，再Alt+F8键，选中AutoCorrect Backup项，然后单击“运行”按钮，选择Restore按钮导入备份的自动更正文件即可。
+　　小提示
+　　通过这个小工具也可以把当前自动更正信息备份到AutoCorrect Backup Document.doc文件中，大家也可以打印出来供自己平时查看或与他人共享交流。对于提高自己的水平也很有好处。
+
+　　让你的Office更新、更轻松
+　　微软公司的产品经常是补丁不断，尽人皆知。如果要更新Office XP，那大家可以直接登录<a target="_blank" href="http://office.Microsoft.com/china/ProductUpdates/default.aspx">http://office.Microsoft.com/china/ProductUpdates/default.aspx</a>网站，在该网站上，只要单击相应的按钮，就可以进行类似傻瓜式地操作，顺着向导就可以把使用的Office的补丁自动打好。
+
+
+--
+****************************************************************
+热烈欢迎大家到  *OfficeTool*  版进行学习
+<a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=OfficeTool">～～～～～让我们一起征服Office！！～～～～～～</a>
+    ^^记得点我上面那行字进去哦^^
+****************************************************************
+
+
+※ 修改:·xiongQQ 于 Oct  6 22:30:06 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.206.*]
+ 
+【文章标题】：[公告] 开设 OfficeTool/办公软件 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/2 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: OfficeTool
+标  题: [公告] 开设 OfficeTool/办公软件 版面
+发信站: 北邮人论坛 (Tue Sep  5 12:53:19 2006), 站内
+
+【 以下文字转载自 Board_Management 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Management
+标  题: [公告] 开设 OfficeTool/办公软件 版面
+发信站: 北邮人论坛 (Tue Sep  5 12:49:49 2006), 站内
+
+经版面管理组讨论，同意开设 OfficeTool/办公软件 版面，
+并任命 ls 为第一任版主。
+
+分区位置：学术科技
+是否计发文数：计入
+是否计入十大统计：计入
+是否直接提供附件功能：不直接提供
+
+需要改变上述属性的，请在开版满两周后在 Board_Management 按格式提出申请。
+
+本版其他版主申请，请到 BM_Apply 版按申请的格式进行。
+
+申请人作为版主，请在收到正式任命通知后 3 天内到 BoardManager 版报道。
+同时建议多到 BM_Office 版学习和讨论版务事宜。
+
+新开设版面应在通过一周内，由版主在版面、Board_Document 版
+同时提交正式的版规。版规未经审批通过的，不能通过后
+续的新开版期考核，直接终止版面。
+
+新开设版面成立满 2 个月后，应由版主在版面与 Board_Document 版同时
+提交版面发展总结报告并申请通过新开期考核。版面管理组将对报告进行讨论，并
+决定是否接受申请。
+
+通过新开版期考核的版面将成为本站的正式版面，并视情况改变其版面属性。
+ 
+                                                    北邮人论坛版面管理组
+
+--
+柚子  榴莲  芒果  番石榴  杨桃干
+清平鸡  烧鹅濑  肠粉  水蛇粥  马蹄糕  榴莲酥  钵仔糕
+双皮奶  姜撞奶  芝麻糊  陈村粉  龟苓膏  癍痧凉茶  绿豆沙
+林林牛杂  云吞面  
+上下九  宝华路  北京路  珠江边  中山大道  那间小屋
+淸炒空心菜  煮玉米  蛋炒饭  
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.217.*]
+ 
+【文章标题】：[范文1]HTML、PDF文件格式转换工具一览  【文章地址】：https://bbs.byr.cn/article/OfficeTool/15 【创建时间】：2006-09-05 【作者】：ls 【评论】：0 【内容】：发信人: ls (世界上最美丽的语言是沉默), 信区: OfficeTool
+标  题: [范文1]HTML、PDF文件格式转换工具一览 
+发信站: 北邮人论坛 (Tue Sep  5 16:11:24 2006), 站内
+
+转换HTML为TXT文件
+
+
+　　这类软件挺多的，转换效果也有较大区别。仅名为HTML2TXT的软件就不止一个。我们就 
+以华语通HTML2TXT来看看其使用方法吧。虽然“个头”稍大了一点点(683KB)，但Windows界面操作异常简单，每个按钮都有动态提示，转换效果也不错。它的下载地址是：<a target="_blank" href="http://www.helpwork.com/soft/html/user/download.asp?id=1877">http://www.helpwork.com/soft/html/user/download.asp?id=1877</a>。
+
+　　双击下载得到的H2TU.EXE文件，设定目标位置(默认在c:＼h2t)，把HTML2TXT.EXE等四个文件解压至目标位置。双击HTML2TXT.EXE即可启动该软件1。
+
+ 
+
+　　转换的操作很简单，在左上角的框中选中需要转换的HTML文件所在的磁盘和文件夹，如果某一文件夹中有HTML文件，就会立即显示在上面的第二个框中，双击欲转换的文件，则该文件自动进入右上角的待转换文件列表框中，单击右上角的按钮，设定目标文件存放的文件夹，单击左下角的“开始转换”按钮，转眼之间，就可以得到你所想要的TXT文本文件了。
+
+　　使用该软件还可以进行HTML文件的批量转换。我们只需把所要转换的文件全部加入右上方的待转换文件框，再进行转换就可以了。如果怕转换的文件选错了，可以复选“使用文件预览”。这样进行转换之前，我们就可以做到胸有成竹了。
+
+ 
+
+　　另外需要提醒一点的是：安装了这个软件后，系统自动修改了注册表，在右键菜单中添加了一项：“HTY-HTML2TXT”，而且被设置成了HTML文件的默认打开方式。
+
+　　这样要转换HTML文件就方便了，直接双击相应的HTML文件就可以了。
+
+
+　　PDF文件的转换工具
+
+
+　　PDF是电子图书常用的文件格式，但是由于PDF文件不便阅读(需要安装Acrobat才能看)，而且容量比较大，不便网上传输，我们常常希望能把它转化成文本文件格式，却又往往无从下手。其实，这并不是一件难事。想把PDF文件转换成文本方式的工具也很多。比如在Acrobat 5.0中，我们可以快速地将Adobe PDF文件另存为RTF文件，或者TIFF、JPEG、PNG格式的图像文件。Acrobat可将Adobe PDF文件的每个页面转换成单个的图像文件，图像格式视所选而定；利用PDF2HTM也可以将PDF文件变为HTML文件，而且完全支持中英文PDF文档的转换，对PDF的版面信息可以完全保留，生成HTML的效果基本与原版的PDF一致，简单排版后即可输出。如果你对其中的插图不感兴趣，还可以用PDF2TXT。下面我们一起来看看下PDF2HTM和PDF2TXT的用法。
+
+　　★PDF2HTM★
+
+　　从<a target="_blank" href="http://www.pdfimage.com/pdf_ps/pdf2htm/PDF2HTM2.0.zip">http://www.pdfimage.com/pdf_ps/pdf2htm/PDF2HTM2.0.zip</a>处下载的PDF2HTM文件不过106KB，其中包括一个文本文件README.TXT和一个程序文件PDF2HTM.EXE。这是一个基于DOS环境的程序文件，由魔镜软件工作室独立开发。
+
+　　它的用法很简单。进入MSDOS方式，转到程序所在目录，假设要转换的PDF文件也在同一目录，文件名为demo.pdf，在DOS命令提示符下输入“PDF2HTM demo.pdf”即可。再dir一下或者回到Windows资源管理器下看看，增加了些什么文件？
+
+　　★PDF2TXT★
+
+　　从<a target="_blank" href="ftp://ftp1.mydown.com/home2/soft33/pdf2txtv2.0.zip">ftp://ftp1.mydown.com/home2/soft33/pdf2txtv2.0.zip</a>处下载的pdf2txtv2.0.zip是508KB，内含两个文件：GZIP.dll和pdf2txt.exe。我们只需把它们解压到同一目录即可。
+
+ 
+
+　　运行pdf2txt.exe，单击“File”下的“PDF2TXT”，弹出打开文件对话框，如图1。选择一个欲转换的PDF文件，单击“打开”，随后弹出一“另存为”对话框，设定文本文件保存的位置。单击“保存”。OK！快到你所设定的位置上去看看吧。是不是很令人心动？
+
+　　当然，如果你已经安装了Adobe Acrobat Reader，你就可以用它来转换PDF文件了。
+
+　　以上给大家详细介绍了获取各种帮助文档的源文件(文本文件和其中的插图)的工具和用法。利用这些源文件，我们就可以实现本篇开头所提出来的目标——既不买书，又可以免去了眼睛的“奔波劳顿”(看屏幕要左右来回移动)之苦。把帮助文档的源文件用打印机打出来，自己制作的一本参考书不就到手了吗？呵呵！
+
+
+--
+想要一个电风扇！！！
+            谁有卖给我把！！！
+                     不要裸扇～～～20左右ok！
+                                   谢谢拉～！！！！！！！！
+
+※ 修改:·ls 于 Sep  5 16:12:48 修改本文·[FROM: 211.68.71.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.242.*]
+ 
+【文章标题】：[范文2]Excel 2000 高级使用技巧 【文章地址】：https://bbs.byr.cn/article/OfficeTool/16 【创建时间】：2006-09-05 【作者】：ls 【评论】：0 【内容】：发信人: ls (世界上最美丽的语言是沉默), 信区: OfficeTool
+标  题: [范文2]Excel 2000 高级使用技巧
+发信站: 北邮人论坛 (Tue Sep  5 16:11:39 2006), 站内
+
+Excel 2000
+
+--------------------------------------------------------------------------------
+
+1、编辑技巧
+
+　　1 编辑技巧 
+
+　　（1） 分数的输入 
+
+　　如果直接输入“1/5”，系统会将其变为“1月5日”，解决办法是：先输入“0”，然后输入空格，再输入分数“1/5”。 
+
+　　（2） 序列“001”的输入 
+
+　　如果直接输入“001”，系统会自动判断001为数据1，解决办法是：首先输入“'”（西文单引号），然后输入“001”。 
+
+　　（3） 日期的输入　
+
+　　如果要输入“4月5日”，直接输入“4/5”，再敲回车就行了。如果要输入当前日期，按一下“Ctrl+；”键。 
+
+　　（4） 填充条纹 　
+
+　　如果想在工作簿中加入漂亮的横条纹，可以利用对齐方式中的填充功能。先在一单元格内填入“*”或“~”等符号，然后单击此单元格，向右拖动鼠标，选中横向若干单元格，单击“格式”菜单，选中“单元格”命令，在弹出的“单元格格式”菜单中，选择“对齐”选项卡，在水平对齐下拉列表中选择“填充”，单击“确定”按钮（如图1）。
+
+ 
+
+图１ 
+
+　　（5） 多张工作表中输入相同的内容 
+
+　　几个工作表中同一位置填入同一数据时，可以选中一张工作表，然后按住Ctrl键，再单击窗口左下角的Sheet1、Sheet2......来直接选择需要输入相同内容的多个工作表，接着在其中的任意一个工作表中输入这些相同的数据，此时这些数据会自动出现在选中的其它工作表之中。输入完毕之后，再次按下键盘上的Ctrl键，然后使用鼠标左键单击所选择的多个工作表，解除这些工作表的联系，否则在一张表单中输入的数据会接着出现在选中的其它工作表内。 
+
+　　（6） 不连续单元格填充同一数据 
+
+　　选中一个单元格，按住Ctrl键，用鼠标单击其他单元格，就将这些单元格全部都选中了。在编辑区中输入数据，然后按住Ctrl键，同时敲一下回车，在所有选中的单元格中都出现了这一数据。 
+
+　　（7） 在单元格中显示公式 
+
+　　如果工作表中的数据多数是由公式生成的，想要快速知道每个单元格中的公式形式，以便编辑修改，可以这样做：用鼠标左键单击“工具”菜单，选取“选项”命令，出现“选项”对话框，单击“视图”选项卡，接着设置“窗口选项”栏下的“公式”项有效，单击“确定”按钮（如图2）。这时每个单元格中的分工就显示出来了。如果想恢复公式计算结果的显示，就再设置“窗口选项”栏下的“公式”项失效即可。 
+
+ 
+
+图２ 
+
+　　（8） 利用Ctrl＋*选取文本 
+
+　　如果一个工作表中有很多数据表格时，可以通过选定表格中某个单元格，然后按下Ctrl＋*键可选定整个表格。Ctrl＋*选定的区域为：根据选定单元格向四周辐射所涉及到的有数据单元格的最大区域。这样我们可以方便准确地选取数据表格，并能有效避免使用拖动鼠标方法选取较大单元格区域时屏幕的乱滚现象。 
+　　（9） 快速清除单元格的内容 
+
+　　如果要删除内容的单元格中的内容和它的格式和批注，就不能简单地应用选定该单元格，然后按Delete键的方法了。要彻底清除单元格,可用以下方法：选定想要清除的单元格或单元格范围；单击“编辑”菜单中“清除”项中的“全部”命令，这些单元格就恢复了本来面目。
+
+--
+想要一个电风扇！！！
+            谁有卖给我把！！！
+                     不要裸扇～～～20左右ok！
+                                   谢谢拉～！！！！！！！！
+
+※ 修改:·ls 于 Sep  5 16:13:10 修改本文·[FROM: 211.68.71.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.242.*]
+ 
+【文章标题】：[范文3]WORD使用的经典问答 【文章地址】：https://bbs.byr.cn/article/OfficeTool/17 【创建时间】：2006-09-05 【作者】：ls 【评论】：0 【内容】：发信人: ls (世界上最美丽的语言是沉默), 信区: OfficeTool
+标  题: [范文3]WORD使用的经典问答
+发信站: 北邮人论坛 (Tue Sep  5 16:11:50 2006), 站内
+
+
+      问：通常我编辑Word文档，当在一行中间输入新文字时会插入到原有文字当中，但有时却是在我键入文字时，原文字将会消失。这是怎么回事？ 
+　　答：如果在你键入的时候，原有的文字消失了，那么原因是改写模式被打开了。此时，请双击状态栏中的“改写”字样 
+以关闭改写模式。当状态栏中的“改写”字样加黑显示时，表示处于改写模式；当“改写”字样显示为灰色时，表示处于插入模式。 
+
+　　问：我无法使下标的下划线与普通文字的下划线对齐，该怎么办呢？ 
+　　答：当给文字添加了下划线，然后对其中的部分文字应用下标格式时，你会发现两种文字的下划线没有对齐。此时，可以在文本下方画一条直线来取代对文本应用下划线格式，方法是：在“绘图”工具栏上，单击“直线”，按住Shift键，便可画出一条保持水平的直线。 
+
+　　问：我希望选中某个单词其中的一部分字母，可当我开始拖动单词时，Word总是自动选定整个单词和其后的空格，怎么办？ 
+　　答：你可以指定是否自动选定整个单词。方法是：在“工具”菜单上，单击“选项”命令，然后单击“编辑”选项卡，清除“选定时自动选定整个单词”复选框，单击“确定”按钮。 
+
+　　问：当我把“剪贴板”中的内容插入到文档中时，Word总是自动为其添加空格。这是为什么？ 
+　　答：这是Word提供的“智能剪贴”功能。除添加空格外，该功能还可以在你删除文字时自动删除多余的空格。这对英文编辑来说确实十分方便，但对汉字来说稍有画蛇添足之嫌。当然你可以禁用“智能剪贴”功能，方法是：在“工具”菜单上，单击“选项”命令，单击“编辑”选项卡，选中“智能剪切和粘贴”复选框，单击“设置”按钮，清除“粘贴时调整段落间隔”复选框。 
+
+　　问：我在文档中键入一个E-mail地址时，Word自动将其转换为一个超链接，影响编辑效率。请问能否不让Word将E-mail地址自动转换为超链接？ 
+　　答：如果键入的文字包含符号“@”，则Word可能会将其解释为电子邮件地址，并自动应用超链接格式。你可关闭自动将Internet及网络路径替换为超链接的功能。方法是：在“工具”菜单上，单击“自动更正选项”命令，然后单击“键入时自动套用格式”选项卡，在“键入时自动替换”下，清除“Internet及网络路径替换为超链接”复选框。 
+
+　　问：我已经在Word文档中插入了页码，但现在在屏幕上却看不到页码。这是怎么回事？ 
+　　答：在普通视图或Web页面视图中，Word将不显示页码。若要查看页码，请切换至页面视图。若要编辑页码，必须显示含有页码的页眉或页脚。 
+
+　　问：在我保存文档时，出现“重名”错误，无法保存文档。该怎么办？ 
+　　答：原因可能是Word正在执行自动后台保存。如果在“工具”菜单的“选项”命令的“保存”选项卡上，选中“允许后台保存”复选框，并在Word执行自动后台保存时试图保存一个长文档，则Word会在两种保存操作中使用相同的文件名，从而出现“重名”错误。当Word进行自动后台保存时，状态栏上会出现一个脉动的磁盘图标。此时，请在Word完成自动后台保存后，再行保存文档。 
+
+　　问：当我在Word文档中键入一个直引号后，Word总是自动将其转换为一个弯引号，那么在Word文档中怎样才能输入直引号呢？ 
+　　答：将直引号转换为弯引号，是Word提供的一项自动替换功能，你可以将其关闭。方法是：在“工具”菜单上，单击“自动更正选项”命令，然后单击“键入时自动套用格式”选项卡，在“键入时自动替换”下，清除“直引号替换为弯引号”复选框。 
+
+　　问：拖放操作是Windows的一大特色。以前在Word中，我可以通过拖动来移动或复制所选文本，但近日突然无法进行拖放操作。不知何故？ 
+　　答：Word是支持拖放操作，之所以你的Word突然不能进行拖放操作，是因为你关闭了其拖放编辑功能，请将其打开。方法是：在“工具”菜单上，单击“选项”命令，然后单击“编辑”选项卡，选中“拖放式文字编辑”复选框。 
+
+--
+想要一个电风扇！！！
+            谁有卖给我把！！！
+                     不要裸扇～～～20左右ok！
+                                   谢谢拉～！！！！！！！！
+
+※ 修改:·ls 于 Sep  5 16:13:44 修改本文·[FROM: 211.68.71.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.242.*]
+ 
+
+【文章标题】：[合集] [提案]成立看版(officetool) (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/1 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: OfficeTool
+标  题: [合集] [提案]成立看版(officetool)
+发信站: 北邮人论坛 (Tue Sep  5 12:52:56 2006), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Apply
+标  题: [合集] [提案]成立看版(officetool)
+发信站: 北邮人论坛 (Fri Aug 25 12:57:31 2006), 站内
+
+☆─────────────────────────────────────☆
+   ls (世界上最美丽的语言是沉默) 于  (Sun Jun 11 22:30:45 2006)  提到:
+
+内容: (1). 英文版名: officetool
+      (2). 中文版名: (办公软件操作) 
+分区：2)
+类别: 类别名 (学术科技)
+
+(2). 版面宗旨：office软件在日常的学习生活中得到应用广泛。尽管如此，由于其强大的功能，大家对不少office操作还是有不了解的地方。为了让办公软件更好的为我们服务，让它的使用变得不那么困扰，特开此版方便大家交流学习，尽量做到有问必答。
+
+(3). 申请人信息:
+申请人 ID：ls   
+申请人是否曾经担任过本站的管理或非管理职务？是  health  &amp;  id
+申请人是否承诺一旦开版成功，即担任版主：是
+申请人是否承诺一旦开版成功，将支持并接受站务委员会的管理：是 
+申请人是否了解新开设或新恢复的主题版面应在通过复审后一周内，由版主在版面与版面管
+理版同时提交正式的制版方针：是 
+
+
+
+☆─────────────────────────────────────☆
+   TheMoment (我不是小孩) 于  (Sun Jun 11 23:03:52 2006)  提到:
+
+支持~
+
+
+☆─────────────────────────────────────☆
+   mejane (BT嚣张简) 于  (Sun Jun 11 23:27:19 2006)  提到:
+
+支持
+
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   serguy (色鱼|八卦帮之火地晋) 于  (Sun Jun 11 23:28:28 2006)  提到:
+
+支持！
+
+
+☆─────────────────────────────────────☆
+   we7ew (ew) 于  (Sun Jun 11 23:35:46 2006)  提到:
+
+不错
+
+
+☆─────────────────────────────────────☆
+   tonipump (不求甚解) 于  (Sun Jun 11 23:55:51 2006)  提到:
+
+恩，不错的。
+
+
+☆─────────────────────────────────────☆
+   thrillghost (thriller) 于  (Mon Jun 12 00:05:11 2006)  提到:
+
+up！
+
+
+☆─────────────────────────────────────☆
+   sunsimonny (KN~|处男处长) 于  (Mon Jun 12 12:50:04 2006)  提到:
+
+支持牛奶姐姐！
+
+严重支持！
+
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   littleboy (北邮首席宠物...) 于  (Mon Jun 12 12:54:57 2006)  提到:
+
+支持姐姐开版．．我ＰＰＴ还不会做．．
+
+
+☆─────────────────────────────────────☆
+   u0 (奈奈|我是一只幽灵) 于  (Mon Jun 12 12:57:10 2006)  提到:
+
+支持
+
+
+
+
+☆─────────────────────────────────────☆
+   GODfist (我心拳拳) 于  (Mon Jun 12 12:58:40 2006)  提到:
+
+支持支持～～
+
+
+☆─────────────────────────────────────☆
+   Hebe (Hebe | S.H.E) 于  (Mon Jun 12 12:58:42 2006)  提到:
+
+支持牛奶姐姐
+
+
+☆─────────────────────────────────────☆
+   JimmyDong (尤里安) 于  (Mon Jun 12 13:00:32 2006)  提到:
+
+牛奶好有精神啊
+
+支持
+
+
+☆─────────────────────────────────────☆
+   BeautySun (三年后的软件右边锋) 于  (Mon Jun 12 13:01:29 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   tony6 (燕京千景之九九归一|八卦帮之水泽节) 于  (Mon Jun 12 13:10:04 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   ceciliajsy (绾绾|八卦帮之泽火革|燕京千景之三七尔依) 于  (Mon Jun 12 13:20:24 2006)  提到:
+
+支持
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   Drj (DrJ) 于  (Mon Jun 12 13:25:25 2006)  提到:
+
+stand
+
+
+☆─────────────────────────────────────☆
+   hbzyc (氺ヾ去雲ァ留) 于  (Mon Jun 12 13:27:15 2006)  提到:
+
+强烈支持~~
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   hao123 (环顾四方) 于  (Mon Jun 12 13:27:32 2006)  提到:
+
+支持！
+
+
+
+
+☆─────────────────────────────────────☆
+   sqj19860404 (等待…) 于  (Mon Jun 12 13:33:49 2006)  提到:
+
+lsjj必然要订
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   DusTin (齐鲁山水人之崂山九水十八潭) 于  (Mon Jun 12 13:46:41 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   woailaopo (我爱老婆) 于  (Mon Jun 12 13:52:14 2006)  提到:
+
+ID：taiwan
+态度：支持
+
+
+☆─────────────────────────────────────☆
+   sunsimon (SunSimON) 于  (Mon Jun 12 14:28:24 2006)  提到:
+
+支持啊支持
+
+【 在 woailaopo (我爱老婆) 的大作中提到: 】
+: ID：taiwan 
+: 态度：支持 
+
+
+
+
+☆─────────────────────────────────────☆
+   nGN (bqt_caby|春分@光棍帮|所有国家都是我mj~) 于  (Mon Jun 12 14:46:23 2006)  提到:
+
+支持~~
+
+
+
+
+☆─────────────────────────────────────☆
+   BoyFisher (男孩之垂钓者|小龍快跑|推荐看看偶的QMD) 于  (Mon Jun 12 16:18:32 2006)  提到:
+
+zhichi
+
+
+☆─────────────────────────────────────☆
+   stonebreaker (BREAKSTONE) 于  (Mon Jun 12 16:47:34 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   halajy1005 (无厘国大老板~~~) 于  (Mon Jun 12 17:08:52 2006)  提到:
+
+支持~~~
+
+
+☆─────────────────────────────────────☆
+   Aiwen (爱文) 于  (Mon Jun 12 17:24:07 2006)  提到:
+
+id:aiwen
+
+attitude:support
+
+
+☆─────────────────────────────────────☆
+   realzxy (Raulseven  劳尔七号    ぺ至尊宝宝づ) 于  (Mon Jun 12 17:30:59 2006)  提到:
+
+支持
+
+
+
+☆─────────────────────────────────────☆
+   Neverwinter (Sci-Fi SG Atlantis) 于  (Tue Jun 13 18:51:49 2006)  提到:
+
+sp!
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+ 【文章标题】：【求助】有谁有SPSS15和注册码？有人用过吗 【文章地址】：https://bbs.byr.cn/article/OfficeTool/11002 【创建时间】：2008-08-25 【作者】：bbsbupt 【评论】：14 【内容】：发信人: bbsbupt (你说我帅不^0^), 信区: OfficeTool
+标  题: 【求助】有谁有SPSS15和注册码？有人用过吗
+发信站: 北邮人论坛 (Mon Aug 25 19:14:47 2008), 站内
+
+RT
+--
+▃__ 　　　﹋　　~    ~
+　　__▁▂▁___ ﹀ ●  佷想带你~﹀~
+  ﹋
+     ﹀     ~              一起去看海
+█▆▅▇▆▅▄▃▂▃▄▅▆▄▅▅▆█
+-__~~--___-▔~~__--__---  - ---------------
+
+
+※ 修改:·police 于 Aug 25 19:19:24 修改本文·[FROM: 60.23.177.117]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 210.25.132.*]
+ 
+【文章标题】：【求助】请问现在MSN最新版本多少，为啥我实验室的MSN一直登录 【文章地址】：https://bbs.byr.cn/article/OfficeTool/10973 【创建时间】：2008-08-25 【作者】：bbsbupt 【评论】：16 【内容】：发信人: bbsbupt (你说我帅不^0^), 信区: OfficeTool
+标  题: 【求助】请问现在MSN最新版本多少，为啥我实验室的MSN一直登录不上？
+发信站: 北邮人论坛 (Mon Aug 25 10:49:52 2008), 站内
+
+想下个新的重新安装下看看能不能行
+--
+▃__ 　　　﹋　　~    ~
+　　__▁▂▁___ ﹀ ●  佷想带你~﹀~
+  ﹋
+     ﹀     ~              一起去看海
+█▆▅▇▆▅▄▃▂▃▄▅▆▄▅▅▆█
+-__~~--___-▔~~__--__---  - ---------------
+
+
+※ 修改:·police 于 Aug 25 10:57:11 修改本文·[FROM: 60.23.172.154]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 210.25.132.*]
+ 
+【文章标题】：【共享】Tex简历模版 【文章地址】：https://bbs.byr.cn/article/OfficeTool/2478 【创建时间】：2007-04-03 【作者】：QuestionMark 【评论】：0 【内容】：发信人: QuestionMark (问号), 信区: OfficeTool
+标  题: 【共享】Tex简历模版
+发信站: 北邮人论坛 (Tue Apr  3 19:29:20 2007), 站内
+
+英文 共11个
+
+<a href="/att/OfficeTool/0/2478/325" target="_blank" color="blue">附件(393.2KB)  </a>
+--
+
+※ 修改:·xiongQQ 于 Apr  3 22:59:02 修改本文·[FROM: 59.64.211.73]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+
+ 
+【文章标题】：【分享】卡巴斯基用户打开 金山词霸 就死机的解决方法。 (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/2325 【创建时间】：2007-03-26 【作者】：ls 【评论】：0 【内容】：发信人: ls (世界上最美丽的语言是沉默), 信区: OfficeTool
+标  题: 【分享】卡巴斯基用户打开 金山词霸 就死机的解决方法。 (转载)
+发信站: 北邮人论坛 (Mon Mar 26 21:48:22 2007), 站内
+
+【 以下文字转载自 Talking 讨论区 】
+发信人: wanghappy (麒麟王), 信区: Talking
+标  题: 分享 卡巴斯基用户打开 金山词霸 就死机的解决方法。
+发信站: 北邮人论坛 (Mon Mar 26 21:46:00 2007), 站内
+
+以前不知道为什么，开金山就没响应，后来感觉是卡巴问题，果然搜到了解决方法。
+
+希望能给有同样困扰的人已帮助。
+
+点击卡巴斯基6右上角的“设置” 
+
+选择最上方的“保护” 
+
+进入“信任区域” 
+
+选“信任程序” 
+
+“添加” 
+
+然后“浏览”找到金山词霸的主程序，不知道主程序放在哪的，可以在你桌面上的快捷方式那里点击右健，属性，就可以看到具体的位置了，像我的属性是"F:\kingsoft\PowerWord 2006\XDICT.exe"，所以就找到XDICT.exe。 
+
+属性选“不控制程序活动性、不控制访问注册”（不要多选，否则会导致卡巴斯基6的邮件保护失败） 
+
+然后确定。关掉卡巴斯基，重开就解决了。
+
+--
+愁眉苦脸一辈子，高高兴兴也一辈子，何不  HAPPY  一下？ 
+
+※ 修改:·xiongQQ 于 Apr  8 03:12:35 修改本文·[FROM: 59.64.211.73]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.209.146]
+ 
+【文章标题】：【共享】The LATEX Mathematics Companion.pdf 【文章地址】：https://bbs.byr.cn/article/OfficeTool/2747 【创建时间】：2007-04-15 【作者】：QuestionMark 【评论】：0 【内容】：发信人: QuestionMark (问号), 信区: OfficeTool
+标  题: 【共享】The LATEX Mathematics Companion.pdf
+发信站: 北邮人论坛 (Sun Apr 15 18:44:07 2007), 站内
+
+
+<a href="/att/OfficeTool/0/2747/261" target="_blank" color="blue">附件(1.1MB)  The_LATEX_Mathematics_Companion.pdf</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.201.*]
+
+ 
+
+【文章标题】：【求助】excel2007画折线图时横轴不从0开始,想显示2003-2007怎 【文章地址】：https://bbs.byr.cn/article/OfficeTool/10608 【创建时间】：2008-08-03 【作者】：yangxiao 【评论】：26 【内容】：发信人: yangxiao (木水年华), 信区: OfficeTool
+标  题: 【求助】excel2007画折线图时横轴不从0开始,想显示2003-2007怎么办
+发信站: 北邮人论坛 (Sun Aug  3 22:49:44 2008), 站内
+
+求达人指教
+谢谢啦...很急
+--
+
+※ 修改:·police 于 Aug  3 22:54:07 修改本文·[FROM: 118.229.162.2]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.199.*]
+ 
+【文章标题】：【Word】Word安全保护技巧大搜罗 【文章地址】：https://bbs.byr.cn/article/OfficeTool/47 【创建时间】：2006-09-07 【作者】：ls 【评论】：0 【内容】：发信人: ls (世界上最美丽的语言是沉默), 信区: OfficeTool
+标  题: 【Word】Word安全保护技巧大搜罗
+发信站: 北邮人论坛 (Thu Sep  7 00:02:34 2006), 站内
+
+Office是比较通用的办公软件，关于它的技巧也是层出不穷，但是很多技巧缺乏系统地归类，在此小编急大家之所急，想大家之所想，整理出了一套完整的Office实用技巧，小巧实用。这次奉献给大家的是Word安全保护技巧，其他的会陆续发给大家：）
+　　有“自动恢复”不怕突然死机
+　　如果Windows突然死机，而且工作又没有及时保存。其实不必害怕，只要使用的是Word XP，那下次重新启动Word时就会弹出一个“文件恢复”任务窗格，单击某恢复文件后，就可以继续编辑了。
+
+　　使用自动保存功能
+　　选择“工具”→“选项”，单击“保存”标签，并选中“自动保存时间间隔”复选框，在“分钟”框中，输入时间间隔，以确定Word 2000/XP 保存文件的时间。时间越短，Word 2000/XP 保存文件越频繁，在Word 2000/XP 中打开文件后出现断电或类似问题时，能恢复的信息当然也就越多，一般设置为1分钟。
+　　经过上面的设置后，所有在发生断电或类似问题时处于打开状态的文件在下次启动Word时都会显示出来，可以对它们进行保存。不过在替换原有文件之前，请验证恢复文件包含有你需要的信息，不要覆盖了原先的文件。
+
+　　从文本中恢复
+　　选择“工具”→“选项”→“常规”，选中“打开时确认转换”复选框，再按下工具栏上的“打开”按钮，在“文件类型”选项中，单击“从任意文件中恢复文本”。如果没有则需要你安装“恢复文本转换器”。选择要恢复的文件，单击“打开”按钮，即可打开该文件。
+
+　　去文件头恢复文件
+　　如果有时使用“从任意文件中恢复文件”法无法挽救，这时可通过去掉其文件头的方法进行挽救：先建立一个空白Word文件，不输入任何内容，再将其复制一遍，在复制的文件中随便输入一些内容存盘，然后用16进制编辑器（这里是WinHex）比较两个文件，你会发现大致从Offset值为A00处开始，内容便出现明显不同。于是，将故障文件备份一次，用WinHex打开其备份文件，将Offset值为A00以前的一些内容删掉，开始可以少删一点，不行再多删一点。然后将删除后的文件保存。
+　　接着就是用Word打开“去头”的文件。在“打开”对话框的“文件类型”框中选择“从任意文件中恢复文本”项，然后双击“去头”文件，极有可能能够恢复原文件中的文本内容。
+
+　　用专用工具恢复
+　　从<a target="_blank" href="http://www.officerecovery.com">http://www.officerecovery.com</a>下载WordRecovery工具，完成安装后，只要打开Word，选择“文件”→Recovery命令，再选中欲修复的Word文件，然后按下Recover按钮，WordRecovery插件即会为自动修复选中的文件，接着会只要按照向导保存一下修复后的Word文件即可。
+
+　　挽救Excel文件
+　　如果Excel文件损坏，可借助Word作为“中介”来恢复：先进入Word，打开要修复的Excel文件（注意先将“文件类型”选为“所有文件”），打开后，先将文件中损坏的数据删除并且进行修复，再选择“表格”→“转换”→“表格转文本”，然后可以用逗号或其他的分隔符作为间隔符，再把转换后的文件另存为TXT文件。接着启动Excel，并插入该TXT文件，再另存为Excel文件即可。
+
+　　设置密码来保护文件
+　　选择“工具”→“选项”，单击“安全性”标签，在“打开权限密码”文本框中输入打开权限密码，并在“修改权限密码”中输入修改文件权限密码，按下“确定”按钮。再保存Word文件，以后把这个Word文件交给别人时只告诉用户打开权限密码。这样用户打开此文件时，会向用户询问密码，输入“打开权限密码”后，此时Word会向他（她）询问修改权限密码。
+
+　　不显示最近文件
+　　选择“工具”→“选项”，单击“常规”标签，取消“列出最近使用文件”前的对钩，便可不让Word显示最近用过的文件。
+　　另外，Windows“开始”菜单中的“文件”子菜单中也会列出在最近操作中使用过的文件，应注意及时清除“开始”菜单的“文件”中的内容。
+
+　　妥善处理文件中的用户信息
+　　如果在安装Office时如实填写了用户信息，这些信息会被Office自动加入到他所生成的每个文件中，而这些信息极有可能会泄漏的某些隐私。这时，可以选择“文件”→“属性”，在弹出的的窗口中选择“摘要”选项卡，并将其中各项中的内容删掉，再保存文件即可。
+
+　　保护窗体
+　　如果想保护Word窗体，那可以选择“工具”→“保护文件”，在弹出的对话框中选中“窗体”选项并设置密码，这样就将所创建的窗体保护了起来。如果用户不知道密码，只能够在设置的窗体中的特定区域进行操作，而无法对窗体进行修改或删除。只有知道密码的用户才可用窗体工具条中的“保护窗体”按钮在解除保护和保护状态之间进行切换。
+
+　　防止宏病毒
+　　选择“工具”→“宏”→“安全性”，在弹出的对话框中设置宏的安全级别（建议设置为高或中），使Word禁止非可靠来源文件中的宏的运行，或在运行前给出警告提示，让用户选择是否运行这个文件。但Word只能从一定程度上预防宏病毒而不能杀除它。所以要真正杜绝宏病毒，用户还需使用优秀的防毒杀毒软件。
+
+　　“非法操作”的应对办法
+　　在编辑文件时最担心出现“非法操作”的对话框，其实，不必担心，因为如果在Windows 98下，用户完全可以不去理会“非法操作”的对话框，直接单击Word中的保存按钮，待文件保存完毕后，单击“关闭”按钮，这样文件就得以保存了。
+　　如果是在Windows 2000/XP下，那重新启动Word后，会出现一个“文件恢复”窗格，单击相应文件即可打开上次“非法操作”后的文件，另存一下即可。
+
+　　恢复无响应Office XP文件
+　　如果Office XP程序没有响应，可以选择“开始”→“程序”→“Microsoft Office 工具”→“Microsoft Office 应用程序恢复”，再单击选中没有响应的程序。单击“重新启动应用程序”或“结束应用程序”按钮来执行相应的操作即可。
+
+　　杀死宏病毒
+　　如果怀疑机器感染了宏病毒，则可以按下Alt+F8键，在弹出的对话框中有已经记录的宏的话，那就极有可能是宏病毒，可以删除所有的宏试一试。
+
+　　利用SnagIt巧解保护
+　　如果的文件加上了保护密码，可有一天又想对这个文件重新进行排版修改，这时突然发现已把密码给忘了，可那可以使用SnagIt来拯救它：先打开要修改的文件，启动SnagIt，选中“文本捕获”，然后单击“捕获”，再把鼠标移到Word窗口上，单击鼠标，即可把要修改的文件中的文本捕获下来，然后把它们保存为文本文件，可再利用Word对它们进行编辑即可。
+
+　　利用启动参数拯救文件
+　　有些Word文件可能是被作者利用自动运行的宏功能进行了加密，或自动运行的宏代码中出现了错误，这时可利用Word的“/m”启动参数，禁止Word宏的运行，从而拯救Word文件：建立一个Word启动的快捷键，再右击此快捷方式，在“目标”项的文件名后加参数，比如“C:\Program Files \Microsoft Office\Office10\WINWord.EXE /m ”，双击此快捷方式，再打上述Word文件，试一试，说不定就可以恢复出其中的文本。
+
+　　我的密码你猜不着
+　　按住键盘上的Alt键不放，输入200，再松开Alt键，你将看到“ è ”出现在屏幕上。这就是ASCII码200对应的字符。因此，可以用这些字符来加密Word文件，这样Word文件被解密的可能性就小多了。
+　　小提示
+　　★000-031以及127是“控制符”，Office不接受；而032-126可以在键盘上直接打出来，所以，能用于这种特殊密码的，仅有128-255这些“字符”。
+　　★文件这样加密，若长度在8位以上，恐怕连神仙也猜不出来了。只是这样做的弊端也很明显，密码太难记了。
+
+　　请把你的激活信息保存好
+　　如果使用的是Office XP，那请保存好C:\Program Files\Common Files\Microsoft Shared\Office10\mso.dll文件，重装Office XP后，必须把这个文件拷贝到C:\Program Files\Common Files\Microsoft Shared\Office10文件夹中，以避免重新激活。
+
+　　备份你的模板
+　　如果是Windows 9x/Me，模板放在C:\Windows\Application Data\Microsoft\Templates文件夹下，如果是Windows 2000/XP，则放在C:\Documents and Settings\用户名\Application Data\Microsoft\Templates文件夹下（如C:\Documents and Settings\Administrator\Application Data\Microsoft\Templates）。用“资源管理器”定位到相应文件夹下后，会看到一些扩展名为DOT的文件，这些就是Word中自定义的模板文件，只要把它们拷贝备份出来，以后重新安装Office，再把它们拷贝到上述文件夹中即可。
+
+　　保存你自己的设置
+　　Office使用时间长了，必然会有很多自己的设置信息，如果使用的是Office XP，可单击“开始”→“程序”→“Microsoft Office 工具”→“用户设置保存向导”启动“用户设置保存向导”，通过它即可把本机Office XP当前设置保存到设置文件中，也可以从设置文件中恢复设置。
+
+　　备份自动更正信息
+　　Word具有自动更正功能，通过它确实可以给我们带来很多的方便，但可惜的是，Word却没有提供我们备份自动更正信息的功能。不过，可以从<a target="_blank" href="http://support.Microsoft.com/default.aspx">http://support.Microsoft.com/default.aspx</a>？scid=http://download.Microsoft.com/download/Word2002/utility/1.0/w98nt42kmexp/en-us/Support.exe下载Word 2002 Support Template软件，安装后单击“开始”→“程序”→Microsoft Office Tools→Word 2002 Support Template可以让Word XP打开该模板。按下Alt+F8键，再选中AutoCorrect Backup项，然后单击“运行”按钮，选择Backup按钮即可把当前自动更正信息备份到一个默认为AutoCorrect Backup Document.doc的文件中。以后，重安系统后只要再次安装一下Word 2002 Support Template模板，再Alt+F8键，选中AutoCorrect Backup项，然后单击“运行”按钮，选择Restore按钮导入备份的自动更正文件即可。
+　　小提示
+　　通过这个小工具也可以把当前自动更正信息备份到AutoCorrect Backup Document.doc文件中，大家也可以打印出来供自己平时查看或与他人共享交流。对于提高自己的水平也很有好处。
+
+　　让你的Office更新、更轻松
+　　微软公司的产品经常是补丁不断，尽人皆知。如果要更新Office XP，那大家可以直接登录<a target="_blank" href="http://office.Microsoft.com/china/ProductUpdates/default.aspx">http://office.Microsoft.com/china/ProductUpdates/default.aspx</a>网站，在该网站上，只要单击相应的按钮，就可以进行类似傻瓜式地操作，顺着向导就可以把使用的Office的补丁自动打好。
+
+
+--
+****************************************************************
+热烈欢迎大家到  *OfficeTool*  版进行学习
+<a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=OfficeTool">～～～～～让我们一起征服Office！！～～～～～～</a>
+    ^^记得点我上面那行字进去哦^^
+****************************************************************
+
+
+※ 修改:·xiongQQ 于 Oct  6 22:30:06 修改本文·[FROM: 59.64.216.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.206.*]
+ 【文章标题】：[公告] 开设 OfficeTool/办公软件 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/2 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: OfficeTool
+标  题: [公告] 开设 OfficeTool/办公软件 版面
+发信站: 北邮人论坛 (Tue Sep  5 12:53:19 2006), 站内
+
+【 以下文字转载自 Board_Management 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Management
+标  题: [公告] 开设 OfficeTool/办公软件 版面
+发信站: 北邮人论坛 (Tue Sep  5 12:49:49 2006), 站内
+
+经版面管理组讨论，同意开设 OfficeTool/办公软件 版面，
+并任命 ls 为第一任版主。
+
+分区位置：学术科技
+是否计发文数：计入
+是否计入十大统计：计入
+是否直接提供附件功能：不直接提供
+
+需要改变上述属性的，请在开版满两周后在 Board_Management 按格式提出申请。
+
+本版其他版主申请，请到 BM_Apply 版按申请的格式进行。
+
+申请人作为版主，请在收到正式任命通知后 3 天内到 BoardManager 版报道。
+同时建议多到 BM_Office 版学习和讨论版务事宜。
+
+新开设版面应在通过一周内，由版主在版面、Board_Document 版
+同时提交正式的版规。版规未经审批通过的，不能通过后
+续的新开版期考核，直接终止版面。
+
+新开设版面成立满 2 个月后，应由版主在版面与 Board_Document 版同时
+提交版面发展总结报告并申请通过新开期考核。版面管理组将对报告进行讨论，并
+决定是否接受申请。
+
+通过新开版期考核的版面将成为本站的正式版面，并视情况改变其版面属性。
+ 
+                                                    北邮人论坛版面管理组
+
+--
+柚子  榴莲  芒果  番石榴  杨桃干
+清平鸡  烧鹅濑  肠粉  水蛇粥  马蹄糕  榴莲酥  钵仔糕
+双皮奶  姜撞奶  芝麻糊  陈村粉  龟苓膏  癍痧凉茶  绿豆沙
+林林牛杂  云吞面  
+上下九  宝华路  北京路  珠江边  中山大道  那间小屋
+淸炒空心菜  煮玉米  蛋炒饭  
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.217.*]
+ 
+【文章标题】：[合集] [提案]成立看版(officetool) (转载) 【文章地址】：https://bbs.byr.cn/article/OfficeTool/1 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: OfficeTool
+标  题: [合集] [提案]成立看版(officetool)
+发信站: 北邮人论坛 (Tue Sep  5 12:52:56 2006), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Apply
+标  题: [合集] [提案]成立看版(officetool)
+发信站: 北邮人论坛 (Fri Aug 25 12:57:31 2006), 站内
+
+☆─────────────────────────────────────☆
+   ls (世界上最美丽的语言是沉默) 于  (Sun Jun 11 22:30:45 2006)  提到:
+
+内容: (1). 英文版名: officetool
+      (2). 中文版名: (办公软件操作) 
+分区：2)
+类别: 类别名 (学术科技)
+
+(2). 版面宗旨：office软件在日常的学习生活中得到应用广泛。尽管如此，由于其强大的功能，大家对不少office操作还是有不了解的地方。为了让办公软件更好的为我们服务，让它的使用变得不那么困扰，特开此版方便大家交流学习，尽量做到有问必答。
+
+(3). 申请人信息:
+申请人 ID：ls   
+申请人是否曾经担任过本站的管理或非管理职务？是  health  &amp;  id
+申请人是否承诺一旦开版成功，即担任版主：是
+申请人是否承诺一旦开版成功，将支持并接受站务委员会的管理：是 
+申请人是否了解新开设或新恢复的主题版面应在通过复审后一周内，由版主在版面与版面管
+理版同时提交正式的制版方针：是 
+
+
+
+☆─────────────────────────────────────☆
+   TheMoment (我不是小孩) 于  (Sun Jun 11 23:03:52 2006)  提到:
+
+支持~
+
+
+☆─────────────────────────────────────☆
+   mejane (BT嚣张简) 于  (Sun Jun 11 23:27:19 2006)  提到:
+
+支持
+
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   serguy (色鱼|八卦帮之火地晋) 于  (Sun Jun 11 23:28:28 2006)  提到:
+
+支持！
+
+
+☆─────────────────────────────────────☆
+   we7ew (ew) 于  (Sun Jun 11 23:35:46 2006)  提到:
+
+不错
+
+
+☆─────────────────────────────────────☆
+   tonipump (不求甚解) 于  (Sun Jun 11 23:55:51 2006)  提到:
+
+恩，不错的。
+
+
+☆─────────────────────────────────────☆
+   thrillghost (thriller) 于  (Mon Jun 12 00:05:11 2006)  提到:
+
+up！
+
+
+☆─────────────────────────────────────☆
+   sunsimonny (KN~|处男处长) 于  (Mon Jun 12 12:50:04 2006)  提到:
+
+支持牛奶姐姐！
+
+严重支持！
+
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   littleboy (北邮首席宠物...) 于  (Mon Jun 12 12:54:57 2006)  提到:
+
+支持姐姐开版．．我ＰＰＴ还不会做．．
+
+
+☆─────────────────────────────────────☆
+   u0 (奈奈|我是一只幽灵) 于  (Mon Jun 12 12:57:10 2006)  提到:
+
+支持
+
+
+
+
+☆─────────────────────────────────────☆
+   GODfist (我心拳拳) 于  (Mon Jun 12 12:58:40 2006)  提到:
+
+支持支持～～
+
+
+☆─────────────────────────────────────☆
+   Hebe (Hebe | S.H.E) 于  (Mon Jun 12 12:58:42 2006)  提到:
+
+支持牛奶姐姐
+
+
+☆─────────────────────────────────────☆
+   JimmyDong (尤里安) 于  (Mon Jun 12 13:00:32 2006)  提到:
+
+牛奶好有精神啊
+
+支持
+
+
+☆─────────────────────────────────────☆
+   BeautySun (三年后的软件右边锋) 于  (Mon Jun 12 13:01:29 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   tony6 (燕京千景之九九归一|八卦帮之水泽节) 于  (Mon Jun 12 13:10:04 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   ceciliajsy (绾绾|八卦帮之泽火革|燕京千景之三七尔依) 于  (Mon Jun 12 13:20:24 2006)  提到:
+
+支持
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   Drj (DrJ) 于  (Mon Jun 12 13:25:25 2006)  提到:
+
+stand
+
+
+☆─────────────────────────────────────☆
+   hbzyc (氺ヾ去雲ァ留) 于  (Mon Jun 12 13:27:15 2006)  提到:
+
+强烈支持~~
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   hao123 (环顾四方) 于  (Mon Jun 12 13:27:32 2006)  提到:
+
+支持！
+
+
+
+
+☆─────────────────────────────────────☆
+   sqj19860404 (等待…) 于  (Mon Jun 12 13:33:49 2006)  提到:
+
+lsjj必然要订
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   DusTin (齐鲁山水人之崂山九水十八潭) 于  (Mon Jun 12 13:46:41 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   woailaopo (我爱老婆) 于  (Mon Jun 12 13:52:14 2006)  提到:
+
+ID：taiwan
+态度：支持
+
+
+☆─────────────────────────────────────☆
+   sunsimon (SunSimON) 于  (Mon Jun 12 14:28:24 2006)  提到:
+
+支持啊支持
+
+【 在 woailaopo (我爱老婆) 的大作中提到: 】
+: ID：taiwan 
+: 态度：支持 
+
+
+
+
+☆─────────────────────────────────────☆
+   nGN (bqt_caby|春分@光棍帮|所有国家都是我mj~) 于  (Mon Jun 12 14:46:23 2006)  提到:
+
+支持~~
+
+
+
+
+☆─────────────────────────────────────☆
+   BoyFisher (男孩之垂钓者|小龍快跑|推荐看看偶的QMD) 于  (Mon Jun 12 16:18:32 2006)  提到:
+
+zhichi
+
+
+☆─────────────────────────────────────☆
+   stonebreaker (BREAKSTONE) 于  (Mon Jun 12 16:47:34 2006)  提到:
+
+支持
+
+
+☆─────────────────────────────────────☆
+   halajy1005 (无厘国大老板~~~) 于  (Mon Jun 12 17:08:52 2006)  提到:
+
+支持~~~
+
+
+☆─────────────────────────────────────☆
+   Aiwen (爱文) 于  (Mon Jun 12 17:24:07 2006)  提到:
+
+id:aiwen
+
+attitude:support
+
+
+☆─────────────────────────────────────☆
+   realzxy (Raulseven  劳尔七号    ぺ至尊宝宝づ) 于  (Mon Jun 12 17:30:59 2006)  提到:
+
+支持
+
+
+
+☆─────────────────────────────────────☆
+   Neverwinter (Sci-Fi SG Atlantis) 于  (Tue Jun 13 18:51:49 2006)  提到:
+
+sp!
+【 在 ls (世界上最美丽的语言是沉默) 的大作中提到: 】
+: 内容: (1). 英文版名: officetool 
+:       (2). 中文版名: (办公软件操作)  
+: 分区：2) 
+: ................... 
+
+
+
+ 
+【文章标题】：【新闻】OpenOffice.org 3.0.0 中文正式版发布 【文章地址】：https://bbs.byr.cn/article/OfficeTool/13669 【创建时间】：2008-10-29 【作者】：police 【评论】：15 【内容】：发信人: police (我其实想换个名。。。。), 信区: OfficeTool
+标  题: 【新闻】OpenOffice.org 3.0.0 中文正式版发布
+发信站: 北邮人论坛 (Wed Oct 29 18:01:04 2008), 站内
+
+
+
+ugmbbc发布于 2008-10-29 15:12:54|3697 次阅读 字体：大 小 打印预览
+
+感谢XJP的投递
+OpenOffice原是Sun公司的一套商业级Office软件－StarOffice，经过Sun公司公开程序码之后，正式命名为OpenOffice发展计划，并由许许多多热心于自由软件的人士共同来维持。让大家能在MS OFFICE之外，还能有免费的Office可以使用。OpenOffice是个整合性的软件，里面包含了许许多多的工具，其功能绝对不比微软的MS Office还差，不但可以有Word一样的字处理，制作简单的图形，更有功能强大的图表功能，也能编写网页，还可以做出MS Office中很难处理的数学符号等等，支持了XML、微软的doc、Excel、ppt文件等格式。
+
+--
+
+※ 修改:·police 于 Oct 29 18:01:14 修改本文·[FROM: 118.229.162.92]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.162.92]
+ 

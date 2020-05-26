@@ -1,0 +1,166 @@
+【文章标题】：关于JS下this的问题 【文章地址】：https://bbs.byr.cn/article/JavaScript/719 【创建时间】：2016-10-25 【作者】：mima031103 【评论】：13 【内容】：发信人: mima031103 (纳兰涟漪), 信区: JavaScript
+标  题: 关于JS下this的问题
+发信站: 北邮人论坛 (Tue Oct 25 16:58:14 2016), 站内
+
+
+<a target="_blank" href="/att/JavaScript/0/719/339"><img border="0" title="1VRP7C39B]RW36WY)DCZDUS.png" src="/att/JavaScript/0/719/339" alt="1VRP7C39B]RW36WY)DCZDUS.png" class="resizeable"></a>
+“很不幸，我们得到的只是一个属于回调函数自身上下文的this”
+
+
+不明白这是什么意思，按第一块来写有什么问题么？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.236.*]
+
+ 
+【文章标题】：关于nodejs中进程间的负载均衡 【文章地址】：https://bbs.byr.cn/article/JavaScript/782 【创建时间】：2016-11-03 【作者】：matsunatsuri 【评论】：0 【内容】：发信人: matsunatsuri (kumako), 信区: JavaScript
+标  题: 关于nodejs中进程间的负载均衡
+发信站: 北邮人论坛 (Thu Nov  3 17:05:14 2016), 站内
+
+<pre class="markdown">```javascript
+
+//master.js
+var server = require('net').createServer();
+server.listen(port);
+
+var createWorker = function(){
+    var worker = fork(__dirname + '/worker.js');
+
+    worker.send('server',server);
+}
+
+for(var i = 0; i &lt; cpus.length; i++){
+    createWorker();
+}
+
+//worker.js
+var http = require('http');
+var server = http.createServer(function(req,res){
+    res.writeHead(200,{'Content-Type':'text/plain'});
+    res.end('handled by child,pid is ' + process.pid + '\n');
+});
+
+process.on('message',function(m,tcp){
+    if(m === 'server'){
+        worker = tcp;
+        worker.on('connection',function(socket){
+            server.emit('connection',socket);
+        })
+    }
+});
+```</pre>
+大概就是这样一种master-worker模式，node默认的机制是抢占式策略，当然也提供了Round-Robin
+但是现在想自己做这部分的负载均衡，具体算法什么的先忽略，负载均衡部分的代码应该安排在哪里呢？
+比如说想要根据request的ip，计算一个值，分发给某个进程，看起来应该写在master里面，但是node这种发送句柄的形式，在一开始创建进程时就把server发送过去了以让子进程监听端口。。。所以现在有些懵逼不知道怎么往下写了。。。
+希望大神们帮帮忙。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.203.2.*]
+ 
+【文章标题】：关于动态载入的js文件怎么debug 【文章地址】：https://bbs.byr.cn/article/JavaScript/720 【创建时间】：2016-10-25 【作者】：echojessicaa 【评论】：2 【内容】：发信人: echojessicaa (Sherry), 信区: JavaScript
+标  题: 关于动态载入的js文件怎么debug
+发信站: 北邮人论坛 (Tue Oct 25 17:39:54 2016), 站内
+
+请教有什么调试动态载入js的好工具~
+我正在用ext的application组件，很多自己写的code是动态载入的，用firebug打断点调试的时候，无法识别上次载入的文件导致断点也识别不了…
+
+向前端大拿求救
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 106.37.236.*]
+ 
+【文章标题】：请问大神们，js怎么实现单链表？？ 【文章地址】：https://bbs.byr.cn/article/JavaScript/378 【创建时间】：2016-09-23 【作者】：bufoshen 【评论】：7 【内容】：发信人: bufoshen (不佛神), 信区: JavaScript
+标  题: 请问大神们，js怎么实现单链表？？
+发信站: 北邮人论坛 (Fri Sep 23 18:45:33 2016), 站内
+
+面试被问到，不会怎么实现，请问大神们有木有实现过？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.45.*]
+ 
+【文章标题】：求问javascript的问题 【文章地址】：https://bbs.byr.cn/article/JavaScript/746 【创建时间】：2016-10-26 【作者】：qiuoffer 【评论】：3 【内容】：发信人: qiuoffer (offer 速来), 信区: JavaScript
+标  题: 求问javascript的问题
+发信站: 北邮人论坛 (Wed Oct 26 20:48:18 2016), 站内
+
+ var a={[1,3,6,8,2,4,7,11,12];}
+    var b=a;
+    b[1]=5;
+    console.log(a[1])
+
+var a={
+        x:1,
+        y:2
+    }
+
+    var b=a;
+    b.x=5;
+    console.log(a.x)
+
+求这两个的值为多少？？
+麻烦大神给解答解答原理~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.45.*]
+ 
+【文章标题】：cookies读取问题 【文章地址】：https://bbs.byr.cn/article/JavaScript/710 【创建时间】：2016-10-23 【作者】：zhanghaocs58 【评论】：4 【内容】：发信人: zhanghaocs58 (没落的荣耀), 信区: JavaScript
+标  题: cookies读取问题
+发信站: 北邮人论坛 (Sun Oct 23 21:08:26 2016), 站内
+
+想做一个购物车界面，发现定义的Save和Read方法不能正确读取存进去的数据，求问什么原因。代码如下：
+
+        //cookies保存
+    this.Save=function(cart){
+        var source='';
+        console.info(cart);
+        for(var i=0;i&lt;cart.items.length;i++){
+            if (source!='') {
+                source+='##';
+            }
+            source+=this.ItemToString(cart.items[i]);
+        }
+        console.info('save' + source);
+        console.info('userid' + cart.user_id);
+        $.cookie(cart.user_id,source,{expires:7,path:'D:\cart_cookies'});
+    };
+
+        //cookie读取购物车操作
+    this.Read=function(user_id){
+        console.info(user_id);
+        var source=$.cookie(user_id);
+        console.info(source);
+        var cart=new Cart();
+        if(source==null || source==''){
+            cart.user_id=user_id;
+            return cart;
+        }else{
+            var arr=source.split('##');
+            for(var i=0;i&lt;arr.length;i++){
+                var item=this.ItemToObject(arr[i]);
+                cart.items.push(item);
+                cart.total+=item.amount*item.price;
+            }
+            return cart;
+        }
+    };
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.203.6.*]
+ 
+【文章标题】：js设计模式看的心累哦 【文章地址】：https://bbs.byr.cn/article/JavaScript/764 【创建时间】：2016-11-02 【作者】：zxx000 【评论】：20 【内容】：发信人: zxx000 (往前走SD卡), 信区: JavaScript
+标  题: js设计模式看的心累哦
+发信站: 北邮人论坛 (Wed Nov  2 11:08:47 2016), 站内
+
+渣硕一枚，js设计模式看的稀里糊涂，只有我看不懂么<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.240.*]
+ 
+【文章标题】：js生成json 【文章地址】：https://bbs.byr.cn/article/JavaScript/791 【创建时间】：2016-11-10 【作者】：bupttest 【评论】：2 【内容】：发信人: bupttest (yuner), 信区: JavaScript
+标  题: js生成json
+发信站: 北邮人论坛 (Thu Nov 10 11:15:25 2016), 站内
+
+类似xml的生成形式，生成json的格式文件。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.166.*]
+ 

@@ -15,8 +15,9 @@ class ByrArticleItem(scrapy.Item):
     send_time = scrapy.Field()
     sender = scrapy.Field()
     reply_count = scrapy.Field()
-    content = scrapy.Field()
     latest_reply_time = scrapy.Field()
+    content = scrapy.Field()
+    comments = scrapy.Field()
 
 class ByrSectionItem(scrapy.Item):
     section_url = scrapy.Field()

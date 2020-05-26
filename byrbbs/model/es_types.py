@@ -30,8 +30,9 @@ class bbsType(Document):
     send_time = Date()  # 日期
     sender = Keyword()  # 作者
     reply_count = Integer()  # 评论个数
-    content = Text(analyzer="ik_max_word")  # 内容
     latest_reply_time = Date()
+    content = Text(analyzer="ik_max_word")  # 内容
+    comments = Text(analyzer="ik_smart")  # 评论
 
     suggest = Completion(analyzer=ik_analyzer)  # 搜索建议
 
@@ -68,7 +69,7 @@ class bbsType(Document):
         #     vars(self)[key]=item[key]
 
         # TODO：生成搜索建议词
-        self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
+        # self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
 
     def gen_suggests(self, info_tuple):
         # 根据字符串生成搜索建议数组

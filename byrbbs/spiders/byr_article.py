@@ -55,6 +55,7 @@ class ByrArticleSpider(scrapy.Spider):
         send_time = sel_article.xpath('td[3]/text()').extract()
         sender = sel_article.xpath('td[4]/a/text()').extract()
         reply_count = sel_article.xpath('td[5]/text()').extract()
+        latest_reply_time = sel_article.xpath('td[6]/a/text()').extract()
 
         # 处理列表的每一行，即每一篇文章的信息，存入item
         for index, url1 in enumerate(url):
@@ -65,18 +66,34 @@ class ByrArticleSpider(scrapy.Spider):
             item['send_time'] = send_time[index]
             item['sender'] = sender[index]
             item['reply_count'] = reply_count[index]
-            # print(item)
+            item['latest_reply_time'] = latest_reply_time[index]
             yield scrapy.Request(item['url'], meta={'cookiejar': response.meta['cookiejar'],'item': item}, headers=HEADERS,callback=self.parse_article_content)
 
     # 处理文章主体内容
     def parse_article_content(self, response):
+        item = response.meta['item']
+
         article = response.xpath('//div[3]/div[1]/table/tr[2]/td[2]/div[1]').extract()[0]
         article = re.sub('</?(font|div).*?>', '', article)
         article = re.sub('<br>', '\n', article)
-        item = response.meta['item']
         item['content'] = article
+
+        lists = response.css('div.b-content')
+        list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
+        result = "".join(list_content)
+        result = re.sub('</?(font|div).*?>', '', result)
+        result = re.sub('<br>', '\n', result)
+        item['comments'] = result
+
+        # for list in lists:
+        #     list_content = list.css('div[class*=a-content-wrap] ::text').extract()
+        #     result = "".join(list_content)
+        #     result = re.sub('</?(font|div).*?>', '', result)
+        #     result = re.sub('<br>', '\n', result)
+        #     item['comments'] = result
+
         fileName = item['partion']+'.txt'  # 爬取的内容存入文件，文件名为：作者-语录.txt
-        path = r'F:\Users\Karen\byrbbs-py2-master\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
+        path = r'E:\Python\信息系统实训\byrspider\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
 
         if not os.path.exists(path):  # 没有这个文件目录则新建一个
             os.mkdir(path)  #

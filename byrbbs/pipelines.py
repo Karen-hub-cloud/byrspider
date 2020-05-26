@@ -88,9 +88,9 @@ class ElasticsearchPipeline(object):
         bbs_info.url = item['url']
         bbs_info.sender = item['sender']
         bbs_info.reply_count = item['reply_count']
+        bbs_info.latest_reply_time = item['latest_reply_time']
         bbs_info.content = item['content']
-        bbs_info.latest_reply_time = "2020-01-11"
-
+        bbs_info.comments = item['comments']
         bbs_info.save()
 
         #仍返回item，使得运行窗口能看到爬到的数据
