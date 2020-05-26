@@ -26,7 +26,7 @@ class ByrArticleSpider(scrapy.Spider):
             line = f.readline()
             line.replace('/', '&').replace('\\', '&&')
             item = ByrArticleItem()
-            item['partion'] = line.split(' ')[1].split('：')[1]
+            item['partion'] = line.split(' ')[1].split(': ')[1]
             print(item['partion'],line.split(' ')[0].split('：')[1])
             yield scrapy.Request(response.urljoin(line.split(' ')[0].split('：')[1]),
                                  meta={'cookiejar':response.meta['cookiejar'],'item':item},

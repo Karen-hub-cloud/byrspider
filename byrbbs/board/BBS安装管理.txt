@@ -822,3 +822,67 @@ then physics is its poetry.
 --
 ※ 转载:．天大求实BBS bbs.tju.edu.cn．[FROM: 202.113.13.188]
  
+【文章标题】：穿梭人数又没有限制 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/433 【创建时间】：2005-12-15 【作者】：hyangl. 【评论】：0 【内容】：发信人: hyangl@newsmth.net-SPAM.no (明诚), 信区: BBSMan_Dev
+标  题: 穿梭人数又没有限制
+发信站: 水木社区 (Thu Dec 15 22:21:24 2005)
+转信站: BYR!news.happynet.org!news.neu.edu.cn!news.newsmth.org!NEWSMTH
+
+会不会穿梭人太多以后，再穿梭就不行了？
+
+--
+
+※ 修改:·hyangl 于 Dec 15 22:21:24 修改本文·[FROM: 211.151.90.*]
+※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+ 
+【文章标题】：现有的KBS-BLOG是不是必须在MYSQL4.0.X下运行？ 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/408 【创建时间】：2005-12-15 【作者】：ukbee. 【评论】：4 【内容】：发信人: ukbee@newsmth.net-SPAM.no (小蜜蜂), 信区: BBSMan_Dev
+标  题: 现有的KBS-BLOG是不是必须在MYSQL4.0.X下运行？
+发信站: 水木社区 (Thu Dec 15 20:49:15 2005)
+转信站: BYR!news.happynet.org!news.neu.edu.cn!news.newsmth.org!NEWSMTH
+
+用的是FC4的LINUX
+自带MYSQL4.1.X
+是不是一定得卸载了4.1.x
+安装4.0.x才可以用现有的KBS的BLOG？
+--
+欢迎光临零时区BBS站
+http://zzonebbs.net
+telnet:zzonebbs.net
+诚征热爱KBS技术的朋友加盟零时区一起开发建设。
+
+※ 来源:·水木社区 <a target="_blank" href="http://newsmth.net">http://newsmth.net</a>·[FROM: 130.88.102.*]
+ 
+【文章标题】：编译时出错，这时什么原因阿 ？ 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/414 【创建时间】：2005-12-15 【作者】：lzuxz. 【评论】：10 【内容】：发信人: lzuxz@newsmth.net-SPAM.no (亡命小猪), 信区: BBSMan_Dev
+标  题: 编译时出错，这时什么原因阿 ？
+发信站: 水木社区 (Thu Dec 15 21:01:05 2005)
+转信站: BYR!news.happynet.org!news.neu.edu.cn!news.newsmth.org!NEWSMTH
+
+
+
+ [Compiling mgrep.lo]
+ gcc -DHAVE_CONFIG_H -I. -I. -I.. -DINVISIBLE -DSAFE_KILL -D_DETAIL_UINFO_ -DSHOW_IDLE_TIME -I../src -Wall -DLINUX -I/usr/include/mysql -MT mgrep.lo -MD -MP -MF .deps/mgrep.Tpo -c mgrep.c  -fPIC -DPIC -o .libs/mgrep.o
+mgrep.c: In function 'prepf':
+mgrep.c:146: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness
+mgrep.c: In function 'mgrep_str':
+mgrep.c:176: warning: pointer targets in passing argument 1 of 'monkey1' differ in signedness
+mgrep.c: In function 'mgrep':
+mgrep.c:221: warning: pointer targets in passing argument 1 of 'strncpy' differ in signedness
+mgrep.c:221: warning: pointer targets in passing argument 2 of 'strncpy' differ in signedness
+ gcc -DHAVE_CONFIG_H -I. -I. -I.. -DINVISIBLE -DSAFE_KILL -D_DETAIL_UINFO_ -DSHOW_IDLE_TIME -I../src -Wall -DLINUX -I/usr/include/mysql -MT mgrep.lo -MD -MP -MF .deps/mgrep.Tpo -c mgrep.c -o mgrep.o &gt;/dev/null 2&gt;&amp;1
+  [Compiling default.lo]
+ gcc -DHAVE_CONFIG_H -I. -I. -I.. -DINVISIBLE -DSAFE_KILL -D_DETAIL_UINFO_ -DSHOW_IDLE_TIME -I../src -Wall -DLINUX -I/usr/include/mysql -MT default.lo -MD -MP -MF .deps/default.Tpo -c default.c  -fPIC -DPIC -o .libs/default.o
+default.c: In function 'get_mail_limit':
+default.c:530: error: 'PERM_LARGEMAIL' undeclared (first use in this function)
+default.c:530: error: (Each undeclared identifier is reported only once
+default.c:530: error: for each function it appears in.)
+default.c: In function 'def_list':
+default.c:689: warning: integer constant is too large for 'long' type
+make[2]: *** [default.lo] 错误 1
+make[1]: *** [all-recursive] 错误 1
+make: *** [all] 错误 2
+[lzuxz@localhost kbs_bbs]$ ./configure --prefix=/mnt/pub/bbs1 --enable-site=devel  --with-mysql=/usr/include/mysql3/ --enable-ssh --enable-ssl --with-www=/usr/local/apache/ --with-php=/usr/local/php/include/php/ --with-libesmtp
+
+
+--
+
+※ 来源:·水木社区 newsmth.net·[FROM: 219.246.80.*]
+ 
