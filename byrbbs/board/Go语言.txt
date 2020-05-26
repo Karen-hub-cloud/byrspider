@@ -435,3 +435,222 @@ interface{}的类型变成了map[interface{}] interface{}
 ※ 修改:·l1047835622 于 Dec 10 14:03:05 2017 修改本文·[FROM: 121.22.249.*]
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 121.22.249.*]
  
+【文章标题】：Re: go语言在校兼职 【文章地址】：https://bbs.byr.cn/article/Golang/920 【创建时间】：2017-12-02 【作者】：原帖已删除 【评论】：4 【内容】：发信人: qq1176694448 (白衣渡江), 信区: Golang
+标  题: Re: go语言在校兼职
+发信站: 北邮人论坛 (Sat Dec  2 19:55:15 2017), 站内
+
+高端啊，竟然用Go写这种系统，为了高并发么
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 115.27.206.*]
+ 
+【文章标题】：「黑黑更健康」goroutine：这个程序比Python慢38% 【文章地址】：https://bbs.byr.cn/article/Golang/371 【创建时间】：2016-06-25 【作者】：nuanyangyang 【评论】：30 【内容】：发信人: nuanyangyang (暖羊羊), 信区: Golang
+标  题: 「黑黑更健康」goroutine：这个程序比Python慢38%
+发信站: 北邮人论坛 (Sat Jun 25 17:52:02 2016), 站内
+
+<pre class="markdown">Python慢那是有名的，我没少[黑它](https://bbs.byr.cn/#!article/Python/68)。计算型的任务可以比C和Java的程序[慢20倍以上](https://bbs.byr.cn/#!article/Python/68)！慢20倍以上！慢20倍以上！重要的事情要说三遍！
+
+可这个Go程序竟然比Python还要慢！比Python还要慢！比Python还要慢！重要的事要说三遍！</pre>
+<img src="/img/ubb/emc/0.gif" alt="emc0" style="display:inline;border-style:none"><img src="/img/ubb/emc/0.gif" alt="emc0" style="display:inline;border-style:none"><img src="/img/ubb/emc/0.gif" alt="emc0" style="display:inline;border-style:none">
+<pre class="markdown">Python: `gen.py`
+```python
+def adder():
+    sum = 0
+
+    while True:
+        v = (yield)
+
+        if v == -1:
+            break
+
+        sum += v
+
+    return sum
+
+def main():
+    g = adder()
+    g.send(None)    # Let it reach its first "yield"
+
+    for i in range(10000000):
+        g.send(i)
+
+    try:
+        g.send(-1)
+    except StopIteration as e:
+        sum = e.value
+
+    print("Sum is {}".format(sum))
+
+if __name__=='__main__':
+    main()
+```
+
+Go: `goro.go`
+```go
+package main
+
+import (
+    "fmt"
+)
+
+func adder(toAdder chan int64, fromAdder chan int64) {
+    var sum int64 = 0
+
+    for {
+        v := &lt;-toAdder
+
+        if v == -1 {
+            break
+        }
+
+        sum += v
+    }
+
+    fromAdder &lt;- sum
+}
+
+func main() {
+    toAdder := make(chan int64)
+    fromAdder := make(chan int64)
+
+    go adder(toAdder, fromAdder)
+
+    var i int64
+
+    for i = 0; i &lt; 10000000; i++ {
+        toAdder &lt;- i
+    }
+
+    toAdder &lt;- -1
+
+    sum := &lt;-fromAdder
+
+    fmt.Printf("Sum is %d\n", sum)
+}
+
+// vim: ts=8 sw=8 noet
+```
+
+运行：
+```bash
+$ time python gen.py
+Sum is 49999995000000
+python gen.py  2.32s user 0.00s system 99% cpu 2.330 total
+$ go build goro.go
+$ time ./goro
+Sum is 49999995000000
+./goro  3.22s user 0.06s system 103% cpu 3.160 total
+```
+
+
+额外信息：
+```
+$ go version
+go version go1.6.2 linux/amd64
+$ python --version
+Python 3.5.1
+$ cat /proc/cpuinfo | grep 'model name'
+model name      : Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+model name      : Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+model name      : Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+model name      : Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+```</pre>
+--
+※ 修改:·nuanyangyang 于 Jun 25 20:46:06 2016 修改本文·[FROM: 150.203.190.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 150.203.190.*]
+ 
+【文章标题】：问题：关于 byte rune constant 【文章地址】：https://bbs.byr.cn/article/Golang/413 【创建时间】：2016-06-29 【作者】：YiYeShu 【评论】：2 【内容】：发信人: YiYeShu (一页书), 信区: Golang
+标  题: 问题：关于 byte rune constant
+发信站: 北邮人论坛 (Wed Jun 29 12:19:58 2016), 站内
+
+<pre class="markdown"># 这样可以比较, pattern 是 string, pattern[0] 是 byte(uint8)
+    pattern := "/list"
+    if pattern[0] != '/' {
+        // TODO
+    }
+
+# 这样就不可以了, pattern 是 string, pattern[0] 是 byte(uint8), slash 是 rune(int32)
+    pattern := "/list"
+    slash := '/'
+    if pattern[0] != slash {
+        // TODO
+    }</pre>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 103.249.255.*]
+ 
+【文章标题】：[问题]【hash函数】想问大神，hash的sum方法 【文章地址】：https://bbs.byr.cn/article/Golang/431 【创建时间】：2016-07-02 【作者】：zpb6207869 【评论】：11 【内容】：发信人: zpb6207869 (使者), 信区: Golang
+标  题: [问题]【hash函数】想问大神，hash的sum方法
+发信站: 北邮人论坛 (Sat Jul  2 22:27:20 2016), 站内
+
+package main
+
+import (
+    "crypto/md5"
+    "fmt"
+    "io"
+)
+
+func main() {
+    h := md5.New()
+    io.WriteString(h, "The fog is getting thicker!")//标号1
+    io.WriteString(h, "And Leon's getting laaarger!")//标号2
+    fmt.Printf("%x", h.Sum(nil))
+}
+h的sum方法是什么意思？以nil作为参数是什么意思？
+标号1和标号2的代码是否注释掉，结果不同，为什么？
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.144.*]
+ 
+【文章标题】：小白问一个关于go的问题 【文章地址】：https://bbs.byr.cn/article/Golang/911 【创建时间】：2017-11-28 【作者】：Hundredwz 【评论】：5 【内容】：发信人: Hundredwz (光子矩阵), 信区: Golang
+标  题: 小白问一个关于go的问题
+发信站: 北邮人论坛 (Tue Nov 28 17:24:07 2017), 站内
+
+代码如下
+img,_,_:=image.Decode(file)
+b:=img.(*image.YCbCr)
+第二句，这个.()是什么操作方式？是调用？转换还是什么？
+求解
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.108.151.*]
+ 
+【文章标题】：[小白求问]mac下gopath总说not set 【文章地址】：https://bbs.byr.cn/article/Golang/402 【创建时间】：2016-06-28 【作者】：albee 【评论】：8 【内容】：发信人: albee ([意涵团]求offer求毕业|Albee), 信区: Golang
+标  题: [小白求问]mac下gopath总说not set
+发信站: 北邮人论坛 (Tue Jun 28 18:06:55 2016), 站内
+
+------------更新------------
+今早来公司，换了个IDE，用LiteIDE，设置了一下就好了。都非常顺利。感觉昨天应该是Subline的问题~
+谢谢各位的回答~PS我跑的程序是beego的web~然后我听从大家意见不修改root用户下的gopath并尽量避免sudo恩恩~
+
+
+
+刚开始看Go
+安装的时候用的是.dmg直接安装
+
+然后设置了好几个文件: 
+~/.bash_profile ~/.bashrc 甚至/etc/profile /etc/bashrc 都是用的export GOPATH=$HOME/work这种，然后加到PATH里。
+
+go env的时候是正确的，
+GOPATH:$HOME/work（自己建的work文件夹，里边建了bin pkg src）
+GOROOT:/usr/local/go
+
+echo $GOPATH 也是对的。
+
+但是如果sudo go env就GOPATH是空的。
+
+
+用Sublinetext2跑一个程序的时候总是自动跑到GOROOT找，因为说GOPATH没设置：
+cannot find package "github.com/astaxie/beego" in any of:
+        /usr/local/go/src/github.com/astaxie/beego (from $GOROOT)
+        ($GOPATH not set)
+
+呜呜呜呜呜 被GOPATH这个折磨啊~
+好想全删了重新装。。。。。。。。。
+--
+※ 修改:·albee 于 Jun 29 09:36:00 2016 修改本文·[FROM: 111.202.212.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 208.36.133.*]
+ 

@@ -5636,122 +5636,7 @@ I graduated from this school ,and survive
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.33.192.*]
  
-【文章标题】：[范文] 嵌入式软件技术的现状与发展动向 (转载) 【文章地址】：https://bbs.byr.cn/article/Embedded_System/6 【创建时间】：2008-05-01 【作者】：shaw1987 【评论】：0 【内容】：发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: Embedded_System
-标  题: [范文] 嵌入式软件技术的现状与发展动向
-发信站: 北邮人论坛 (Thu May  1 15:26:17 2008), 站内
-
-【 以下文字转载自 Board_Apply 讨论区 】
-发信人: Winters101 (Winters), 信区: Board_Apply
-标  题: [范文] 嵌入式软件技术的现状与发展动向
-发信站: 北邮人论坛 (Mon Apr 21 15:59:17 2008), 站内
-
-嵌入式系统是计算机的一种应用形式，通常指埋藏在宿主设备中的微处理机系统，此类
-计算机一般不被设备使用者在意，亦称埋藏式计算机，典型机种如微控制器、微处理器
-和DSP等。
-本文着重讨论新一代嵌入式系统软件技术现状与未来。文中讨论三个问题。
-一、标志性的嵌入式产品已露头角。
-    计算机应用的普及、互联网技术的实用以及纳米微电子技术的突破，正有力推动着
-21世纪工业生产、商业活动、科学实验和家庭生活等领域自动化和信息化进程。全过程
-自动化产品制造、大范围电子商务活动、高度协同科学实验以及现代化家庭起居，为嵌
-入式产品造就了崭新而巨大的商机。除了沟通信息高速公路的交换机、路由器和Modem，
-构建CIMS所需的DCS和机器人以及规模较大的家用汽车电子系统。最有量产效益和时代特
-征的嵌入式产品应数因特网上的信息家电(Internet Appliances),如Web可视电话、Web
-游戏机、Web PDA(俗称电子商务、商务通)、WAP电话手机、以及多媒体产品，如STB(电
-视机顶盒)、DVD播放机、电子阅读机。
-二、嵌入式软件技术面临挑战
-    以信息家电为代表的互联网时代嵌入式产品，不仅为嵌入式市场展现了美好前景，
-注入了新的生命；同时也对嵌入式系统技术，特别是软件技术提出新的挑战。这主要包
-括：支持日趋增长的功能密度、灵活的网络联接、轻便的移动应用和多媒体的信息处理
-，此外，当然还需对付更加激烈的市场竞争。
-1.嵌入式应用软件的开发需要强大的开发工具和操作系统的支持
-    随着因特网技术的成熟、带宽的提高，ICP和ASP在网上提供的信息内容日趋丰富、
-应用项目多种多样。像电话手机、电话座机及电冰箱、微波炉等嵌入式电子设备的功能
-不再单一，电气结构也更为复杂。为了满足应用功能的升级，设计师们一方面采用更强
-大的嵌入式处理器如32位、64位RISC芯片或信号处理器DSP增强处理能力；同时还采用实
-时多任务编程技术和交叉开发工具技术来控制功能复杂性，简化应用程序设计、保障软
-件质量和缩短开发周期。
-    目前，国外商品化的嵌入式实时操作系统，已进入我国市场的，如WindRiver,、Mi
-crosoft、QNX和Nuclear等产品。我国自主开发的嵌入式系统软件产品如科银(CoreTek)
-公司的嵌入式软件开发平台DeltaSystem,它不仅包括DeltaCore嵌入式实时操作系统,而
-且还包括LamdaTools交叉开发工具套件,测试工具,应用组件等；此外，中科院也推出了
-Hopen嵌入式操作系统。
-2.联网成为必然趋势
-    为适应嵌入式分布处理结构和应用上网需求，面向21世纪的嵌入式系统要求配备标
-准的一种或多种网络通信接口。针对外部联网要求，嵌入设备必需配有通信接口,相应需
-要TCP／IP协议簇软件支持；由于家用电器相互关联(如防盗报警，灯光能源控制，影视
-设备和信息终端交换信息)及实验现场仪器的协调工作等要求，新一代嵌入式设备还需具
-备IEEE1394、USB、CAN、Bluetooth或IrDA通信接口，同时也需要提供相应的通信组网协
-议软件和物理层驱动软件。为了支持应用软件的特定编程模式，如Web或无线Web编程模
-式，还需要相应的浏览器，如HTML、WML等。
-3.支持小型电子设备实现小尺寸、微功耗和低成本
-   为满足这种特性，要求嵌入式产品设计者相应降低处理器的性能，限制内存容量和复
-用接口芯片。这就相应提高了对嵌入式软件设计技术要求。如，选用最佳的编程模型和
-不断改进算法，采用Java编程模式，优化编译器性能。因此既要软件人员有丰富经验，
-更需要发展先进嵌入式软件技术，如Java、Web和WAP等。
-4.提供精巧的多媒体人机界面
-   嵌入式设备之所以为亿万用户乐于接受，重要因素之一是它们与使用者之间的亲和力
-，自然的人机交互界面，如司机操纵高度自动化的汽车主要还是通过习惯的方向盘、脚
-踏板和操纵杆。人们与信息终端交互要求以GUI屏幕为中心的多媒体界面。手写文字输入
-、语音拨号上网，收发电子邮件以及彩色图形、图像已取得初步成效。目前一些先进的
-PDA在显示屏幕上已实现汉字写入，短消息语音发布，但离掌式语言同声翻译还有很大距
-离。
-三、影响未来的若干软件新技术
-    如前所述，嵌入式系统设计师们已利用现行嵌入式软件技术和PC机积累技术迎接新
-一代嵌入式应用；同时，发展影响深远的若干新的软件技术。这些技术包括：行业性编
-程编口API规范，无线网络操作系统、IP构件库和嵌入式JAVA等。
-1.日趋流行的行业性开放系统和备受青睐的自由软件技术
-    为了对付日趋激烈的国际市场竞争势态，设计技术共享和软件重用、构件兼容、维
-护方便和合作生产是增强行业性产品竞争能力的有效手段。近几年，一些地区和国家的
-若干行业协会纷纷制定嵌入式产品标准，特别是软件编程接口API规范。如，欧共体汽车
-产业联盟规定以OSEK标准作为开发汽车嵌入式系统的公用平台和应用编程接口(OSEK的名
-称来自于德文“车内电子设备的开放系统的接口)。OSEK规定了汽车控制器的通信规程、
-网络管理规则以及高效利用存贮器的嵌入式操作系统。虽然业界专家怀疑OSEK标准是否
-能马上投入使用，而WindRiver等嵌入式软件公司已宣布推出兼容的操作系统，MotoWor
-ks，充分利用行业软件技术开放带来的大笔商业利益。我国数字产业联盟，也在制定本
-行业的开放式软件标准，提高中国数字产品的竞争能力。看来，走行业开放系统道路是
-加快嵌入式软件技术发展的捷径之一。
-    此外，值得指出，国际上自由软件运动的顺利发展，GPL概念正对嵌入式软件产业深
-远影响。嵌入式Linux多种原型的提出，和GNU软件开发工具软件的实用化进展，正为我
-国加快发展嵌入式软件技术提供了极好机遇和条件。
-2.无线网络操作系统初见端倪
-    未来移动通信网络不仅能够提供丰富的多媒体数据业务，而且能够支持更多功能和
-更强的移终端设备。为了有效地发挥第三代移动通信系统的优势，许多设备厂商针对未
-来移动设备的特点努力开发无线网络操作系统。EPOC就是一例。
-3.IP构件库技术正在造就一个新兴的软件行业
-    嵌入式系统实现的最高形式是单一芯片系统(SOC，System On Chip)，而SOC的核技
-术是IP核(即知识产权核Intellectual Property Kernels)构件。IP核有硬件核、软件核
-和固件核，硬件核主要指8/16/32/64位MPU核或DSP核。硬件提供商以数据软件库的形式
-，将其久经验证的处理器逻辑和芯片版图数据，供EDA工具调用在芯片上直接配置MPU/D
-SP功能单元；而软件核则是软件提供商将SOC所需的RTOS内核软件或其它功能软件，如通
-信协议软件，FAX功能软件等构件标准API方式和IP核构件形式供IDE和EDA工具调用制成
-FLASH或ROM可执行代码单元，加速SOC嵌入式系统定制或开发。目前一些嵌入式软件供应
-商纷纷把成熟的RTOS内核和功能扩展件，以软件IP核构件形式出售，如Microtec的VRTX
-oc for ARM就是典型例子。正在兴启的IP构件软件技术正为一大批高智小型软件公司提
-供发展机遇。 　　4.J2ME技术将对嵌入式软件的发展产生深远影响 　　众所周知“一
-次编程，到处使用”JAVA软件概念原本就是针对网上嵌入式小设备提出的。几经周折，
-目前SUN公司已推出了J2ME(JAVA 2 Platform Micro Edition)针对信息家电的JAVA版本
-，其技术日趋成熟，开始投入使用。SUN公司JAVA虚拟机(JVM)技术的有序开放，使得JA
-VA软件真正实现跨平台运行，即JAVA应用小程序能够在带有JVM的任何硬软件系统上执行
-。这对实现瘦身上网的信息家电等网络设备十分有利。这一技术动向势必对嵌入式设备
-特别是上网设备软件编程技术产生重大影响，更值得业界人事关注。
- 　　总结
-　　由于诸多原因，我国计算机行业未能赶上世界范围软件技术发展的前几次机遇；当
-我们意识到应组织发展本国软件产业时，微软已在PC软件上处世界垄断地位，我们只得
-在软件汉化小范围徘徊，对计算机系统软件虽偶有出击，总难冲出重围。二十一世纪之
-初，微软王国已从登峰造极走向地位下滑的后PC时代。后PC时代，既非PC信息设备大显
-神通的时代，嵌入式系统正是非PC设备的主体，由于其应用推广、领域特色突出，谁也
-无力独吞这一市场。互联网技术在世界范围的扩展和中国通信事业的高速发展，已为我
-国开发嵌入式产品造就了广大市场，此外我国是人口大国，素有软件智力优势。因此，
-我国软件同仁应该牢牢抓着这一大好机遇，找准出击点，在IP软件、JAVA应用和无线网
-络等新一轮嵌入式软件技术上，下大力，冲刺一翻，定能使我国软件技术大上一个台阶
-，对发展我国经济做出应有贡献。
---
-I remember my grandson asked me the other day, he said: "Grandpa, were you a hero in the great war?"
-"No,"I replied,"But I served in a company of heroes."
-有一天我的小孙子问我“爷爷，你是大战中的英雄吗？我回答：不......但我与英雄们一同服役。
-
-※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.186.*]
- 【文章标题】：[公告] 开设 Embedded_System/嵌入式系统 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/Embedded_System/1 【创建时间】：2008-05-01 【作者】：shaw1987 【评论】：0 【内容】：发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: Embedded_System
+【文章标题】：[公告] 开设 Embedded_System/嵌入式系统 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/Embedded_System/1 【创建时间】：2008-05-01 【作者】：shaw1987 【评论】：0 【内容】：发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: Embedded_System
 标  题: [公告] 开设 Embedded_System/嵌入式系统 版面
 发信站: 北邮人论坛 (Thu May  1 15:22:52 2008), 站内
 
@@ -5788,171 +5673,884 @@ I remember my grandson asked me the other day, he said: "Grandpa, were you a her
 开期考核的版面，将予以终止版面处理。
 
 通过新开版期考核的版面将成为本站的正式版面，并视情况改变其版面属性。
- 
+
                                                     北邮人论坛版面管理组
 
 --
 ╭～～～╮。 飘过~           ╭～～～╮。               
 ╰﹣╮   〕o          〇     ╰﹣╮   〕o           〇  
-     ╰ ╯O        ╭ ╮O         ╰ ╯O         ╭ ╮O 
+     ╰ ╯O        ╭ ╮O         ╰ ╯O         ╭ ╮O
         〇    ╭﹣╯   〕o           〇     ╭﹣╯   〕o
               ╰～～～╯° bia几个脚印~~~   ╰～～～╯°
 
 
 ※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.194.*]
- 
-【文章标题】：[范文] 嵌入式Linux名词及资源 (转载) 【文章地址】：https://bbs.byr.cn/article/Embedded_System/5 【创建时间】：2008-05-01 【作者】：shaw1987 【评论】：0 【内容】：发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: Embedded_System
-标  题: [范文] 嵌入式Linux名词及资源
-发信站: 北邮人论坛 (Thu May  1 15:26:13 2008), 站内
 
-【 以下文字转载自 Board_Apply 讨论区 】
-发信人: Winters101 (Winters), 信区: Board_Apply
-标  题: [范文] 嵌入式Linux名词及资源
-发信站: 北邮人论坛 (Mon Apr 21 15:58:37 2008), 站内
+【文章标题】：Linux在嵌入式系统中的应用 【文章地址】：https://bbs.byr.cn/article/Embedded_System/175 【创建时间】：2008-05-10 【作者】：Winters101 【评论】：0 【内容】：发信人: Winters101 (Winters), 信区: Embedded_System
+标  题: Linux在嵌入式系统中的应用
+发信站: 北邮人论坛 (Sat May 10 10:31:08 2008), 站内
 
-作为一名Linux开发人员，对Linux下的名词要有了解，最好是非常清晰的知道它是什么
-东西，拿来做什么的。每一个名词都代表着一个资源，也代表着一个Linux的潮流，如果
-听都没听过就去开发相关领域的应用，那只能是瞎摸，吃力又不讨好。举个例子，欲在
-Linux下支持一款软Modem或一种打印机，而Linux的发行版或是厂家都是没有驱动的，那
-么一般会出现三种开发人员：
-一：习惯地要厂家想想办法，威胁说没有就换硬件，毕竟硬件厂商多的是。
-二：职业性的到linmodem.org或<a target="_blank" href="http://www.linuxprinting.org/">http://www.linuxprinting.org/</a>这类网站去找找看，有
-则拿来改改就用上了。没有则考虑换硬件，除非设备简单，参考下其它类似硬件改改就
-能用。
-三：实在太牛了，什么事情都是靠自己的，用个一年半载的自己把驱动写出来。
-从技术角度来看，第一种是低水平的开发人员，第二种是优秀的开发人员，第三种是天
-才。
-但如果从一个项目(非本身就是做驱动的项目）的角度上来看，第一种是合格的开发人员
-，第二种仍是优秀的开发人员，而第三种，我们用一张图来形容请点击链接(仅为加深大
-家印象，搞笑一下，非攻击性），要项目组全是这种人，十个项目九个亏，要密切注意
-你自己或Team里面是否有这种冲动的人，要及时予以扼杀或纠正，否则时间浪费了钱也
-白花了。
-先说一番道理，目的是要表明Linux名词及资源的重要性，所以，我们要好好了解Linux
-的名词，看看有什么样的资源可以供我们利用，不懂利用资源的程序员肯定不能成为优
-秀的开发人员，还是回windows下让比尔牵着鼻子走算了。
-如下是资源列表及相关介绍（Tomlinux.com网站带有相关资源的开发向导，并会一直更
-新嵌入式Linux资源信息及相关下载)：
-网站(website) 介绍
-嵌入式Linux综合
-Tomlinux     嵌入式Linux文档、资源及下载，提供免费版本的嵌入式Linux系统
-Linuxforum   Linux技术交流与提问，有什么问题去那里发问，肯定会有所帮助
-Freshmeat    有许多Linux项目资源，内容丰富，版本最新还可发布自己的项目
-Sourceforge  最著的名源码下载网站，内容丰富，版本最新还可发布自己的项目
-GNU          查阅各种标准，下载GNU软件
-Kernel       下载最新内核及查阅Linux内核的最新动向
-TurboLinux   提供最佳中文支持，也是一个很好的开发平台，兼容性略差于Redhat
-Redhat Linux 最佳开发环境,兼容性最好，从V9.0起，对中文也开始提供了支持
-LinuxDevices 使用Linux操作系统的产品及硬件信息
-Linuxtoday Linux   新闻及潮流，Linux最新动向
-嵌入式Linux系统
-Lilo Boot loaer，Lilo的使用及配置方法是开发人员必须掌握的
-Grub          图形化操作Boot loader，界面美观，对桌面版系统比较适用
-LinuxBIOS     一种快度启动的BIOS
-uClibc        很小的基本库，要编译很小的静态应用程序非它不可，标准libc太大了
-SDL           非常成熟Linux多媒体库，许多ps/2游戏就是用它来开发的
-Busybox       Linux命令集，最常用的上百个Linux命令集中成一个小程序,cool
-TinyX         支持任意vesa2.0标准显示卡，启动速度非常快且完成兼容于标准X
-MiniGUI       国产高速微型GUI，兼容性不够好，比Microwin好，适合小型应用系统
-Microwindows  高速微型GUI，兼容部分X功能，不成熟，适用于小型应用系统
-Icewm         微型窗口管理器，windows风格，支持theme，又小又快
-M-system      DOC硬件厂商，并提供DOC的驱动程序和在DOC上安装Linux的向导
-Linmodem      带有众多软modem(即winmodem)的驱动程序
-PPP Linux Modem拔号支持及应用程序
-PPPoE Linux xDSL(包括ADSL)宽带支持及应用程序
-Linuxprinting 带众多打印机驱动程序，如HP系统打印机基本上都有
-Rdesktop      对win2000/winxp/win2003的rdp5/6 支持及应用
-uClinux       一种无MMU的Linux，主要应用于微型控制器
-Mvista        可下载免费开发包，带有X86,StrongARM,PPC,MIPS等平台的支持
-BlueCat       著名嵌入式开发包，其对ARM系统的支持好
-RTLinux       嵌入式Linux硬实时操作系统
-Lineo Linux   PDA支持的至强，已开发出很多成熟的PDA应用
-嵌入式Linux应用
-GTK GTK       工具集，可以开发出像GIMP一样界面功能的软件，非常成熟
-QT/E          KDE所使用的工具体，能开发出类似windows界面的应用，有嵌入式版
-Mozilla       著名的Mozilla浏览器，支持与IE相差不远，而且有些功能是IE没用的
-Glade         用于编写GTK的界面，非常方便，用Glade画完图然后填入空函数即可
-Anjuta c/c++  IDE环境，可直接编译，跟踪程序
-SNavigator    项目管理、代码阅读工具，使得代码的阅读及修改变得非常方便
-Kdevelop c/c++ IDE开发环境，带有大量的开发文档，是Linux下的MSDN
-Apache        著名的web服务程序，历史悠久，使用者无数
-Mysql         一种中小型数据库，速度快具免费，是Linux下的首选数据库
-PHP           web脚本语言，比ASP、CGI等快得多也好用得多，非常流行
-Proftpd       可提供Ftp文件服务，功能强且效率高
-Sendmail      邮件服务程序，支持巨大数量的用户，功能强大且稳定
-Linuxgames    众多Linux游戏及Linux游戏新闻
-Themes.org    Linux桌面主题，KDE、GNOME、ICEWM，GTK等等什么的主题都有
-GDB           古代著名的代码调试跟踪工具，但IDE一般得调用它才能调试跟踪
-Java          Linux对Java的支持，有桌面和嵌入式的版本
+摘要：Linux系统不仅能够运行于PC平台；然而在嵌入式系统中Linux仍然可以大放光芒
+。本文描述了嵌入式系统的特色，和如何在嵌入式系统中应用Linux。
+计算机用于嵌入式控制设备领域的历史和计算机本身的历史一样久远。最初的用于控制
+机电式电话交换器的通讯设备中“固态控制程序”就是嵌入式程序。“计算机系统”在
+当时并不普遍；所以固态程序存放在内存中控制相应的设备。在那种时代，运行控制程
+序是很先进的思想，而且当时也只能如此而已。
+那时的计算机是专为特定的用户设计，特殊的应用程序指令、I/O设备和主要的计算设备
+集成在一起。微处理器的产生改变了这种局面，价格低廉、结构小巧的CPU和外设连接在
+总线上形成了比较大的系统。这种硬件架构很稳定，于是在这个基础上，这建立起了通
+用的软件开发环境和编程模式，且简化了编程，。
+软件也在随着硬件的发展而发展；开始只有简单的工具用于编程和调试，而且每一个软
+件都必须从头编写。程序大都采用宏汇编语言，汇编程序还不很完善，调试是一件很麻
+烦的事。因此一直到70年代的中期，模块化编写程序和标准化的运行库才逐渐流行起来
+。 在70年代的后期，出现了嵌入式系统的操作系统。它们采用汇编语言编写，而且只能
+运行在相应的特殊处理器上；处理器过时，则这个操作系统就没有用处了，对新的处理
+器必须重新编写操作系统的所有代码。C语言出现以来，采用C语言操作系统更有效率了
+，操作系统的编写有了很大的改观。C语言有很好的稳定性和可移植性，所以今天的许多
+操作系统都使用C来编写。 于是在80年代末，出现了好几个商业的嵌入式操作系统。而
+且它们已经演化成为今天的主流嵌入式操作系统。比如很有名的、使用者众多的操作系
+统：Vxwork、pSOS、Neculeus和Windowss CE。
+不过很多的嵌入式系统还没有使用操作系统，它们仅仅包含一些控制流程而已。在嵌入
+式系统相对简单的情况下，这些控制流足以应付。但是，当嵌入式系统的功能复杂后，
+简单控制逻辑就不够用了，这时你必须使用操作系统。如果不使用操作系统将会使得控
+制系统逻辑结构复杂混乱，很容易出错。再者，有些嵌入式系统需要接入网络系统，比
+如宾馆的门锁控制已经需要接入网络，因此就更需要嵌入式的操作系统来支持应用软件
+。
+除了商业化的操作系统外，还有其他的有版权要求的非商业化嵌入式操作系统可以使用
+。然而今天的Linux系统有着嵌入式操作系统需要的很多特色、突出的优势：适应于多种
+CPU和多种硬件平台，性能稳定，裁剪性很好，开发和使用都很容易。因此，我们决定在
+嵌入式系统中使用Linux操作系统。
+1．它具有很好的工具，可以跨越ICE等屏障
+原来开发嵌入式系统的关键是需要一套好用的开发和调试工具；而且在开发所不同阶段
+还需要不同的工具。就比如工匠，只有好的工具才能够使工作完成得又好又快。
+传统的开发调试工具就是ICE－在线仿真器；它取代目标板的微处理器，给目标程序提供
+仿真环境，同时可以连接监视器；允许开发者调试和监视程序的运行。尽管这种运行方
+式会引起一些奇怪的问题，但是它总能够让你明了程序在目标板的工作状态，免除了对
+底层的软硬件接口的猜测。但是，这种设备价格非常贵。过去，甚至在整个开发期内，
+开发嵌入式系统主要依靠这些调试工具。 可是，我们发现，一旦软硬件能够正常支持串
+口的运行时，我们可以使用其他的调试办法。现代的嵌入式系统采用相当成熟的微处理
+器。因此很容易使得串口工作。串口连接成功，可以进行很多的开发调试。所以我们不
+用ICE也可以很好地开始开发和调试工作了，同时还降低开发费用。
+Linux利用GNU项目的C编译器来编译程序，使用gdb源程序级调试器来调试程序。它们提
+供了合适的手段来使你能够开发嵌入式的Linux系统。为了开发基于Linux的嵌入式系统
+，可以按以下方法进行：
+向串口输出提示字符串，例如“hello word ”或“Waston, come here I need you!”
+等, 然后通过串口，指挥gdb开始工作。以这种方式和另外一台运行gdb程序的Linux主机
+系统“交谈”，通过串口，你可以很方便地让gdb调试目标程序。通过串口和gdb通讯，
+可以进行C源程序级的调试。甚至你还可以以串口把其他的程序下装到RAM或flash存储器
+。通过串口，使用gdb可以使得软硬件的初始化代码继续运行到核心全部启动。
+一旦核心在运行了，你就可以使用其他的更好的调试工具，象Kgdb等，如果连接了网络
+，你也可以让网络工作起来。同时你就可以用GUI的xgdb来调试应用程序。
+2．满足实时性时要求
+细细分析起来，大多数系统并不需要严格的实时性。而嵌入式系统也经常被误解为就是
+实时性系统。其实，多数嵌入式系统并不需要实时性，而且实时性本身是个相对的概念
+绝对的实时性是指对需要的服务以限定的方式和在限定时间内提供，比如在微秒级内响
+应。 这种硬实时性功能只是 针 对 特 殊 的 设 备而 言 ，例 如 数 字 信 号 处 理
+ 等。 而这 些 要 求 使 用 特 殊 的 硬 件 如FIFO、DMA 和 其 他 特 殊 设 计 的
+ 硬 件 也 可 以 满 足 。
+有 些 设 计 者 不 能 够 准 确 地 分 析 出 系 统 真 正 实 时 需 求 ， 很 多 情
+ 况 下 对 实 时 的 需 求 在1－5 毫 秒 内 响 应 就 可 以； 大 部 分 情 况 下，
+ 软 实 时 响 应 足 以 满 足 要 求 ：WINDOWSS 的98Crashed_Yet 在98％ 的 时 间
+ 内 可 以 在4 每 秒 内 响 应 ， 如 果 时 间 是20 秒， 则 总 会 响 应 。 那 些
+ 软 实 时 性 容 易 满 足 。 需 要 考 虑 的 因 素 包 括 ： 上 下 文 转 换 时
+间 、 中 断 延 迟 、 任 务 的 优 先 级 和 任 务 调 度 方 式。上 下 文 转 换
+时 间 曾 经 是 实 时 性 分 析 的 重 点， 但 是 因 为CPU 速 度 大 幅 度 提 高
+， 它 不 再 是 关 键 问 题。
+现 在，严 格 要 求 的 实 时 性 任 务 的 决 定 因 素 是 中 断 例 程 本 身 和
+内 核 中 的 其 他 驱 动 程 序 有 关； 而 响 应 延 迟 时 间 主 要 受 中 断 的
+ 优 先 级 和 其 他 进 程 会 暂 时 地 关 闭 中 断 响 应 的 影 响。 因 此 管 理
+ 和 驱 动 中 断 的 机 制 必 须 保 证 实 时 要 求。
+对 于Intel x86 处 理 器， 实 时 扩 充 可 以 在Linux 系 统 中 很 容 易 进 行，
+RT-Linux 就 是 很 好 的 例 子 （见<a target="_blank" href="http://www.rtlinux.org/">http://www.rtlinux.org/</a>）。 它 主 要 是 把
+Linux 的 任 务 作 为 自 己 的 一 个 任 务， 因 此 实 时 性 要 求 很 高 的 任
+ 务 不 受 非 实 时 的Linux 的 干 扰，可 以 得 到 满 足。 另 外 还 提 供 了 实
+ 时 任 务 和Linux 的 基 本 核 心 和 其 他 任 务 间 的 接 口 ， 这 些 接 口 是
+ 不 需 要 很 强 的 实 时 性。 这 种 架 构 为 其 他 的 嵌 入 式 系 统 提 供 了
+ 一 个 参 考。 关 键 因 素 就 是 实 时 性 的 代 码 和 非 实 时 代 码 分 开 设
+ 计， 而 且 实 时 应 用 程 序 的 处 理 方 式 和 其 他 程 序 的 处 理 方 式 差
+ 不 多。
+3． 适 合 嵌 入 式 系 统 的Linux 有一 种 观 点 认 为 ：
+用 户 不 必 直 接 干 预 机 器 的 运 行， 即没 有 用 户 接 口 的 应 用 系 统
+是 嵌 入 式 系 统。 其 他 的 比 如 电 梯 控 制 系 统 应 该 是 嵌 入 式 系 统
+， 但 是 它 需 要 人 为 控 制 。 连 接 网 络 需 要 监 视 和 控 制 网 络 系 统
+ 运 行 的 系 统 ，仍 然 是 嵌 入 式 系 统； 因 此应 该 根 据 系 统 的 主 要目
+ 的 和 功 能 来 判 定 是 否 是 嵌 入 式 系 统。
+最 小 的 嵌 入 式Linux 系 统 必 须 包 括 以 下 主 要 的 要 素：
+1． 启 动 程 序 ；
+2．融 合 了 内 存 管 理 、 进 程 管 理 和 时 间 分 批 服 务 的 核 心；
+3．初 始 化 程 序。 为 了 达 到 要 求， 而 且 为 了 保 持 最 小 系 统， 需 要
+ 添 加 以 下 要 素：
+1． 硬 件 的 驱 动 程 序；
+2． 必 须 的 应 用 程 序。 根 据 其 他 需 要， 你 可 能 增 加 以 下 功 能：
+1． 文 件 管 理 系 统（ 在ROM 或RAM中）；
+2． TCP/IP 通 讯 协 议；
+3． 磁 盘。
+4． 选 择 合 适 的 硬 件 平 台 选 择 硬 件 平 台 是 一 件 很 麻 烦 的 事，受
+ 很 多 因 素 影 响， 比 如 公 司 的 指 导 原 则、 个 人 偏 见、 过 去 产 品
+的 影 响 和 消 息 不 灵 通 等。 费 用 是 考 虑 的 主 要 因 素。 提 醒 你 考
+虑 价 格 时 不 要 只 注 意CPU 的 价 钱， 要 对 整 个 系 统 进 行 考 虑。 但
+是 如 果 你 是 系 统 设 计 师， 你 必 须 把 软 件 的 实 时 性 和 硬 件 结 合
+ 起 来 考 虑。 首 先 考 虑 需 要 多 快 的CPU， 然 后 把 选 择 三 倍 化 的 结
+ 果； 因 为 在 实 际 中应 用 程 序 会 使 用 一 些cache( 缓 冲)， 所 以 理 论
+ 上 速 度很 快 的CPU 的 实 际 速 度 会 降 低。 其 次 考 虑 选 择 多 快 的BUS
+（ 总 线）； 如 果 可 以 包 括 其 他 的 总 线， 比 如PCI， 就 加 上 它。 因
+为 有 时 即 使 使 用DMA 方 式 传 输， 也 会 使 快 速CPU 变 得 象 蜗 牛 一 般
+。 选 用 集 成 外 设 的CPU 比 较 好，而 且 还 可 选 用 现 成的 外 设 驱 动 程
+ 序 ， 大 大 减 少 调 试 工 作， 实 际 上 有 些 芯 片 集 成 的 功 能 并 不 是
+ 我 们 所 需 要 的， 所 以 也 不 要 认 为 凡 是 集 成 的 都 是 好 东 西。
+5． 压 缩 制 作 Linux 系 统 对Linux 的 通 常 感 觉 是 大， 似 乎 不 适 合 于
+ 嵌 入 式 系 统。 事 实 并 非 如 此。 因 为典 型 的 发 行Linux 集 成 了 很 多
+ 桌 面PC 机 需 要 而 嵌 入 式 系 统 并 不 需 要 的 功 能。 首 先 ， 我 们 可
+ 以 把 核 心（kernel） 从 其 他 任 务 中 分 离 出 来。 标 准 的Linux 核 心 总
+ 是 贮 留 在 内 存 中 ； 当 需 要 应 用 程 序 时， 它 把 需 要 的 程 序 从 磁
+ 盘 调 入 内 存 运 行。 程 序 运 行 完 毕， 内 存 清 空， 卸 载 程 序。 在 嵌
+ 入 式 系 统 中 ， 经 常 没 有 磁 盘 。 目 前 有 两 种 办 法 来 处 理 没 有
+磁 盘 的 情 况。 对 于 比 较 简 单 的 系 统， 核 心（kernel） 和 应 用 程 序
+ 同 时 贮 留 在 内 存 ， 当 系 统 启 动 时， 就 启 动 应 用 程 序。 这 种 方
+ 式 和 以 前 的 嵌 入 式 系 统 一 样 工 作。Linux 系 统 也 支 持 这 种 方 式
+。 第 二 种 方 式 是， 考 虑 到Linux 有load （ 装 载）和unload（ 卸 载） 程
+序 的 能 力， 嵌 入 式 系 统 也 可 以 使 用 这 一 特 点， 来 节 约 内 存。 假
+ 如 有 一 个 典 型 的 嵌 入 式 系 统： 包 括8 到16 M 的Flash Memory 和8 到16
+ M 的RAM ；可 以 在Flash Memory上 建 立 文 件 系 统， 使 用Flash 的 驱 动 程
+ 序 来 驱 动Flash Memory上 文 件 系 统 工 作。 另 外， 也 可 以 使 用Flash D
+idsk， 其 中 有 一 个 例 子 是M－system 的DiskOnChip， 它 可 以 支 持达160 M
+ 的Flash Disk。 把 使 用 的 应 用 程 序 文 件 存 放 在Flash 文 件 系 统 上，
+ 根 据 需 要 调 入 程 序。 这 种 动 态 装 入 方 法 有 很 多 优 点： （1） 因
+ 为 在Linux 中 有 一 些 应 用 程 序 只 是 在 初 始 化 时 使 用 一 次， 然 后
+ 就 没 有 用 处 了， 另 外 它 们 运 行 方 式 是 一 个 接 一 个， 顺 序 进 行
+ 的 。可 以 允 许 初 始 化 程 序 的代 码 在 使 用 完 毕 后 被 废 弃， 不 必
+永 远 存 放 在 内 存。因 此 相 同 内 存 可 以 运 行 不 同 的 程 序。 这 样 很
+ 节 省 内 存 的。 （2） 软 件 更 新 比 较 容 易； 可 以 在 系 统 运 行 的 情
+ 况 下 更 新 应 用 程 序 和 驱 动 程 序。
+6． 如 何 处 理 虚 拟 内 存 标 准 的Linux还 有 一 个 特 点 是 使 用 虚 拟 内
+ 存，程 序 过 大， 可 以 交 换 到 虚 拟 存 储 器 上。 这 是 一 个 神 奇 的 功
+ 能 ， 它 使 得 程 序 有 很 大 的 运 行 空 间 。然 而 ， 在 嵌 入 式 系 统 中
+， 这 个 功 能 似 乎 没 有 用 武 之 地， 因 为 没 有 磁 盘。 这 个 功 能 对
+于 嵌 入 式 系 统 ， 特 别 要 求 实 时 性 很 强 的 系 统来 说 的 确 不 那 么
+ 重 要， 因 为 这 个 机 制 会 浪 花费 时 间， 所 以 ， 嵌 入 式 系 统 的 应
+用 程 序 还 是 在 固 定 的 地 方 运 行 比 较 好。 不 过 提 醒 你 重 注 意，
+考 虑 到 一 些CPU 有 这 方 面 的 特 点， 建 议 保 留 虚 拟 存 储 器 的 代 码
+ 。 不 仅 因 为 剔 除 这 部 分 代 码 很 费 事 ， 如 果 剔 除 相 关 代 码 ，还
+ 容 易 造 成 其 他 问 题。 更 主 要 的 是 这 保 留 了 这 部 分 功 能， 能 够
+ 使 得 不 同 进 程 使 用 相 同 代 码 。 如 果 没 有 了 这 个 功 能， 每 个 程
+ 序 都 需 要 自 己 的 运 行 库， 在 内 存 中 就 会 有 库 的 很 多 拷 贝。 其
+ 实 只 需 把 交 换 空 间 的 长 度 设 置 为 零， 就 可 以 关 闭 虚 拟 内 存 的
+ 页 面 换 入 和 换 出 功 能。 对 一 些CPU， 虚 拟 存 储 器 的 功 能 提 供 内
+ 存 管 理， 防 止 不 同 程 序 占 用 相 同 的 地 址 空 间。 而 在 嵌 入 式 系
+ 统 中， 使 用 简 单 、 绝 对 的 地 址 空 间， 因 此 这 种 功 能 也 不 会 起
+ 作 用。 不 过 这 到 提 供 了 防 止 误 写 以 至 于 使 系 统 崩 溃 的 功 能。
+ 很 多 嵌 入 式 系 统 习 惯 使 用“ 全 局 变 量”， 让 进 程 共 享 数 据 。
+在Linux 系 统 中 提 供 共 享 内 存 方 法 让 进 程 共 享 数 据 信 息。 在RT－
+Linux 中 使 用FIFO 进 行 信 息 交 换。
+7． 处 理 文 件 系 统 很 多 嵌 入 式 系 统 没 有磁 盘 和文 件 系 统；Linux 也
+ 可 以 在没 有 磁 盘 的 系 统 上 运 行。 正 如 上 面 提 到 的， 应 用 程 序
+可 以 和 核 心 一 起 编 译， 在 启 动 时 一 起 装 入 运 行。 这 适 应 于 简
+单 系 统， 但不 具 有 灵 活 性。 其 实， 许 多 商 业 的 嵌 入 式 系 统 都 提
+ 供 文 件 系 统 的 选 择。 大 都 是 特 殊 的 文 件 系 统 或 者 兼 容MS－DOS
+文 件 系 统。Linux 提 供 包 括MS－DOS 等许 多 选 择。 其 他 的 文 件 系 统 具
+ 有 更 好 的 性 能。Linux 还 具 有 许 多 实 时商 业 操 作 系 统 所 不 具 备
+的检 查 和 修 复 文 件 系 统 的 功 能。 这 种 功 能 对 于 通 过 网 络 更 新
+的 系 统 尤 为 重 要。 Linux 的 文 件 系 统 可 以 建 立 在 传 统 的 磁 盘 上
+、Flash Memory、 或 其 他 载 体。 甚 至 可 以 用 RAM 磁 盘 存 放 临 时 文 件
+。 有 些 系 统 中 包 含 了 廉 价 的CD－ROM， 它 比Flash Memory 更 便 宜， 更
+ 新 升 级 更 容 易。Linux 系 统 可 以 从CD-ROM 中 启 动 以 及 运 行 程 序。
+在 网 络 化 的 嵌 入 式 系 统 ，Linux 支 持NFS（ 网 络 文 件 系 统）。 于 是
+ ， 你 可 以 使 用 很 多 网 络 功 能。 首 先， 可 以 通 过 网 络 来 启 动 应
+ 用 程 序。 因 为 通 过 服 务 器 来 启 动 应 用 程 序， 所 以 是 进 行 软 件
+ 更 新 的 最 好 解 决 办 法。 其 次， 在 运 行 过 程 中， 可 以 很 方 便 地
+导 入 和 导 出 数 据、 状 态 设 置 和 状 态 信 息 等。 这 个 功 能 很 适 合
+用 于 远 程 监 视 和 控 制 应 用 系 统。 例 如， 在RAM 中 建 立 磁 盘， 保 存
+ 各 种 需 要 的 重 要 数 据， 远 程 系 统 登 录 到 此RAM 文 件 系 统， 读 取
+ 数 据， 然 后 在 操 作 者 的 机 器 上 用 图 形 界 面显 示 运 行状 态， 起 到
+ 很 好 的 监 视 效 果。
+8． 设 置 启 动－LILO 和BIOS 当 微 机 启 动 时， 它 运 行 预 定 地 址 的 代
+码 ，那 地 址通 常 是 在 只 读 存 储 区， 存 放 有 启 动 代 码 。 在PC 中 ，
+ 即 BIOS， 它 执 行 底 层 的CPU 初 始 化 工 作 和 初 始 化 设 置 其 他 硬 件
+。BIOS 确 认 哪 个 硬 盘 存 放 操 作 系 统， 拷 贝 操 作 系 统 到RAM 中， 然
+ 后 运 行 操 作 系 统。同 样，Linux 在PC 上 运 行， 依 靠PC 的BIOS 来 设 置
+硬 件、 启 动OS。 在 嵌 入 式 系 统 中， 通 常 没 有BIOS， 因 此， 需 要 提
+供 等 价 的 启 动 代 码。 嵌 入 式 系 统 并 不 需 要 象PC 那 样 灵 活 的BIOS
+ 启 动 程 序， 它 初 始 化 的 硬 件 比 较 单 一。 这 段 代 码 其 实 很 简 单
+， 只 是 把 一 些 很 重 要， 而 且 还 要 特 殊 的 写 入 顺 序 要 求 的 数 据
+ 写 入 硬 件 的 寄 存 器 。 另 外 必 须 具 备 的 功 能 有 内 存 检 测， 点 亮
+LED， 检 测 其 他 很 重 要 的 硬 件。 这 些 代 码 的 针 对 性 很 强， 不 需
+要 很 好 的 移 植 性。 所 以 不 同 的 硬 件 环 境 需 要 不 同 的 启 动 代 码
+。 为 了 进 行 测 试， 可 以 使 用ICE（ 在 线 仿 真 器） 或 其 他 的 设 备 来
+ 调 试 这 部 分 代 码 。 这 部 分 代 码 总 是 运 行 在Flash 或EPROM 等 芯 片
+ 上， 所 以， 需 要 把 它 们 写 入 这 些 芯 片。 如 何 写， 当 然 因 硬 件 的
+ 不 同 而 不 同 了。 一 个 最 为 普 通 的 方 法 是 使 用EPROM 或Flash 烧 录
+器， 把 程 序 烧 录 在 芯 片， 然 后 把 芯 片 插 入 板 上。 另 外 的 方 法 是
+ 通 过JTAG 接 口 进 行。
+9． 嵌 入 式 的 Linux 同 样 健 壮 可 靠 和其他的运行于PC的系统相比，Linux是最
+可靠和最稳定的操作系统。而嵌入式的核心也是如此的。Linux的核心移植到新的微处理
+器上，基本不用什么修改。因此Linux可以使用许多计算机板。外设的驱动程序也多如牛
+毛，而且比其他的都稳定好用。但是，如果不是PC平台环境，那么你必需为特殊硬件编
+写驱动程序。对于各种硬件的相似驱动程序市面上随处可见，所以，你可以DOWN下来修
+改而成，所以安装新的或特殊 驱动器、网卡、串口、并口就不困难了。不过，我还是建
+议你在身边放一本Kernel的书比较好，以备查找。 在我的经验中，我觉得使用Linux的
+错误大都是对系统的了解不准确所至。况且，Linux的源代码随处可得、注释丰富、文档
+齐全，你完全可能自己去解决问题。
+10．结束语 嵌入式的Linux系统也有缺点。和某些商业操作系统一样，占用较大的内存
+。当然可以去掉部分无用的功能来减小使用的内存，但是，如果不仔细，将引起新的问
+题。 有些Linux的应用程序需要虚拟内存，而嵌入式系统中并没有或不需要虚拟内存，
+所以，并非所有的Linux应用程序可以在嵌入式系统运行。 核心的调试工具并非完尽人
+意，虽然可以使用kgdb，不过我们更多的是使用print语句来帮助调试。 在应用于嵌入
+式系统的主要问题是：Linux本身具有很大的灵活性，而嵌入式系统不具有灵活性，它们
+主要针对特殊的问题。这是问题的关键。 总之，Linux用于开发嵌入式系统的应用软件
+是可能的和可行的。
 --
 I remember my grandson asked me the other day, he said: "Grandpa, were you a hero in the great war?"
 "No,"I replied,"But I served in a company of heroes."
 有一天我的小孙子问我“爷爷，你是大战中的英雄吗？我回答：不......但我与英雄们一同服役。
-
-※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.186.*]
- 
-
-【文章标题】：【公告】任命【Winters101】为【Embedded_System】版版主 (转载 【文章地址】：https://bbs.byr.cn/article/Embedded_System/3 【创建时间】：2008-05-01 【作者】：shaw1987 【评论】：0 【内容】：发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: Embedded_System
-标  题: 【公告】任命【Winters101】为【Embedded_System】版版主
-发信站: 北邮人论坛 (Thu May  1 15:24:01 2008), 站内
-
-【 以下文字转载自 BoardManager 讨论区 】
-发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: BoardManager
-标  题: 【公告】任命【Winters101】为【Embedded_System】版版主
-发信站: 北邮人论坛 (Thu May  1 15:23:49 2008), 站内
-
-	    经 Winters101 申请，并由站务委员会讨论通过,现决定任命
-	Winters101 为 Embedded_System 版版主。本论坛实行正版主负责制，一切事宜
-	均直接由正版主负责解释和安排协调。正版主为排在第一
-	位的版主。试用期半个月，到期如无重大失误既可转正。
-
-	    请 Winters101 于三日内到BoardManager版面和BM_office报到，
-	否则取消其斑竹权限；同时请每周至少一次到BM_office参与
-	斑竹讨论，关注斑竹管理内部的一些知识。
+ 北邮嵌入式系统论坛欢迎大家！<a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=Embedded_System">http://forum.byr.edu.cn/wForum/board.php?name=Embedded_System</a>  
+北邮嵌入式系统协会 群号：60600133
 
 
-	        类  别：非群体版面
- 	        分  区：学术科技
-  	        版  主：
-  	        备  注：希望严格遵守北邮人论坛相关规定，
-  	                尽职尽责，繁荣 Embedded_System。
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.186.*]
 
-
-  	                        北邮人论坛版主管理组
-                           日期：Thu May  1 15:23:49 2008
-
- 
-【文章标题】：【Embedded System】版面新版主【Winters101】通过版主培训 (转 【文章地址】：https://bbs.byr.cn/article/Embedded_System/2 【创建时间】：2008-05-01 【作者】：shaw1987 【评论】：0 【内容】：发信人: shaw1987 (恶魔小狮子的笨蛋赖皮豚---沙沙), 信区: Embedded_System
-标  题: 【Embedded System】版面新版主【Winters101】通过版主培训
-发信站: 北邮人论坛 (Thu May  1 15:23:13 2008), 站内
-
-【 以下文字转载自 BoardManager 讨论区 】
-发信人: liyinfu (巴渝人家|涪陵人in BUPT|小黎叔), 信区: BoardManager
-标  题: 【Embedded System】版面新版主【Winters101】通过版主培训
-发信站: 北邮人论坛 (Wed Apr 30 20:47:43 2008), 站内
-
-
-          对Winters101申请Embedded System(嵌入式系统)版面版主培训结束
-
-
-            Winters101培训期间表现熟练，予以通过
+【文章标题】：Commentary: What's the deal with embedded Linux? 【文章地址】：https://bbs.byr.cn/article/Embedded_System/168 【创建时间】：2008-05-09 【作者】：warmbupt 【评论】：0 【内容】：发信人: warmbupt (warmbupt), 信区: Embedded_System
+标  题: Commentary: What's the deal with embedded Linux?
+发信站: 北邮人论坛 (Fri May  9 18:04:51 2008), 站内
 
 
 
+Last week Green Hills Software wrote a scathing opinion piece on embedded Linux. Here's the opening:
+
+"Embedded Linux is the most hyped embedded operating system ever. It is promoted as inexpensive, high quality, high productivity, reliable, widely available, and well supported. It is none of these things..."
+
+Ouch! Green Hills goes on to congratulate Linux vendors for admitting that the OS is "CHAOS" (thanks, Wind River!) and "a money pit" (you too, MontaVista!). But the praise is short-lived: According to GHS, this is a cynical ploy to scare you away from do-it-yourself Linux and turn you into a Wind River or MontaVista licensee.
+
+That's some tough talk, but Green Hills Software is hardly a neutral observer. The company sells its own operating systems, so it stands to benefit by sowing fear, uncertainty and doubt (FUD) about Linux. Indeed, every vendor I have spoken to has taken a distinctly self-interested position on Linux. Here's a sampling of the claims I've heard:
+
+MIPS: Do-it-yourself Linux works great! Just go to LinuxMIPS and download! Our Linux support makes us a winner!
+
+Wind River, MontaVista: Free Linux is a disaster. Buy "real" Linux from us or you will end up crying over your keyboard!
+
+QNX: Linux is a disaster. But our Linux-like RTOS is great!
+
+Microsoft: Geez, why are you even looking at Linux? Life is much easier with WinCE.
+
+Mentor Graphics: Linux? WinCE? You have to be kidding. You can get everything you want from a light-weight RTOS like Nucleus.
+
+One thing is for sure: There is no shortage of opinions on Linux. But which vendor is telling the truth? Or are they are lying in hopes of building sales?
+
+The reality is that each viewpoint contains elements of truth. Every project has unique requirements, so different projects call for different operating systems. Here is my (non-partisan) list of questions you should ask yourself when evaluating embedded Linux:
+
+Do you need a full-featured OS? Embedded Linux is big; typical builds exceed 2 MB. Sure, you can shrink the OS by stripping out things like networking stacks and file systems, but these features are the main reason to use Linux. If you don't need these features, you are better off with a lightweight RTOS.
+
+Can you get an OS with application-specific features? WinCE comes in numerous flavors, including versions designed specifically for automotive applications. (The same is true of QNX.) Nucleus has. community special features for portable media players. And so on.
+
+What is the licensing model? The Linux General Public License has its drawbacks. What if you want to modify the kernel, but don't want share your hacks with the rest of the world? What if unauthorized code sneaks into the kernel, and the owner decides to sue? Questions like these are mainly issues for products with long life spans, like cars and network infrastructure. The rest of us can often ignore the legal issues and simply update the kernel in the next product rev.
+
+Is Linux responsive and reliable enough? I know what you're thinking: Isn't embedded Linux specifically designed to address these points? Yes, but embedded Linux can't match OSs like INTEGRITY.
+
+Do you want to pay now or later? Do-it-yourself Linux is royalty-free, but you have to make a major engineering investment to get it up and running. In contrast, a commercial Linux package (or a competing OS) can get you to market with minimal up-front cost.
+
+How many units will you ship? If your volumes are low, it doesn't make sense to have your own OS team-so skip the do-it-yourself approach.
+
+What is your time to market? The do-it-yourself approach doesn't make sense if you're in a hurry.
+
+Is there support for your specific processor, board, or reference design? The OS with the best support will give you the lowest NRE and shortest time to market.
+
+Will you have to port your existing code? Most projects are built on existing code. Waste too much time porting the code, and you lose the benefits of switching OSs. (You can sidestep this issue with virtualization, but that adds another layer of complexity to the system.)
+
+Does your tool chain support the OS? If not, you will have to switch. This adds to the learning curve and makes the design team cranky. If you are willing to switch tool chains, look for OS-aware features like MIPS' Linux hot-spot analyzer.
+
+Whatever you decide about embedded Linux, it's a good idea to take vendor claims with a grain of salt. For example, Green Hills talks tough about Linux, but the company's MUTLI IDE has supported embedded Linux since 2001. Ask yourself: if GHS really thinks embedded Linux is a disaster, why does the company support it?
 
 
-                                  北邮人论坛培训站务：liyinfu
-
-
-                                         日期： 2008-04-30
 
 --
-    .           ┌┬╯─┐┐┌┬┬┬─╯╭┌╯──┐ ┌───┼┐┌────┐
- ★ ∶          ┌┼──┼┐╭┴┴┴─┐│╯    ┐╯ │      │││┌─┼││
-   ˙             │    │┐│┌┌╮┐┤│      │   │      │││┌┐│  │
-                ┌┼─╯││└╰╰──┘╯  ┌─│┐ │synyan│││└│┼╯│
-                  │  ┌┼╯┌│──┼┐│  │  ││ └───┼╯│└─╰┘│
-                └╯  ╯╰┘└╯──╯╯└  ╯  ┘╯'        ╯  └────╯
+我们的根据地:<a target="_blank" href="http://blog.163.com/bupt_united/">http://blog.163.com/bupt_united/</a>
+还有....欢迎来电子电路板，我在那等你！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.135.*]
+
+【文章标题】：嵌入式初学者建议（转自AKA野雁） 【文章地址】：https://bbs.byr.cn/article/Embedded_System/91 【创建时间】：2008-05-05 【作者】：tjfmail 【评论】：0 【内容】：发信人: tjfmail (INTEL), 信区: Embedded_System
+标  题: 嵌入式初学者建议（转自AKA野雁）
+发信站: 北邮人论坛 (Mon May  5 18:26:35 2008), 站内
+
+嵌入式初学者
+
+北京邮电大学嵌入式系统协会整理2008-4-26
+
+    谨献给为了知识执着的嵌入式初学者，欢迎高手补充讨论实践当然是最锻炼人的方式，但是我想在校生很少有这样的机会，别说本科生，硕士生也未必有条件。所以我想学习嵌入式要从个人的知识背景和现实条件出发。订立合适的阶段目标，在允许的条件下多动手多思考。        
+    一般情况下对于硬件设备是比较短缺的。但是可以从软件方面和嵌入式系统开发模式上下功夫，提醒大家一点，嵌入式系统开发设计的内容知识很多，所以大家不要乱，在了解嵌入式系统开发的体系结构后，一步一步的下手，最容易上手的是linux下的C，比如ucos（有开放源代码），虽然可能无法在硬件上仿真，但也不必着急。wince，palmos上手都很容易。无论对于初学者还是自以为是高手的人来说，编程水平（这可不受硬件条件限制）绝对是没有止境的，有了较高的编程水平（嵌入式主要是C,当然OO的几种语言c++,java是发展趋势），等到有机会的时候及时的补充硬件知识，会很快的成为高手。
+    还有，一定记住，学习嵌入式，"要想办法，不要找理由"。当年在dos下用tc编程时的条件，现在回想起来建筑就是奇迹。
+    我推荐一条发展道路吧，仅供参考，
+    1、C开发经验
+    条件：linux（这都有吧）
+    方法：随便，主要是掌握ansiC编程（不包括gtk,qt等图形可视化开发）
+    2、网络、操作系统、体系结构
+    条件：linux，各种书，算法、例程。
+    方法：通过C编程实现简单的网络等知识的算法和过程。
+    3、嵌入式系统概念
+    条件：各个嵌入式网站，讨论组，书籍
+    方法：少提问（尤其是等着天上掉馅饼，这主要是防止增长惰性，也解决不了实际问题），多思考。
+    4、嵌入式开发实践
+    条件：各种嵌入式系统开发工具的demo版（或者D版，如果有的话），包括编译器，仿真器。可以找高手们要，也可以下载。
+    方法：这里有两个分支，一个是基于mcu/dsp的嵌入式系统开发，一个是象palmos,wince,ucos等rtos下的应用软件开发。对硬件感兴趣，想成为真正高手的由第一个分支入手，以后进入第二个分支；如果十分厌烦硬件，只想停留在软件开发上的，可以只由第二个分支入手，以后就和pc上的开发没有什么本质上的区别了，找份不错的工作应该没问题，可以不用进行下面的步骤了，感兴趣可以参考第6条。
+    5、硬件开发
+    条件：各种嵌入式芯片、存储器等电路器件，protel99等电路设计软件，电路板制作。
+    方法：这时候该有开发条件了，最起码是51系列，这个比较方便。电路的设计内容较多，不过看起来吓人，实际上比软件要简单的多。只要下功夫，实践会告诉你一切。
+
+    6、硬件工程/软件工程/项目管理
+    条件： 各个芯片详细资料和使用经验，软件工程知识，项目管理知识，培训，大型项目参与经验
+方法：已经是高手了，但是学无止境，沾沾自喜于已有的知识是致命的。那个下一步。。。，你该是管理者了。
+
+    抛砖引玉，以上出自我的经验，欢迎各路高手们补充，初学者提问。
+为了技术，一路狂奔。。。
+
+    我来补充几点.
+    要想成为高手中的高手,最好从钻研如下领域修炼:
+    1,分析一种RTOS的源代码--UCOS最容易;
+    2,分析一种通讯协议栈的实现方式--TCP/IP最实用;
+    3,精通一种DSP的开发集成环境--TI CCS2.1最优秀,精华在其内带的RTOS;
+    4,精通一种单片机的开发集成环境--keil C最经典;
+5,精通一种MCU的开发集成环境--ADS 1.2最流行;
+
+    要想成为大师级人物再从如下领域开始修炼:
+    1,精通一种系统建模语言和工具--Telelogic tau SDL/UML suit最经典;
+    2,精通一种算法仿真工具--Matlab simulink 最便宜;
+    要想检验一下自己是否到达了至尊级人物，可以做如下的事：
+    动手搭建一套红外或者蓝牙通讯原型系统，模拟前端可以用现成的，基带用DSP，主控用个32BMCU，DSP和协议软件自己写。当然不可能做全，做个子集就可以了。
+    如果能到这个地步，打住吧，该改行去做市场了。做个一、二年市场，你不自己去创个业就太浪费了。
 
 
-※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.192.186]
- 
+嵌入式系统协会QQ群：60600133，欢迎加入北邮嵌入式系统协会共同讨论学习
+
+--
+北邮嵌入式系统协会 群号：60600133
+
+※ 修改:·tjfmail 于 May  7 10:00:04 修改本文·[FROM: 59.64.186.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.186.*]
+
+【文章标题】：Linux下的C语言编程 【文章地址】：https://bbs.byr.cn/article/Embedded_System/176 【创建时间】：2008-05-10 【作者】：Winters101 【评论】：0 【内容】：发信人: Winters101 (Winters), 信区: Embedded_System
+标  题: Linux下的C语言编程
+发信站: 北邮人论坛 (Sat May 10 10:32:23 2008), 站内
+
+Linux 下 C 语言编程
+原著：Rick McMullin
+前言
+Linux的发行版中包含了很多软件开发工具. 它们中的很多是用于 C 和 C++应用程序开
+发的. 本文介绍了在 Linux 下能用于 C 应用程序开发和调试的工具. 本文的主旨是介
+绍如何在 Linux 下使用 C 编译器和其他 C 编程工具, 而非 C 语言编程的教程. 在本
+文中你将学到以下知识:
+什么是 C
+GNU C 编译器
+用 gdb 来调试GCC应用程序
+    你也能看到随 Linux 发行的其他有用的 C 编程工具. 这些工具包括源程序美化程
+序(pretty print programs), 附加的调试工具, 函数原型自动生成工具(automatic fu
+nction prototypers).
+----------------------------------------------------------------------------
+----
+注意: 源程序美化程序(pretty print programs)自动帮你格式化源代码产生始终如一的
+缩进格式.
+----------------------------------------------------------------------------
+----
+什么是 C?
+    C 是一种在 UNIX 操作系统的早期就被广泛使用的通用编程语言. 它最早是由贝尔
+实验室的 Dennis Ritchie 为了 UNIX 的辅助开发而写的, 开始时 UNIX 是用汇编语言
+和一种叫 B 的语言编写的. 从那时候起, C 就成为世界上使用最广泛计算机语言.
+    C 能在编程领域里得到如此广泛支持的原因有以下一些:
+它是一种非常通用的语言. 几乎你所能想到的任何一种计算机上都有至少一种能用的 C
+ 编译器. 并且它的语法和函数库在不同的平台上都是统一的, 这个特性对开发者来说很
+有吸引力.
+用 C 写的程序执行速度很快.
+C 是所有版本的UNIX上的系统语言.
+    C 在过去的二十年中有了很大的发展. 在80年代末期美国国家标准协会(American
+National Standards Institute)发布了一个被称为 ANSI C 的 C 语言标准.这更加保证
+了将来在不同平台上的 C 的一致性. 在80年代还出现了一种 C 的面向对象的扩展称为
+ C++. C++ 将在另一篇文章 "C++ 编程"中描述.
+    Linux 上可用的 C 编译器是 GNU C 编译器, 它建立在自由软件基金会的编程许可
+证的基础上, 因此可以自由发布. 你能在 Linux 的发行光盘上找到它.
+GNU C 编译器
+    随 Slackware Linux 发行的 GNU C 编译器(GCC)是一个全功能的 ANSI C 兼容编译
+器. 如果你熟悉其他操作系统或硬件平台上的一种 C 编译器, 你将能很快地掌握 GCC.
+ 本节将介绍如何使用 GCC 和一些 GCC 编译器最常用的选项.
+使用 GCC
+    通常后跟一些选项和文件名来使用 GCC 编译器. gcc 命令的基本用法如下:
+gcc [options] [filenames]
+    命令行选项指定的操作将在命令行上每个给出的文件上执行. 下一小节将叙述一些
+你会最常用到的选项.
+GCC 选项
+    GCC 有超过100个的编译选项可用. 这些选项中的许多你可能永远都不会用到, 但一
+些主要的选项将会频繁用到. 很多的 GCC 选项包括一个以上的字符. 因此你必须为每个
+选项指定各自的连字符, 并且就象大多数 Linux 命令一样你不能在一个单独的连字符后
+跟一组选项. 例如, 下面的两个命令是不同的:
+gcc -p -g test.c
+gcc -pg test.c
+    第一条命令告诉 GCC 编译 test.c 时为 prof 命令建立剖析(profile)信息并且把
+调试信息加入到可执行的文件里. 第二条命令只告诉 GCC 为 gprof 命令建立剖析信息
+.
+    当你不用任何选项编译一个程序时, GCC 将会建立(假定编译成功)一个名为 a.out
+ 的可执行文件. 例如, 下面的命令将在当前目录下产生一个叫 a.out 的文件:
+gcc test.c
+    你能用 -o 编译选项来为将产生的可执行文件指定一个文件名来代替 a.out. 例如
+, 将一个叫 count.c 的 C 程序编译为名叫 count 的可执行文件, 你将输入下面的命令
+:
+gcc -o count count.c
+----------------------------------------------------------------------------
+----
+注意: 当你使用 -o 选项时, -o 后面必须跟一个文件名.
+----------------------------------------------------------------------------
+----
+    GCC 同样有指定编译器处理多少的编译选项. -c 选项告诉 GCC 仅把源代码编译为
+目标代码而跳过汇编和连接的步骤. 这个选项使用的非常频繁因为它使得编译多个 C 程
+序时速度更快并且更易于管理. 缺省时 GCC 建立的目标代码文件有一个 .o 的扩展名.
+
+    -S 编译选项告诉 GCC 在为 C 代码产生了汇编语言文件后停止编译. GCC 产生的汇
+编语言文件的缺省扩展名是 .s . -E 选项指示编译器仅对输入文件进行预处理. 当这个
+选项被使用时, 预处理器的输出被送到标准输出而不是储存在文件里.
+优 化 选 项
+    当你用 GCC 编译 C 代码时, 它会试着用最少的时间完成编译并且使编译后的代码
+易于调试. 易于调试意味着编译后的代码与源代码有同样的执行次序, 编译后的代码没
+有经过优化. 有很多选项可用于告诉 GCC 在耗费更多编译时间和牺牲易调试性的基础上
+产生更小更快的可执行文件. 这些选项中最典型的是-O 和 -O2 选项.
+    -O 选项告诉 GCC 对源代码进行基本优化. 这些优化在大多数情况下都会使程序执
+行的更快. -O2 选项告诉 GCC 产生尽可能小和尽可能快的代码. -O2 选项将使编译的速
+度比使用 -O 时慢. 但通常产生的代码执行速度会更快.
+    除了 -O 和 -O2 优化选项外, 还有一些低级选项用于产生更快的代码. 这些选项非
+常的特殊, 而且最好只有当你完全理解这些选项将会对编译后的代码产生什么样的效果
+时再去使用. 这些选项的详细描述, 请参考 GCC 的指南页, 在命令行上键入 man gcc
+.
+调试和剖析选项
+    GCC 支持数种调试和剖析选项. 在这些选项里你会最常用到的是 -g 和 -pg 选项.
+
+    -g 选项告诉 GCC 产生能被 GNU 调试器使用的调试信息以便调试你的程序. GCC 提
+供了一个很多其他 C 编译器里没有的特性, 在 GCC 里你能使 -g 和 -O (产生优化代码
+)联用. 这一点非常有用因为你能在与最终产品尽可能相近的情况下调试你的代码. 在你
+同时使用这两个选项时你必须清楚你所写的某些代码已经在优化时被 GCC 作了改动. 关
+于调试 C 程序的更多信息请看下一节"用 gdb 调试 C 程序"  .
+    -pg 选项告诉 GCC 在你的程序里加入额外的代码, 执行时, 产生 gprof 用的剖析
+信息以显示你的程序的耗时情况. 关于 gprof 的更多信息请参考 "gprof" 一节.
+用 gdb 调试 GCC 程序
+    Linux 包含了一个叫 gdb 的 GNU 调试程序. gdb 是一个用来调试 C 和 C++ 程序
+的强力调试器. 它使你能在程序运行时观察程序的内部结构和内存的使用情况. 以下是
+ gdb 所提供的一些功能:
+它使你能监视你程序中变量的值.
+它使你能设置断点以使程序在指定的代码行上停止执行.
+它使你能一行行的执行你的代码.
+    在命令行上键入 gdb 并按回车键就可以运行 gdb 了, 如果一切正常的话, gdb 将
+被启动并且你将在屏幕上看到类似的内容:
+GDB is free software and you are welcome to distribute copies of it
+under certain conditions; type "show copying" to see the conditions.
+There is absolutely no warranty for GDB; type "show warranty" for details.
+GDB 4.14 (i486-slakware-linux), Copyright 1995 Free Software Foundation, Inc
+.
+(gdb)
+    当你启动 gdb 后, 你能在命令行上指定很多的选项. 你也可以以下面的方式来运行
+ gdb :
+gdb &lt;fname&gt;
+
+    当你用这种方式运行 gdb , 你能直接指定想要调试的程序. 这将告诉gdb 装入名为
+ fname 的可执行文件. 你也可以用 gdb 去检查一个因程序异常终止而产生的 core 文
+件, 或者与一个正在运行的程序相连. 你可以参考 gdb 指南页或在命令行上键入 gdb
+-h 得到一个有关这些选项的说明的简单列表.
+为调试编译代码(Compiling Code for Debugging)
+    为了使 gdb 正常工作, 你必须使你的程序在编译时包含调试信息. 调试信息包含你
+程序里的每个变量的类型和在可执行文件里的地址映射以及源代码的行号.  gdb 利用这
+些信息使源代码和机器码相关联.
+
+    在编译时用 -g 选项打开调试选项.
+gdb 基本命令
+     gdb 支持很多的命令使你能实现不同的功能. 这些命令从简单的文件装入到允许你
+检查所调用的堆栈内容的复杂命令, 表27.1列出了你在用 gdb 调试时会用到的一些命令
+. 想了解 gdb 的详细使用请参考 gdb 的指南页.
+表 27.1. 基本 gdb 命令.
+命   令 描  述
+file 装入想要调试的可执行文件.
+kill 终止正在调试的程序.
+list 列出产生执行文件的源代码的一部分.
+next 执行一行源代码但不进入函数内部.
+step 执行一行源代码而且进入函数内部.
+run 执行当前被调试的程序
+quit 终止 gdb
+watch 使你能监视一个变量的值而不管它何时被改变.
+break 在代码里设置断点, 这将使程序执行到这里时被挂起.
+make 使你能不退出 gdb 就可以重新产生可执行文件.
+shell 使你能不离开 gdb 就执行 UNIX shell 命令.
+     gdb 支持很多与 UNIX shell 程序一样的命令编辑特征. 你能象在 bash 或 tcsh
+里那样按 Tab 键让 gdb 帮你补齐一个唯一的命令, 如果不唯一的话 gdb 会列出所有匹
+配的命令. 你也能用光标键上下翻动历史命令.
+gdb 应用举例
+    本节用一个实例教你一步步的用 gdb 调试程序. 被调试的程序相当的简单, 但它展
+示了 gdb 的典型应用.
+    下面列出了将被调试的程序. 这个程序被称为 greeting , 它显示一个简单的问候
+, 再用反序将它列出.
+#include  &lt;stdio.h&gt;
+main ()
+{
+  char my_string[] = "hello there";
+  my_print (my_string);
+  my_print2 (my_string);
+}
+void my_print (char *string)
+{
+  printf ("The string is %s\n", string);
+}
+void my_print2 (char *string)
+{
+  char *string2;
+  int size, i;
+  size = strlen (string);
+  string2 = (char *) malloc (size + 1);
+  for (i = 0; i &lt; size; i++)
+    string2[size - i] = string[i];
+  string2[size+1] = `\0';
+  printf ("The string printed backward is %s\n", string2);
+}
+    用下面的命令编译它:
+gcc -o test test.c
+
+    这个程序执行时显示如下结果:
+The string is hello there
+The string printed backward is
+    输出的第一行是正确的, 但第二行打印出的东西并不是我们所期望的. 我们所设想
+的输出应该是:
+The string printed backward is ereht olleh
+    由于某些原因, my_print2 函数没有正常工作. 让我们用  gdb 看看问题究竟出在
+哪儿, 先键入如下命令:
+gdb greeting
+----------------------------------------------------------------------------
+----
+注意: 记得在编译 greeting 程序时把调试选项打开.
+----------------------------------------------------------------------------
+----
+    如果你在输入命令时忘了把要调试的程序作为参数传给 gdb , 你可以在 gdb 提示
+符下用 file 命令来载入它:
+(gdb) file greeting
+    这个命令将载入 greeting 可执行文件就象你在 gdb 命令行里装入它一样.
+    这时你能用 gdb 的 run 命令来运行 greeting 了. 当它在 gdb 里被运行后结果大
+约会象这样:
+(gdb) run
+Starting program: /root/greeting
+
+The string is hello there
+The string printed backward is
+Program exited with code 041
+    这个输出和在 gdb 外面运行的结果一样. 问题是, 为什么反序打印没有工作? 为了
+找出症结所在, 我们可以在 my_print2 函数的 for 语句后设一个断点, 具体的做法是
+在 gdb 提示符下键入 list 命令三次, 列出源代码:
+(gdb) list
+(gdb) list
+(gdb) list
+----------------------------------------------------------------------------
+----
+技巧:  在 gdb 提示符下按回车健将重复上一个命令.
+----------------------------------------------------------------------------
+----
+    第一次键入 list 命令的输出如下:
+1       #include  &lt;stdio.h&gt;
+2
+3       main ()
+4       {
+5         char my_string[] = "hello there";
+6
+7         my_print (my_string);
+8         my_print2 (my_string);
+9       }
+10
+    如果按下回车, gdb 将再执行一次 list 命令, 给出下列输出:
+11      my_print (char *string)
+12      {
+13        printf ("The string is %s\n", string);
+14      }
+15
+16      my_print2 (char *string)
+17      {
+18        char *string2;
+19        int size, i;
+20
+    再按一次回车将列出 greeting 程序的剩余部分:
+21        size = strlen (string);
+22        string2 = (char *) malloc (size + 1);
+23        for (i = 0; i &lt; size; i++)
+24          string2[size - i] = string[i];
+25        string2[size+1] = `\0';
+26        printf ("The string printed backward is %s\n", string2);
+27      }
+    根据列出的源程序, 你能看到要设断点的地方在第24行, 在 gdb 命令行提示符下键
+入如下命令设置断点:
+(gdb) break 24
+    gdb 将作出如下的响应:
+Breakpoint 1 at 0x139: file greeting.c, line 24
+(gdb)
+    现在再键入 run 命令, 将产生如下的输出:
+Starting program: /root/greeting
+The string is hello there
+Breakpoint 1, my_print2 (string = 0xbfffdc4 "hello there") at greeting.c :24
+
+24  string2[size-i]=string[i]
+    你能通过设置一个观察 string2[size - i] 变量的值的观察点来看出错误是怎样产
+生的, 做法是键入:
+(gdb) watch string2[size - i]
+    gdb 将作出如下回应:
+Watchpoint 2: string2[size - i]
+    现在可以用 next 命令来一步步的执行 for 循环了:
+(gdb) next
+    经过第一次循环后,  gdb 告诉我们 string2[size - i] 的值是 `h`. gdb 用如下
+的显示来告诉你这个信息:
+Watchpoint 2, string2[size - i]
+Old value = 0 `\000'
+New value = 104 `h'
+my_print2(string = 0xbfffdc4 "hello there") at greeting.c:23
+23 for (i=0; i&lt;size; i++)
+    这个值正是期望的. 后来的数次循环的结果都是正确的. 当 i=10 时, 表达式 str
+ing2[size - i] 的值等于 `e`,  size - i 的值等于 1, 最后一个字符已经拷到新串里
+了.
+    如果你再把循环执行下去, 你会看到已经没有值分配给 string2[0] 了,  而它是新
+串的第一个字符, 因为 malloc 函数在分配内存时把它们初始化为空(null)字符. 所以
+ string2 的第一个字符是空字符. 这解释了为什么在打印 string2 时没有任何输出了
+.
+    现在找出了问题出在哪里, 修正这个错误是很容易的. 你得把代码里写入 string2
+ 的第一个字符的的偏移量改为 size - 1 而不是 size. 这是因为 string2 的大小为
+12, 但起始偏移量是 0, 串内的字符从偏移量 0 到 偏移量 10, 偏移量 11 为空字符保
+留.
+    为了使代码正常工作有很多种修改办法. 一种是另设一个比串的实际大小小 1 的变
+量. 这是这种解决办法的代码:
+#include  &lt;stdio.h&gt;
+main ()
+{
+  char my_string[] = "hello there";
+  my_print (my_string);
+  my_print2 (my_string);
+}
+my_print (char *string)
+{
+  printf ("The string is %s\n", string);
+}
+my_print2 (char *string)
+{
+  char *string2;
+  int size, size2, i;
+  size = strlen (string);
+  size2 = size -1;
+  string2 = (char *) malloc (size + 1);
+  for (i = 0; i &lt; size; i++)
+    string2[size2 - i] = string[i];
+  string2[size] = `\0';
+  printf ("The string printed backward is %s\n", string2);
+}
+另外的 C 编程工具
+    Slackware Linux 的发行版中还包括一些我们尚未提到的 C 开发工具. 本节将介绍
+这些工具和它们的典型用法.
+xxgdb
+    xxgdb 是 gdb 的一个基于 X Window 系统的图形界面.  xxgdb 包括了命令行版的
+ gdb 上的所有特性.  xxgdb 使你能通过按按钮来执行常用的命令. 设置了断点的地方
+也用图形来显示.
+    你能在一个 Xterm 窗口里键入下面的命令来运行它:
+xxgdb
+    你能用 gdb 里任何有效的命令行选项来初始化 xxgdb . 此外 xxgdb 也有一些特有
+的命令行选项, 表 27.2 列出了这些选项.
+  表 27.2.  xxgdb 命令行选项.
+选  项 描  述
+db_name 指定所用调试器的名字, 缺省是 gdb.
+db_prompt 指定调试器提示符, 缺省为 gdb.
+gdbinit 指定初始化 gdb 的命令文件的文件名, 缺省为 .gdbinit.
+nx 告诉 xxgdb 不执行 .gdbinit 文件.
+bigicon 使用大图标.
+calls
+     你可以在 sunsite.unc.edu FTP 站点用下面的路径:
+/pub/Linux/devel/lang/c/calls.tar.Z
+    来取得 calls , 一些旧版本的 Linux CD-ROM 发行版里也附带有. 因为它是一个有
+用的工具, 我们在这里也介绍一下. 如果你觉得有用的话, 从 BBS, FTP, 或另一张CD-
+ROM 上弄一个拷贝.  calls 调用 GCC 的预处理器来处理给出的源程序文件, 然后输出
+这些文件的里的函数调用树图.
+----------------------------------------------------------------------------
+----
+注意: 在你的系统上安装 calls , 以超级用户身份登录后执行下面的步骤: 1. 解压和
+ untar 文件. 2. cd 进入 calls untar 后建立的子目录. 3. 把名叫 calls 的文件移
+动到 /usr/bin 目录. 4. 把名叫 calls.1 的文件移动到目录 /usr/man/man1 . 5. 删
+除 /tmp/calls 目录. 这些步骤将把 calls 程序和它的指南页安装载你的系统上.
+----------------------------------------------------------------------------
+----
+    当 calls 打印出调用跟踪结果时, 它在函数后面用中括号给出了函数所在文件的文
+件名:
+main [test.c]
+    如果函数并不是向 calls 给出的文件里的,  calls 不知道所调用的函数来自哪里
+, 则只显示函数的名字:
+printf
+    calls 不对递归和静态函数输出. 递归函数显示成下面的样子:
+fact &lt;&lt;&lt; recursive in factorial.c &gt;&gt;&gt;
+    静态函数象这样显示:
+total [static in calculate.c]
+    作为一个例子, 假设用 calls 处理下面的程序:
+#include &lt;stdio.h&gt;
+main ()
+{
+char my_string[] = "hello there";
+my_print (my_string);
+my_print2(my_string);
+}
+my_print (char *string)
+{
+printf ("The string is %s\n", string);
+}
+my_print2 (char *string)
+{
+  char *string2;
+  int size, size2, i;
+  size = strlen (string);
+  size2 = size -1;
+  string2 = (char *) malloc (size + 1);
+  for (i = 0; i &lt; size; i++)
+    string2[size2 - i] = string[i];
+  string2[size] = `\0';
+  printf ("The string printed backward is %s\n", string2);
+}
+    将产生如下的输出:
+    1 main [test.c]
+    2       my_print [test.c]
+    3             printf
+    4       my_print2 [test.c]
+    5             strlen
+    6             malloc
+    7             printf
+calls 有很多命令行选项来设置不同的输出格式, 有关这些选项的更多信息请参考 cal
+ls 的指南页. 方法是在命令行上键入 calls -h .
+cproto
+    cproto 读入 C 源程序文件并自动为每个函数产生原型申明. 用 cproto 可以在写
+程序时为你节省大量用来定义函数原型的时间.
+    如果你让 cproto 处理下面的代码:
+#include  &lt;stdio.h&gt;
+main ()
+{
+  char my_string[] = "hello there";
+  my_print (my_string);
+  my_print2(my_string);
+}
+my_print (char *string)
+{
+  printf ("The string is %s\n", *string);
+}
+my_print2 (char *string)
+{
+  char *string2;
+  int size, size2, i;
+  size = strlen (string);
+  size2 = size -1;
+  string2 = (char *) malloc (size + 1);
+  for (i = 0; i &lt; size; i++)
+    string2[size2 - i] = string[i];
+  string2[size] = `\0';
+  printf ("The string printed backward is %s\n", string2);
+}
+    你将得到下面的输出:
+/* test.c */
+int main(void);
+int my_print(char *string);
+int my_print2(char *string);
+    这个输出可以重定向到一个定义函数原型的包含文件里.
+indent
+    indent 实用程序是 Linux 里包含的另一个编程实用工具. 这个工具简单的说就为
+你的代码产生美观的缩进的格式. indent 也有很多选项来指定如何格式化你的源代码.
+这些选项的更多信息请看indent 的指南页, 在命令行上键入 indent -h .
+    下面的例子是 indent 的缺省输出:
+    运行 indent 以前的 C 代码:
+#include  &lt;stdio.h&gt;
+main () {
+      char my_string[] = "hello there";
+  my_print (my_string);
+     my_print2(my_string); }
+my_print (char *string)
+
+{
+  printf    ("The string is %s\n", *string);
+}
+my_print2           (char *string) {
+    char *string2;
+      int size, size2, i;
+      size = strlen (string);
+      size2 = size -1;
+      string2 = (char *) malloc (size + 1);
+  for (i = 0; i &lt; size; i++)
+            string2[size2 - i] = string[i];
+      string2[size] = `\0';
+      printf ("The string printed backward is %s\n", string2);
+}
+    运行 indent 后的 C 代码:
+#include  &lt;stdio.h&gt;
+main ()
+{
+  char my_string[] = "hello there";
+  my_print (my_string);
+  my_print2 (my_string);
+}
+my_print (char *string)
+{
+  printf ("The string is %s\n", *string);
+}
+my_print2 (char *string)
+{
+  char *string2;
+  int size, size2, i;
+  size = strlen (string);
+  size2 = size -1;
+  string2 = (char *) malloc (size + 1);
+  for (i = 0; i &lt; size; i++)
+    string2[size2 - i] = string[i];
+  string2[size] = `\0';
+  printf ("The string printed backward is %s\n", string2);
+}
+     indent 并不改变代码的实质内容, 而只是改变代码的外观. 使它变得更可读, 这
+永远是一件好事.
+gprof
+    gprof 是安装在你的 Linux 系统的 /usr/bin 目录下的一个程序. 它使你能剖析你
+的程序从而知道程序的哪一个部分在执行时最费时间.
+    gprof 将告诉你程序里每个函数被调用的次数和每个函数执行时所占时间的百分比
+. 你如果想提高你的程序性能的话这些信息非常有用.
+    为了在你的程序上使用 gprof, 你必须在编译程序时加上 -pg 选项. 这将使程序在
+每次执行时产生一个叫 gmon.out 的文件. gprof 用这个文件产生剖析信息.
+    在你运行了你的程序并产生了 gmon.out 文件后你能用下面的命令获得剖析信息:
+gprof &lt;program_name&gt;
+    参数 program_name 是产生 gmon.out 文件的程序的名字.
+----------------------------------------------------------------------------
+----
+技巧: gprof 产生的剖析数据很大, 如果你想检查这些数据的话最好把输出重定向到一
+个文件里.
+----------------------------------------------------------------------------
+----
+f2c 和 p2c
+    f2c 和 p2c 是两个源代码转换程序. f2c 把 FORTRAN 代码转换为 C 代码, p2c 把
+ Pascal 代码转换为 C 代码. 当你安装 GCC 时这两个程序都会被安装上去.
+    如果你有一些用 FORTRAN 或 Pascal 写的代码要用 C 重写的话, f2c 和 p2c 对你
+非常有用. 这两个程序产生的 C 代码一般不用修改就直接能被 GCC 编译.
+    如果要转换的 FORTRAN 或 Pascal 程序比较小的话可以直接使用 f2c 或 p2c 不用
+加任何选项. 如果要转换的程序比较庞大, 包含很多文件的话你可能要用到一些命令行
+选项.
+    在一个 FORTRAN 程序上使用 f2c , 输入下面的命令:
+f2c my_fortranprog.f
+----------------------------------------------------------------------------
+----
+注意: f2c 要求被转换的程序的扩展名为 .f 或 a .F .
+----------------------------------------------------------------------------
+----
+    要把一个Pascal 程序装换为 C 程序, 输入下面的命令:
+p2c my_pascalprogram.pas
+    这两个程序产生的 C 源代码的文件名都和原来的文件名相同, 但扩展名由 .f 或
+.pas 变为 .c.
+--
+I remember my grandson asked me the other day, he said: "Grandpa, were you a hero in the great war?"
+"No,"I replied,"But I served in a company of heroes."
+有一天我的小孙子问我“爷爷，你是大战中的英雄吗？我回答：不......但我与英雄们一同服役。
+ 北邮嵌入式系统论坛欢迎大家！<a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=Embedded_System">http://forum.byr.edu.cn/wForum/board.php?name=Embedded_System</a>  
+北邮嵌入式系统协会 群号：60600133
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.186.*]
+
+【文章标题】：有做DSP的吗，请教一个问题 【文章地址】：https://bbs.byr.cn/article/Embedded_System/149 【创建时间】：2008-05-07 【作者】：howl 【评论】：1 【内容】：发信人: howl (夜鹰), 信区: Embedded_System
+标  题: 有做DSP的吗，请教一个问题
+发信站: 北邮人论坛 (Wed May  7 17:58:19 2008), 站内
+
+ load program时出现以下问题，请问是什么原因，如何解决
+
+RTDX target application does not match emulation protocol!
+Loaded program was created with an rtdx library which does not match the target device
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+

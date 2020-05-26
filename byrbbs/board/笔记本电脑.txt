@@ -1733,3 +1733,212 @@ Sunday：收到莫名其妙的戒指和情书，落款是“仰慕您的霍诺�
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.156.*]
  
+【文章标题】：Re: 非常不错的笔记本硬件全面介绍性文章，BB系统扫盲 【文章地址】：https://bbs.byr.cn/article/Notebook/9325 【创建时间】：2005-12-22 【作者】：原帖已删除 【评论】：21 【内容】：发信人: sqj19860404 (NB版没过门的媳妇儿!), 信区: Notebook
+标  题: Re: 非常不错的笔记本硬件全面介绍性文章，BB系统扫盲
+发信站: 北邮人论坛 (Thu Dec 22 18:04:08 2005), 站内
+
+855GM的系统架构
+
+如图是采用855GM芯片的系统图，我们看到在显示部分，已经直接由北桥来负责输出。下图是某笔记本的整体写真，我们看到除了CPU，北桥，南桥外，没有显示卡芯片。
+
+<a target="_blank" href="/att/Notebook/0/9350/537"><img border="0" title="27-22-15-51-296899469.jpg" src="/att/Notebook/0/9350/537" alt="27-22-15-51-296899469.jpg" class="resizeable"></a>
+
+<a target="_blank" href="/att/Notebook/0/9350/43499"><img border="0" title="27-22-15-54-352540223.jpg" src="/att/Notebook/0/9350/43499" alt="27-22-15-54-352540223.jpg" class="resizeable"></a>
+集成显卡的主板
+--
+一句话就是永远，  爱你就是一辈子！ 
+我会用一生去等的！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.217.80.*]
+
+ 
+【文章标题】：求推荐一款平板电脑 以及thinkpad x220i的型号问题 【文章地址】：https://bbs.byr.cn/article/Notebook/132269 【创建时间】：2012-06-22 【作者】：miraclefruit 【评论】：6 【内容】：发信人: miraclefruit (miraclefruit), 信区: Notebook
+标  题: 求推荐一款平板电脑 以及thinkpad x220i的型号问题
+发信站: 北邮人论坛 (Fri Jun 22 19:50:14 2012), 站内
+
+使用者性别:
+
+
+预计花费（外设花费可以单独说明）:
+平板电脑：两千左右或者更低      thinkpad  x220i 6000以下
+
+考虑行货/水货/国货/非日货/非韩货？::
+行货
+
+主要用途：:
+平板电脑：给爸妈，玩游戏，上网，发飞信qq之类  thinkpad：我用，上网办公等
+
+预计应用中对配置要求较高的游戏：:
+平板电脑：一般的小游戏就可以     thinkpad;玩的了仙剑
+
+预计应用中对配置要求较高的程序：:
+平板电脑：无             thinkpad：loadrunner
+
+能接受的重量(&lt;1.5kg;1.5-2kg;2kg-2.5kg;无所谓?):  :
+无所谓
+
+喜欢的显示器大小: （11/12寸、13、14、15/更大）:
+无所谓
+
+外观要求:  :
+平板都可以          
+
+独显或集显/硬盘/屏幕高分否/偏好品牌/已考虑型号�:
+平板电脑希望质量靠谱点的  thinkpad x220i同样配置的有很多种型号，i3 的推荐一个型号吧，要有蓝牙和摄像头
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.102.149.*]
+ 
+【文章标题】：SKS的二手thinkpad靠谱吗 【文章地址】：https://bbs.byr.cn/article/Notebook/142751 【创建时间】：2013-01-05 【作者】：douglas26 【评论】：4 【内容】：发信人: douglas26 (douglas), 信区: Notebook
+标  题: SKS的二手thinkpad靠谱吗
+发信站: 北邮人论坛 (Sat Jan  5 21:21:48 2013), 站内
+
+看到水木上正在搞二手thinkpad的团购，那个SKS靠谱吗？有人买过没？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 74.125.178.*]
+ 
+【文章标题】：入macbook pro求建议 【文章地址】：https://bbs.byr.cn/article/Notebook/142281 【创建时间】：2012-12-24 【作者】：zhangboyao 【评论】：36 【内容】：发信人: zhangboyao (我不知道), 信区: Notebook
+标  题: 入macbook pro求建议
+发信站: 北邮人论坛 (Mon Dec 24 03:33:27 2012), 站内
+
+最近想入个macbook pro玩玩儿~~~基本确定港行retina屏的了~~~
+就是犹豫13或者15寸~~~要不要加配置~~~
+
+自己情况是：不打什么游戏，主要是想试试苹果的系统，用电脑就是听听歌，看看视频，有时候用一些音乐、视频编辑软件做点儿东西~~~
+经常出差的话，13的估计会轻便一些，不过感觉屏幕略小了，不知道使用起来会有多大影响~~~15寸的话，不知道贵的那些钱对使用起来影响有多大？
+还有，如果要定制，加配置的话；怎么个加法？求建议~~~
+--
+
+PS:如果买的话，淘宝或者中关村靠谱么？还是说让同学带个港行的？差价能有多少？
+※ 修改:·zhangboyao 于 Dec 24 11:26:51 2012 修改本文·[FROM: 123.119.250.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.119.250.*]
+ 
+【文章标题】：求高手看一下这款电脑怎么样 【文章地址】：https://bbs.byr.cn/article/Notebook/142764 【创建时间】：2013-01-07 【作者】：zjt 【评论】：1 【内容】：发信人: zjt (涛声依旧), 信区: Notebook
+标  题: 求高手看一下这款电脑怎么样
+发信站: 北邮人论坛 (Mon Jan  7 12:02:06 2013), 站内
+
+戴尔15RR 2518
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.122.18.*]
+ 
+【文章标题】：Toshiba Satellite U845-S402  可以入手吗 【文章地址】：https://bbs.byr.cn/article/Notebook/142779 【创建时间】：2013-01-07 【作者】：Valentino 【评论】：0 【内容】：发信人: Valentino (185), 信区: Notebook
+标  题: Toshiba Satellite U845-S402  可以入手吗
+发信站: 北邮人论坛 (Mon Jan  7 23:11:21 2013), 站内
+
+Toshiba Satellite U845-S402  可以入手吗
+
+http://www.laptopmag.com/review/laptops/toshiba-satellite-u845-s402.aspx
+
+CPU 
+1.5GHz Intel Core i3-2377M
+Operating System    MS Windows 7 Home Premium (64-bit)
+RAM 
+4GB
+RAM Upgradable to 
+8GB
+Hard Drive Size 
+500GB + 16GB SSD
+Hard Drive Speed 
+5,400rpm
+Hard Drive Type 
+SATA Hard Drive + SSD
+Display Size 
+14
+Native Resolution 
+1366x768
+Optical Drive 
+None
+Optical Drive Speed 
+n/a
+Graphics Card 
+Intel HD Graphics
+Video Memory 
+Shared
+Wi-Fi 
+802.11a/b/g/n
+Wi-Fi Model    Intel Centrino(R) Wireless-N 2230
+Bluetooth 
+none
+Mobile Broadband 
+Touchpad Size    2.45 x 3.75 inches
+Ports (excluding USB) 
+Ethernet; HDMI; Headphone; Microphone; security lock slot; USB 3.0
+USB Ports 
+3
+Card Slots 
+7-1 card reader
+Warranty/Support    Standard Limited Warranty 1-Yr Parts and Labor, 1-
+Year Battery
+Size    13.5 x 9.1 x 0.8 inches
+Weight    3.9 pounds
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 60.8.123.*]
+ 
+【文章标题】：dell xps 13的超极本装系统出问题了 【文章地址】：https://bbs.byr.cn/article/Notebook/142773 【创建时间】：2013-01-07 【作者】：wsdy 【评论】：4 【内容】：发信人: wsdy (jancidy), 信区: Notebook
+标  题: dell xps 13的超极本装系统出问题了
+发信站: 北邮人论坛 (Mon Jan  7 21:57:31 2013), 站内
+
+诸位大神有时间帮忙不？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 82.132.216.*]
+ 
+【文章标题】：求大牛帮忙升级笔记本电脑IBM-R50e 【文章地址】：https://bbs.byr.cn/article/Notebook/142646 【创建时间】：2013-01-01 【作者】：chun1990219 【评论】：8 【内容】：发信人: chun1990219 (梦幻泡影), 信区: Notebook
+标  题: 求大牛帮忙升级笔记本电脑IBM-R50e
+发信站: 北邮人论坛 (Tue Jan  1 20:20:02 2013), 站内
+
+使用者性别:
+
+
+公费自费:
+
+
+预计花费（外设花费可以单独说明）:
+
+
+考虑行货/水货/国货/非日货/非韩货？::
+
+
+主要用途：:
+升级为2G内存，320G硬盘，就是平常看个电影聊个天，小游戏。。。换windows7,据说配件不怎么好搞。。。还有弱弱的问一下：吴哥在吗?跪求，真心需要您的支援啊。。。。我电话是18810542651-学六
+
+预计应用中对配置要求较高的游戏：:
+
+
+预计应用中对配置要求较高的程序：:
+
+
+能接受的重量(&lt;1.5kg;1.5-2kg;2kg-2.5kg;无所谓?):  :
+
+
+喜欢的显示器大小: （11/12寸、13、14、15/更大）:
+
+
+外观要求:  :
+
+
+独显或集显/硬盘/屏幕高分否/偏好品牌/已考虑型号�:
+
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.5.*]
+ 
+【文章标题】：关于蛛蛛家的又一售后问题 【文章地址】：https://bbs.byr.cn/article/Notebook/142589 【创建时间】：2012-12-31 【作者】：daniello 【评论】：2 【内容】：发信人: daniello (天羽源), 信区: Notebook
+标  题: 关于蛛蛛家的又一售后问题
+发信站: 北邮人论坛 (Mon Dec 31 09:42:23 2012), 站内
+
+没有什么的 也就看到这么个情况来这里说说而已
+http://tieba.baidu.com/p/2074868073?pn=1
+蛛蛛家的价格个人感觉参考参考就好  因为售后确实让人不太放心
+@JamesHuang    
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.10.*]
+ 

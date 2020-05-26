@@ -2203,3 +2203,1974 @@ AI说到底是哲学问题。
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 159.226.21.*]
  
 
+【文章标题】：人工智能教育资源 【文章地址】：https://bbs.byr.cn/article/ML_DM/465 【创建时间】：2007-12-09 【作者】：cinderellahi 【评论】：1 【内容】：发信人: cinderellahi (xiao), 信区: PR_AI
+标  题: 人工智能教育资源
+发信站: 北邮人论坛 (Sun Dec  9 16:51:02 2007), 站内
+
+很多普及知识还有专业知识，看看吧，呵呵
+http://www.ithao123.com/artificial_intelligence/0007.html
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.227.*]
+ 
+【文章标题】：【求助】人工智能&神经及认知科学 【文章地址】：https://bbs.byr.cn/article/ML_DM/1976 【创建时间】：2008-05-05 【作者】：delp 【评论】：13 【内容】：发信人: delp (delp@fly.ahead), 信区: PR_AI
+标  题: 【求助】人工智能&amp;神经及认知科学
+发信站: 北邮人论坛 (Mon May  5 22:03:45 2008), 站内
+
+关于这两个方向有点不太理解：
+
+人工智能是不是就是主要用来模仿生物的智能原理制造出电子智能，比如神经网络、认知机什么的；
+
+神经及认知科学是不是就是研究人脑（或其它动物脑及神经）的工作机理的，偏生物和化学方面的？
+
+不清楚有没有这两个领域结合的方向呢，请各位大侠不吝赐教
+--
+专注+坚持
+
+越来越远        
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.213.*]
+ 
+【文章标题】：[求助] 求助 关于3层神经网络的计算方法 【文章地址】：https://bbs.byr.cn/article/ML_DM/2022 【创建时间】：2008-05-10 【作者】：duegja 【评论】：2 【内容】：发信人: duegja (橙子), 信区: PR_AI
+标  题: [求助] 求助 关于3层神经网络的计算方法
+发信站: 北邮人论坛 (Sat May 10 15:34:37 2008), 站内
+
+求助 关于3层神经网络的计算方法  朋友在写毕业设计，需要一个新一些的关于3层神经网络的计算方法，一个隐藏 层的，有教师值的，一个输出，要一个新一些的算法，以前的是用kalman filer做的，要代替这个。 
+
+希望得到大家的帮助。谢谢。
+
+联系方式: qq:228945832
+   msn: saber@live.com
+邮箱同 msn
+--
+刻录的问题可以找偶
+qq:228945832
+
+橙子的刻录群，对刻录有兴趣的朋友都来吧。
+
+群号：17791521
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.218.119.*]
+ 
+【文章标题】：请教PSO粒子群优化算法，应用于神经网络参数寻优 【文章地址】：https://bbs.byr.cn/article/ML_DM/1400 【创建时间】：2008-03-20 【作者】：LeonTown 【评论】：9 【内容】：发信人: LeonTown (亮), 信区: PR_AI
+标  题: 请教PSO粒子群优化算法，应用于神经网络参数寻优
+发信站: 北邮人论坛 (Thu Mar 20 20:41:54 2008), 站内
+
+如题，
+我使用PSO粒子群优化算法，寻找合适的神经网络参数。（三层网络，两层间的权重和偏移量）
+
+就是用经典的PSO位置和速度公式，
+发现效果很差！
+
+请各位指点，该如何更好的设计PSO优化算法，及PSO参数的设置。
+
+谢谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.180.*]
+ 
+【文章标题】：求去除图像底纹的方法。 【文章地址】：https://bbs.byr.cn/article/ML_DM/2011 【创建时间】：2008-05-09 【作者】：yexiangliu 【评论】：6 【内容】：发信人: yexiangliu (NINA), 信区: PR_AI
+标  题: 求去除图像底纹的方法。
+发信站: 北邮人论坛 (Fri May  9 09:17:07 2008), 站内
+
+本人一点头绪都没有，知道的人都説説吧，哪怕是一点点。
+先谢过啦。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.223.*]
+ 
+【文章标题】：图像边缘检测与边缘提取有区别没 【文章地址】：https://bbs.byr.cn/article/ML_DM/1813 【创建时间】：2008-04-26 【作者】：xdybfq 【评论】：1 【内容】：发信人: xdybfq (火星撞地球), 信区: PR_AI
+标  题: 图像边缘检测与边缘提取有区别没
+发信站: 北邮人论坛 (Sat Apr 26 11:05:53 2008), 站内
+
+请问
+--
+好好学编程
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.75.238.*]
+ 
+【文章标题】：吴建平老师是智能科学技术中心的吗 【文章地址】：https://bbs.byr.cn/article/ML_DM/2004 【创建时间】：2008-05-07 【作者】：xdybfq 【评论】：3 【内容】：发信人: xdybfq (火星撞地球), 信区: PR_AI
+标  题: 吴建平老师是智能科学技术中心的吗
+发信站: 北邮人论坛 (Wed May  7 16:53:39 2008), 站内
+
+请问
+--
+好好学编程
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.75.238.*]
+ 
+【文章标题】：求教高人 【文章地址】：https://bbs.byr.cn/article/ML_DM/2034 【创建时间】：2008-05-13 【作者】：xdybfq 【评论】：0 【内容】：发信人: xdybfq (火星撞地球), 信区: PR_AI
+标  题: 求教高人
+发信站: 北邮人论坛 (Tue May 13 10:38:35 2008), 站内
+
+有哪位知道Canny算子的时间复杂度不，加法运算和乘法运算的 能够说下吗 谢了
+--
+好好学编程
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.75.239.*]
+ 
+【文章标题】：Canny算子求教 【文章地址】：https://bbs.byr.cn/article/ML_DM/2064 【创建时间】：2008-05-15 【作者】：xdybfq 【评论】：1 【内容】：发信人: xdybfq (火星撞地球), 信区: PR_AI
+标  题: Canny算子求教
+发信站: 北邮人论坛 (Thu May 15 19:50:41 2008), 站内
+
+请问一幅N*N图像用Canny算子提取边缘 
+加法运算和乘法运算的时间复杂度分别是多少呢
+--
+好好学编程
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.75.239.*]
+ 
+【文章标题】：【求】怎么求理想低通滤波的横向滤波半径？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/2068 【创建时间】：2008-05-15 【作者】：yexiangliu 【评论】：0 【内容】：发信人: yexiangliu (NINA), 信区: PR_AI
+标  题: 【求】怎么求理想低通滤波的横向滤波半径？
+发信站: 北邮人论坛 (Thu May 15 22:18:44 2008), 站内
+
+还有纵向滤波半径？知道图片的宽和高。
+o(∩_∩)o...
+--
+
+※ 修改:·yexiangliu 于 May 16 08:32:11 修改本文·[FROM: 59.64.223.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.223.*]
+ 
+【文章标题】：【已解决，感谢cryppie~】[求书]Introduction to Statistical P 【文章地址】：https://bbs.byr.cn/article/ML_DM/388 【创建时间】：2007-12-05 【作者】：hh1012 【评论】：9 【内容】：发信人: hh1012 (3C), 信区: PR_AI
+标  题: 【已解决，感谢cryppie~】[求书]Introduction to Statistical Pattern Recognition
+发信站: 北邮人论坛 (Wed Dec  5 17:05:36 2007), 站内
+
+rt~Keinosuke Fukunaga写的，很经典的一本，想读一下，哪位有可以share一下吧~
+
+我哪儿都找不到，sigh~
+
+many thanks~
+--
+
+※ 修改:·hh1012 于 Dec  5 22:30:48 修改本文·[FROM: 59.64.139.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.139.*]
+ 
+【文章标题】：[求助]有人做过关于客户信用的算法研究吗 【文章地址】：https://bbs.byr.cn/article/ML_DM/1984 【创建时间】：2008-05-06 【作者】：cdm 【评论】：3 【内容】：发信人: cdm (过去的只是经历), 信区: PR_AI
+标  题: [求助]有人做过关于客户信用的算法研究吗
+发信站: 北邮人论坛 (Tue May  6 14:52:54 2008), 站内
+
+rt，最近做一个咨询项目，一直都搞不懂客户信用评级改用哪些指标、那些算法来进行数据挖掘，求达人指点迷津！必有BG！
+--
+人是要有上进心的！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.130.39.*]
+ 
+【文章标题】：分享资源 【文章地址】：https://bbs.byr.cn/article/ML_DM/432 【创建时间】：2007-12-07 【作者】：hunterlee 【评论】：8 【内容】：发信人: hunterlee (智障大师), 信区: PR_AI
+标  题: 分享资源
+发信站: 北邮人论坛 (Fri Dec  7 16:13:45 2007), 站内
+
+给大家推荐一些我认为不错的资料。
+
+smth的AI版FTP上有不少好的东西，一些经典的书和文档上面都有。
+
+“台湾大学机器学习教程”，最近（反正我是最近才看到的）的一个不错的东东，包括一些研究领域的课件和经典的paper。在smth的FTP有。
+
+Pattern Recognition And Machine Learning。强烈推荐！！bishop的新书，目前好像只有电子版，我认为这本书和Duda的那本是最好的入门级的书，深入浅出的讲解，而且对问题的本质认识得很深刻，大家有空应该系统地精读。smth的FTP上也有下。
+
+Introduction to Graphical Models。 jordan写的，好像还没出版，只是内部的教材。我不了解Graphical Models，但据说这书写得不错。smth的FTP上有下。
+
+语言技术论坛 <a target="_blank" href="http://bbs.langtech.org.cn/index.php">http://bbs.langtech.org.cn/index.php</a>     哈工大办的，做NLP的可以常去看看，这论坛水平还是不错的，可以看出哈工大的实力很强的。
+
+另外，大家如果要做这个方向，统计学方面得下很多功夫（虽然我的数学也很烂）。
+
+祝大家学习愉快<img src="/img/ubb/em/12.gif" alt="em12" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 172.28.82.*]
+ 
+【文章标题】：请高人说说自然语言处理的目的是什么？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1946 【创建时间】：2008-05-02 【作者】：pnfi 【评论】：3 【内容】：发信人: pnfi (pnfi), 信区: PR_AI
+标  题: 请高人说说自然语言处理的目的是什么？
+发信站: 北邮人论坛 (Fri May  2 23:20:11 2008), 站内
+
+相关技术，谢谢啦
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.236.56.*]
+ 
+【文章标题】：[ebook]Image Modelling and Estimation 【文章地址】：https://bbs.byr.cn/article/ML_DM/2098 【创建时间】：2008-05-17 【作者】：cryppie 【评论】：1 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: [ebook]Image Modelling and Estimation
+发信站: 北邮人论坛 (Sat May 17 11:49:55 2008), 站内
+
+Image Modelling and Estimation, A Statistical Approach
+Author: Finn Lindgren, Lund Univer.
+
+Content:
+1. Introduction
+    1.1 Why a statistical approach?
+
+2. Statistical modelling and estimation
+    2.1 Statistical modelling
+         2.1.1 Conditional probabilities
+         2.1.2 Hierarchical models
+         2.1.3 Covariance matrices
+         2.1.4 Bayesian methods
+    2.2 Object classification
+         2.2.1 Maximum likelihood classification
+         2.2.2 Maximum A Posteriori classification
+         2.2.3 Classification with loss functions
+         2.2.4 Data reduction
+                 PCA
+                 PCA for multi-spectral images
+     2.3 Estimation
+         2.3.1 Training set
+         2.3.2 Covariance estimation
+         2.3.3 The EM-algorithm for mixture distributions
+     Exercises
+
+3. Distribution, correlation, and filters
+                  Random and fixed image elements
+      3.1 Grey level distributions and histograms
+          3.1.1 Histogram transformations
+      3.2 Covariance and correlation
+          3.2.1 The covariance matrix
+                   Covariances and linear operations
+          3.2.2 Model covariance and correlation function
+          3.2.3 Homogeneity and isotropy
+          3.2.4 Data covariance and correlation
+      3.3 Fourier transforms and spectrum
+          3.3.1 Fourier transforms in R and Z
+                  Fourier transform of covariance functions; power spectral density
+          3.3.2 Sum of random harmonics
+          3.3.3 Fourier transforms in R^2 and Z^2
+                  The Fourier transform of a double indexed sequence
+                  Power spectral densities in R^2 and Z^2
+                  Power spectrum for an isotropic field
+          3.3.4 Discrete Fourier transforms of 1D and 2D data
+                  Discrete Fourier transform of a data sequence
+                  The Fourier transform of an observed random sequence
+                  Relation between DFT of a data vector and a spectral density
+                  Discrete Fourier transform of 2D data
+      3.4 Linear Filters
+          3.4.1 Random elements in linear filters
+                  Smoothing filter
+                  Sharpening filter
+                  Correlation matching
+                  Wiener filter
+
+4 Random fields with Markov structures
+      4.1 Markov random fields
+      4.2 Gaussian Markov random fields
+      4.3 Gibbs distributions
+      4.4 Estimation
+
+5 Markov chain Monte Carlo (MCMC) simulation
+      5.1 Introduction
+            Why simulation?
+            How to simulate?
+      5.2 MCMC
+          5.2.1 The Metropolis algorithm
+          5.2.2 The Metropolis-Hastings algorithm
+          5.2.3 Gibbs-sampling
+                  Block-update Gibbs-sampling
+                  Parallel Gibbs-sampling
+          5.2.4 MCMC convergence conditions
+6 Shape analysis
+      6.1 Empirical and Bayesian templates
+          6.1.1 Prior distributions
+          6.1.2 Data likelihood and model estimation
+          6.1.3 Templates and global transformations
+      6.2 Landmark templates
+          6.2.1 Vertex perturbations
+          6.2.2 Edge perturbations
+          6.2.3 Global perturbations and simulations
+      6.3 Free-form templates
+          6.3.1 Curves
+                  Snakes
+                  Splines
+          6.3.2 Surfaces
+      6.4 Shapes from images
+          6.4.1 GMRF-snakes
+      6.5 Estimation algorithm example
+          6.5.1 The data model
+          6.5.2 Construction of the loss function
+          6.5.3 Loss function derivatives
+          6.5.4 Practical optimisation
+          6.5.5 Uncertainty estimation
+7 Warping
+      7.1 Embedded deformation
+          7.1.1 Warping
+          7.1.2 Morphing
+                  Physical deformation models
+<a href="/att/ML_DM/0/2098/4015" target="_blank" color="blue">附件(1.4MB)  Image_analysis_and_estimation.pdf</a>
+--
+学习 研究 旅游——牛嘌呤的生活
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.77.22.*]
+
+ 
+【文章标题】：求书 Pattern classification and scene analysis 【文章地址】：https://bbs.byr.cn/article/ML_DM/2041 【创建时间】：2008-05-13 【作者】：zixu1986 【评论】：6 【内容】：发信人: zixu1986 (两个小猫记), 信区: PR_AI
+标  题: 求书 Pattern classification and scene analysis
+发信站: 北邮人论坛 (Tue May 13 21:53:42 2008), 站内
+
+求书 Pattern classification and scene analysis 最好有pdf
+老师推荐看的 说1973年的第一版比较经典 现在的第二版反而不清楚了
+哪位大牛那有啊
+--
+dream school -- MIT
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.214.*]
+ 
+【文章标题】：[轻松一下]博士一年级的时候，我的qmd@SMTH 【文章地址】：https://bbs.byr.cn/article/ML_DM/2028 【创建时间】：2008-05-12 【作者】：cryppie 【评论】：6 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: [轻松一下]博士一年级的时候，我的qmd@SMTH
+发信站: 北邮人论坛 (Mon May 12 14:48:30 2008), 站内
+
+博士的目标：
+第一年：我要争取做个牛博士；
+第二年：我要争取4年毕业；
+第三年：我要争取5年毕业；
+第四年：我要争取毕业；
+第五年：kao，爱怎么样就怎么样吧?
+--
+学习 研究 旅游——牛嘌呤的生活
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.78.20.*]
+ 
+【文章标题】：bg有望提前 【文章地址】：https://bbs.byr.cn/article/ML_DM/1965 【创建时间】：2008-05-04 【作者】：cryppie 【评论】：20 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: bg有望提前
+发信站: 北邮人论坛 (Sun May  4 11:32:41 2008), 站内
+
+bg有望提前了。可能5月底回北京。
+--
+学习 研究 旅游——牛嘌呤的生活
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 117.81.30.*]
+ 
+【文章标题】：欢迎大家来听报告，关于Bioinformatics 【文章地址】：https://bbs.byr.cn/article/ML_DM/2087 【创建时间】：2008-05-16 【作者】：cryppie 【评论】：8 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: 欢迎大家来听报告，关于Bioinformatics
+发信站: 北邮人论坛 (Fri May 16 16:09:49 2008), 站内
+
+Michael S. Waterman 讲席教授组聘任仪式暨学术报告会
+
+Title: Bioinformatics and System Biology
+Speaker: Professor Michael S. Waterman
+Abstract: This lecture provides a brief description of the growth of bioinformatics and an overview on some of the important problems in that period. With an introduction to the accomplishments that are closely linked to DNA sequencing and associated computational problems, each member of the Chair Professor Team is discussed in the context of his achievements.
+
+时间：2008-5-22,10:00-11:30
+地点：清华大学FIT多功能厅
+
+讲席教授组成员：
+
+Michael S. Waterman @ USC
+Michael Q. Zhang @ CSHL
+Wing Wong @ Stanford
+Jun S. Liu @ Harvard
+Tao Jiang @ UCR
+Fengzhu Sun @ USC
+
+附件中有具体介绍。
+
+
+<a href="/att/ML_DM/0/2087/1074" target="_blank" color="blue">附件(630.1KB)  OpeningCeremony.pdf</a>
+--
+学习 研究 旅游——牛嘌呤的生活
+
+※ 修改:·cryppie 于 May 16 23:50:03 修改本文·[FROM: 125.78.17.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.78.17.*]
+ 
+【文章标题】：[zt]蒲慕名的letter 【文章地址】：https://bbs.byr.cn/article/ML_DM/1990 【创建时间】：2008-05-06 【作者】：cryppie 【评论】：9 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: [zt]蒲慕名的letter
+发信站: 北邮人论坛 (Tue May  6 21:41:08 2008), 站内
+
+看完蒲的要求，发现我的boss也是24hr在线，有时深夜还给我mail，问个问题马上就有答复。哎，我还在偷懒，工作，工作，去。
+
+To all lab members:
+Over the past several months, it has become clear to me that if there is
+no drastic change in the lab, Poo lab will soon cease to be a productive,
+first-rate lab that you chose to join in the first place. Lab progress
+reports over the past six months have clearly shown the lack of progress in
+most projects. One year ago, when we first moved to Berkeley, I expressed
+clearly to everyone my expectation from each one in the lab. The most
+important thing is what I consider to be sufficient amount of time and
+effort in the lab work. I mentioned that about 60 hr working time per week
+is what I consider the minimal time an average successful young scientist
+in these days has to put into the lab work. There may be a few rare lucky
+fellows like Florian, who had two Nature papers in his sleeve already, can
+enjoy life for a while and still get a job offer from Harvard. no one else
+in the lab has Florian\'s luxury to play around.
+Thus I am imposing strict rules in the lab from now on:
+1. Every one works at least 50 hr a week in the lab (e.g., 8+ hr a day, six
+days a week). This is by far lower than what I am doing every day and
+throughout most of my career. You may be smarter or do not want to be as
+successful, but I am not asking you to match my time in the lab.
+2. By working, I mean real bench work. This does not include surfing on the
+computer and sending and receiving e-mails for non-scientific matters
+unrelated to your work (you can do this after work in the lab or at home),
+and excessive chatting on nonscientific matters. No long lunch break except
+special occasions. I suggest that everyone puts in at least 6 hr
+concentrated bench work and 2+ hr reading and other research-related
+activity each day. Reading papers and books should be done mostly after
+work. More time can be spent on reading, literature search and writing
+during working hours when you are ready for writing a paper.
+3. I must be informed in person by e-mail (even in my absence from the lab)
+when you are absent from the lab for a whole day or more. Inform me early
+your vacation plan. Taking more than 20 working days out of one year is the
+maximum to me. In fact, none of you are reporting any vacation and sick
+leave on your time sheet (against the university rule, although I have been
+signing the sheets), but you know roughly how many days you were not here.
+On the whole, I understand and accept the fact that you may not fulfill the
+above requirements all the time, due to health reasons, occasional personal
+business. But if you do not like to follow the rules because it is simply a
+matter of choice of life style, I respect your choice but suggest you start
+making plans immediately and leave the lab by the end of January 31. I will
+do my best to help you to locate a lab to transfer or to find a job.
+If you do accept the conditions I describe above, I am happy to continue to
+provide my best support to your work, hopefully more than I have done in
+the past. I will review the progress of everyone in the lab by the end of
+June of 2002. I expect everyone to have made sufficient progress in the
+research so that a good paper is in sight (at least to the level of J.
+Neuroscience). If you cannot meet this goal at that time, I will have to
+ask you to prepare to leave my lab by the end of August.
+Mu-ming
+--
+学习 研究 旅游——牛嘌呤的生活
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 121.228.49.*]
+ 
+【文章标题】：[求助]怎么样用matlab读取一个文件夹中的所有图像文件 【文章地址】：https://bbs.byr.cn/article/ML_DM/2113 【创建时间】：2008-05-20 【作者】：blueskycod 【评论】：1 【内容】：发信人: blueskycod (blue sky), 信区: PR_AI
+标  题: [求助]怎么样用matlab读取一个文件夹中的所有图像文件
+发信站: 北邮人论坛 (Tue May 20 15:24:31 2008), 站内
+
+谢谢。
+--
+流沙又黄京城天，明月何时照我还？
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.168.*]
+ 
+【文章标题】：求书 Vision 【文章地址】：https://bbs.byr.cn/article/ML_DM/2130 【创建时间】：2008-05-23 【作者】：zixu1986 【评论】：1 【内容】：发信人: zixu1986 (Euro), 信区: PR_AI
+标  题: 求书 Vision
+发信站: 北邮人论坛 (Fri May 23 22:56:19 2008), 站内
+
+VISION by David Marr 1982
+据说是非常经典的一本书
+--
+dream school -- MIT
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.214.*]
+ 
+【文章标题】：通过特征词如何最好的比较文本相似度？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/2095 【创建时间】：2008-05-17 【作者】：parameter 【评论】：7 【内容】：发信人: parameter (paradise), 信区: PR_AI
+标  题: 通过特征词如何最好的比较文本相似度？
+发信站: 北邮人论坛 (Sat May 17 10:14:44 2008), 站内
+
+向量空间模型是很早以前的方法了吧  请问最近比较好的方法是什么呢？
+现在已经有文本的特征词（假定已经可以很好的描述文本）
+如何通过特征词来实现相似文本的界定？   谢谢大家！
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.230.*]
+ 
+【文章标题】：[推荐一本书]如何阅读一本书 【文章地址】：https://bbs.byr.cn/article/ML_DM/2104 【创建时间】：2008-05-17 【作者】：cryppie 【评论】：4 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: [推荐一本书]如何阅读一本书
+发信站: 北邮人论坛 (Sat May 17 18:42:39 2008), 站内
+
+How to read a book
+如何阅读一本书，商务印书馆
+
+很不错的一本书，推荐一下。写report去。。。
+--
+学习 研究 旅游——牛嘌呤的生活
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.77.22.*]
+ 
+【文章标题】：fun to watch 【文章地址】：https://bbs.byr.cn/article/ML_DM/2153 【创建时间】：2008-05-25 【作者】：cryppie 【评论】：0 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: fun to watch
+发信站: 北邮人论坛 (Sun May 25 07:47:01 2008), 站内
+
+http://www.youtube.com/watch?v=AA98PYAKzYo
+--
+子不学，非所宜。幼不学，老何为。
+玉不琢，不成器。人不学，不知义。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.57.29.*]
+ 
+【文章标题】：神经网络的论文好做吗？水深吗？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1698 【创建时间】：2008-04-19 【作者】：joenjoin 【评论】：2 【内容】：发信人: joenjoin (champ), 信区: PR_AI
+标  题: 神经网络的论文好做吗？水深吗？
+发信站: 北邮人论坛 (Sat Apr 19 23:56:53 2008), 站内
+
+具体说就是做图像识别方面吧
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.239.*]
+ 
+【文章标题】：[求助]本科毕设做图像检索 【文章地址】：https://bbs.byr.cn/article/ML_DM/2047 【创建时间】：2008-05-14 【作者】：blueskycod 【评论】：5 【内容】：发信人: blueskycod (blue sky), 信区: PR_AI
+标  题: [求助]本科毕设做图像检索
+发信站: 北邮人论坛 (Wed May 14 22:17:30 2008), 站内
+
+在基于颜色的特征抽取中，用HSV空间，几篇论文中都提到将HSV量化后，用一个一维向量G = HQsQv + SQv +V，请问有什么物理意义，用这个作为相似性度量有什么优势吗？
+谢谢。
+--
+流沙又黄京城天，明月何时照我还？
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.197.*]
+ 
+【文章标题】：中科院自动化所这个周6开放日(只有周6。。。) 【文章地址】：https://bbs.byr.cn/article/ML_DM/2062 【创建时间】：2008-05-15 【作者】：bebekifis 【评论】：12 【内容】：发信人: bebekifis (肥狗), 信区: PR_AI
+标  题: 中科院自动化所这个周6开放日(只有周6。。。)
+发信站: 北邮人论坛 (Thu May 15 19:33:04 2008), 站内
+
+欢迎大家来参观。
+--
+形式化的界限就是AI的界限。 （至少对目前来说是这样） 
+AI说到底是哲学问题。 
+许多没有出路的AI研究，“只是因为对哲学家昔日的失败一无所知，才得以维持。” 
+---from Xin Lun...
+----------------------------------------------------
+你的成绩总分：413 
+
+
+※ 修改:·bebekifis 于 May 16 14:16:31 修改本文·[FROM: 61.129.39.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 159.226.21.*]
+ 
+【文章标题】：有关于垂直搜索引擎技术的电子书吗？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/2155 【创建时间】：2008-05-25 【作者】：jhx0129 【评论】：0 【内容】：发信人: jhx0129 (jhx), 信区: PR_AI
+标  题: 有关于垂直搜索引擎技术的电子书吗？
+发信站: 北邮人论坛 (Sun May 25 10:43:30 2008), 站内
+
+想了解下垂直搜索，求达人给指点指点
+--
+给次机会，共赢！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.139.*]
+ 
+【文章标题】：中了一个优博 【文章地址】：https://bbs.byr.cn/article/ML_DM/2128 【创建时间】：2008-05-23 【作者】：cryppie 【评论】：24 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: 中了一个优博
+发信站: 北邮人论坛 (Fri May 23 19:50:56 2008), 站内
+
+杨义先的学生，研究蚁群，振奋人心
+--
+子不学，非所宜。幼不学，老何为。
+玉不琢，不成器。人不学，不知义。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.57.29.*]
+ 
+【文章标题】：[诚招]宏福校区JAVA好手,以及对AI有兴趣的同学 【文章地址】：https://bbs.byr.cn/article/ML_DM/1110 【创建时间】：2008-02-05 【作者】：longhu16 【评论】：16 【内容】：发信人: longhu16 (小虎), 信区: PR_AI
+标  题: [诚招]宏福校区JAVA好手,以及对AI有兴趣的同学
+发信站: 北邮人论坛 (Tue Feb  5 15:12:23 2008), 站内
+
+现在软件学院老师指导下,研发一个人工智能平台,现有成员3名,两名国际学院一名软件学院,现向国际和软件学院招收JAVA编程人员以扩充和增强我们的实力,此项目可以作为毕业设计并有很高的价值,对今后考研,出国,投简历都有好处,并且处于世界前沿科学,需要创造力,吃苦和研发精神. 
+条件:对人工智能有兴趣,对JAVA有一定了解,可以独立完成课程内程序,有C/C++经验者更好,关键是态度而不是技术,有合作精神,时间富裕. 
+--------------------------------------------------------------------------------------------------- 
+In the directive of a professor of Software Academy,we've three subordinates where two of us are from International Academy and one is from Software Academy to develope a platform supporting AI( Artificial Intellegence ). 
+We now call for programmers towards the two acadamies mentioned above in the field of JAVA to achieve integrity of a powerful team. Moreover, the very project could offer your chance of Final Project with high quality, which will benifit in advanced education and job searching. As a foreseeable top technology in the world, we require for you to be stable and innovative. 
+Conditions: Interest of AI, knowledge in JAVA, independently fulfilling programs along the subject, C/C++ will plus, essencially the attitude touches us not skill, cooperation and free time. 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.219.29.*]
+ 
+【文章标题】：推荐一个网站：Optimization 【文章地址】：https://bbs.byr.cn/article/ML_DM/1443 【创建时间】：2008-03-23 【作者】：river 【评论】：11 【内容】：发信人: river (river), 信区: PR_AI
+标  题: 推荐一个网站：Optimization
+发信站: 北邮人论坛 (Sun Mar 23 10:58:44 2008), 站内
+
+http://menet.math.ecnu.edu.cn/lu/index.htm
+校园网应该可以直接上吧
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.228.*]
+ 
+【文章标题】：[请教]请高手指点关于Potts model和马尔可夫随机场 【文章地址】：https://bbs.byr.cn/article/ML_DM/1179 【创建时间】：2008-02-26 【作者】：FlyinWind 【评论】：6 【内容】：发信人: FlyinWind (4ever之—风中小麦), 信区: PR_AI
+标  题: [请教]请高手指点关于Potts model和马尔可夫随机场
+发信站: 北邮人论坛 (Tue Feb 26 11:24:47 2008), 站内
+
+看论文时碰到一个Potts model，不知道指的是什么，搜了一下也没找到合适的答案。
+望高人指点迷津。
+另外就是Markov Random Field，只是有个模糊的概念。望达人推荐两篇介绍Potts model或Markov Random Field的文章吧，最好是入门级的概念比较清楚那种。
+先谢过了。^_^ 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 61.129.39.*]
+ 
+【文章标题】：回学校了~ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1170 【创建时间】：2008-02-23 【作者】：JimmyDong 【评论】：3 【内容】：发信人: JimmyDong (荒芜天使), 信区: PR_AI
+标  题: 回学校了~
+发信站: 北邮人论坛 (Sat Feb 23 17:58:48 2008), 站内
+
+来报个到！
+--
+▉▊▋▌▍▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▊▉▊   
+ ▉▊电子杂志《玩物志》创刊号发布！▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▊▉▊  
+▉▊▋▌▍▎▏▎▍▌▋▊▊▊▋▌▍▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▊▉▊   
+ ▉▊▋▌▍▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▉▊▋▌▍▎▏▎▍▌▋▊▉▊▊  
+▉▊▋▌▍▎▏▎▍▌▋下载地址：http://www.wanwuzhi.com/download.aspx?id=1▊   
+ ▉▊▋▌▍▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▊▉▊▋▌▍▎▏▎▍▌▋▊▉▊   
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 211.99.222.55]
+ 
+【文章标题】：[ebook]Flexible Pattern Matching in Strings 【文章地址】：https://bbs.byr.cn/article/ML_DM/894 【创建时间】：2008-01-12 【作者】：cryppie 【评论】：6 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [ebook]Flexible Pattern Matching in Strings
+发信站: 北邮人论坛 (Sat Jan 12 20:17:39 2008), 站内
+
+找工作的时候，面试官很喜欢问string的问题。模式识别的问题也可以映射为字符串的问题。故献上这本关于字符串的书，祝大家将来能够拿到满意的offer，这本书有中文版的，柔性字符串匹配
+<a href="/att/ML_DM/0/894/508" target="_blank" color="blue">附件(3.8MB)  arch_Algorithms_For_Texts_And_Biological_Sequences.part1.rar</a>
+--
+我 是 oofisher--穿花衣的吹笛手
+准备好了吗？
+天呀，我在china-pub上已经是五星会员啦！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+
+ 
+【文章标题】：[ebook]Matrix Analysis And Applied Linear Algebra 【文章地址】：https://bbs.byr.cn/article/ML_DM/1057 【创建时间】：2008-01-21 【作者】：cryppie 【评论】：5 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [ebook]Matrix Analysis And Applied Linear Algebra
+发信站: 北邮人论坛 (Mon Jan 21 11:19:26 2008), 站内
+
+
+<a href="/att/ML_DM/0/1057/380" target="_blank" color="blue">附件(3.8MB)  Matrix_Analysis_And_Applied_Linear_Algebra.part1.rar</a>
+--
+我 是 oofisher--穿花衣的吹笛手
+准备好了吗？
+终于看完了矩阵论整本书，feel powerful，瓦咔咔~~
+我好懒，我好想痛痛快快的睡觉
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+
+ 
+【文章标题】：[求助]大牛们，有没有介绍关于语音处理方面的学习&研究顺序呀？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1130 【创建时间】：2008-02-10 【作者】：Shmily1314 【评论】：11 【内容】：发信人: Shmily1314 (【爱乐魂】玲珑の雪     【八卦帮】天水讼), 信区: PR_AI
+标  题: [求助]大牛们，有没有介绍关于语音处理方面的学习&amp;研究顺序呀？
+发信站: 北邮人论坛 (Sun Feb 10 14:13:46 2008), 站内
+
+RT.
+
+拜各位大牛。
+
+比如从基础书籍开始，基本数学理论，以及实验平台，然后是paper。
+
+或者某牛人的blog也成，给个指引方向。
+
+版上看到的多数是关于视觉方面的。
+
+谢谢了。
+
+期待reading list: ).
+
+--
+看你蹲旮旯里长的埋了巴汰羊了二正的撒莫啥呢?彪的糊的咯不咯应啊?别在哪穷固拥了得瑟啥呀老科慎了!别莫济了!寒趁人啊
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.187.139.*]
+ 
+【文章标题】：百度知道中的分类功能是怎么做的？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1276 【创建时间】：2008-03-05 【作者】：wildcastle 【评论】：0 【内容】：发信人: wildcastle (wildcastle), 信区: PR_AI
+标  题: 百度知道中的分类功能是怎么做的？
+发信站: 北邮人论坛 (Wed Mar  5 11:51:47 2008), 站内
+
+百度知道中填写问题，就会给出各种推荐分类。
+这是以训练集分类的方式弄的吗？还是单纯靠关键字的？
+如果要是用训练集的话，那么多类依次判断是否属于该类吗？
+
+初学模式识别，问得不周的地方别见笑。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 159.226.21.*]
+ 
+【文章标题】：2008（第五届）中国数据挖掘与商业智能研讨会暨海峡两岸应用统 【文章地址】：https://bbs.byr.cn/article/ML_DM/1285 【创建时间】：2008-03-05 【作者】：hansoul 【评论】：0 【内容】：发信人: hansoul (alex), 信区: PR_AI
+标  题: 2008（第五届）中国数据挖掘与商业智能研讨会暨海峡两岸应用统计研讨会参会通知
+发信站: 北邮人论坛 (Wed Mar  5 22:26:53 2008), 站内
+
+有人同去吗
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.130.210.*]
+ 
+【文章标题】：如何用jena来查询owl 【文章地址】：https://bbs.byr.cn/article/ML_DM/1287 【创建时间】：2008-03-06 【作者】：parameter 【评论】：0 【内容】：发信人: parameter (paradise), 信区: PR_AI
+标  题: 如何用jena来查询owl
+发信站: 北邮人论坛 (Thu Mar  6 08:19:31 2008), 站内
+
+rt  看了几天文档，跑了几个例子  但是jena的文档绕来绕去 没找到一个合适的例子看懂如何查询owl本体  由于项目的工程型大于理论性  所以不想在这上面浪费太多时间  请做过这方面的兄弟姐妹给点代码吧...
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.230.*]
+ 
+【文章标题】：[zz]娱乐一下：一位老人和一个小孩的对话 【文章地址】：https://bbs.byr.cn/article/ML_DM/1437 【创建时间】：2008-03-22 【作者】：PtwCJ 【评论】：6 【内容】：发信人: PtwCJ (鲜的每日C|头像不是我，我是长毛贼~~), 信区: PR_AI
+标  题: [zz]娱乐一下：一位老人和一个小孩的对话
+发信站: 北邮人论坛 (Sat Mar 22 14:29:53 2008), 站内
+
+发信人: xuanmo (清零), 信区: Joke
+标  题: 一位老人和一个小孩的对话
+发信站: 水木社区 (Sat Mar 22 01:31:17 2008), 站内
+
+有一天一个老人对一个小孩子说：
+你知道，当年金庸写的14本书可以连成一个对联吗？
+就是“飞雪连天射白鹿，笑书神侠倚碧鸳”~
+
+孩子不屑一顾，笑笑说：
+
+你知道J.K.罗琳写的7本书也可以连成一句话吗？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“哈哈哈哈哈哈哈”
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.139.*]
+ 
+【文章标题】：这个论坛是做什么的？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1434 【创建时间】：2008-03-22 【作者】：Shmily1314 【评论】：4 【内容】：发信人: Shmily1314 (【爱乐魂】玲珑の雪     【八卦帮】天水讼), 信区: PR_AI
+标  题: 这个论坛是做什么的？
+发信站: 北邮人论坛 (Sat Mar 22 12:23:28 2008), 站内
+
+RT.
+
+http://www.pris.edu.cn/forum/index.asp
+--
+看你蹲旮旯里长的埋了巴汰羊了二正的撒莫啥呢?彪的糊的咯不咯应啊?别在哪穷固拥了得瑟啥呀老科慎了!别莫济了!寒趁人啊
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.223.198.*]
+ 
+【文章标题】：人脸识别中，LDA只是选择了投影的方向，接下来怎么分类？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1450 【创建时间】：2008-03-23 【作者】：hmily821224 【评论】：2 【内容】：发信人: hmily821224 (笨笨猫), 信区: PR_AI
+标  题: 人脸识别中，LDA只是选择了投影的方向，接下来怎么分类？
+发信站: 北邮人论坛 (Sun Mar 23 21:13:24 2008), 站内
+
+如题。
+
+难道还是要在投影后的子空间上用诸如knn,svm之类的方法分类？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+ 
+【文章标题】：边缘检测的代码，求达人解释一下理论意义，谢谢！！！ 【文章地址】：https://bbs.byr.cn/article/ML_DM/2158 【创建时间】：2008-05-26 【作者】：luoye 【评论】：2 【内容】：发信人: luoye (清风), 信区: PR_AI
+标  题: 边缘检测的代码，求达人解释一下理论意义，谢谢！！！
+发信站: 北邮人论坛 (Mon May 26 20:13:45 2008), 站内
+
+下面的代码见过，但不知道其理论意义，望达人指点一下，可以的话推荐一两个论文，谢谢！！！
+
+
+clear all; 
+load wbarb; 
+I = ind2gray(X,map);imshow(I); 
+I1 = imadjust(I,stretchlim(I),[0,1]);figure;imshow(I1); 
+[N,M] = size(I); 
+
+h = [0.125,0.375,0.375,0.125]; 
+g = [0.5,-0.5]; 
+delta = [1,0,0]; 
+
+J = 3; 
+
+a(1:N,1:M,1,1:J+1) = 0; 
+dx(1:N,1:M,1,1:J+1) = 0; 
+dy(1:N,1:M,1,1:J+1) = 0; 
+d(1:N,1:M,1,1:J+1) = 0; 
+
+a(:,:,1,1) = conv2(h,h,I,'same'); 
+dx(:,:,1,1) = conv2(delta,g,I,'same'); 
+dy(:,:,1,1) = conv2(g,delta,I,'same'); 
+
+x = dx(:,:,1,1); 
+y = dy(:,:,1,1); 
+d(:,:,1,1) = sqrt(x.^2+y.^2); 
+I1 = imadjust(d(:,:,1,1),stretchlim(d(:,:,1,1)),[0 1]);figure;imshow(I1); 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.198.*]
+ 
+【文章标题】：模式识别中,Sw与Sb的同时对角化问题 【文章地址】：https://bbs.byr.cn/article/ML_DM/1449 【创建时间】：2008-03-23 【作者】：hmily821224 【评论】：5 【内容】：发信人: hmily821224 (笨笨猫), 信区: PR_AI
+标  题: 模式识别中,Sw与Sb的同时对角化问题
+发信站: 北邮人论坛 (Sun Mar 23 20:30:20 2008), 站内
+
+有些教科书/人脸识别的论文提到将Sw与Sb同时对角化,说先用非奇异矩阵P将Sw白化:P'SwP = I
+
+从矩阵论知识可知,仅在Sw正定时才存在P将其白化!!!
+而Sw一般只在维数远小于样本数时才正定,与一般人脸识别中碰到的情况相反!
+
+也即,不加限制的说同时对角化是不严密的???
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+ 
+【文章标题】：SIFT提取边缘 【文章地址】：https://bbs.byr.cn/article/ML_DM/1461 【创建时间】：2008-03-24 【作者】：pooh1949 【评论】：7 【内容】：发信人: pooh1949 (pooh1949), 信区: PR_AI
+标  题: SIFT提取边缘
+发信站: 北邮人论坛 (Mon Mar 24 16:26:51 2008), 站内
+
+那啥
+请教达人
+SIFT提取的特征点能否实现恢复原物体？
+有人做这方面么?
+或者给推荐下这方面的文章...
+多谢多谢...
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.222.*]
+ 
+【文章标题】：问个关于生成模型的问题 【文章地址】：https://bbs.byr.cn/article/ML_DM/1460 【创建时间】：2008-03-24 【作者】：earl 【评论】：3 【内容】：发信人: earl (简单就好), 信区: PR_AI
+标  题: 问个关于生成模型的问题
+发信站: 北邮人论坛 (Mon Mar 24 14:06:50 2008), 站内
+
+看论文是，说生成模型不能解决overlapping feature，。。。
+在网上没查到解释，哪位能解释一下什么是overlapping feature(重叠的特征？)？为什么不能解决这个问题?
+谢谢!!
+--
+do something to change
+
+※ 修改:·earl 于 Mar 24 14:07:02 修改本文·[FROM: 59.64.155.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.155.*]
+ 
+【文章标题】：求特征选取方面的好东西 【文章地址】：https://bbs.byr.cn/article/ML_DM/1473 【创建时间】：2008-03-25 【作者】：oppo305 【评论】：6 【内容】：发信人: oppo305 (lalalalala), 信区: PR_AI
+标  题: 求特征选取方面的好东西
+发信站: 北邮人论坛 (Tue Mar 25 14:51:42 2008), 站内
+
+不知道牛人们对这方面有没有推荐的书或网站,文章?先谢一个~~!!!
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.223.*]
+ 
+【文章标题】：请教关于计算机图形学和3D游戏编程 【文章地址】：https://bbs.byr.cn/article/ML_DM/1471 【创建时间】：2008-03-25 【作者】：SMApaololi 【评论】：4 【内容】：发信人: SMApaololi (paololi), 信区: PR_AI
+标  题: 请教关于计算机图形学和3D游戏编程
+发信站: 北邮人论坛 (Tue Mar 25 12:40:12 2008), 站内
+
+如果我想学一些关于计算机图像和3D游戏编程方面的东西  应该看些什么书呢？
+各位有这方面的经验吗？ 
+
+计算机图形主要是学算法吗？
+游戏编程主要是做游戏引擎吗？
+写好的程序和引擎怎样和三维软件做的东西结合起来？
+图形学和游戏编程这两者有什么联系？
+Opengl 和direX 9是个什么关系？
+C++对这些东西有什么帮助？   算是基础吗？
+
+问题有点多  请不吝赐教
+多谢
+--
+别人做不了的 我也做不了   智商不够
+但我愿意做别人不愿意做的  想别人还没想的东西
+
+对于没有天赋的人
+我还能求什么呢
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.232.*]
+ 
+【文章标题】：**********寻求 DTMF信号分析软件********** 【文章地址】：https://bbs.byr.cn/article/ML_DM/1498 【创建时间】：2008-03-27 【作者】：longd4dr 【评论】：0 【内容】：发信人: longd4dr (小小熊), 信区: PR_AI
+标  题: **********寻求 DTMF信号分析软件**********
+发信站: 北邮人论坛 (Thu Mar 27 17:50:34 2008), 站内
+
+代同学问：
+寻求 DTMF信号分析软件
+就是怎样才能知道一首歌曲中是否含有DTMF信号？
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.139.*]
+ 
+【文章标题】：THU PH.D. Enrollment Exam PR 【文章地址】：https://bbs.byr.cn/article/ML_DM/1508 【创建时间】：2008-03-30 【作者】：cryppie 【评论】：3 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: THU PH.D. Enrollment Exam PR
+发信站: 北邮人论坛 (Sun Mar 30 12:59:56 2008), 站内
+
+模式最后一题很有意思，大家不妨试一下
+
+Fisher线性判别方法是寻找一个投影向量，使得两类的投影可分性高。但是实际中，数据一般不是高斯分布的，这种情况下Fisher线性判别方法不再适用。解决的一个方法是在Fisher方法中引入局部的信息。设计一个模型，往Fisher中引入局部信息，说明模型如何学习。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 
+【文章标题】：北京航空航天大学计算机学院拟招聘图像处理方面的博士后 (转载) 【文章地址】：https://bbs.byr.cn/article/ML_DM/1510 【创建时间】：2008-03-30 【作者】：JimmyDong 【评论】：0 【内容】：发信人: JimmyDong (荒芜天使), 信区: PR_AI
+标  题: 北京航空航天大学计算机学院拟招聘图像处理方面的博士后
+发信站: 北邮人论坛 (Sun Mar 30 16:08:31 2008), 站内
+
+【 以下文字转载自 ACM_ICPC 讨论区 】
+发信人: bhleven (Leven), 信区: ACM_ICPC
+标  题: 北京航空航天大学计算机学院拟招聘图像处理方面的博士后
+发信站: 北邮人论坛 (Sun Mar 30 14:12:58 2008), 站内
+
+北京航空航天大学计算机学院拟招聘图像处理方面的博士后，有意者请联系电话：13801164109。有效期至2008年5月。
+谢谢！
+--
+学的越多,知道的越多, 知道的越多,忘记的越多, 忘记的越多,知道的越少, 为什么学来着? 
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.224.169.*]
+ 
+【文章标题】：THU PH.D. Enrollment Exam Maths 【文章地址】：https://bbs.byr.cn/article/ML_DM/1501 【创建时间】：2008-03-29 【作者】：cryppie 【评论】：11 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: THU PH.D. Enrollment Exam Maths
+发信站: 北邮人论坛 (Sat Mar 29 20:36:37 2008), 站内
+
+08 THU‘s 数学题之代数部分(魔死方向)
+1)两个向量a,b，A=aa'+bb'，计算rank(A)
+2)三元二次型f＝x1^2+ax2^2+x3^2+2x1x2+2ax1x3+2x2x3的秩为2，a为常数，当取x1^2+x2^2+x3^2=1时，f的值域是多少？
+
+温习一下代数，呵呵
+其他题，改天整理一下以及我的解答
+--
+
+※ 修改:·cryppie 于 Mar 29 20:55:27 修改本文·[FROM: 59.64.200.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 
+【文章标题】：[ebook]fundamentals of speech recogniton. 【文章地址】：https://bbs.byr.cn/article/ML_DM/1293 【创建时间】：2008-03-06 【作者】：Shmily1314 【评论】：10 【内容】：发信人: Shmily1314 (【爱乐魂】玲珑の雪     【八卦帮】天水讼), 信区: PR_AI
+标  题: [ebook]fundamentals of speech recogniton.
+发信站: 北邮人论坛 (Thu Mar  6 19:04:59 2008), 站内
+
+thx:) 
+
+--------
+LZ已将附件补在6，7，8楼，感谢LZ的分享精神
+                      -----pt
+--
+看你蹲旮旯里长的埋了巴汰羊了二正的撒莫啥呢?彪的糊的咯不咯应啊?别在哪穷固拥了得瑟啥呀老科慎了!别莫济了!寒趁人啊
+
+※ 修改:·PtwCJ 于 Apr  3 20:41:20 修改本文·[FROM: 59.64.139.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 162.105.144.*]
+ 
+【文章标题】：[ebook]Digital Image Analysis Selected Techniques and Appli 【文章地址】：https://bbs.byr.cn/article/ML_DM/1514 【创建时间】：2008-03-31 【作者】：cryppie 【评论】：12 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [ebook]Digital Image Analysis Selected Techniques and Applications
+发信站: 北邮人论坛 (Mon Mar 31 22:55:41 2008), 站内
+
+<b>Digital Image Analysis</b>
+Selected Techniques and Applications
+Kropatsch, Walter G.; Bischof, Horst (Eds.) 
+2000, 544 p. 250 illus., Hardcover
+ISBN: 978-0-387-95066-2
+
+<b>About this book </b>
+This book presents a broad-ranging edited survey of computational and analytical methods and tools for digital image analysis and interpretation. The book brings together the recent results and methods in a uniform manner, thereby making the information accessible to nonspecialists and specialists alike. Topics and features: * Diverse topics are treated in an integrative style, using a common notation * With theory and applications covered in a single volume, the reader sees immediately that the proposed methods also work in practice * Overview of some key research in digital image processing and pattern recognition methods and tools * Up-to-date coverage of current topics: information fusion, stochastic shape theory, graph-based image analysis and hierarchical systems The book offers a uniquely comprehensive technical survey that not only provides in-depth coverage of the fundamental topics in the field, but also incorporates the newest developments that have arisen. It serves as an excellent and current resource for researchers, practitioners and professionals in computer science and electrical engineering focusing on methodology for digital imaging and analysis. 
+
+<b>Written for:</b>
+Researchers, practitioners, professionals
+
+<b>Table of contents</b>
+PART I: Mathematical Methods for Image Analysis--1.Numerical Harmonic Analysis and Image Processing; 2.Stochastic Shape Theory; 3.Image Compression and Coding; 
+
+PART II: Data Handling--4.Parallel and Distributed Processing; 5.Image Data Catalogs; 
+
+PART III: Robust and Adaptive Image Understanding--6.Graphs in Image Analysis; 7.Hierarchies; 8.Robust Methods; 9.Structural Object Recognition; 10.Machine Learning; 
+
+PART IV: Information Infusion and Radiometric Models for Image Understanding--11.Information Fusion in Image Understanding; 12.Image Understanding Methods for Remote Sensing; 
+
+PART V: 3-D Reconstruction--13.Fundamentals; 14.Image Matching Strategies; 15.Precise Photogrammetric Measurement; 16.3-D Navigation and Reconstruction; 17.3-D Object Sensing Using Rotating CCD Cameras
+<a href="/att/ML_DM/0/1514/2542" target="_blank" color="blue">附件(3.8MB)  Analysis_Selected_Techniques_and_Applications_muya.part1.rar</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+
+ 
+【文章标题】：[ebook]An Introduction to Scientific Computing 【文章地址】：https://bbs.byr.cn/article/ML_DM/1565 【创建时间】：2008-04-03 【作者】：cryppie 【评论】：2 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [ebook]An Introduction to Scientific Computing
+发信站: 北邮人论坛 (Thu Apr  3 23:18:48 2008), 站内
+
+<b>An Introduction to Scientific Computing</b>: Twelve Computational Projects Solved with MATLAB
+
+<b>Editorial Reviews</b>
+
+Review
+
+From the reviews:
+
+
+"In An Introduction to Scientific Computing, the authors present approaches to the numerical solution of problems drawn from a variety of applications. This is a graduate-level introduction and the pace is brisk. This is a strong text on scientific computing for advanced students in applied mathematics. the book is most appropriate for students with some prior experience in scientific computing ." (William J. Satzer, MathDL, February, 2007)
+
+"The book is based on material offered by the authors at Universite Pierre et Marie Curie (Paris, France) and different engineering schools. It is intended as a graduate-level text in applied mathematics, but it may also be used by students in engineering or physical sciences. It may also be used as a reference for researchers and practicing engineers. Since different possible levels of each project are suggested, the text can be used to propose assignments at different graduate levels." (I. N. Katz, Zentralblatt MATH, Vol. 1119 (21), 2007)
+
+
+
+Product Description
+
+This book provides twelve computational projects aimed at numerically solving problems from a broad range of applications including Fluid Mechanics, Chemistry, Elasticity, Thermal Science, Computer Aided Design, Signal and Image Processing. For each project the reader is guided through the typical steps of scientific computing from physical and mathematical description of the problem, to numerical formulation and programming and finally to critical discussion of numerical results. Considerable emphasis is placed on practical issues of computational methods. The last section of each project contains the solutions to all proposed exercises and guides the reader in using the MATLAB scripts. The mathematical framework provides a basic foundation in the subject of numerical analysis of partial differential equations and main discretization techniques, such as finite differences, finite elements, spectral methods and wavelets).
+
+The book is primarily intended as a graduate-level text in applied mathematics, but it may also be used by students in engineering or physical sciences. It will also be a useful reference for researchers and practicing engineers.
+
+<a href="/att/ML_DM/0/1565/2625" target="_blank" color="blue">附件(3.8MB)  An_Introduction_to_Scientific_Computing.part1.rar</a>
+--
+攻城不怕坚，攻书不畏难－－叶培大
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+
+ 
+【文章标题】：求一篇文章！ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1536 【创建时间】：2008-04-02 【作者】：jobsearch 【评论】：1 【内容】：发信人: jobsearch (jobsearch), 信区: PR_AI
+标  题: 求一篇文章！
+发信站: 北邮人论坛 (Wed Apr  2 23:02:33 2008), 站内
+
+Bayesian graphical models for software testing
+Wooff, D.A.; Goldstein, M.; Coolen, F.P.A.
+Software Engineering, IEEE Transactions on
+Volume 28, Issue 5, May 2002 Page(s):510 - 525
+Digital Object Identifier   10.1109/TSE.2002.1000453
+
+不胜感激！beijinhe@gmail.com
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.199.230.*]
+ 
+【文章标题】：[求助]请问什么是smallest L2 norm, L2 norm,谢谢 【文章地址】：https://bbs.byr.cn/article/ML_DM/1587 【创建时间】：2008-04-07 【作者】：piaozou 【评论】：4 【内容】：发信人: piaozou (Ugly Betty), 信区: PR_AI
+标  题: [求助]请问什么是smallest L2 norm, L2 norm,谢谢
+发信站: 北邮人论坛 (Mon Apr  7 21:40:25 2008), 站内
+
+请问什么是smallest L2 norm, L2 norm,谢谢
+万分感谢<img src="/img/ubb/em/12.gif" alt="em12" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.141.*]
+ 
+【文章标题】：[ebook]统计模拟(Simulation) 【文章地址】：https://bbs.byr.cn/article/ML_DM/1549 【创建时间】：2008-04-03 【作者】：cryppie 【评论】：8 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [ebook]统计模拟(Simulation)
+发信站: 北邮人论坛 (Thu Apr  3 09:11:37 2008), 站内
+
+邮电出版社引进过，图灵图书系列。
+
+<b>Editorial Reviews</b>
+
+TECHNOMETRICS
+"...quite useful as a reference for the applied statistician." --This text refers to an out of print or unavailable edition of this title. 
+
+Review
+"The book serves as an informative text and valuable reference...Whether as a text or a elementary reference, this book is indeed worth owning."
+- JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+<a href="/att/ML_DM/0/1549/686" target="_blank" color="blue">附件(3.8MB)  simulation.part1.rar</a>
+--
+攻城不怕坚，攻书不畏难－－叶培大
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+
+ 
+【文章标题】：[ebook]"Spoken Language Processing...",XUEDONG HUANG,et al 【文章地址】：https://bbs.byr.cn/article/ML_DM/1557 【创建时间】：2008-04-03 【作者】：firefox 【评论】：1 【内容】：发信人: firefox (火狐), 信区: PR_AI
+标  题: [ebook]"Spoken Language Processing...",XUEDONG HUANG,et al
+发信站: 北邮人论坛 (Thu Apr  3 16:33:02 2008), 站内
+
+RT
+<a href="/att/ML_DM/0/1557/269" target="_blank" color="blue">附件(4MB)  huang_acero_hon.part1.rar</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 193.49.124.*]
+
+ 
+【文章标题】：[连载2]有了博士学位还不够，科海沉浮指南 【文章地址】：https://bbs.byr.cn/article/ML_DM/1387 【创建时间】：2008-03-20 【作者】：cryppie 【评论】：13 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [连载2]有了博士学位还不够，科海沉浮指南
+发信站: 北邮人论坛 (Thu Mar 20 00:18:47 2008), 站内
+
+<b>第2章	重要抉择：论文导师和博士后岗位</b>
+
+     作为一名年轻研究生，我选择论文导师的依据是，他在物理学界的知名度，以及他那部要求学生在研究生院呆的时间太长的口碑。从我早期就业的其他方面来看，我现在认识到这样的选择依据是有道理的，但还不充分。
+<b>一位杰出科学家做论文导师</b>
+   选择一位出名的论文导师包含多重意义，但不包含光环可以传递的意思。我曾不止一次目睹荣誉不可转移的事例。想成为“另一个”L.鲍林、R.霍夫曼、J.沃森或P.W.安德孙，是此路不通的。一位显赫的论文导师能给你的是：
+（1）    部分地“老幼互助网”的作用。名师在你时间紧迫时，有时甚至你并没有提出要求时能给你救助。
+（2）    不会与你争夺什么东西。
+   第（1）点是不言而喻的。第（2）点对无经验的学生而言并不是一望即知。一名年轻的导师，他自己也还在人生之路上探索，不会不想靠他的学生或博士后来崭露自己。年轻导师需要很多方面来证明自身，所以他不会在诸如科研思路或成绩的归属上与年轻人谦让。对于一位已经建立品牌的导师，则会把他学生的成就视为骄傲，感到快慰。他把他们看成是自己的科研“子女”。由此可见，在其他条件相同时，当然应该选一位功成名就的终身教授做论文导师。从大学的组成方式来看，这一建议是必然的推论。我们不必责备年轻教授把他们自身的科学生存，看得比他们学生的成就更重要。
+   较资深的导师还能为你提供较好的前景，去完成你所开始的论文计划，并在一所大学中完成整个研究生生涯。不少助理教授提不上终身职位。假如你碰上这样的导师，他不是调动工作到别的大学，便是完全退出到学术圈子以外。不管是哪种情况，你将面对不想碰到的尴尬选择：是跟着导师一起离开，还是选择别人做新的导师；是改选一个新的论文题目，还是找另一位愿意帮助你按原来的方向继续做下去的教授。
+   尽管资深教授也有可能在你未结业时调动到其他单位，但这种可能性要低得多，不只是因为他已经有了终身职位，也因为调动一个已建成的大型科研组，所造成的干扰是可观的。如果你的资深导师决定要调动，对你的论文计划所造成的后果，倒不见得是悲惨的。高级科学家选择调动，通常是鉴于新职位的经费条件较佳，或由于其科学生涯的其他方面会更好。这样，跟随导师一起走，似乎经济上可行，科学上也有更好的前景。如果你真的决定跟他走，你在获得博士学位道路上的错误，应该很少。
+   显然，年龄较大的教授很有可能身患疾病，甚至在你还是一名学生是亡故。否则，资深科学家完全脱离研究工作的可能性，是十分微小的。
+   <b>终身教职和杰出教授还不够：</b>
+   虽然跟一名功成名就的科学家做学生有明显的优点，但挑选一名好的导师，并不像寻找谁获得过最重要的奖项，谁做过最多的邀请报告，或谁拿到最大的科研拨款等等那么容易。你所考虑的这位有名人物，会收你做他的学生吗？他是否真的对学生进行指导？他与像你这样的科学晚辈讲话时态度和气吗？他的小组是否有明确的研究目标？他的小组内部相互交往吗？这位名声在外的教授，会对学生传授“生存技巧”吗？这些都是重要的问题。在选择导师时一不留神，可能意味着数年的挫折。如果你事先对这些重要问题的答案有所了解，比如通过与其现有或过去的学生交谈，那么你就能省却许多可能的烦恼。
+   <b><u>导师的学生们明白学科的全局吗？</u></b>
+   E是一位难缠的教授，令人生厌。我听人说，他不懂量子力学。但他对材料科学的贡献是多方面的——他的学生们工作很出色。他们知道自己在这里学什么，而且彼此互学。这样，尽管E常常去企业实验室做顾问而不在家，他的学生们仍忙碌而兴旺。
+   你所考虑去的研究组是否像E教授那样，你将怎样事先探明呢？你去访问组中的成员吧。问明白他们在忙什么。了解他们能不能说明从事的学科发展的“全局”。假如他们讲不清楚，你则另谋高就为好。
+   通常，一位杰出科学家领导的是一个大研究组。他也许有15或20个实验系统，从而使他可招收同样数目的研究生，对发展的“趋势”开展研究。这些学生在合理的时间内取得学位，是有保证的。与我自己的研究生经历完全相反，这些学生被安排做非常具体的课题。他们测量数据，报告结果，于是获得学位。一切看起来都很容易。你愿意成为此类研究组的一分子吗？问题仍然是：这里的学生对课题与“全局”的关系清楚不清楚。学生A在研究化学元素铑，B有一些钌的样品，而C则做元素钯，只有导师一人知道总体的“趋势”，学生们却说不出子丑寅卯。对不起，你还是离开为好。
+
+<b>博士后职位的挑选</b>
+
+    你应如何理性地选择博士后职位？有必要想清楚你自己的兴趣何在，它与招聘单位的研究方向有什么差别。首先你应知道，对你的博士后导师老说，你在博士论文中取得多大的成果并不是特别重要的。如果你是这样的少数人之一，其论文代表着主流的突破性工作，你可能非常受欢迎，要找一个永久性职业可能不会有太多问题。你或许根本没有想过做博士后，你可能情愿把后面几年用于证明你初期的成功并不是侥幸得到的。类似此类的想法，曾经麻醉了不少“天才”青年，但并非是大多数年轻人的主要思想，而这一章是写给多数人看的。
+    很可能，你的学位论文并不引起人们多大的兴趣，请不必担心，你很有可能找到博士后职位。雇主通常认为，招收博士后工作并不具有大的风险。一位博士后，好歹在两年至四年以后就将离开。假如他对研究组有帮助、产出高，那么很好。如果他的博士后研究使他成功地就业，那就更好了。反之，假如不是这样，那也只能看作运气不佳了。这种情况并不罕见，也不是什么灾难。在典型的雇主看来，博士后是廉价劳动力。同研究生不一样，对研究生你得教会他很多东西，他花去许多时间接受教育，而对研究进展的净贡献可能微乎其微，甚至是负数。博士后则是训练有素的科研工作者。他可以被作为有相当能力的一员，不会要求导师在他身上花大量时间。同时，博士后是“廉价的”。
+    在我工作的实验室，博士后仅得到极少的福利津贴，这种现象并非个例。实验室为他付医疗保险，但不管其退休金。他的带薪假期每年只有两星期，他的薪水中也不含丰盈的提成或称“间接成本”。招收一位博士后，看来更像是买进一套实验室设备。人们期待它能干一阵子，对得到成果有所帮助。然后，这套设备将被更加新的型号所替换。
+    因此，从博士后聘用单位的观点看，对博士后候选人的最重要的资格审定依据是：
+    （1）	他应能很好地讲演他的博士论文研究工作——这表明他可以充当他雇主的研究计划的一位很好的发言人；
+    （2）	他完成博士学位的过程不能拖得太长——因为他只能被聘用不多的几年时间。期间，每年要完成一两篇论文，爱拖拉者不行；
+    （3）	他应能与同事交往——因他的加入，研究祖显得更有生气。
+    如果博士后候选人要求改变研究方向，那不成问题，实际上这种情况时常发生。假如在他的博士论文中并未的出显著的新结果，那也不是问题。因为一般来说，博士后导师聘他，是为了推动自己的研究计划。如果他有所突破，在博士后阶段做出某些重要成果，他可能因此而获得一个终身职位。如果不是这样，那么他将离去，也并未造成多大损失。这是从聘用方的角度考虑。那么从你的视角看呢？
+    在你的博士后年代，你有三个重要任务：你必须决定在哪个科学领域打造自己的名声；你必须完成至少一个有意义的研究计划；你必须在科技界显示自己的身份，足以使自己在大学取得一个助理教授的职位，或在企业、政府实验室任初级研究员。你不能浪费时间，因为在开始做博士后以后，离你重返就业市场的时刻，已经不远了。
+    这些考虑表明：
+    （1）	某些单位没有明确的研究领域，你不要去。你要找那些你去了以后立即有重要研究课题的地方。
+    （2）	那些其复杂技术已接近完善的博士后职位，你不要去。因为在那些地方，你能及时干出对就业有帮助的结果的概率，已经极小。你要找有一个或几个短期项目正在进行的单位。
+    如果你要改变研究方向，你应在到达博士后地点之前就开始转向所必须的阅读和学习。一旦你到达新岗位，时钟便立即开始嘀嗒计时了。出于实际的需要，你在离开博士毕业大学那个老窝之前所作的任何准备，都是不占用博士后时段的。
+    去一位有成就的科学家那里做博士后，一般而言比去一位生手哪里好，其理由与挑选论文指导教授的情况是一样的。你不能与你的博士后导师去竞争。如果在他的实验室里只有一台仪器，如果他的计算机预算款相对较少，你以为他会让你想用多少就用多少吗？假如他只有6年时间来使自己获得助理教授的职位，他有可能认为你用1年左右就获得被人认可的成就是重要的吗？按照逻辑推理，这是不可能的。除非你能找到一位助理教授或企业初级研究员，他是一位“超级明星”，或者，至少你与之工作的那位年轻科学家理解并容忍你的需求，使你得到满足。否则，你还是离他而去，另找某位已确立地位的科学家为好。
+    博士后成功的关键：
+    一旦你得到一个博士后职位，你取得下一步成功的关键在于：（1）做的一些事情都能完成；（2）要让别人知道你并觉得你是有用的。当你去求职时，作为一位博士后放在首位的应该是有东西可讲。没有一位雇主愿意聘用一名不能将研究计划善始善终的人。即使你花去了一年半载时间，开发了一个非常有前景的方法，你仍可能在职场输给你的竞争者，他开发的方法风险性较小，但他创立了新知识的核心，且写成文章发表了出来。
+    我并不劝你对自己的研究努力抱不在乎的态度。可是，你要懂得把有意义的结果赶在细枝末节都做好之前去发表，是可以的，也是合乎需要的。如你诚实地在论文稿件中讲明，有些工作尚有待去做，这是合理的，也没有风险。之所以需要这样是因为，有的人的研究工作虽然只有不确定的证据支持，他却能把故事讲得头头是道，引起人们得兴趣。最终，他在求职中胜过了别人，后者尽管研究工作相当深入，但离得出结论还差得很远。虽然注意细节很重要，发表的结果后来发现是错的也很不值得，但最必要的是：完成计划，并且有故事可讲。作为博士后，时间有限，为了发展一个故事来推销自己，你不得不牺牲追求完美的欲望，你不得不担心自己没将事情都干好。这并非玩世不恭，而是现实，是在你整个职业生涯中都应该牢记的。人们记得著名物理学家W.泡利有一句带讽刺的抱怨话，说一位年轻同事的工作“简直比差更差。”你想想看！
+    不要做你的博士后导师的奴隶：
+    当你作为博士后在办公室（实验室）工作时，只有你的导师了解你，其他任何人都不了解你。如果你的工作完成得好，你可以获得一封好得推荐信，仅此而已。假如你选择了一位与外界有良好联系的论文导师，他（或她）也许还能在你博士后结束时，帮你联系到一份“实际职位”。你在研究生时所完成的东西，除非它是非常突出，并不对你以后的生活有太大的影响。假如你的论文导师通过他（或她）的联系为你找到一个工作，这可以理解成，他觉得你不必去当博士后。给你一副担子，让你能在一个初级的“延续”职位上证明你自己，这比其他什么都来得好。
+    作为博士后研究员，你真正要争取到的是在实验室主要成员中，有三四个人对你的评价很高，愿意为你写好的推荐信。假如你是搞理论的，自己要规定每星期抽出两三个小时与做实验的科学家聊聊。反之，如你是实验学家，也一样。有礼貌地介入别人的实验室，看看别人在做些什么研究。发现是否有些课题，你或许能为之做一点贡献。搜集你们实验室发表论文的预印本，仔细阅读。如有评论、问题或建议，让人家知晓。每一个实验室都渴望聘用（或推荐）会与人交流的人。假如你生来害羞，这是个缺点，克服它对你是有利的。随时随地关注从你帮助过的人那里反馈回来的对你的肯定，对你心理上很有帮助。他们向其他人述说对你的正面评价，也有利于改进你的履历。
+    努力工作，是你博士后岁月中高于一切的需要。你只有很短的时间来证明你自己了。千万不能松松垮垮。没有时间让你挥霍了。博士后的几年是决定你能否有科学生涯的最重要的时段。
+
+--
+
+※ 修改:·cryppie 于 Mar 31 17:36:45 修改本文·[FROM: 59.64.200.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 【文章标题】：[分享]原来面包房都需要人工智能！ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1454 【创建时间】：2008-03-23 【作者】：lsxfs 【评论】：7 【内容】：发信人: lsxfs (先知), 信区: PR_AI
+标  题: [分享]原来面包房都需要人工智能！
+发信站: 北邮人论坛 (Sun Mar 23 23:02:09 2008), 站内
+
+纯粹娱乐，赞一下老外的全自动化生产流程：
+http://www.youtube.com/watch?v=xHuDvVa7mkw&amp;feature=user
+--
+do one thing ,and do it well.
+编程如此，做人亦如此。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.217.*]
+ 
+【文章标题】：求一篇文章 【文章地址】：https://bbs.byr.cn/article/ML_DM/1595 【创建时间】：2008-04-08 【作者】：bebekifis 【评论】：9 【内容】：发信人: bebekifis (肥狗), 信区: PR_AI
+标  题: 求一篇文章
+发信站: 北邮人论坛 (Tue Apr  8 11:01:10 2008), 站内
+
+Koenderink, J.:The structure of images. Biological Cybernetics. 
+
+哪位大牛有啊？
+--
+形式化的界限就是AI的界限。 （至少对目前来说是这样） 
+AI说到底是哲学问题。 
+许多没有出路的AI研究，“只是因为对哲学家昔日的失败一无所知，才得以维持。” 
+---from Xin Lun...
+----------------------------------------------------
+你的成绩总分：413 
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 159.226.21.*]
+ 
+【文章标题】：全信息理论是怎么回事啊？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1600 【创建时间】：2008-04-08 【作者】：xylxydt 【评论】：4 【内容】：发信人: xylxydt (Jane), 信区: PR_AI
+标  题: 全信息理论是怎么回事啊？
+发信站: 北邮人论坛 (Tue Apr  8 15:10:15 2008), 站内
+
+ 哪位师兄师姐能帮忙解释一下，或者推荐点资料，网站什么的，不胜感激！！
+
+ 另有移动智能系统是研究什么的啊？谢谢！！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 162.105.187.*]
+ 
+【文章标题】：[求助]关于HTK的编译。。。 【文章地址】：https://bbs.byr.cn/article/ML_DM/1430 【创建时间】：2008-03-21 【作者】：Shmily1314 【评论】：5 【内容】：发信人: Shmily1314 (【爱乐魂】玲珑の雪     【八卦帮】天水讼), 信区: PR_AI
+标  题: [求助]关于HTK的编译。。。
+发信站: 北邮人论坛 (Fri Mar 21 23:41:24 2008), 站内
+
+rt。
+nmake时通不过啊。。。
+出现fatal error。
+我用的是visual studio 2005.
+而且环境变量已设为，D:\Program Files\Microsoft Visual Studio 8\VC\bin
+
+截图如下。达人帮我解决一下。
+
+
+<a href="/att/ML_DM/0/1430/558" target="_blank" color="blue">附件(929.8KB)  Snap1.bmp</a>
+--
+看你蹲旮旯里长的埋了巴汰羊了二正的撒莫啥呢?彪的糊的咯不咯应啊?别在哪穷固拥了得瑟啥呀老科慎了!别莫济了!寒趁人啊
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 219.223.198.*]
+
+ 
+【文章标题】：[求助]请问雅克比矩阵的意义 【文章地址】：https://bbs.byr.cn/article/ML_DM/1593 【创建时间】：2008-04-08 【作者】：missingpiece 【评论】：4 【内容】：发信人: missingpiece (孙颖), 信区: PR_AI
+标  题: [求助]请问雅克比矩阵的意义
+发信站: 北邮人论坛 (Tue Apr  8 09:19:20 2008), 站内
+
+请问雅克比矩阵代表了什么含义？是状态的转移还是变化率之类的？
+请达人指点，谢谢<img src="/img/ubb/em/12.gif" alt="em12" style="display:inline;border-style:none">
+--
+走NB的路，让SB说去吧
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.141.*]
+ 
+
+【文章标题】：[赠送]Neural Network for Pattern Recognition 【文章地址】：https://bbs.byr.cn/article/ML_DM/1611 【创建时间】：2008-04-09 【作者】：cryppie 【评论】：0 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [赠送]Neural Network for Pattern Recognition
+发信站: 北邮人论坛 (Wed Apr  9 20:27:56 2008), 站内
+
+图书馆复印的，想要的，站内信箱
+--
+攻城不怕坚，攻书不畏难－－叶培大
+
+※ 修改:·cryppie 于 Apr  9 20:28:56 修改本文·[FROM: 59.64.200.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 
+【文章标题】：[ebook]a phd is not enough 【文章地址】：https://bbs.byr.cn/article/ML_DM/1577 【创建时间】：2008-04-06 【作者】：adam2002 【评论】：5 【内容】：发信人: adam2002 (寒冰), 信区: PR_AI
+标  题: [ebook]a phd is not enough
+发信站: 北邮人论坛 (Sun Apr  6 03:12:52 2008), 站内
+
+
+<a href="/att/ML_DM/0/1577/235" target="_blank" color="blue">附件(406.2KB)  </a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.144.3.*]
+
+ 
+【文章标题】：[连载3]有了博士学位还不够，科海沉浮指南 【文章地址】：https://bbs.byr.cn/article/ML_DM/1564 【创建时间】：2008-04-03 【作者】：cryppie 【评论】：2 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [连载3]有了博士学位还不够，科海沉浮指南
+发信站: 北邮人论坛 (Thu Apr  3 22:32:11 2008), 站内
+
+<b>第三章 作学术报告</b>
+
+           游客问纽约当地过路人：“你是怎么找到卡内基音乐厅的？”
+           纽约当地过路人回答：“寻找，寻找，寻找！”
+
+    在求职面试之旅中，你的任务是去说服一大批和你见面的专业人士，让他们为你能成为他们的同事而感到兴奋。你作的讲座报告，是你传递信息的最佳机会，使大家相信你正是应被聘用的对象。当你在一个新职位上干了一两年后，你去报告你已取得进展，情况也是一样的。对你了解得最多的同事，在未听你报告之前，就已经给你以很高的评价。可惜他们只有不多的“票数”。做好你的讲座报告，你便可以在基本拥有的基数上，取得保住职位或得到提升所必需的支持票。要记住，有很多时间用来阅读的专业科学家是少数。现今，他们了解新事物的途径，是参加会议和听别人的讲座报告。如果你在这种集会场合报告做得很好，你便能更好地吸引追随者。有人追随，是你职业保障的一种非常好的形式。
+    因为口头演讲在你求职过程中起着重大作用，你必须极其认真地准备报告。向擅长作报告的科学家学习是一个很好的想法。本章我讲几个基本概念。
+
+<b>科学家充当演出主持人</b>
+
+    虽然科学讨论会并非剧院演出，但两者有共同的要素。你作为发言者，被当成独角戏演员推上舞台。你的听众为你的演讲投入了他们一小时宝贵的时间。他们当然要从你身上学到些什么。但正像剧院老观众似的，他们希望听到一个有头有尾又有中段剧情发展的好故事。他们不愿意被你弄得烦躁不安，比如，你将某些内容阐释得很不清楚，甚至讲错了；比如你用投影仪放映在屏幕上的幻灯片，里面有令人震惊的拼写错误或墨渍污点；又比如，一小时报告时间已快完了，你却显然还剩有不少内容要讲。你呀，在要紧关头使你的听众失望了！他们不会向你扔番茄或臭鸡蛋，但他们会把你打发掉，他们不会情愿去发觉你真是一位多么好的科研人员——就因为你作了一场拙劣的演出。
+
+<b>前言</b>
+
+    当你为演讲作准备时，一个基本的原则便是切莫高估了你的听众。不论他们的胡须有多白，也不管有少数人可能在你报告的领域已发表了不少论文，这几个看似吓人的听众，也希望你做一场完满的演出。他们要听你讲在该领域中有哪些重要之点，尤其希望听到你讲那些重要成果，正是来源于他们的贡献！他们对听一遍已经知道的东西并不在乎——毕竟报告时在座的人们懂得了一些东西，他们感觉良好。
+   报告的开场白要定下基调，给听众以“第一印象”。你给他们的主要印象应是：（1）拟在所从事的领域是内行的；（2）你拥有对科学的好奇心，并且将会成为他们的好同事；（3）你非常喜爱科学研究；（4）你想借此报告传递一些有用和有趣的信息。高速听众你报告的主题是什么；告诉他们你的工作为了解决一个特殊的疑难问题，为什么这个问题是重要的；告诉听众你展示了一个新技术，利用它可以获取新的有用信息。
+    不要很快地就进入对你的试验或计算的讨论。将你的研究内容的展开程度限制在报告所允许的时间内，对你所用到的新技术、新概念和（或）所采取的边界方法作一概述，以及有可能的话指出最重要的结论是什么。（如：“你们将看到，这些测量证明了费贝尔曼早期的有名论文中提出的至今尚未得到证明的预言。”）
+    讲了这些之后，你可以开始讨论具体内容了。如果给你的报告时间为一小时，你的前言还可以较详细些，然后才开始讲你自己工作的细节。在大型会议的十分钟报告场合，用于前言的幻灯片不宜超过一两张。
+
+<b>讲坛技巧</b>
+
+    要注意你行为举止的重要性，尤其是自信的表情。如果你讲话的声音太低，人们就认为你缺乏信心，或者不明白你在说些什么。假如你把报告讲得很低调，传达给人的意思就会是你对这项研究缺乏热情，甚至是对整个科研缺乏兴趣。科学家像训练有素的小猎犬，用于找出那些不过硬的推理，加以剔除。要是你看上去十分有信心，那么你的报告至少在表面上被认同。否则，你可能早早地被拉入缠住不放的提问中，甚至无法结束你的报告。也可能，人们开始从会议室拂袖而去。如果你的报告是求职面试的一个环节，那么，你或许已处于十分被动的境地了。
+    掌握好作报告的时间非常重要。你必须计划周全，试讲一下，以保证在限时到来之前结束。至少已做到在铃声响起时，你已经报告的主要思想传达给听众。你可以判断在报告会上，讲解一张幻灯片平均要花去多少时间。这将有助于你知道在给定的时段内，你为报告应准备幻灯片数目的上限。比如我本人，我能在十分钟内讲解六张，至多不超过七张幻灯片。如果超过此数，我心里就明白必须不喘气地讲，那么听众听懂的东西就很少了。其实，听众对充斥着“花言巧语”的报告，是心知肚明的。他们认为，报告人的意图是把工作中的含糊之处伪装起来，用充斥的言辞和图表来吓唬他们。把报告设计成“模块”式的，是一个可取的方法。在前言“模块”之后，你讲解几个各自有完整信息的组件，构成一个系列。这样准备好，如果届时你的时间不够用的话，不妨将最后一个组件舍弃不讲，也不会觉得对不住自己，从而径直过渡到报告的小结。
+
+<b>不要试图考验他们的耐性</b>
+
+    研究生们学作报告的第一课，内容之一便是“怎样写提纲”。不少学生也被明确教导，一上来就用一张幻灯片，给出“我演讲的提纲。”我常常觉得，这张幻灯片不骂它愚蠢，也至少是浪费时间。我愿意在这里强调演讲的结构，不光是为了帮助你，也希望我自己以后可以坐在那里少看些展示提纲的幻灯片。
+    你进来曾读过一本小说，或看过一场演出，是从“计划纲要”开始的吗？当一位政界候选人发表演说时，他会把提纲写在一块板上吗？显然不会，所以一般你也不要这么做。你的确应该把你报告的大纲写出来，放在办公室内。但是你去作报告，你只要把故事讲好就行了。报告的结构是看不见的“有机体”。你的听众应被你从一个概念引向下一个概念，正像在听巴赫的赋格曲时，人们不得不跟着音乐走的感觉是一样的。
+    在美国物理学会的大型会议上，原创论文分配到的报告时间是十分钟，外加两分钟用于提问和讨论。因此，我为这种报告只展示六张最多七张幻灯片。我要表达的信息，第一张是：“我报告的题目”以及“这些是我的合作者得姓名，我要感谢能源部的经费资助”。接下去第二张幻灯片是“我的报告是从简单的前言开始。然后依次介绍实验室仪器、测量X系统所得到的结果。最后我用几点结论来结束报告”。是的，这里有少许夸张，但并不过分。我所表达的意思是：“我没有很多的可说，我不同你们将我的报告是怎么准备的，也不讲我的朋友是谁，留一些时间供大家对我的报告进行讨论。”假如你没有什么可讲，那么就不要去作报告为好。你既然选择了去讲，那么不把许可的时间用足来阐明你的思想和结果，连对自己也欠公允。
+    人们的神奇能力之一，是同时用眼和耳去获得不同的信息。假如你有合作者未被宣布为共同作者，而你在题目幻灯片文字中，对基金会表示了感谢，那就不要浪费时间去念出他们的名字了，眼耳不必都用。有朝一日，当你已成为教授，想将你的学生推向前台，那么，你可在你作研讨会报告结尾时，提出他们的名字，赞许他们的优等素质。可是现在，你还只是一个试图推销自己的人，向合作者致谢是重要的，但不宜做得过分。
+    当你的题目幻灯片照射在屏幕上，你在前言中要表达的是，为什么对研究的材料感兴趣，或为什么与你同一领域的研究者都对这个课题感兴趣，或者为什么整个学界应该对此问题给予关注等等。你真正要讲得不只是适应你所研究的主题，而且也要适应你的听众的情况。很明显，如果你的十分钟报告是对领域内的专家作的，那么你应该去处那些性质上太科普太简单的说词。反之，如果研讨会上的听众中的专业人士，是与你的研究领域不同的专家，也有学生，那么一个比较长的前言是必要的。
+    在准备报告时关注技术方面的要求，足以使一个好报告上升为一个杰出的报告。
+
+<b>技术方面</b>
+
+    实验固体物理学家常常展示实验仪器示意图，或者，老天帮忙，把仪器的照相放在幻灯片上。有时候制作这样一张幻灯片很有道理，但大多数情况不是如此，纯粹在浪费时间。在这种情况下，我会想到“突出研究思想！”当你把报告的主题集中到一起时，应尝试认清哪些东西是脱离主题的。假如你用上一张实验设备的幻灯片是有道理的，假如需要用它来解释一种新技术，那么是可以的。假如测量方法是标准的，而只是为了证明你的实验室并非空无所有，只是你尚未得出“结果”，那么请舍弃它。没有人会在乎你作了一个短小的、确有不少信息的报告。切勿故意或漫不经心，来填满你的报告时间。
+    理论物理学家，特别是缺乏经验者，常常采用写满公式的幻灯片。（分子生物学家则展示DNA序列。）除了非常特殊的情况，例如专注于技术进展的专家聚会等之外，这是一个坏主意。在你一小时的报告中，听众只能消化很少量的信息，比如只相当于十分钟报告的信息，另外50分钟不消化。只有少数情况，听众似乎肯接受一篇由详细记述性内容幻灯片构成的报告，例如因为材料过分复杂，不易理解，却又很重要，那才应该放映出来让大家看一下。在你获得诺贝尔奖之前不要那样，在那之后，你的大部分听众将不敢表白他们对你的工作成果不得其门而入，更不敢显露对你得花言巧语的鄙视。可是现在，你需要取悦你的听众，而不是压服他们。假设你是听众中的一名实验学家，想想他为什么要聘用你这个理论物理学家？有一个不大可能的机会使他作出对你有利的考虑，就是有一个了解你的理论公式的同事告诉他，你的这些公式真得很重要。多半他更喜欢那些同自己能谈得起来的人。当你与他面谈的时候，你就不要把数学的细节同他啰嗦了，只要将基本概念、所作近似、结果和预见等讲清楚即可。仔细想一想，然后把充斥上标、下标等等符号的幻灯片统统扔掉吧。
+    幻灯片  在制作报告幻灯片时，要记住几个观点。当我看到一张电脑制作的美观、全色的幻灯片时，第一个感觉便是：“这位仁兄显然没有什么事可干。”现代技术的恩赐，使专业水准的投影膜和幻灯片的制作，变得相当容易了。然而，你不可给人留下这样的印象：你把幻灯片的美观看得比它上面说的内容更重要。如果你准备为一批外行人作报告——例如上层经理或一位总裁，诸如此类——你不妨用尽各种办法把你的视觉材料制作得漂亮。假如你的听众是高级科学家，那么你对幻灯制作的“专业性”外观追求，就应该有所节制。要记住，这些科学家中的许多人，至今还开着大众汽车公司25年前生产的甲壳虫牌旧车。他们对势利主义反感而宁肯开破车的心态，也会影响对你豪华制作投影膜片的印象。
+    我在此说明，以上的意思并非要你把投影片制作的模模糊糊、不清不楚或写得密密麻麻。大多数投影膜片，每页上应有一两张图表，一个“卡通”加上简单的文字。字要写的大些，字大有两个好处：一是使会议室后排的人能看得清你在屏幕上投影的字，并因此留下来听。否则他们如果听得不称心，便偷偷从近旁的门溜之大吉。二是字大可限制你在一页膜上的字数。如果你不想多报告什么，写大些就顺理成章了。
+    用永久性墨水写投影膜，是一个好主意。水溶性墨水当你打喷嚏或泼翻咖啡时，会被弄得一塌糊涂。假如你报告还未做过，那就糟了。永久性墨水的字迹可方便地用伏特加之类的溶剂擦掉。
+
+<b>小结</b>
+
+    现在你已可了解，本章好像是在研究“研讨会”。我把主要的意思再重复如下：
+    （1）    你在研讨会上作报告，好比是一场演出。他要求你仔细地计划好要讲的东西，透彻地背诵、试讲。
+    （2）    在台上报告是要显出自信。要表现对自己的研究工作乐在其中，所得的结果令人振奋。
+    （3）    要尊重你的听众，他们花一小时来听你报告不容易。他们想听懂你的报告，虽然他们的专业与你不一定相同。他们既不愿听你“瞎吹”，也不向你把他们当作一个不属于他们的领域的“专家”。
+    （4）    不要加进一些填料去浪费时间，应做到每一张幻灯片有一张幻灯片的内容。假如你的报告时间显得稍短了一点，没有人会反感。
+    （5）    使你的直观教具赏心悦目，但不要弄成像麦迪逊大街那么奢华。
+    谢谢你的关注！
+
+<b>补充读物</b>
+
+[1]J.C.Garland, “Advice to Beginning Physics Speakers”, Physics Today 44, 42(1991)
+[2]Vernon Booth, Communicating in Science: Writing and Speaking, Cambridge University Press, New York, 1985
+
+--
+攻城不怕坚，攻书不畏难－－叶培大
+
+※ 修改:·cryppie 于 Apr  3 22:46:45 修改本文·[FROM: 59.64.200.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 
+【文章标题】：拜大牛们~问个用htk做语言模型的问题~ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1635 【创建时间】：2008-04-10 【作者】：xiya 【评论】：2 【内容】：发信人: xiya (小九姐姐), 信区: PR_AI
+标  题: 拜大牛们~问个用htk做语言模型的问题~
+发信站: 北邮人论坛 (Thu Apr 10 19:05:01 2008), 站内
+
+前两天跑class-based LM的时候，遇到一个问题：
+是这样的，用htk生成class-based lm的时候，遇到一个问题，截图见附件。
+
+我觉得问题产生的原因是因为：生成的.cm文件的格式是，每一个类下面对应的词都是编码形式，如下：
+CLASS1 1 1 IN
+ &lt;s&gt;
+CLASS2 2 1 IN
+ &lt;/s&gt;
+CLASS3 3 1 IN
+ !!UNK
+CLASS4 4 5491 IN
+ \260\242\260\315\313\271
+ \260\242\260\323
+ \260\242\261\376
+ \260\242\265\302\300\357\260\262
+ \260\242\266\373\262\256
+ \260\242\266\373\262\256\313\376
+ \260\242\266\373\267\306
+ \260\242\266\373\270\245\300\327\265\302
+ \260\242\267\345
+ \260\242\273\371
+ \260\242\274\252
+ \260\242\274\321
+ 
+可是在gram文件中所有的词都是中文而不是中文对应的码，所以在创建word-given-class模型合成的时候会提示两个文件的格式不符。（？应该是这个原因出错的吧。。。=。=）
+首先，想问问是不是因为这个原因导致了错误，如果是的话，想问一下如何在生成.cm文件的时候不像上面的格式那样，而是生成像下面对应的都是中文的词呢？
+如下：
+CLASS1 1 1 IN
+ &lt;s&gt;
+CLASS2 2 1 IN
+ &lt;/s&gt;
+CLASS3 3 1 IN
+ !!UNK
+CLASS4 4 5491 IN
+中国
+美国
+印度尼西亚
+……
+
+<a href="/att/ML_DM/0/1635/1386" target="_blank" color="blue">附件(182.3KB)  cluster.bmp</a>
+
+亦或是因为别的原因造成的泥=。=~？
+
+再拜~~~~~~
+
+--
+只要你等我一天，我会等你一辈子。
+
+※ 修改:·xiya 于 Apr 10 19:06:32 修改本文·[FROM: 59.64.139.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.139.*]
+ 
+【文章标题】：[求助]哪位高手做过Max flow/Graph cut方面的算法么？望指导 【文章地址】：https://bbs.byr.cn/article/ML_DM/1623 【创建时间】：2008-04-10 【作者】：FlyinWind 【评论】：11 【内容】：发信人: FlyinWind (4ever之—风中小麦), 信区: PR_AI
+标  题: [求助]哪位高手做过Max flow/Graph cut方面的算法么？望指导
+发信站: 北邮人论坛 (Thu Apr 10 15:04:31 2008), 站内
+
+如题，在下正在做这方面的研究实现，即Max flow/min cut的算法。
+看了一些这方面的论文，基本了解个大概，但还是感觉半懂不懂，另外就是关于图(graph)数据结构没什么经验，现在对于该算法实现下不了手，很多细节不清楚，比如不知道图如何构建，用什么样的存储方式比较好等等。
+哪位高手可以指点一下么？留个MSN或者邮箱吧，万分感激！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 61.129.39.*]
+ 
+【文章标题】：拿证了，毕业啦！ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1656 【创建时间】：2008-04-15 【作者】：cryppie 【评论】：10 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: 拿证了，毕业啦！
+发信站: 北邮人论坛 (Tue Apr 15 16:34:18 2008), 站内
+
+毕业啦，闪人。
+祝版上诸位学业有成，事事如意。
+wave~8~
+--
+通过THU的笔试，离理想更近了，小cong一下。A Za A Za Fighting
+攻城不怕坚，攻书不畏难－－叶培大
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 
+【文章标题】：NLP是什么的缩写？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1621 【创建时间】：2008-04-10 【作者】：parker 【评论】：5 【内容】：发信人: parker (LUCIFER), 信区: PR_AI
+标  题: NLP是什么的缩写？
+发信站: 北邮人论坛 (Thu Apr 10 12:56:34 2008), 站内
+
+RT
+--
+This Is 10% Luck,20% Skill,15% Concentrated Power Of Will
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.33.187.*]
+ 
+【文章标题】：式(3-3) 用英语怎么说？（也不知发在这合不合适） 【文章地址】：https://bbs.byr.cn/article/ML_DM/1654 【创建时间】：2008-04-14 【作者】：hmily821224 【评论】：1 【内容】：发信人: hmily821224 (笨笨猫), 信区: PR_AI
+标  题: 式(3-3) 用英语怎么说？（也不知发在这合不合适）
+发信站: 北邮人论坛 (Mon Apr 14 21:56:45 2008), 站内
+
+就是论文里公式的标号，多谢了。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+ 
+【文章标题】：[zt]谈谈机器学习(Machine Learning)大家 (full version) 【文章地址】：https://bbs.byr.cn/article/ML_DM/551 【创建时间】：2007-12-14 【作者】：cryppie 【评论】：16 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [zt]谈谈机器学习(Machine Learning)大家 (full version)
+发信站: 北邮人论坛 (Fri Dec 14 22:04:55 2007), 站内
+
+送交者: HiT, 2005年8月23日08:58:07 于 [教育与学术]<a target="_blank" href="http://www.bbsland.com">http://www.bbsland.com</a>  
+
+闲着无事，想写点一些我所了解的machine learning大家。由于学识浅薄，见识有限，并且仅局限于某些领域，一些在NLP及最近很热的生物信息领域活跃的学者我就浅陋无知，所以不对的地方大家仅当一笑。
+
+Machine Learning 大家(1)：M. I. Jordan (<a target="_blank" href="http://www.cs.berkeley.edu/~jordan/">http://www.cs.berkeley.edu/~jordan/</a>)
+
+在我的眼里，M Jordan无疑是武林中的泰山北斗。他师出MIT，现在在berkeley坐镇一方，在附近的两所名校（加stanford）中都可以说无出其右者，stanford的Daphne Koller虽然也声名遐迩，但是和Jordan比还是有一段距离。
+
+Jordan身兼stat和cs两个系的教授，从他身上可以看出Stat和ML的融合。
+
+Jordan最先专注于mixtures of experts，并迅速奠定了自己的地位，我们哈尔滨工业大学的校友徐雷跟他做博后期间，也在这个方向上沾光不少。Jordan和他的弟子在很多方面作出了开创性的成果，如spectral clustering， Graphical model和nonparametric Bayesian。现在后两者在ML领域是非常炙手可热的两个方向，可以说很大程度上是Jordan的lab一手推动的。
+
+更难能可贵的是，Jordan不仅自己武艺高强，并且揽钱有法，教育有方，手下门徒众多且很多人成了大器，隐然成为江湖大帮派。他的弟子中有10多人任教授，个人认为他现在的弟子中最出色的是stanford的Andrew Ng，不过由于资历原因，现在还是assistant professor，不过成为大教授指日可待；另外Tommi Jaakkola和David Blei也非常厉害，其中Tommi Jaakkola在mit任教而David Blei在cmu做博后，数次获得NIPS最佳论文奖，把SVM的最大间隔方法和Markov network的structure结构结合起来，赫赫有名。还有一个博后是来自于toronto的Yee Whye Teh，非常不错，有幸跟他打过几次交道，人非常nice。另外还有一个博后居然在做生物信息方面的东西，看来jordan在这方面也捞了钱。这方面他有一个中国学生Eric P. Xing(清华大学校友)，现在在cmu做assistant professor。
+
+总的说来，我觉得Jordan现在做的主要还是graphical model和Bayesian learning，他去年写了一本关于graphical model的书，今年由mit press出版，应该是这个领域里程碑式的著作。3月份曾经有人答应给我一本打印本看看，因为Jordan不让他传播电子版，但后来好像没放在心上（可见美国人也不是很守信的），人不熟我也不好意思问着要，可以说是一大遗憾. 另外发现一个有趣的现象就是Jordan对hierarchical情有独钟，相当多的文章都是关于hierarchical的，所以能 hierarchical大家赶快hierarchical，否则就让他给抢了。
+
+用我朋友话说看jordan牛不牛，看他主页下面的Past students and postdocs就知道了。
+
+Machine Learning大家（2）：D. Koller (<a target="_blank" href="http://ai.stanford.edu/~koller/">http://ai.stanford.edu/~koller/</a>)
+
+D. Koller是1999年美国青年科学家总统奖(PECASE)得主，IJCAI 2001 Computers and Thought Award(IJCAI计算机与思维奖，这是国际人工智能界35岁以下青年学者的最高奖)得主，2004 World Technology Award得主。
+
+最先知道D koller是因为她得了一个大奖，2001年IJCAI计算机与思维奖。Koller因她在概率推理的理论和实践、机器学习、计算博弈论等领域的重要贡献，成为继Terry Winograd、David Marr、Tom Mitchell、Rodney Brooks等人之后的第18位获奖者。说起这个奖挺有意思的，IJCAI终身成就奖（IJCAI Award for Research Excellence），是国际人工智能界的最高荣誉; IJCAI计算机与思维奖是国际人工智能界35岁以下青年学者的最高荣誉。早期AI研究将推理置于至高无上的地位; 但是1991年牛人Rodney Brooks对推理全面否定，指出机器只能独立学习而得到了IJCAI计算机与思维奖; 但是koller却因提出了Probabilistic Relational Models 而证明机器可以推理论知而又得到了这个奖，可见世事无绝对，科学有轮回。
+
+D koller的Probabilistic Relational Models在nips和icml等各种牛会上活跃了相当长的一段时间，并且至少在实验室里证明了它在信息搜索上的价值，这也导致了她的很多学生进入了 google。虽然进入google可能没有在牛校当faculty名声响亮，但要知道google的很多员工现在可都是百万富翁，在全美大肆买房买车的主。
+
+Koller的研究主要都集中在probabilistic graphical model，如Bayesian网络，但这玩意我没有接触过，我只看过几篇他们的markov network的文章，但看了也就看了，一点想法都没有，这滩水有点深，不是我这种非科班出身的能趟的，并且感觉难以应用到我现在这个领域中。
+
+Koller才从教10年，所以学生还没有涌现出太多的牛人，这也是她不能跟Jordan比拟的地方，并且由于在stanford的关系，很多学生直接去硅谷赚大钱去了，而没有在学术界开江湖大帮派的影响，但在stanford这可能太难以办到，因为金钱的诱惑实在太大了。不过Koller的一个学生我非常崇拜，叫Ben Taskar，就是我在（1）中所提到的Jordan的博后，是好几个牛会的最佳论文奖，他把SVM的最大间隔方法和Markov network结合起来，可以说是对structure data处理的一种标准工具，也把最大间隔方法带入了一个新的热潮，近几年很多牛会都有这样的workshop。 我最开始上Ben Taskar的在stanford的个人网页时，正赶上他刚毕业，他的顶上有这么一句话：流言变成了现实，我终于毕业了！ 可见Koller是很变态的，把自己的学生关得这么郁闷，这恐怕也是大多数女faculty的通病吧，并且估计还非常的push！
+
+Machine learning 大家（3）: J. D. Lafferty
+
+大家都知道NIPS和ICML向来都是由大大小小的山头所割据，而John Lafferty无疑是里面相当高的一座高山，这一点可从他的publication list里的NIPS和ICML数目得到明证。虽然江湖传说计算机重镇CMU现在在走向衰落，但这无碍Lafferty拥有越来越大的影响力，翻开AI兵器谱排名第一的journal of machine learning research的很多文章，我们都能发现author或者editor中赫然有Lafferty的名字。
+
+Lafferty给人留下的最大的印象似乎是他2001年的conditional random fields，这篇文章后来被疯狂引用，广泛地应用在语言和图像处理，并随之出现了很多的变体，如Kumar的discriminative random fields等。虽然大家都知道discriminative learning好，但很久没有找到好的discriminative方法去处理这些具有丰富的contextual inxxxxation的数据，直到Lafferty的出现。
+
+而现在Lafferty做的东西好像很杂，semi－supervised learning， kernel learning，graphical models甚至manifold learning都有涉及，可能就是像武侠里一样只要学会了九阳神功，那么其它的武功就可以一窥而知其精髓了。这里面我最喜欢的是semi－ supervised learning，因为随着要处理的数据越来越多，进行全部label过于困难，而完全unsupervised的方法又让人不太放心，在这种情况下 semi－supervised learning就成了最好的。这没有一个比较清晰的认识，不过这也给了江湖后辈成名的可乘之机。到现在为止，我觉得cmu的semi－ supervised是做得最好的，以前是KAMAL NIGAM做了开创性的工作，而现在Lafferty和他的弟子作出了很多总结和创新。
+
+Lafferty的弟子好像不是很多，并且好像都不是很有名。不过今年毕业了一个中国人，Xiaojin Zhu(上海交通大学校友)，就是做semi－supervised的那个人，现在在wisconsin-madison做assistant professor。他做了迄今为止最全面的Semi-supervised learning literature survey，大家可以从他的个人主页中找到。这人看着很憨厚，估计是很好的陶瓷对象。另外我在（1）中所说的Jordan的牛弟子D Blei今年也投奔Lafferty做博后，就足见Lafferty的牛了。
+
+Lafferty做NLP是很好的，著名的Link Grammar Parser还有很多别的应用。其中language model在IR中应用，这方面他的另一个中国学生ChengXiang Zhai(南京大学校友，2004年美国青年科学家总统奖(PECASE)得主)，现在在uiuc做assistant professor。
+
+Machine learning 大家（4): Peter L. Bartlett
+
+鄙人浅薄之见，Jordan比起同在berkeley的Peter Bartlett还是要差一个层次。Bartlett主要的成就都是在learning theory方面，也就是ML最本质的东西。他的几篇开创性理论分析的论文，当然还有他的书Neural Network Learning: Theoretical Foundations。
+
+UC Berkeley的统计系在强手如林的北美高校中一直是top3， 这就足以证明其肯定是群星荟萃，而其中，Peter L. Bartlett是相当亮的一颗星。关于他的研究，我想可以从他的一本书里得到答案：Neural Network Learning: Theoretical Foundations。也就是说，他主要做的是Theoretical Foundations。基础理论虽然没有一些直接可面向应用的算法那样引人注目，但对科学的发展实际上起着更大的作用。试想vapnik要不是在VC维的理论上辛苦了这么多年，怎么可能有SVM的问世。不过阳春白雪固是高雅，但大多数人只能听懂下里巴人，所以Bartlett的文章大多只能在做理论的那个圈子里产生影响，而不能为大多数人所广泛引用。
+
+Bartlett在最近两年做了大量的Large margin classifiers方面的工作，如其convergence rate和generalization bound等。并且很多是与jordan合作，足见两人的工作有很多相通之处。不过我发现Bartlett的大多数文章都是自己为第一作者，估计是在教育上存在问题吧，没带出特别牛的学生出来。
+
+Bartlett的个人主页的talk里有很多值得一看的slides,如Large Margin Classifiers: Convexity and Classification；Large Margin Methods for Structured Classification: Exponentiated Gradient Algorithms。大家有兴趣的话可以去下来看看。
+
+Machine learning 大家（5):   Michael Collins
+
+Michael Collins (<a target="_blank" href="http://people.csail.mit.edu/mcollins/">http://people.csail.mit.edu/mcollins/</a>
+自然语言处理(NLP)江湖的第一高人。出身Upenn，靠一身叫做Collins Parser的武功在江湖上展露头脚。当然除了资质好之外，其出身也帮了不少忙。早年一个叫做Mitchell P. Marcus的师傅传授了他一本葵花宝典-Penn Treebank。从此，Collins整日沉迷于此，终于练成盖世神功。
+
+学成之后，Collins告别师傅开始闯荡江湖，投入了一个叫AT&amp;T Labs Research的帮会，并有幸结识了Robert Schapire、Yoram Singer等众多高手。大家不要小瞧这个叫AT&amp;T Labs Research的帮会，如果谁没有听过它的大名总该知道它的同父异母的兄弟Bell Labs吧。
+
+言归正传，话说Collins在这里度过了3年快乐的时光。其间也奠定了其NLP江湖老大的地位。并且练就了Discriminative Reranking， Convolution Kernels，Discriminative Training Methods for Hidden Markov Models等多种绝技。然而，世事难料，怎奈由于帮会经营不善，这帮大牛又不会为帮会拼杀，终于被一脚踢开，大家如鸟兽散了。Schapire去了 Princeton， Singer 也回老家以色列了。Collins来到了MIT，成为了武林第一大帮的六袋长老，并教授一门叫做Machine Learning Approaches for NLP (<a target="_blank" href="http://www.ai.mit.edu/courses/6.891-nlp/">http://www.ai.mit.edu/courses/6.891-nlp/</a>) 的功夫。虽然这一地位与其功力极不相符，但是这并没有打消Collins的积极性，通过其刻苦打拼，终于得到了一个叫Sloan Research Fellow的头衔，并于今年7月，光荣的升任7袋Associate Professor。
+
+在其下山短短7年时间内，Collins共获得了4次世界级武道大会冠军(EMNLP2002, 2004, UAI2004, 2005)。相信年轻的他，总有一天会一统丐帮，甚至整个江湖。
+
+看过Collins和别人合作的一篇文章，用conditional random fields 做object recogntion。还这么年轻，admire to death
+--
+我 是 oofisher
+                        最爱Intel Research Center
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.200.*]
+ 
+【文章标题】：人工智能实验室选择出国的研究生多吗 【文章地址】：https://bbs.byr.cn/article/ML_DM/1672 【创建时间】：2008-04-16 【作者】：xdybfq 【评论】：15 【内容】：发信人: xdybfq (火星撞地球), 信区: PR_AI
+标  题: 人工智能实验室选择出国的研究生多吗
+发信站: 北邮人论坛 (Wed Apr 16 09:56:17 2008), 站内
+
+同问
+--
+好好学编程
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.118.11.*]
+ 
+【文章标题】：谁有关于形状上下文的介绍，大侠给说下 【文章地址】：https://bbs.byr.cn/article/ML_DM/1701 【创建时间】：2008-04-20 【作者】：corndolly 【评论】：0 【内容】：发信人: corndolly (corndolly), 信区: PR_AI
+标  题: 谁有关于形状上下文的介绍，大侠给说下
+发信站: 北邮人论坛 (Sun Apr 20 10:46:28 2008), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.200.239.*]
+ 
+【文章标题】：[求助]谁能讲讲ＳＶＭ和ＰＣＡ？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1466 【创建时间】：2008-03-24 【作者】：pomelo 【评论】：6 【内容】：发信人: pomelo (pomelo), 信区: PR_AI
+标  题: [求助]谁能讲讲ＳＶＭ和ＰＣＡ？
+发信站: 北邮人论坛 (Mon Mar 24 21:22:27 2008), 站内
+
+太专业的词汇我看不懂，请用尽量简单的词语描述下工作原理和实现方法，谢了
+
+
+ps：百度或google就不必了，我想听听简单的描述
+--
+    说好要坚强,要加油!
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.133.*]
+ 
+【文章标题】：请教关于图像的一个问题。 【文章地址】：https://bbs.byr.cn/article/ML_DM/1644 【创建时间】：2008-04-11 【作者】：yexiangliu 【评论】：10 【内容】：发信人: yexiangliu (NINA), 信区: PR_AI
+标  题: 请教关于图像的一个问题。
+发信站: 北邮人论坛 (Fri Apr 11 15:42:51 2008), 站内
+
+如何得到一张图片（jpg格式）的特定区域的坐标值？
+以像素为单位。
+--
+
+※ 修改:·yexiangliu 于 Apr 11 15:43:16 修改本文·[FROM: 59.64.223.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.223.*]
+ 
+【文章标题】：[zz]第一届全国知网研讨会征文通知 【文章地址】：https://bbs.byr.cn/article/ML_DM/1317 【创建时间】：2008-03-09 【作者】：river 【评论】：1 【内容】：发信人: river (river), 信区: PR_AI
+标  题: [zz]第一届全国知网研讨会征文通知
+发信站: 北邮人论坛 (Sun Mar  9 23:32:50 2008), 站内
+
+人工智能实验室的研究大多与自然语言处理有关系，对知网了解的也不少，于是就转来了。trs在工业界还是不错的。
+
+
+第一届全国知网研讨会征文通知
+中国中文信息学会主办
+北京信息科技大学承办
+
+    中国中文信息学会拟定于2008年5月18～21日在北京信息科技大学召开第一届全国知网研讨会(The First National HowNet Workshop,NHW2008)。会议将邀请知网发明人董振东教授做特邀专题讲座“知网和意义计算”，国内外学者将进行学术和论文交流。
+
+征文范围：
+1.      知网理论研究
+2.      知网建设研究与实践
+3.      知网应用研究与实践
+4.      语义资源、世界知识资源建设研究与实践
+
+征文要求：
+1.论文要求具有自己的研究成果，论文必须未在杂志和会议上发表和录用过，并且不能提交到和本会议同期召开的其他会议或期刊上。
+2.论文可用中文或英文撰写，投稿时可提交全文或详细摘要，其中优秀论文将免审推荐至IEEE-NLPKE发表(需会后翻译并扩展为英文全文，EI检索)。
+3.投稿方式：直接将word版全文或详细摘要提交至：HowNet@trs.com.cn，并注明“知网研讨会投稿”。
+
+重要日期：
+1.      截稿日期：2008年4月10日
+2.      录用通知：2008年4月20日
+3.      会议注册：现在至2008年4月30日
+
+注册事宜：
+欢迎对知网或语义资源建设、应用感兴趣的人士参加会议，参会不收注册费。注册时请将个人信息发至：HowNet@trs.com.cn ，并注明“知网研讨会注册”。
+
+会议组织：
+
+大会名誉主席:
+董振东(中科院计算机语言信息工程研究中心)
+
+指导委员会（以姓氏拼音字母次序为序）：
+曹右琦(中国中文信息学会）
+陈克健(台北中央研究院）
+陈群秀(清华大学)
+樊孝忠(北京理工大学)
+黄昌宁(微软亚洲研究院）
+黄河燕(中科院计算机语言信息工程研究中心）
+李  生(哈尔滨工业大学）
+刘开瑛(山西大学)
+陆俭明(北京大学)
+施水才(北京拓尔思信息技术股份有限公司）
+宋　柔(北京语言大学）
+孙茂松(清华大学）
+吴立德(复旦大学）
+徐  波(中科院自动化所)
+姚天顺(东北大学）
+俞士汶(北京大学）
+张  普(北京语言大学)
+钟义信(北京邮电大学)
+  
+大会主席：
+韩秋实 (北京信息科技大学)
+
+程序委员会主席：
+吕学强(北京信息科技大学)
+董  强(中科院计算机语言信息工程研究中心)
+
+组织委员会主席：
+栾忠权(北京信息科技大学)
+李  宁(北京信息科技大学)        
+
+程序委员会委员（以姓氏拼音字母次序为序）：
+蔡东风 (沈阳航空学院)
+陈家骏 (南京大学)
+陈玉忠 (中国标准化研究院)
+程学旗 (中科院计算所)
+黄萱菁 (复旦大学)
+姬东鸿 (武汉大学)
+李涓子 (清华大学)
+林鸿飞 (大连理工大学)
+刘  群 (中科院计算所)
+刘  挺 (哈尔滨工业大学)
+刘  扬 (北京大学)
+刘  耀 (中国科学技术信息研究所)
+史晓东 (厦门大学)
+孙  斌 (北京大学)
+孙  乐 (中科院软件所)
+谭咏梅 (北京邮电大学)
+王  斌 (中科院计算所)
+王海峰 (东芝研究开发中心)
+王  挺 (国防科技大学)
+王晓龙 (哈尔滨工业大学)
+荀恩东 (北京语言大学）
+杨尔弘 (北京语言大学）
+姚天昉 (上海交通大学)
+张  敏 (清华大学)
+张仰森 (北京信息科技大学)
+张玥杰 (复旦大学)
+赵  军 (中科院自动化所)
+赵铁军 (哈尔滨工业大学)
+周  强 (清华大学)
+周国栋 (苏州大学)
+朱靖波 (东北大学)
+宗成庆 (中科院自动化所)
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.228.*]
+ 
+【文章标题】：请问Elman网络和bp网络有什么区别啊? 【文章地址】：https://bbs.byr.cn/article/ML_DM/1743 【创建时间】：2008-04-22 【作者】：threewindgod 【评论】：0 【内容】：发信人: threewindgod (游吟诗人), 信区: PR_AI
+标  题: 请问Elman网络和bp网络有什么区别啊?
+发信站: 北邮人论坛 (Tue Apr 22 17:06:54 2008), 站内
+
+如题?是不是就是Elman是有反馈的bp啊? 应用上和bp比有什么优越的地方呢?
+--
+我们的青春是如此的美丽 没人欣赏也没有关系
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.140.*]
+ 
+【文章标题】：关于LBP和PCA（表情识别） 【文章地址】：https://bbs.byr.cn/article/ML_DM/1711 【创建时间】：2008-04-21 【作者】：yinyuejia 【评论】：7 【内容】：发信人: yinyuejia (音乐家), 信区: PR_AI
+标  题: 关于LBP和PCA（表情识别）
+发信站: 北邮人论坛 (Mon Apr 21 11:27:36 2008), 站内
+
+做人脸表情识别时，用LBP处理后，原图像矩阵并没有得到降维，是么？而用PCA降维（假如降到4维），那么就是取原矩阵的4个最大的特征值及特征向量，把LBP处理后的矩阵乘以该特征向量，得到4个列向量，还有怎么做才能方便后续的工作，如分类？谢谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.198.*]
+ 
+【文章标题】：[to jingle]模式识别与统计学习英文版 【文章地址】：https://bbs.byr.cn/article/ML_DM/1782 【创建时间】：2008-04-24 【作者】：PtwCJ 【评论】：4 【内容】：发信人: PtwCJ (鲜的每日C|头像不是我，我是长毛贼~~), 信区: PR_AI
+标  题: [to jingle]模式识别与统计学习英文版
+发信站: 北邮人论坛 (Thu Apr 24 00:20:10 2008), 站内
+
+
+<a href="/att/ML_DM/0/1782/363" target="_blank" color="blue">附件(3.8MB)  </a>
+--
+我：老板，我不喜欢枪战片，有没有近身格斗的片子？
+老板：【色戒】要不要？
+我：.............. 
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.64.66.*]
+
+ 
+【文章标题】：这个网站http://www.pris.net.cn/ 【文章地址】：https://bbs.byr.cn/article/ML_DM/1773 【创建时间】：2008-04-23 【作者】：sunmoonstar 【评论】：2 【内容】：发信人: sunmoonstar (摔锅啦), 信区: PR_AI
+标  题: 这个网站<a target="_blank" href="http://www.pris.net.cn/">http://www.pris.net.cn/</a>
+发信站: 北邮人论坛 (Wed Apr 23 11:47:19 2008), 站内
+
+有人维护吗？
+似乎教育网的不能访问
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.179.*]
+ 
+【文章标题】：请教关于机器学习入门 【文章地址】：https://bbs.byr.cn/article/ML_DM/1746 【创建时间】：2008-04-22 【作者】：jingle 【评论】：15 【内容】：发信人: jingle (楚天邮情|JinglE), 信区: PR_AI
+标  题: 请教关于机器学习入门
+发信站: 北邮人论坛 (Tue Apr 22 20:40:04 2008), 站内
+
+我就看到了一堆名词svm, ssl, boosting等等
+看了一下那本Mitchell的《机器学习》还是感觉不得要领
+
+最近研究这个，是想用机器学习来从网上获取的语料库构建语境知识库，实验室刚接的一个项目要用到，这样是不是可以侧重看什么呢？
+
+个人对编程实现比较感兴趣，对纯理论的看不特别懂，如果有一些算法代码可以拿来用就最好了。
+
+
+--
+~
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.228.*]
+ 
+【文章标题】：[ebook]Pattern Recognition and Neural Networks 【文章地址】：https://bbs.byr.cn/article/ML_DM/1801 【创建时间】：2008-04-26 【作者】：cryppie 【评论】：12 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: [ebook]Pattern Recognition and Neural Networks
+发信站: 北邮人论坛 (Sat Apr 26 08:13:05 2008), 站内
+
+Pattern Recognition and Neural Networks
+Brian D. Ripley
+University of Oxford
+
+<b>Contents</b>
+1. Introduction and examples; 
+2. Statistical decision theory; 
+3. Linear discriminant analysis; 
+4. Flexible discriminants; 
+5. Feed-forward neural networks; 
+6. Non-parametric methods; 
+7. Tree-structured classifiers; 
+8. Belief networks; 
+9. Unsupervised methods; 
+10. Finding good pattern features; 
+Appendix: statistical sidelines; 
+Glossary; 
+References; 
+Author index; 
+Subject index.
+
+<b>Reviews</b>
+"...an excellent text on the statistics of pattern classifiers and the application of neural network techniques...Ripley has managed...to produce an altogether accessible text...[it] will be rightly popular with newcomers to the area for its ability to present the mathematics of statistical pattern recognition and neural networks in an accessible format and engaging style." Nature
+
+"...a valuable reference for engineers and science researchers." Optics &amp; Photonics News
+
+"The combination of theory and examples makes this a unique and interesting book." International Statistical Institute Journa
+
+
+http://www.stats.ox.ac.uk/~ripley/PRbook/
+
+
+
+<a href="/att/ML_DM/0/1801/1486" target="_blank" color="blue">附件(3.8MB)  Pattern_Recognition_and_Neural_Networks.part01.rar</a>
+--
+三亚
+
+※ 修改:·cryppie 于 Apr 26 19:15:09 修改本文·[FROM: 117.80.182.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 121.228.48.*]
+ 
+【文章标题】：[转帖]Joke 【文章地址】：https://bbs.byr.cn/article/ML_DM/1763 【创建时间】：2008-04-23 【作者】：hunterlee 【评论】：6 【内容】：发信人: hunterlee (智障大师), 信区: PR_AI
+标  题: [转帖]Joke
+发信站: 北邮人论坛 (Wed Apr 23 08:58:49 2008), 站内
+
+发信人: culater (Is it worth？), 信区: AI
+标  题: 哈哈，一个杂志编辑关于paper数量狂增的评论
+发信站: 水木社区 (Tue Apr 22 07:27:04 2008), 站内
+
+翻译一下：
+paper数增长的速度已经超过光速了，但是这没有什么需要担心的，因为这并没有违反任何物理规律：因为那些paper不包含任何信息。
+(按照相对论等物理规律，任何传递信息的信号速度不能超过光速，但是非因果联系的无信息信号不受此限制。)
+
+【 以下文字转载自 Science 讨论区 】
+发信人: shadowman (FIGHT THE FUTURE), 信区: Science
+标  题: Chandrasekhar说
+发信站: 水木社区 (Tue Apr 22 03:59:21 2008), 站内
+
+Chandrasekhar是ApJ的第一任主编，在他离任的时候已经
+看到了研究论文的数量正在开始暴增，于是他说：
+
+“The increasing velocity of the paper number is higher
+  than the speed of light, but there is nothing to worry
+  about for there is no violation of any physical law，
+  because these papers carry no information.”
+
+与大家共勉。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 172.28.205.*]
+ 
+【文章标题】：计算机的暑期课程 【文章地址】：https://bbs.byr.cn/article/ML_DM/1815 【创建时间】：2008-04-26 【作者】：river 【评论】：11 【内容】：发信人: river (river), 信区: PR_AI
+标  题: 计算机的暑期课程
+发信站: 北邮人论坛 (Sat Apr 26 11:55:53 2008), 站内
+
+http://dragonstar.ict.ac.cn/
+
+龙星计划2008的课程，在北京的而且与我们相关的大概就只有信息检索了
+主讲人zhai chengxiang看起来还是挺强的，sigir,www,cikm,kdd一大堆
+
+可惜韩教授这回只在上海讲课了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.228.*]
+ 
+【文章标题】：[ebook]Bioinformatics 【文章地址】：https://bbs.byr.cn/article/ML_DM/1910 【创建时间】：2008-04-28 【作者】：cryppie 【评论】：1 【内容】：发信人: cryppie (蛋白质有机牛), 信区: PR_AI
+标  题: [ebook]Bioinformatics
+发信站: 北邮人论坛 (Mon Apr 28 07:45:32 2008), 站内
+
+最近boss让我读这本书，先有个genera understanding。我未来的方向是Single Nucleotide Polymorphisms(SNPs,基因体变异？) and association with complex disease(比如帕金森综合症)，有这方面的大大们，可以一起交流学习。所用的技术还是模式识别与机器学习的知识。
+
+<b>Contents</b>
+1-Introduction
+2-Probability and Statistics: EM, MCMC, HMM
+3-Computer Science Algorithms: Sorting, Searching, Hashing
+4-Pattern Analysis
+5-Optimization: Dynamic Programming, Combinatorial Optimization
+6-Applications
+
+<a href="/att/ML_DM/0/1910/724" target="_blank" color="blue">附件(3.8MB)  Bioinformatics.part1.rar</a>
+--
+三亚
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 121.228.52.*]
+
+ 
+【文章标题】：虎丘之行 【文章地址】：https://bbs.byr.cn/article/ML_DM/1892 【创建时间】：2008-04-27 【作者】：cryppie 【评论】：21 【内容】：发信人: cryppie (蛋白质牛), 信区: PR_AI
+标  题: 虎丘之行
+发信站: 北邮人论坛 (Sun Apr 27 10:59:33 2008), 站内
+
+
+<a target="_blank" href="/att/ML_DM/0/1892/263"><img border="0" title="20080426(022).jpg" src="/att/ML_DM/0/1892/263" alt="20080426(022).jpg" class="resizeable"></a>
+<a target="_blank" href="/att/ML_DM/0/1892/121946"><img border="0" title="20080426(023).jpg" src="/att/ML_DM/0/1892/121946" alt="20080426(023).jpg" class="resizeable"></a>
+<a target="_blank" href="/att/ML_DM/0/1892/255262"><img border="0" title="20080426(041).jpg" src="/att/ML_DM/0/1892/255262" alt="20080426(041).jpg" class="resizeable"></a>
+--
+三亚
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 117.82.75.*]
+
+ 
+【文章标题】：否极泰终于来了 【文章地址】：https://bbs.byr.cn/article/ML_DM/1713 【创建时间】：2008-04-21 【作者】：cryppie 【评论】：50 【内容】：发信人: cryppie (北邮人), 信区: PR_AI
+标  题: 否极泰终于来了
+发信站: 北邮人论坛 (Mon Apr 21 13:56:38 2008), 站内
+
+上午去THU复试
+终于过啦。近半年的面试摧残了自信心呀。
+
+PHD candidate of Tsinghua Univ. Bioinformation and Statistical Learning, Supervisor is Zhang Xuegong and Li Yanda(李衍达院士)
+
+Cong. for myself.
+
+据说5月份的时候，哈佛的刘军要到中心来工作3个月，还有一个usa的院士
+--
+通过THU的笔试，离理想更近了，小cong一下。A Za A Za Fighting
+攻城不怕坚，攻书不畏难－－叶培大
+
+※ 修改:·cryppie 于 Apr 21 13:59:59 修改本文·[FROM: 123.116.140.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.116.140.*]
+ 
+【文章标题】：{分享}林达华的blog 【文章地址】：https://bbs.byr.cn/article/ML_DM/1696 【创建时间】：2008-04-19 【作者】：river 【评论】：13 【内容】：发信人: river (river), 信区: PR_AI
+标  题: {分享}林达华的blog
+发信站: 北邮人论坛 (Sat Apr 19 21:15:34 2008), 站内
+
+笑对人生，傲立寰宇
+http://dahua.spaces.live.com/Blog/
+应该是这个吧，不是的话就google一下吧
+上不了的就代理吧，反正磨刀不误砍柴工
+我知道这个博客之后没有来得及加入google reader就一口气读完了
+总的感觉是高屋建瓴，融会贯通
+他的每篇文章都会在水木AI转载，传颂
+所以我希望大家能够一起分享讨论
+
+人物：
+林达华
+
+方向：
+ml, cv
+
+教育经历：
+04之前 中科大 本科
+04-07   港中文 硕士 师从tang xiaoou
+07到现在 MIT  博士在读
+
+论文成果：
+13篇国际顶级会议，包括icml, cvpr, iccv, icip等
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.228.*]
+ 
+【文章标题】：关于人工智能的网络分类问题 【文章地址】：https://bbs.byr.cn/article/ML_DM/8763 【创建时间】：2012-02-26 【作者】：wm199061 【评论】：0 【内容】：发信人: wm199061 (青蛙子子), 信区: PR_AI
+标  题: 关于人工智能的网络分类问题
+发信站: 北邮人论坛 (Sun Feb 26 19:17:57 2012), 站内
+
+恩...弱弱的问坛子里有在研究人工智能中网络分类netmork modularity的同仁吗，求讨论一个问题...
+灰常感谢~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.167.*]
+ 
+【文章标题】：寻关于虚拟现实方面创新项目队员 【文章地址】：https://bbs.byr.cn/article/ML_DM/9126 【创建时间】：2012-05-11 【作者】：kinsney 【评论】：0 【内容】：发信人: kinsney (kinsney), 信区: PR_AI
+标  题: 寻关于虚拟现实方面创新项目队员
+发信站: 北邮人论坛 (Fri May 11 21:03:26 2012), 站内
+
+本人大二 谁有兴趣的
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.10.*]
+ 
+【文章标题】：菜鸟求助    HTK  HMM  做音频的分类 【文章地址】：https://bbs.byr.cn/article/ML_DM/8050 【创建时间】：2011-07-01 【作者】：Rachelbest 【评论】：5 【内容】：发信人: Rachelbest (Emily), 信区: PR_AI
+标  题: 菜鸟求助    HTK  HMM  做音频的分类
+发信站: 北邮人论坛 (Fri Jul  1 17:22:52 2011), 站内
+
+原来没有学过HMM，更没有用过HTK，哪位帮我讲讲做音频分类的思路啊，或是该如何入门呢，不胜感激！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.133.*]
+ 
+【文章标题】：求一个ubuntu16.04单机成功安装CHD5的详细指南 【文章地址】：https://bbs.byr.cn/article/ML_DM/21765 【创建时间】：2016-11-16 【作者】：cjb0 【评论】：0 【内容】：发信人: cjb0 (川子), 信区: ML_DM
+标  题: 求一个ubuntu16.04单机成功安装CHD5的详细指南
+发信站: 北邮人论坛 (Wed Nov 16 17:25:37 2016), 站内
+
+开始就想吐槽了，本来apache的hadoop挺好的，感觉也没啥问题，用了好一段时间了，可是boss一看，让装cloudera的CHD5，尼玛，装的时候也没报错，就是启动不了，看日志缺了个jar包，补上后还是不行，日志也没记载为什么失败，怎么弄都不成功，据说源可能有问题，但是也不排除本渣安装不正确问题，不知道大家有没有遇上过此类问题，求教大神，求推荐成功安装详细指南。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.91.*]
+ 
+【文章标题】：...【求助】有关汉字编码的问题... 【文章地址】：https://bbs.byr.cn/article/ML_DM/7075 【创建时间】：2010-07-22 【作者】：im3points 【评论】：7 【内容】：发信人: im3points (城里的城逼|九河下梢三梆子|职业冷场), 信区: PR_AI
+标  题: ...【求助】有关汉字编码的问题...
+发信站: 北邮人论坛 (Thu Jul 22 21:39:46 2010), 站内
+
+...
+用perl抓论坛上的帖子，语句是$page = get($link);
+问题是在抓下来之后对$page匹配“站内”两个字，但是匹配不上。
+看他在cmd里直接打出来的6个字符是\xe7\xab\x99\xe5\x86\x85
+但是直接匹配这一串打进去还是匹配不上，请教一下这是怎么回事？
+（会不会他匹配的时候没按字符串去找？）
+
+还有一个附带的问题：去掉上边那个串的UTF-8的字节头的话变成\x7a\xd9\x51\x85
+这个...
+汉字的编码最高位居然是0！？
+--
+...
+其实我只想打点来着...
+...
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.167.15.198]
+ 
+【文章标题】：北京大学招收 计算机视觉 图形学 图像处理方向博士后 【文章地址】：https://bbs.byr.cn/article/ML_DM/7000 【创建时间】：2010-07-09 【作者】：sunna 【评论】：4 【内容】：发信人: sunna (sunna), 信区: PR_AI
+标  题: 北京大学招收 计算机视觉 图形学 图像处理方向博士后
+发信站: 北邮人论坛 (Fri Jul  9 14:27:47 2010), 站内
+
+信息科学技术学院三维视觉计算与机器人实验室招收博士后，申请时间全年度有效。 
+ 
+实验室网页：<a target="_blank" href="http://www.ist.pku.edu.cn/vision/3DVCR/">http://www.ist.pku.edu.cn/vision/3DVCR/</a>
+ 
+主要围绕人体建模方面开展研究工作，包括：三维重建、运动分析、光照建模、实时绘制、运动编辑、运动跟踪等
+ 
+1．招聘人数及研究方向
+ 
+现确定2010－2011年度拟招收1～2名博士后，研究方向为：
+ 
+1）三维计算机视觉；
+ 
+2）图像处理；
+ 
+3）计算机图形学；
+ 
+4）计算机动画；
+ 
+2．应聘条件
+ 
+（1）符合北京大学博士后的招收条件；
+ 
+（2）已具有博士学位或者在近期内能顺利完成博士论文答辩；
+ 
+（3）熟悉所研究领域国际发展状况，具有较强的学术论文及英文写作能力；
+ 
+（4）具有独立科研能力、团队工作精神以及良好沟通能力，且年龄原则上不超过35周岁。 
+ 
+3．联系方式
+ 
+请将申请函寄至信箱：xhying@cis.pku.edu.cn
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 162.105.71.*]
+ 
+【文章标题】：菜鸟求助：请问SPIHT算法可以用于非正方形的图像么？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/7065 【创建时间】：2010-07-20 【作者】：panwang 【评论】：2 【内容】：发信人: panwang (wangpan), 信区: PR_AI
+标  题: 菜鸟求助：请问SPIHT算法可以用于非正方形的图像么？
+发信站: 北邮人论坛 (Tue Jul 20 09:42:15 2010), 站内
+
+以前用的SPIHT算法都是用于方形的图像，比如256*256.现在想用在矩形的图像，比如96*160.想把程序改改，不知道这可不可行。谢谢各位了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.224.161.*]
+ 
+【文章标题】：达人进~语音识别，检索后音乐下载相关咨询~ 【文章地址】：https://bbs.byr.cn/article/ML_DM/7080 【创建时间】：2010-07-23 【作者】：qwb 【评论】：3 【内容】：发信人: qwb (奇怪), 信区: PR_AI
+标  题: 达人进~语音识别，检索后音乐下载相关咨询~
+发信站: 北邮人论坛 (Fri Jul 23 10:03:07 2010), 站内
+
+"哼唱"技术，通过人哼一段旋律，搜索到关联音乐，然后下载的。
+咱们北邮有哪些个实验室在做这个且有些规模，有成果的~
+PS：老板有需求啊，让我调查一下，寻求合作~（很大的老板）
+--
+<marquee width="100%" behavior="alternate" scrollamount="3">[color=pink]水晶橙[/color]</marquee>
+<marquee width="100%" behavior="alternate" scrollamount="3">[color=blue]水晶蓝[/color]</marquee>
+<marquee width="100%" behavior="alternate" scrollamount="3">[color=red]水晶红[/color]</marquee>
+<marquee width="100%" behavior="alternate" scrollamount="3">[color=black]水晶黑[/color]</marquee>
+<marquee width="100%" behavior="alternate" scrollamount="3">[color=green]水晶绿[/color]</marquee>
+<marquee width="100%" behavior="alternate" scrollamount="3">[color=yellow]都是我小号！~！[/color]</marquee>
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.214.*]
+ 
+【文章标题】：微软商务软件部PM职位内推（非实习） 【文章地址】：https://bbs.byr.cn/article/ML_DM/7068 【创建时间】：2010-07-22 【作者】：allen0308 【评论】：10 【内容】：发信人: allen0308 (九河下梢||明光村小村长), 信区: PR_AI
+标  题: 微软商务软件部PM职位内推（非实习）
+发信站: 北邮人论坛 (Thu Jul 22 10:15:05 2010), 站内
+
+内推的是微软拼音组，隶属于商务软件部的Office部门，现阶段主要负责Win8 Pinyin的工作
+
+商务软件部是微软亚太研发集团最大的现金牛，具体业务介绍见：
+http://www.microsoft.com/china/CRD/groups06.mspx
+
+希望你：
+1.已经毕业或即将毕业（不包括明年3月毕业的），能在短期内入职
+2.有自然语言处理相关背景
+3.有比较扎实的技术基础
+4.硕士或博士学位
+
+简历请发到
+bupt.sunhao@gmail.com
+
+希望你能附一封cover letter
+这边会在作出筛选之后尽快安排面试
+--
+※ 修改:·allen0308 于 Jul 22 10:38:31 2010 修改本文·[FROM: 207.46.92.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 207.46.92.*]
+ 

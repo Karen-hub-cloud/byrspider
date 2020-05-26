@@ -572,3 +572,51 @@ function playMedia(fileUrl)
 ※ 修改:·icecode 于 Mar 17 11:05:55 2010 修改本文·[FROM: 59.64.253.*]
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.253.*]
  
+【文章标题】：【恭喜开版】移动互联网版发来贺电 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/326 【创建时间】：2010-03-25 【作者】：raintemple 【评论】：1 【内容】：发信人: raintemple (九河下梢之清炖鲫鱼), 信区: MobileTerminalAT
+标  题: 【恭喜开版】移动互联网版发来贺电
+发信站: 北邮人论坛 (Thu Mar 25 17:34:36 2010), 站内
+
+有点晚了抱歉哈……
+
+多多交流，祝共同进步！
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 123.117.163.*]
+ 
+【文章标题】：ios学习资料，不错的一个网站raywenderlich，推荐初学者 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/20332 【创建时间】：2015-02-26 【作者】：toulaoshi 【评论】：0 【内容】：发信人: toulaoshi (头老师), 信区: MobileTerminalAT
+标  题: ios学习资料，不错的一个网站raywenderlich，推荐初学者
+发信站: 北邮人论坛 (Thu Feb 26 10:42:35 2015), 站内
+
+http://www.raywenderlich.com/video-tutorials
+其实这是一个广告贴，我在这里订阅视频教程，每月90多，有也想看的同学可以私信我，咱们分担费用，共享账号。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.35.*]
+ 
+【文章标题】：疑惑 android 和 ophone 技术是不是重复了啊。 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/82 【创建时间】：2010-03-14 【作者】：blove 【评论】：10 【内容】：发信人: blove (大雨), 信区: MobileTerminalAT
+标  题: 疑惑 android 和 ophone 技术是不是重复了啊。
+发信站: 北邮人论坛 (Sun Mar 14 11:34:34 2010), 站内
+
+国内刻意回避ophone和android的区别，实际上技术没啥区别啊。无非是个人定制而已。ophone只不过改了改android原来的ui而已。
+--
+我爱大妮er
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9901:28fd:35:f6ac:*]
+ 
+【文章标题】：智能终端开发技术就是指Android平台？ 【文章地址】：https://bbs.byr.cn/article/MobileTerminalAT/615 【创建时间】：2010-05-07 【作者】：Just88 【评论】：2 【内容】：发信人: Just88 (小笨), 信区: MobileTerminalAT
+标  题: 智能终端开发技术就是指Android平台？
+发信站: 北邮人论坛 (Fri May  7 22:18:51 2010), 站内
+
+为什么整个版面都是关于Android的问题和讨论？
+只是不解。。。。
+求指点
+--
+
+
+我不想想不想想的东西。。。
+   
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.253.*]
+ 

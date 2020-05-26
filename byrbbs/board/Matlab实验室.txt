@@ -4036,3 +4036,100 @@ txt文档中内容是纯数据的，而且有两列多行，请问怎么实现�
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.65.203.*]
  
+【文章标题】：【求助】两维向量的叉乘怎么算？ 【文章地址】：https://bbs.byr.cn/article/Matlab/2990 【创建时间】：2008-03-24 【作者】：zxpzxp 【评论】：2 【内容】：发信人: zxpzxp (zxpzxp), 信区: Matlab
+标  题: 【求助】两维向量的叉乘怎么算？
+发信站: 北邮人论坛 (Mon Mar 24 16:38:48 2008), 站内
+
+<img src="/img/ubb/em/1.gif" alt="em1" style="display:inline;border-style:none">
+--
+
+※ 修改:·physics 于 Mar 25 13:00:52 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.227.*]
+ 
+【文章标题】：【转载】【共享】S.J.Chapman《MATLAB编程》中文版 1 【文章地址】：https://bbs.byr.cn/article/Matlab/2994 【创建时间】：2008-03-25 【作者】：police 【评论】：0 【内容】：发信人: police (我其实想换个名。。。。), 信区: Matlab
+标  题: 【转载】【共享】S.J.Chapman《MATLAB编程》中文版 1
+发信站: 北邮人论坛 (Tue Mar 25 22:30:13 2008), 站内
+
+【 以下文字转载自 MathModel 讨论区 】
+发信人: gxy837 (烧鱼仔), 信区: MathModel
+标  题: S.J.Chapman《MATLAB编程》中文版，很不错的
+发信站: 北邮人论坛 (Mon Mar 24 10:02:27 2008), 站内
+
+ilovematlab翻译的，我看了一下很不错，共享一下。。。
+<a href="/att/Matlab/0/2994/909" target="_blank" color="blue">附件(2.1MB)  1.rar</a>
+<a href="/att/Matlab/0/2994/2169930" target="_blank" color="blue">附件(1.7MB)  2.rar</a>
+--
+新学期，新起点，领王充电台灯伴你学习天天向上！
+领王充电台灯以其优越的续电能力，便宜的价格，保障的售后服务取得了同学们的欢迎，谢谢大家的支持和关注！
+领王充电台灯38元一台，坚持不涨价，主贴地址：<a target="_blank" href="http://forum.byr.edu.cn/wForum/disparticle.php?boardName=Ad_Agent&amp;ID=203499&amp;pos=5">http://forum.byr.edu.cn/wForum/disparticle.php?boardName=Ad_Agent&amp;ID=203499&amp;pos=5</a>
+有意者发短信到13810487543，谭同学
+
+※ 修改:·physics 于 Mar 25 22:59:18 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.152.*]
+ 
+【文章标题】：【求助】求助一个关于循环的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/1220 【创建时间】：2007-06-05 【作者】：xiaoxiao1025 【评论】：3 【内容】：发信人: xiaoxiao1025 (fly2005), 信区: Matlab
+标  题: 【求助】求助一个关于循环的问题
+发信站: 北邮人论坛 (Tue Jun  5 16:26:16 2007), 站内
+
+现在想实现这样一个循环，对于矩阵D（64*64），一次提取其每一列与其余各列作运算，只要结果满足某要求（比如小于某值），就求这两列的平均值并取代原列，新求出的这列还要继续与其他所有列进行运算，只要满足条件就执行上面的操作，我不知道怎样让他循环进行这样的运算。
+for n=1:1:63
+    ......
+    for m=(n+1):1:64
+      ......
+       if x&lt;80
+          ADDB=(DDB+DDD)/2;        就是在这里满足条件时，求两矩阵的均值，然后还要
+      end                                     让新的矩阵循环进行上面的操作，但是不知道如何循
+   end                                        环
+end
+
+--
+
+※ 修改:·physics 于 Jan  9 01:26:30 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 222.199.249.*]
+ 
+【文章标题】：【求助】怎样计算DPSK系统的误码率啊？ 【文章地址】：https://bbs.byr.cn/article/Matlab/3013 【创建时间】：2008-03-26 【作者】：lavenderdudu 【评论】：0 【内容】：发信人: lavenderdudu (嘟嘟), 信区: Matlab
+标  题: 【求助】怎样计算DPSK系统的误码率啊？
+发信站: 北邮人论坛 (Wed Mar 26 20:23:22 2008), 站内
+
+于平衡接收DPSK 系统，怎么求误码率啊 请教<img src="/img/ubb/em/17.gif" alt="em17" style="display:inline;border-style:none">
+--
+拉拉啦啦拉拉～嘟嘟嘟。。。
+
+※ 修改:·physics 于 Mar 26 22:50:25 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.137.*]
+ 
+【文章标题】：【求助】如何把 整数型 转化为 char型 【文章地址】：https://bbs.byr.cn/article/Matlab/1145 【创建时间】：2007-05-31 【作者】：yihang03 【评论】：1 【内容】：发信人: yihang03 ( 一航), 信区: Matlab
+标  题: 【求助】如何把 整数型 转化为 char型
+发信站: 北邮人论坛 (Thu May 31 16:03:21 2007), 站内
+
+比如整数 2 转为 字符型 '2'
+Many thanks 
+--
+我用一丝芦苇的方式思考，这么年轻就开始怀旧，相信月亮在我身上遗留了死不宁息的眼。我没有来自山那头的空灵之声，没有飘零鹅羽的优雅，于是我选择酷到骨子里，沉淀着一种力量。
+<span style="text-shadow:0px 0px 1px yellow"><a target="_blank" href="http://wpa.qq.com/msgrd?V=1&amp;Uin=275061699Site=forum.byr.edu.cn&amp;Menu=yes">
+QQ联系我</a></span>              <span style="text-shadow:0px 0px 4px red"><a target="_blank" href="http://forum.byr.edu.cn/wForum/board.php?name=Henan">豫韵悠悠</a></span>
+       
+
+
+※ 修改:·physics 于 Jan  9 01:29:50 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.210.*]
+ 
+【文章标题】：【求助】关于设置未知数解方程的问题 【文章地址】：https://bbs.byr.cn/article/Matlab/1063 【创建时间】：2007-05-28 【作者】：ciii 【评论】：2 【内容】：发信人: ciii (赛~~), 信区: Matlab
+标  题: 【求助】关于设置未知数解方程的问题
+发信站: 北邮人论坛 (Mon May 28 21:15:28 2007), 站内
+
+我想设一批未知数
+F=[a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t]
+然后使得F(0)=a,F(1)=b......这样的
+
+
+但是用以下语句不行：
+sym F=[a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t]
+F(0)
+
+运行错误。该怎么改？
+--
+
+※ 修改:·physics 于 Jan  9 01:34:12 修改本文·[FROM: 59.64.213.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.197.*]
+ 

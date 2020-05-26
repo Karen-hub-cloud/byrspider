@@ -5,7 +5,8 @@ from elasticsearch_dsl import Document, Date, Completion, Keyword, Text, Integer
 
 from elasticsearch_dsl.analysis import CustomAnalyzer
 # 使用ik分词
-ik_analyzer = CustomAnalyzer("ik_max_word", filter=["lowercase"])
+# ik_analyzer = CustomAnalyzer("ik_max_word")
+
 
 from elasticsearch_dsl.connections import connections
 # 本地服务器
@@ -30,10 +31,11 @@ class bbsType(Document):
     send_time = Date()  # 日期
     sender = Keyword()  # 作者
     reply_count = Integer()  # 评论个数
-    content = Text(analyzer="ik_max_word")  # 内容
     latest_reply_time = Date()
+    content = Text(analyzer="ik_max_word")  # 内容
+    comments = Text(analyzer="ik_smart")  # 评论
 
-    suggest = Completion(analyzer=ik_analyzer)  # 搜索建议
+    suggest = Completion(analyzer="ik_smart")  # 搜索建议
 
 
     def __init__(self,item):
@@ -77,7 +79,7 @@ class bbsType(Document):
         for text, weight in info_tuple:
             if text:
                 # 字符串不为空时，调用elasticsearch的analyze接口分析字符串（分词、大小写转换）
-                words = es.indices.analyze(body={'text': text, 'analyzer': "ik_max_word"},params={'filter':["lowercase"]})
+                words = es.indices.analyze(body={'text': text, 'analyzer': "ik_max_word"})
                 print("words",words)
                 # anylyzed_words = set([r["token"] for r in words["tokens"] if len(r["token"]) > 1])
                 analyzed_words = []
