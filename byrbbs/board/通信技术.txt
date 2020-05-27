@@ -18792,3 +18792,2748 @@ Default Gateway . . . . . . . . . : 10.14.140.23
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.179.*]
  
+【文章标题】：NAT服务器会不会影响上网的速度？ 【文章地址】：https://bbs.byr.cn/article/Communications/1044 【创建时间】：2005-12-07 【作者】：lookformdg 【评论】：1 【内容】：发信人: lookformdg (临风), 信区: Communications
+标  题: NAT服务器会不会影响上网的速度？
+发信站: BBS 北邮人论坛站 (Wed Dec  7 11:20:28 2005), 站内
+
+架设了NAT服务器，如果内网的数据流量很大，会不会对网速影响很大？
+哪位牛人给指点一下
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.184.*]
+ 
+【文章标题】：test 【文章地址】：https://bbs.byr.cn/article/Communications/1056 【创建时间】：2005-12-12 【作者】：cher 【评论】：0 【内容】：发信人: cher (车车), 信区: Communications
+标  题: test
+发信站: 北邮人论坛 (Mon Dec 12 10:32:09 2005), 站内
+
+this is a test
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：请教关于MAC层协议和MAC信道的区别 【文章地址】：https://bbs.byr.cn/article/Communications/1043 【创建时间】：2005-12-07 【作者】：bronzesmith 【评论】：1 【内容】：发信人: bronzesmith (铜), 信区: Communications
+标  题: 请教关于MAC层协议和MAC信道的区别
+发信站: BBS 北邮人论坛站 (Wed Dec  7 10:33:40 2005), 站内
+
+大家好： 
+    无线链路空中接口的协议栈中，经常在物理层之上是MAC层，该层的功能比较复杂，对比互联网中的MAC协议，如CSMA/CD等，这两种协议完成的功能似乎是有比较大的区别。不知该如何区分和理解？ 
+     另，空中接口的物理信道中，会有MAC信道，如cdma 1x EV-DO中前向和反向都有MAC信道，则MAC协议和MAC信道该怎么理解和区分？
+     请各位不吝赐教，谢谢1
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.148.*]
+ 
+【文章标题】：Re: 请问用EtherPeek抓的包为什么后4个字节，就是FCS字节都是0� 【文章地址】：https://bbs.byr.cn/article/Communications/1036 【创建时间】：2005-12-03 【作者】：freebeme 【评论】：2 【内容】：发信人: freebeme (freebeme), 信区: Communications
+标  题: Re: 请问用EtherPeek抓的包为什么后4个字节，就是FCS字节都是0？谢?
+发信站: BBS 北邮人论坛站 (Sat Dec  3 18:54:19 2005), 站内
+
+FCS是0是对的吧。
+1表示有错误。。。
+--
+寻找cisco技术热爱者,和正在考CCIE security的朋友.
+我的网站是<a target="_blank" href="http://www.ccied.com">http://www.ccied.com</a> ,欢迎交流.呵呵.
+CCIE#148**
+疯狂热线:13371726075
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.202.220.*]
+ 
+【文章标题】：本版诚征版主若干名 【文章地址】：https://bbs.byr.cn/article/Communications/1051 【创建时间】：2005-12-08 【作者】：xivn 【评论】：3 【内容】：发信人: xivn (论坛首席恶人), 信区: Communications
+标  题: 本版诚征版主若干名
+发信站: 北邮人论坛 (Thu Dec  8 21:18:43 2005), 站内
+
+
+条件要求：
+1.愿意为大家服务；
+2.在线时间较长，愿意为大家解决问题；
+3.整理版务，有热情。
+有意者请到版主申请版面按照流程申请。
+北邮人论坛管理组期待您的加入！
+
+--
+⿴  ⿻ 为 ⿴⿴ 庸 ⿴  ⿴
+
+
+※ 修改:·xivn 于 Dec  8 21:19:01 修改本文·[FROM: 59.64.226.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.226.*]
+ 
+【文章标题】：[求助]请教一个wimax的问题，有知道的麻烦帮忙解答一下，谢谢！ 【文章地址】：https://bbs.byr.cn/article/Communications/1064 【创建时间】：2005-12-12 【作者】：comeonwww 【评论】：1 【内容】：发信人: comeonwww (comeonwww), 信区: Communications
+标  题: [求助]请教一个wimax的问题，有知道的麻烦帮忙解答一下，谢谢！
+发信站: 北邮人论坛 (Mon Dec 12 22:01:07 2005), 站内
+
+我最近在看wimax的协议，有一个关于ARQ的疑问： 
+
+在802.16的TDD模式中，一个frame前半部分是DL，后半部分是UL，如果在DL中，BS向某个SS发送了数据，那么这个SS是不是只能在UL中才能回复ACK？ 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.112.157.*]
+ 
+【文章标题】：请问 周炯磐 院士的一本书 《通信网原理基础》 【文章地址】：https://bbs.byr.cn/article/Communications/1025 【创建时间】：2005-11-30 【作者】：luluhong 【评论】：2 【内容】：发信人: luluhong (阿宏), 信区: Communications
+标  题: 请问 周炯磐 院士的一本书 《通信网原理基础》
+发信站: BBS 北邮人论坛站 (Wed Nov 30 00:03:54 2005), 站内
+
+请问这本书出新版了吗？我看的这本是91年的那版。那位达人知道请告诉我一下，谢谢～ 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.208.*]
+ 
+【文章标题】：Cisco 1721,非IP+版本,如何配置PPPOE,版本不支持VPDN命令 【文章地址】：https://bbs.byr.cn/article/Communications/1041 【创建时间】：2005-12-05 【作者】：lovesky 【评论】：0 【内容】：发信人: lovesky (爱的冬天已远去), 信区: Communications
+标  题: Cisco 1721,非IP+版本,如何配置PPPOE,版本不支持VPDN命令
+发信站: BBS 北邮人论坛站 (Mon Dec  5 20:41:11 2005), 站内
+
+rt
+该版本命令行模式dailer接口不支持VPDN命令.
+但是目前接入方式为 ADSL包月2M方式
+
+请高人指教,谢谢了
+--
+得到的往往不珍惜
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.217.164.*]
+ 
+【文章标题】：[讨论]这个有人在做吗?很想了解详情. 【文章地址】：https://bbs.byr.cn/article/Communications/1042 【创建时间】：2005-12-06 【作者】：mengyuan 【评论】：0 【内容】：发信人: mengyuan (宇华梦缘), 信区: Communications
+标  题: [讨论]这个有人在做吗?很想了解详情.
+发信站: BBS 北邮人论坛站 (Tue Dec  6 08:08:04 2005), 站内
+
+BY1BY  北京邮电大学业余电台  
+
+<a target="_blank" href="http://www.qsl.net/by1by/">http://www.qsl.net/by1by/</a><img src="/img/ubb/em/22.gif" alt="em22" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.219.*]
+ 
+【文章标题】：急问，谁编过RS编译码的程序啊？ 【文章地址】：https://bbs.byr.cn/article/Communications/889 【创建时间】：2005-10-31 【作者】：jasminexy 【评论】：0 【内容】：发信人: jasminexy (阿心儿), 信区: Communications
+标  题: 急问，谁编过RS编译码的程序啊？
+发信站: BBS 北邮人论坛站 (Mon Oct 31 17:39:55 2005), 站内
+
+
+不是用matlab里面现有的函数，
+
+而是用语句一步步地实现RS coding和decoding算法？
+
+急求啊～～～，非常感谢！
+
+我的qq是76772072，多谢前辈指点哈
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.186.*]
+ 
+【文章标题】：有些题不会求教高人!! 【文章地址】：https://bbs.byr.cn/article/Communications/1063 【创建时间】：2005-12-12 【作者】：hpc 【评论】：1 【内容】：发信人: hpc (hpc), 信区: Communications
+标  题: 有些题不会求教高人!!
+发信站: 北邮人论坛 (Mon Dec 12 18:39:08 2005), 站内
+
+1.    两个交换机采用中国一号信令传递信令，当局间中继采用PCM30/32系统时，记发器信令和线路信令分别在什么时隙TS上传送？
+线路信令所占用的时隙可以传递多少话路的线路信令？
+
+2.    两个交换机采用中国七号信令传递信令，假设：它们之间的NO.7信令链路正常负荷为0.2Erl/link、呼叫平均占用时长90秒、每中继话路的平均话务负荷为取0.7Erl/ch、一次呼叫单向平均MSU数量为4 MSU/call、平均MSU的长度为150b/MSU。在不考虑其他条件下，问一条64kb/s的七号信令链路能够负担多少条话路的信令？
+这个64kb/s的信令通道是否必须使用TS16时隙？
+3    TUP消息中哪个字段表示信令消息与通话电路的关系？
+4    主叫用户、被叫用户分别位于两个电话局，局间信令采用TUP，试画出呼叫建立的信令消息流图，考虑被叫空闲和被叫忙两种情况。
+5    SCCP的基本功能有哪些？并写出SCCP提供的几类业务。
+6    TCAP为其用户提供了分布式的环境，用户通过它完成远端操作，这些操作按类别分可以分为4类，分别是哪些？
+<img src="/img/ubb/em/18.gif" alt="em18" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.227.*]
+ 
+【文章标题】：RF是什么意思？ 【文章地址】：https://bbs.byr.cn/article/Communications/965 【创建时间】：2005-11-16 【作者】：landscape 【评论】：9 【内容】：发信人: landscape (it counts and the foul), 信区: Communications
+标  题: RF是什么意思？
+发信站: BBS 北邮人论坛站 (Wed Nov 16 22:23:53 2005), 站内
+
+RT
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.236.*]
+ 
+【文章标题】：Re: 咱们学校的地址是什么？c类吗？但是宿舍的是59.64.*.*，是� 【文章地址】：https://bbs.byr.cn/article/Communications/579 【创建时间】：2005-12-08 【作者】：原帖已删除 【评论】：17 【内容】：发信人: supertcy (像个孩子), 信区: Communications
+标  题: Re: 咱们学校的地址是什么？c类吗？但是宿舍的是59.64.*.*，是怎么�
+发信站: BBS 北邮人论坛站 (Tue Oct  4 12:24:57 2005), 站内
+
+
+【 在 isolator 的大作中提到: 】
+: 咱们学校肯定不是真实的A类地址，应该是c类ip吧服务器都是202.204.*.*  
+: 为什么宿舍都是59.64.*.*呢？这不是A类么？怎么实现的呢？ 
+什么服务器？跟服务器有关系？
+--
+好好学习，天天上网~！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.233.*]
+ 
+【文章标题】：我有个奇怪的东西，希望高手指点 【文章地址】：https://bbs.byr.cn/article/Communications/779 【创建时间】：2005-10-24 【作者】：llyan988 【评论】：4 【内容】：发信人: llyan988 (lily), 信区: Communications
+标  题: 我有个奇怪的东西，希望高手指点
+发信站: BBS 北邮人论坛站 (Mon Oct 24 23:27:27 2005), 站内
+
+
+<a target="_blank" href="/att/Communications/0/779/288"><img border="0" title="" src="/att/Communications/0/779/288" alt="" class="resizeable"></a>[upload=2]
+
+请问这些是干什么用的？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.226.*]
+
+
+<a target="_blank" href="/att/Communications/0/779/1681267"><img border="0" title="" src="/att/Communications/0/779/1681267" alt="" class="resizeable"></a> 
+【文章标题】：关于send MMS 【文章地址】：https://bbs.byr.cn/article/Communications/489 【创建时间】：2005-09-12 【作者】：timefly 【评论】：0 【内容】：发信人: timefly (北邮人), 信区: Communications
+标  题: 关于send MMS
+发信站: BBS 北邮人论坛站 (Mon Sep 12 09:58:18 2005), 站内
+
+我们的任务是通过一个无线modem拨号上网，向彩信中心通过http发彩信（MM1吧？）；
+1.下载了一个nokia的mmslib，向他的模拟器发送可以成功。
+2.在实际中，中国移动的设置如下(一般手机上都已经设好的)：
+CMCC setting: 
+APN: cmwap 
+MMS server: <a target="_blank" href="http://mmsc.monternet.com:9201">http://mmsc.monternet.com:9201</a>
+WAP GW IP address: 10.0.0.172 
+User name: not required 
+Pwd: not required 
+
+在modem上AT+CGDCONT=1,"IP","CMWAP"
+
+改动程序，把发送地址改成了<a target="_blank" href="http://mmsc.monternet.com:9201">http://mmsc.monternet.com:9201</a>， 
+(wap gateway怎么设置??)发送失败，提示 :
+http主机解析错误(java.net.UnknownHostException: mmsc.monternet.com)或者 time out ；
+
+3.但是发送到这里mmsc.simpleteam.com，
+返回
+Message sent to <a target="_blank" href="http://mmsc.simpleteam.com:8080">http://mmsc.simpleteam.com:8080</a>
+Response code: 200 OK
+CONTENT-TYPE: text/html
+CONTENT-LENGTH: 2840
+CACHE-CONTROL: private
+SERVER: Resin/2.1.16
+看起来是成功啦。。
+
+4.我得modem拨号获得的ip:
+PPP adapter GPRS:
+Connection-specific DNS Suffix . : 
+IP Address. . . . . . . . . . . . : 10.14.140.23
+Subnet Mask . .我们的任务是通过一个无线modem拨号上网，向彩信中心通过http发彩信（MM1吧？）；
+1.下载了一个nokia的mmslib，向他的模拟器发送可以成功。
+2.在实际中，中国移动的设置如下(一般手机上都已经设好的)：
+CMCC setting: 
+APN: cmwap 
+MMS server: <a target="_blank" href="http://mmsc.monternet.com:9201">http://mmsc.monternet.com:9201</a>
+WAP GW IP address: 10.0.0.172 
+User name: not required 
+Pwd: not required 
+
+在modem上AT+CGDCONT=1,"IP","CMWAP"
+
+改动程序，把发送地址改成了<a target="_blank" href="http://mmsc.monternet.com:9201">http://mmsc.monternet.com:9201</a>， 
+(wap gateway怎么设置??)发送失败，提示 :
+http主机解析错误(java.net.UnknownHostException: mmsc.monternet.com)或者 time out ；
+
+3.但是发送到这里mmsc.simpleteam.com，
+返回
+Message sent to <a target="_blank" href="http://mmsc.simpleteam.com:8080">http://mmsc.simpleteam.com:8080</a>
+Response code: 200 OK
+CONTENT-TYPE: text/html
+CONTENT-LENGTH: 2840
+CACHE-CONTROL: private
+SERVER: Resin/2.1.16
+看起来是成功啦。。
+
+4.我得modem拨号获得的ip:
+PPP adapter GPRS:
+Connection-specific DNS Suffix . : 
+IP Address. . . . . . . . . . . . : 10.14.140.23
+Subnet Mask . . . . . . . . . . . : 255.255.255.255
+Default Gateway . . . . . . . . . : 10.14.140.23
+
+是不是因为wap网关没有设置呀，那个网关10.0.0.172应该怎么在modem中设置呀？
+
+还是有其他的原因？CMWAP上只能使用wap不能HTTP吗(弱弱的问， 个人对wap一知半解)?
+
+谢谢您的浏览，亟盼你的答复。
+ . . . . . . . . . : 255.255.255.255
+Default Gateway . . . . . . . . . : 10.14.140.23
+
+是不是因为wap网关没有设置呀，那个网关10.0.0.172应该怎么在modem中设置呀？
+
+还是有其他的原因？CMWAP上只能使用wap不能HTTP吗(弱弱的问， 个人对wap一知半解)?
+
+
+ 据说 MMS没必要走WAP网关(10.0.0.172)?。
+访问中国移动的主机还要通过一个代理系统?
+
+谢谢您的浏览，亟盼你的答复。
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.179.*]
+ 
+【文章标题】：Re: t 【文章地址】：https://bbs.byr.cn/article/Communications/497 【创建时间】：2005-09-13 【作者】：MaxPayne 【评论】：0 【内容】：发信人: MaxPayne (北邮人), 信区: Communications
+标  题: Re: t
+发信站: BBS 北邮人论坛站 (Tue Sep 13 03:36:06 2005), 站内
+
+
+
+[mp=500,350]<a target="_blank" href="http://antliad.mofile.com/6946922121428791/0921360244458908/99/47074D34783417F4711B257DA2BD648E/rome_title.wmv%5B/mp%5D">http://antliad.mofile.com/6946922121428791/0921360244458908/99/47074D34783417F4711B257DA2BD648E/rome_title.wmv[/mp]</a>
+
+--
+patres
+Maximus
+Three weeks from now.
+I will be harvesting my crops.
+Imagine where you will be,and it will be so.
+Hold the line!
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.193.*]
+ 
+【文章标题】：从现在看，NGN的需求有那么大嘛？ 【文章地址】：https://bbs.byr.cn/article/Communications/857 【创建时间】：2005-10-26 【作者】：AWK 【评论】：11 【内容】：发信人: AWK (awk), 信区: Communications
+标  题: 从现在看，NGN的需求有那么大嘛？
+发信站: 北邮人论坛 (Wed Oct 26 14:13:53 2005), 站内
+
+
+好像不少导师的方向跟NGN 相关
+
+
+--
+有志者,事竟成,破釜沉舟,百二秦关终属楚.
+苦心人,天不负,卧薪尝胆,三千越甲可吞吴。
+
+他强任他强，清风拂山冈；
+他横由他横，明月照大江。
+
+
+※ 修改:·AWK 于 Oct 26 14:14:02 修改本文·[FROM: 59.64.237.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.237.*]
+ 
+【文章标题】：有C和C++的爱好者吗？有实习的机会！ 【文章地址】：https://bbs.byr.cn/article/Communications/896 【创建时间】：2005-11-02 【作者】：Aone 【评论】：0 【内容】：发信人: Aone (小贼), 信区: Communications
+标  题: 有C和C++的爱好者吗？有实习的机会！
+发信站: BBS 北邮人论坛站 (Wed Nov  2 17:00:55 2005), 站内
+
+咱们北邮的师兄创办的公司，有个新成立的部门，专门做手机软件和游戏的开发，用的好像是C语言，就在北邮南门办公，现在员工几乎都是北邮的，年底可能会成立一家新公司，想学习和兼职的同学可以给他们发邮件，forbrewteam@126.com。有机会成为创业伙伴哦！
+
+纯粹是临时替师兄发信息，希望没打扰大家。
+
+<a href="/att/Communications/0/896/564" target="_blank" color="blue">附件(30KB)  </a>
+<img src="/img/ubb/em/66.gif" alt="em66" style="display:inline;border-style:none"><img src="/img/ubb/em/66.gif" alt="em66" style="display:inline;border-style:none"><img src="/img/ubb/em/66.gif" alt="em66" style="display:inline;border-style:none"><img src="/img/ubb/em/66.gif" alt="em66" style="display:inline;border-style:none"><img src="/img/ubb/em/66.gif" alt="em66" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 211.94.36.*]
+
+ 
+【文章标题】：【有对OCL比较了解的同学吗，想请教一些问题】 【文章地址】：https://bbs.byr.cn/article/Communications/498 【创建时间】：2005-09-13 【作者】：jinsonly 【评论】：0 【内容】：发信人: jinsonly (天涯一方人), 信区: Communications
+标  题: 【有对OCL比较了解的同学吗，想请教一些问题】
+发信站: BBS 北邮人论坛站 (Tue Sep 13 10:54:56 2005), 站内
+
+RT
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.159.*]
+ 
+【文章标题】：移动通信中的spread和despread是扩频和解扩的意思吗？ 【文章地址】：https://bbs.byr.cn/article/Communications/236 【创建时间】：2005-06-27 【作者】：freehello 【评论】：2 【内容】：发信人: freehello (北邮人), 信区: Communications
+标  题: 移动通信中的spread和despread是扩频和解扩的意思吗？
+发信站: BBS 北邮人论坛站 (Mon Jun 27 15:54:17 2005), 站内
+
+RT，3x！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.212.*]
+ 
+【文章标题】：有喜欢EDA技术的同学吗？我们交流一下吧 【文章地址】：https://bbs.byr.cn/article/Communications/458 【创建时间】：2005-09-09 【作者】：stevenchang 【评论】：3 【内容】：发信人: stevenchang (樱木花道), 信区: Communications
+标  题: 有喜欢EDA技术的同学吗？我们交流一下吧
+发信站: BBS 北邮人论坛站 (Fri Sep  9 00:07:13 2005), 站内
+
+我是北邮大三的，一个人学习VHDL感觉很孤单，没有人可以及时的交流，于是建了一个QQ群，希望和大家交流，群号是：14385078
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.209.*]
+ 
+【文章标题】：Re: 请师兄师姐比较一下移动通信领域链路和系统方面的研究，不� 【文章地址】：https://bbs.byr.cn/article/Communications/191 【创建时间】：2005-06-07 【作者】：rnr 【评论】：1 【内容】：发信人: rnr (黄月坡也叫黄肚皮), 信区: Communications
+标  题: Re: 请师兄师姐比较一下移动通信领域链路和系统方面的研究，不知道?
+发信站: BBS 北邮人论坛站 (Tue Jun  7 10:35:38 2005), 站内
+
+不知道哪方面更适合自己
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.228.*]
+ 
+【文章标题】：Matlab高手进 【文章地址】：https://bbs.byr.cn/article/Communications/184 【创建时间】：2005-06-02 【作者】：dage 【评论】：5 【内容】：发信人: dage (会跳舞的猪), 信区: Communications
+标  题: Matlab高手进
+发信站: BBS 北邮人论坛站 (Thu Jun  2 23:27:37 2005), 站内
+
+请问Matlab中哪个函数能把离散的点连起来，或者有哪个函数可以直接画出连续的曲线？
+谢谢！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.197.*]
+ 
+【文章标题】：请问关于级联交织码 【文章地址】：https://bbs.byr.cn/article/Communications/187 【创建时间】：2005-06-04 【作者】：sinorain 【评论】：2 【内容】：发信人: sinorain (sinorain), 信区: Communications
+标  题: 请问关于级联交织码
+发信站: BBS 北邮人论坛站 (Sat Jun  4 18:20:49 2005), 站内
+
+老师给的课设题目是用matlab做级联交织码编、译码的仿真实现。
+
+请问各位大侠级联交织码到底是什么东东？
+
+通原下册有交织码的内容，但是找不到级联交织码，有谁知道吗？
+
+
+
+--
+
+※ 修改:·sinorain 於 Jun  4 18:21:27 2005 修改本文·[FROM: 59.64.194.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.194.*]
+ 
+【文章标题】：网络仿真工具ns-2简介 【文章地址】：https://bbs.byr.cn/article/Communications/53 【创建时间】：2005-04-14 【作者】：gw 【评论】：9 【内容】：发信人: gw (hoho), 信区: Communications
+标  题: 网络仿真工具ns-2简介
+发信站: 北邮人论坛 (Thu Apr 14 19:39:15 2005), 站内
+
+
+Ns（Network Simulator）是一个离散事件仿真器，用于网络研究。Ns提供在有线网络和
+无线网络（本地网络和卫星网络）上对TCP、路由和组播协议的具体支持。Ns-2是ns的第
+2版（Network Simulator Version 2），目前的版本是于2005年2月发布的ns-2.28。
+
+Ns最开始是1989年REAL网络仿真器的变种，在过去的几年中得到充分的发展。1995年，
+ns的开发由DARPA(美国国防部高级研究计划署)通过VINT项目支持，该项目由劳伦斯伯克
+利国家实验室（LBL），施乐公司帕洛阿尔托研究中心（Xerox PARC，很强的研究中心，
+局域网协议IEEE802.3的发明者），加州大学伯克利分校（UCB），和南加州大学信息科学
+学院（USC/ISI）承担。现在，ns的开发由DARPA的SAMAN项目和NSF（美国国家科学基金会
+）的CONSER项目支持，也得到了其他研究人员的合作。
+
+Ns是源代码开放的免费软件。虽然开发者对ns有足够的信心，然而ns并非完美无暇的产
+品，而是研究和开发工作不断努力的结果。软件中的错误一直不断地被发现和改正。用户
+要自己负责证实仿真不会被bug破坏。同样，用户也要自己负责证实他们用来做仿真的ns
+模型就是他们所期望的模型。
+
+http://www.isi.edu/nsnam/ns/
+
+good luck
+
+
+--
+
+※ 修改:·gw 于 Apr 14 20:00:54 修改本文·[FROM: 59.64.159.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.159.*]
+ 
+【文章标题】：真希望北邮的通信技术板块能够成为中国通信领域的一个网上技术� 【文章地址】：https://bbs.byr.cn/article/Communications/286 【创建时间】：2005-07-14 【作者】：maqiutian 【评论】：0 【内容】：发信人: maqiutian (mc), 信区: Communications
+标  题: 真希望北邮的通信技术板块能够成为中国通信领域的一个网上技术交流中心
+发信站: BBS 北邮人论坛站 (Thu Jul 14 16:48:23 2005), 站内
+
+这其中需要出去了的北邮人也尝试以此为基地谈论问题,久之必然会成为大牛们高谈阔论之地啊,我们也就享福了,呵呵
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.235.219.*]
+ 
+【文章标题】：国际互联网协会(ISOC)简介 【文章地址】：https://bbs.byr.cn/article/Communications/25 【创建时间】：2005-04-09 【作者】：gw 【评论】：0 【内容】：发信人: gw (hoho), 信区: Communications
+标  题: 国际互联网协会(ISOC)简介
+发信站: 北邮人论坛 (Sat Apr  9 12:00:32 2005), 站内
+
+http://www.isc.org.cn/20020417/ca286840.htm
+
+http://www.isoc.org/
+
+
+国际互联网协会(ISOC)简介
+ 
+(2005-03-07 10:09:59)
+ 
+国际互联网协会（Internet Society,简称ISOC）正式成立于1992年1月。提出成立ISOC的构想最早源于1991年6月在丹麦首都哥本哈根举行的国际网络会议上。创立者希望通过成立一个全球性的互联网组织，使其能够在推动互联网全球化，加快网络互连技术、应用软件发展，提高互联网普及率等方面发挥重要的作用。 
+
+ISOC作为一个非政府、非赢利的行业性国际组织，迄今已拥有来自全世界各地的100多个组织成员和20,000名个人成员。它同时还负责互联网工程任务组（IETF），互联网结构委员会（IAB）等组织的组织与协调工作。 
+
+ISOC的日常运作主要由以下的部门及人员来实现：国际理事会、国际网络会议与网络培训部、地区与当地分会、各个标准与行政团体、委员会、志愿人员。其中理事会（the Board of Trustees）是ISOC的主管部门，主要负责ISOC全球范围内的各项事务。下设主席（目前由Fred Baker担任）及理事。这些理事均是由全球各地区挑选出的互联网杰出精英，其中一些人士曾在创立和推动互联网及网络技术的过程中做出卓越的贡献。主席/CEO为Lynn St. Amour。秘书处工作主要由秘书长负责，现任秘书长是Scott Bradner。 
+
+ISOC总部及秘书处设在美国弗吉尼亚州莱斯顿地区（Reston），该地区位于美国首都华盛顿西部约50公里处，东部紧邻杜勒斯国际机场（Dulles International Airport）约8公里。
+
+ISOC成立的宗旨是为全球互联网的发展创造有益、开放的条件，并就互联网技术制定相应的标准、发布信息、进行培训等。除此以外，ISOC还积极致力于社会、经济、政治、道德、立法等能够影响互联网发展方向的工作。其工作职能主要包括以下几方面： 
+
+一、推动“互联网”的法律保护 
+
+ISOC认为“互联网”是一个普通的、没有限制的词汇，为了保护这一术语，ISOC规定，任何组织或个人都不得对其进行注册，否则，他们将采取法律措施。 
+
+二、推动互联网企业自律 
+
+积极参加众多技术领域的发展工作，如全球电子商务、加密技术、审查制度、隐私权等。 
+
+三、推动互联网标准制定 
+
+支持互联网标准与协议组织的工作是ISOC工作中重要的一部分。 
+
+ISOC作为IETF（互联网工程任务组）、IAB（互联网结构委员会）、IESG（互联网工程指导小组）、IRTF（互联网研究任务组）等互联网标准制定与研究机构的支持组织，在该领域的活动非常广泛。 
+
+四、推动公共政策研究 
+
+ISOC理事会近日确定了公共政策领域内重点研究的几项议题，考虑到各个地区和国家的观点差异较大， ISOC对于每个问题的形成与发展的看法都需要进行详细分析和讨论后确定。这几项议题包括： 
+
+1、审查制度与自由言论
+
+2、隐私保护问题
+
+3、税收问题
+
+4、互联网管制
+
+5、知识产权
+
+五、组织会议 
+
+ISOC每年主办两次全球性年会：国际网络会议（INET）主要集中讨论在全球范围内如何发展、实施互联网技术、应用软件、相关政策等。 
+
+网络与分布式系统安全年会（NDSS）旨在促进发展全球信息技术安全领域的交流。 
+
+六、教育与培训项目 
+
+1993年在美国洛杉矶召开的INET会议上，ISOC决定成立一系列培训班，帮助全球各国，特别是发展中国家加强互联网接入，并推动互联网在这些国家的发展。通过在NTW的学习，培训者能够了解如何通过网络获取或提供服务，如何做好相应的管理工作，以加强本国网络的持续性发展等。 
+
+ISOC通过举办各种形式的网络培训学习班，对来自全世界各地的专业人员进行网络互连技术设计、运作、维护及管理等方面的培训。迄今为止，已有2500名专业人员在ISOC各种培训班接受了培训。这些毕业生在各自国家的互联网连接及网络建设方面发挥了重要的作用。 
+
+ISOC最初开设的网络培训学习班只使用英语授课。为了扩大学习班在法语地区的影响，ISOC在1996年对部分培训学习班使用法语授课，自1998年，一些培训班已正式开始使用法语授课。另外，培训班还专为西班牙语地区的人们开设了西班牙语课。 
+
+＊每年召开的INET开设了三种不同形式的教育培训班： 
+
+（1）、网络技术学习班——针对网络技术发展较晚的国家展开深入、细致、系统的培训课程。 
+
+（2）、预备会议之教育者网络技术培训班——对全球的教育者进行网络技术的培训。 
+
+（3）、预备会议之互联网辅导班。 
+
+七、ThinkQuest 
+
+ISOC与Advanced Network Services进行合作，担任国际教育考试（ThinkQuest）的评委，这项考试专门提供100万美元资金用于中学生发展创新性的网络基础教育工具。 
+
+八、出版物 
+
+半月刊杂志——《OnTheInternet》，内容涉及技术、以及技术在商业、教育、政府和文化等领域的影响等。 
+
+月度电子新闻杂志——《ISOC论坛》，主要报道与互联网技术有关的各类最新消息。 
+
+更多内容请访问<a target="_blank" href="http://www.isoc.org">http://www.isoc.org</a>
+ 
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.159.*]
+ 
+【文章标题】：[申请]通信技术版Communications申请开通附件功能 (转载) 【文章地址】：https://bbs.byr.cn/article/Communications/30 【创建时间】：2005-04-10 【作者】：gw 【评论】：0 【内容】：发信人: gw (hoho), 信区: Communications
+标  题: [申请]通信技术版Communications申请开通附件功能
+发信站: 北邮人论坛 (Sun Apr 10 17:18:57 2005), 站内
+
+【 以下文字转载自 Board 讨论区 】
+发信人: gw (hoho), 信区: Board
+标  题: [申请]通信技术版Communications申请开通附件功能
+发信站: 北邮人论坛 (Sun Apr 10 17:01:47 2005), 站内
+
+内容: 
+    1. 中文版名： 通信技术
+    2. 英文版名： Communications
+    3. 所在分区： 学术科技
+    4. 版面宗旨： 
+    5. 版主表态： 
+       (1) 版主 ID 1： gw
+           表态：(支持或反对) 支持
+       (2) 版主 ID 2： 无
+           表态：(支持或反对) 
+       (3) 版主 ID 3： 无
+           表态：(支持或反对) 
+    6. 申请理由：(大于30字) 
+       简述该版申请开通附件功能的理由 
+        
+        通信版建立伊始，便得到大家热心支持，现在已有上传附件需求。附件功能是
+        信息交流重要的手段，可以迅速交换大容量和内容更丰富的信息，例如电子书
+        籍，照片，文档等等。为增强版面功能，特提出该申请。
+
+    7. 附件主要类型： 
+       图片/照片/代码/软件/文档 等等 
+ 
+       申请成功后版规里是否清楚表明可以上传的附件内容和类型 是/否 
+        是
+ 
+    8. 附件管理办法： 
+       简述附件管理办法 
+        
+        为保证附件功能的正常使用，特暂规定以下办法：
+        
+        1)通信技术版欢迎内容丰富，有益技术交流的各类附件。
+        2)用户发布的附件视为所发表文章内容的一部分，不得违反本站站规和各版版
+          面规定，本站其他管理办法中涉及文章发表的规定也同样适用于附件管理。
+        3)附件内容应与版面主旨相关，版主和站务有权依照相关站规和版规对所发表
+          的文章及其附件进行修改、删除、收入精华区、文摘区等操作。 
+        4)用户在使用版面附件功能的过程中，不得发布含有违反国家法律法规内容的
+          附件，不得发布含有人身攻击和侮辱性内容的附件，不得发布含有色情内容
+          的附件，不得发布含有非法商业广告内容的附件，不得发布含有其它不适当
+          内容的附件。 
+        5)为节省本站资源，用户不得将过大的音像制品、应用软件、图片文档等文件
+          通过分拆成若干(2个或2个以上)小文件的方式利用附件功能上传到版面。北
+          邮人论坛将提供论坛专用FTP用于大规模文件交流。 
+        6)用户发布的附件内容由发表人负责，附件中含有的运行程序或文档，其运行
+          或开启的安全性由发表人负责。严禁上传病毒附件和不合适内容附件。
+ 
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.159.*]
+ 
+【文章标题】：如何在讨论区版面提问题 【文章地址】：https://bbs.byr.cn/article/Communications/45 【创建时间】：2005-04-14 【作者】：gw 【评论】：0 【内容】：发信人: gw (hoho), 信区: Communications
+标  题: 如何在讨论区版面提问题
+发信站: 北邮人论坛 (Thu Apr 14 10:18:28 2005), 站内
+
+给一点自己的意见，给初次上论坛的朋友以提示。
+
+1.互联网是最好的最渊博的老师，在提问题前，建议使用google,baidu等搜索引擎，
+先努力自己寻求答案。
+
+2.一些基础性的入门性的问题，请浏览一下精华区。或者，使用“？”或者“/”在
+版面内搜索是否已有相关的问题提出（TELNET方式下，WEB方式下很容易找到搜索功
+能）。
+
+3.描述问题要取一个能总括性质和领域的题目。例如“请问”这样仅仅两个字的题目
+就不是个好题目。
+
+4.描述问题要尽量详细。例如“我怎么上不了网”，内容是“rt”就不是很好的问题
+。要描述您的硬件，软件配置。当然，这样的问题不是不可以提，而是很难得到您所
+要的答案。
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.159.*]
+ 
+【文章标题】：请问版主：APOC2005的一些有关情况？？？ 【文章地址】：https://bbs.byr.cn/article/Communications/41 【创建时间】：2005-04-13 【作者】：bogame 【评论】：3 【内容】：发信人: bogame (小农夫), 信区: Communications
+标  题: 请问版主：APOC2005的一些有关情况？？？
+发信站: BBS 北邮人论坛站 (Wed Apr 13 22:03:49 2005), 站内
+
+亚太光通信会议APOC,想知道一下今年的投稿方式，及截止时间等，最好能有较好的链接，刚才想法查搜没有搜到，希望版主能帮忙，同时有哪位兄弟知道也多多指教-------谢过谢过----
+<img src="/img/ubb/em/12.gif" alt="em12" style="display:inline;border-style:none"><img src="/img/ubb/em/12.gif" alt="em12" style="display:inline;border-style:none"><img src="/img/ubb/em/12.gif" alt="em12" style="display:inline;border-style:none">
+--
+又大又圆！！！
+－－－圆来是个球！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.137.*]
+ 
+【文章标题】：Tcl and the Tk Toolkit 【文章地址】：https://bbs.byr.cn/article/Communications/54 【创建时间】：2005-04-14 【作者】：gw 【评论】：1 【内容】：发信人: gw (hoho), 信区: Communications
+标  题: Tcl and the Tk Toolkit
+发信站: 北邮人论坛 (Thu Apr 14 19:52:51 2005), 站内
+
+
+John K. Ousterhout
+
+Computer Science Division
+Department of Electrical Engineering and Computer Sciences
+University of California
+Berkeley, CA 94720
+
+Copyright . 1993 Addison-Wesley Publishing Company, Inc.
+
+All rights reserved. Duplication of this draft is permitted by individuals for 
+personal use only. Any other form of duplication or reproduction requires prior
+written permission of the author or publisher. This statement must be easily 
+visible on the first page of any reproduced copies. The publisher does not 
+offer warranties in regard to this draft.
+
+本书的开头部分介绍。
+
+Introduction
+
+This book is about two packages called Tcl and Tk. Together they provide a 
+programming system for developing and using graphical user interface (GUI) 
+applications. Tcl stands for “tool command language” and is pronounced 
+“tickle”; is a simple scripting language for controlling and extending 
+applications. It provides generic programming facilities that are useful for a 
+variety of applications, such as variables and loops and procedures. 
+Furthermore, Tcl is embeddable: its interpreter is implemented as a library of 
+C procedures that can easily be incorporated into applications, and each 
+application can extend the core Tcl features with additional commands specific 
+to that application.
+
+One of the most useful extensions to Tcl is Tk. It is a toolkit for the X 
+Window System, and its name is pronounced “tee-kay”. Tk extends the core Tcl 
+facilities with additional commands for building user interfaces, so that you 
+can construct Motif user interfaces by writing Tcl scripts instead of C code. 
+Like Tcl, Tk is implemented as a library of C procedures so it too can be used 
+in many different applications. Individual applications can also extend the 
+base Tk features with new user-interface widgets and geometry managers written 
+in C. 
+
+
+
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.159.*]
+ 
+【文章标题】：求助,安装NS时的问题 【文章地址】：https://bbs.byr.cn/article/Communications/56 【创建时间】：2005-04-15 【作者】：terrence 【评论】：3 【内容】：发信人: terrence (terry), 信区: Communications
+标  题: 求助,安装NS时的问题
+发信站: BBS 北邮人论坛站 (Fri Apr 15 19:29:45 2005), 站内
+
+安装tcl时,执行 cd c:/netsim/tcl8.3.2/win
+                   nmake-f makefile.vc后
+显示nmake-f或nmake不是内部或外部命令.也不是可运行的程序或批处理文件.
+我已经运行了vcvars32.bat了.
+哪位大虾帮帮忙
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.231.*]
+ 
+【文章标题】：才发现这个版，进来看一下 【文章地址】：https://bbs.byr.cn/article/Communications/60 【创建时间】：2005-04-16 【作者】：Tidy 【评论】：5 【内容】：发信人: Tidy (Tidy.NET | 一米阳光), 信区: Communications
+标  题: 才发现这个版，进来看一下
+发信站: 北邮人论坛 (Sat Apr 16 17:14:49 2005), 站内
+
+
+--
+攒人品中。。。
+个人  <a target="_blank" href="ftp://Tidy.ipchina.org:21">ftp://Tidy.ipchina.org:21</a>
+STE版 <a target="_blank" href="ftp://211.68.71.201:9021">ftp://211.68.71.201:9021</a>
+熊窝据点: bupt.org
+          forum.byr.edu.cn
+          www.freshsky.net
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.229.*]
+ 
+【文章标题】：[合集] 求助！现代通信技术的几个问题 【文章地址】：https://bbs.byr.cn/article/Communications/1118 【创建时间】：2005-12-28 【作者】：wwsunny 【评论】：0 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: [合集] 求助！现代通信技术的几个问题
+发信站: 北邮人论坛 (Wed Dec 28 19:28:21 2005), 站内
+
+☆─────────────────────────────────────☆
+   liuchaohappy (刘超) 于  (Tue Apr 26 18:03:48 2005)  提到:
+
+学了半学期现代通信了，但还是觉得很糊涂
+因特网就是IP网吗？
+普通电话网和IP网到底有什么联系和区别？（交换方式不同这点我明白）它们在长途传输过程中的光缆是公用的吗？计算机网有自己的光缆吗？
+打电话时，信号流如果从电话到电话的话音交换机，再到光缆，再到电话机，再到光缆。
+那么用电话上网是信号流是怎么走的？从电话到电话的话音交换机，到。。。？？
+IP电话便宜，信号是怎么走的？为什么成本低？
+
+大家要帮我建立一个现代通信的实物模型，要结合中国实际建成的，要我好有个感性的认识和理解。网络到底是怎样连接，贯穿中国的，各种网络又是怎样融合到一起的？我对整体的把握很乱，所以觉得学的没有头绪，感觉很不好。
+三网合一，三网难道都是一套交换设备（设备是多功能的）、一套长途传输线吗？合了有什么好处，怎么合？
+
+
+我的感觉很迷茫，好像前面立着一座上，不知道各位能否体会到我的感觉不。我觉得学习的话，我知道自己在学什么，并且自发的去学习。我要先有整体感觉后再去细化，先学会一个东西的思想后，再去学他的具体内容。
+
+
+
+☆─────────────────────────────────────☆
+   Tidy (熊本乐天 | 再见丁香花) 于  (Tue Apr 26 18:05:32 2005)  提到:
+
+这问题有意思，我看看能回答多少：）
+
+【 在 liuchaohappy (刘超) 的大作中提到: 】
+: 学了半学期现代通信了，但还是觉得很糊涂 
+: 因特网就是IP网吗？ 
+: 普通电话网和IP网到底有什么联系和区别？（交换方式不同这点我明白）它们在长途传输过程中的光缆是公用的吗？计算机网有自己的光缆吗？ 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   Tidy (熊本乐天 | 再见丁香花) 于  (Tue Apr 26 18:09:09 2005)  提到:
+
+因特网?IP网？忘了，直觉告诉我不是一样的，先查再说吧
+
+因特网，即互联网，应该是通过TCP/IP协议将不同网络结构的网连结起来。唉，没有查这样说出来很失水平，还是让我查完再说吧
+
+【 在 Tidy (熊本乐天 | 再见丁香花) 的大作中提到: 】
+: 这问题有意思，我看看能回答多少：） 
+
+
+
+
+☆─────────────────────────────────────☆
+   gw (hoho) 于  (Tue Apr 26 19:51:35 2005)  提到:
+
+哪能一下成为专家呢，慢慢努力，一定会有结果的！不用灰心。一般人不会了解中国的所有网络状况的，有的是商业秘密，有的是国家秘密。大概王旭东可以。但是从技术上，我们都是可以去了解的。本文仅供了解，不能做参考文献：）
+现在说的"因特网"，其实并未被工业界和学术界普遍承认。国家大概有个什么名词标准化委员会，把互联网搞成了这么一个名字。至少我本人不用这么土的名字，觉得互联网本身就非常准确的表达了Internet的概念。早期也有叫”国际互联网“的，鉴于现在的互联网本身就是国际化的，所以把国际二字省去也是没有问题的。互联网来自分组交换技术为核心的网络，采用IP协议来实现各个异种网络的互联和互通。互联网采用IP技术，但是IP网的意义在演化，采用IP技术为核心的网络均可以称IP网。比较常见的一个概念是IP电信网，即用IP技术改造现有的电信网络，使之可以承载电信业务。
+普通电话网（PSTN），是以电路交换为标志的遗留网络，也是我们现在所用的主要电信网，以程控交换技术和7号信令网为其主要的核心技术。（这也是北邮的看家本领，别的非邮电院校是望尘莫及的）但随着技术飞速发展，已经不再是先进的网络技术，虽然它仍然承载着大部分的话音业务。目前的传输网络都实现了光纤化，主要是采用SDH技术，而且由于运营商投入比较大，容量冗余严重，80％的光缆是闲置的，埋在地下，被人称为”暗光纤“（dark fiber），所以我们现在的瓶颈是接入速度上不去。PSTN的干线传输是光缆传输，不仅它是，IP网，ATM网，均采用光缆传输。铜缆已经见不到了。1世纪前AT&amp;T被称为世界最大的铜矿，有玩笑说幸亏有人不知道，否则会被人收购搞金属生意了。运营商约70％的投资是在传输上。
+计算机网络是分组交换网络，骨干路由器现在也是采用光纤互联。由于电信网的普及，给计算机网络（其实就是互联网）的飞速发展带来巨大推动。因为没有局域网接入的用户可以通过电话线拨号上网。现在是ADSL或者，xDSL。由于用户线上仍然是模拟信号，所以计算机的数字信号要通过MODEM调制送到交换机，但是现在的交换机都是数字的，所以又要把信号数字化，传到对端。不过，目前各运营商都引入了接入服务器，可以用MODEM池来完成用户数据的集中。通过网关转换把电信网接入到计算机网。IP技术是一项简单而伟大的技术。可以这样比喻，以前的电路交换，是在用户通信时独占一条路，只有用户的车才能跑。而IP技术是，路是大家的，谁的车都能跑，只要在车上标记好你要去哪里。这些车都会被指引到目的地。所以，IP对交换通路的利用率大大提高了，成本降低了！所以便宜。IP分组内装的是话音，不是传统的互联网的文件，新闻啊，邮件啊。IP打电话便宜。
+三网合一，是指建立一个综合的业务网络，里面有话音，电视，数据，这是个美好的梦想。原来的ISDN就是这么一个美好的理想，ATM是isdn的承载方式，但是成本太高了。IP就成了人们下一个梦想。综合业务网络，可以把承载和应用分离，节省维护成本，原来搞电信的不懂计算机网，搞这两个的也不知怎么维护电视网。现在，建一个网，提供所有业务。所以，这就是网络合起来的好处。当然，这里不仅有技术问题，还有商业利益问题，政策问题，遗留网络问题，所以非常复杂。这即是下一代网络（NGN）所要解决的问题。
+学习通信网的确需要积累，但是也非常之有意义。也是每个北邮人强于其它学校学生的主要优势。没有通信技术的飞速发展，就没有北邮的今天，北邮，也许只是像化工、钢院、这样的3流学校。现在的北邮，显然是最有价值的专业院校。
+还没有说移动通信网。有空再交流。3G/B3G/4G。多读书，必有收获！一家之言，仅供参考。
+
+ps：Tidy熊兄弟，你如此热心，来接管这个版吧？
+
+
+
+
+
+☆─────────────────────────────────────☆
+   Tidy (熊本乐天 | 再见丁香花) 于  (Tue Apr 26 21:38:07 2005)  提到:
+
+热心也要有水平D，自己还是没那水平呀，不敢。
+所谓热心只是闲暇时抽个空baidu一下，也当自己学习了
+
+【 在 gw (hoho) 的大作中提到: 】
+: 哪能一下成为专家呢，慢慢努力，一定会有结果的！不用灰心。一般人不会了解中国的所有网络状况的，有的是商业秘密，有的是国家秘密。大概王旭东可以。但是从技术上，我们都是可以去了解的。本文仅供了解，不能做参考文献：） 
+: 现在说的"因特网"，其实并未被工业界和学术界普遍承认。国家大概有个什么名词标准化委员会，把互联网搞成了这么一个名字。至少我本人不用这么土的名字，觉得互联网本身就非常准确的表达了Internet的概念。早期也有叫”国际互联网“的，鉴于现在的互联网本身就是国际化的 
+: 普通电话网（PSTN），是以电路交换为标志的遗留网络，也是我们现在所用的主要电信网，以程控交换技术和7号信令网为其主要的核心技术。（这也是北邮的看家本领，别的非邮电院校是望尘莫及的）但随着技术飞速发展，已经不再是先进的网络技术，虽然它仍然承载着大部分的话� 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   winstan (winstan★九段) 于  (Thu Apr 28 14:25:41 2005)  提到:
+
+看了多少也有点收获
+谢谢 
+
+
+☆─────────────────────────────────────☆
+   liuchaohappy (刘超) 于  (Thu Apr 28 18:41:12 2005)  提到:
+
+        普通电话网和IP网在长途传输过程中的光缆是公用的吗？计算机网有自己的光缆吗？
+
+有可能。比如EMS和Fedex有可能使用相同的公路、铁路或者飞机，如果必要的话也有可能自建道路、自购飞机。
+
+普通电话网和IP网如果是同一家的，传输网络有可能是相同的。也有可能是不同的。
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员) 于  (Thu Apr 28 19:15:59 2005)  提到:
+
+肯定会有公用段的
+因为骨干光缆就那么几条啊
+
+【 在 liuchaohappy 的大作中提到: 】
+:         普通电话网和IP网在长途传输过程中的光缆是公用的吗？计算机网有自己的光缆吗？ 
+: 有可能。比如EMS和Fedex有可能使用相同的公路、铁路或者飞机，如果必要的话也有可能自建道路、自购飞机。 
+: 普通电话网和IP网如果是同一家的，传输网络有可能是相同的。也有可能是不同的。 
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员) 于  (Thu Apr 28 19:25:05 2005)  提到:
+
+
+【 在 liuchaohappy (刘超) 的大作中提到: 】
+: 标  题: 求助！现代通信技术的几个问题 
+: 发信站: BBS 北邮人论坛站 (Tue Apr 26 18:03:48 2005), 站内 
+:  
+: 学了半学期现代通信了，但还是觉得很糊涂 
+: 因特网就是IP网吗？ 
+: 普通电话网和IP网到底有什么联系和区别？（交换方式不同这点我明白）它们在长途传输过程中的光缆是公用的吗？计算机网有自己的光缆吗？ 
+: 打电话时，信号流如果从电话到电话的话音交换机，再到光缆，再到电话机，再到光缆。 
+: 那么用电话上网是信号流是怎么走的？从电话到电话的话音交换机，到。。。？？ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~到交换机之后被旁路到因特网中
+: IP电话便宜，信号是怎么走的？为什么成本低？ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~因为包交换网络利用率高吧，大概结构书上有图
+:  
+: 大家要帮我建立一个现代通信的实物模型，要结合中国实际建成的，要我好有个感性的认识和理解。网络到底是怎样连接，贯穿中国的，各种网络又是怎样融合到一起的？我对整体的把握很乱，所以觉得学的没有头绪，感觉很不好。 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~这个我也不懂，建议假期去运营商实习
+: 三网合一，三网难道都是一套交换设备（设备是多功能的）、一套长途传输线吗？合了有什么好处，怎么合？ 
+~~~~~~~~~~~~~~~~~~~~~~~~~应该是这样的，传送网只有一个，上面可以跑多种业务。合并的话硬件成本低，管理成本也低。不过在中国这个东西牵扯到的利益太多了，比技术问题复杂多了。
+:  
+:  
+: 我的感觉很迷茫，好像前面立着一座上，不知道各位能否体会到我的感觉不。我觉得学习的话，我知道自己在学什么，并且自发的去学习。我要先有整体感觉后再去细化，先学会一个东西的思想后，再去学他的具体内容。 
+:  
+
+
+我也是这学期刚学，嗯，水平有限，楼主随便看看吧
+
+: -- 
+:  
+: ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.192.*] 
+
+
+
+
+☆─────────────────────────────────────☆
+   Tidy (熊本乐天 | 再见丁香花) 于  (Thu Apr 28 19:30:09 2005)  提到:
+
+不只中国扯的利益多，关键是各家的博弈了
+【 在 caozihua (潜水员) 的大作中提到: 】
+: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~到交换机之后被旁路到因特网中 
+: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~因为包交换网络利用率高吧，大概结构书上有图 
+: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~这个我也不懂，建议假期去运营商实习 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员) 于  (Thu Apr 28 19:41:02 2005)  提到:
+
+在中国更难解决，还不光是钱的问题……
+
+【 在 Tidy 的大作中提到: 】
+: 不只中国扯的利益多，关键是各家的博弈了 
+
+
+
+☆─────────────────────────────────────☆
+   Tidy (熊本乐天 | 再见丁香花) 于  (Thu Apr 28 19:49:10 2005)  提到:
+
+哪都不是钱的问题，只是中国的问题是国家担着呢
+【 在 caozihua (潜水员) 的大作中提到: 】
+: 在中国更难解决，还不光是钱的问题…… 
+
+
+
+
+☆─────────────────────────────────────☆
+   lansos (lan) 于  (Fri Apr 29 08:48:03 2005)  提到:
+
+三网合一，三网难道都是一套交换设备（设备是多功能的）、一套长途传输线吗？合了有什么好处，怎么合？ 
+应该是同一传送网吧，以后传送网应该对业务是透明的
+三网合一以后可以在传送平面上加个管理层面
+好像这样可以提高资源利用率什么的
+呵呵，我也凭感觉的说
+准确的还是要翻书
+书上最后一章有讲NGN
+师弟的问题有深度
+值得表扬：）
+不过有问题了除了在论坛上和大家讨论之外
+最好还要再问问老师
+这样才能验证自己的想法对不对
+
+
+☆─────────────────────────────────────☆
+   Illidan (伊拉丹) 于  (Fri May  6 10:23:11 2005)  提到:
+
+我记得有好几本书谈到了internet和Internet名称的问题。于是去翻书，查到如下内容：
+"A collection of interconnected networks is called an internetwork or just internet.
+"To avoid confusion, please note that the word "internet" will always be used in this book in a generic sense. In contrast, the Internet(note uppercase I) means a specific worldwide internet that is widely used to connect universities, government offices, companies, and of late, private individuals."
+TANENBAUM, Andrew S.: Computer Networks, 3ed,  Prentice Hall, 1996
+
+"A key idea in the ARPA research was a new approach to interconnecting LANs and WANs that became known as an internetwork. The term is usually abbreviated internet ...
+"To distinguish their internet from other internets, researchers working on the ARPA project adopted the convention of writing internet in lower case when referring to internetworks in general, and writing Internet with an uppercase I when referring to their expermental prototype."
+COMER, Douglas E. : The Internet Book, 3ed,  Prentice Hall, 2002
+
+可能其它有名的计算机网络教科书还会说明这个问题，我只有这两本。
+这些论述的大概意思都是：internet泛指互联的网络，Internet特指现在我们所用的覆盖全球的互联网络，从ARPA网发展而来。
+
+到了科技汉语的领域，一般用“互联网”和internet对应，用“国际互联网”或“因特网”和Internet对应。谢希仁的《计算机网络》第4版似乎谈到了这个问题，可是我现在没有这本书。
+
+
+
+【 在 gw 的大作中提到: 】
+
+: 现在说的"因特网"，其实并未被工业界和学术界普遍承认。国家大概有个什么名词标准化委员会，把互联网搞成了这么一个名字。至少我本人不用这么土的名字，觉得互联网本身就非常准确的表达了Internet的概念。早期也有叫”国际互联网“的，鉴于现在的互联网本身就是国际化的，所以把国际二字省去也是没有问题的。互联网来自分组交换技术为核心的网络，采用IP协议来实现各个异种网络的互联和互通。互联网采用IP技术，但是IP网的意义在演化，采用IP技术为核心的网络均可以称IP网。比较常见的一个概念是IP电信网，即用IP技术改造现有的电信网络�: 怪梢猿性氐缧乓滴瘛� 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员) 于  (Fri May  6 20:56:02 2005)  提到:
+
+都是很经典的书，呵呵
+
+在全国自然科学名词审定委员会公布的《计算机科学技术名词》一书[MINGCI94]中,
+Connection确定译为"连接".Interconnection确定译为"互连".Internetworking确定译为"网际互连".这样的译名是很合适的. 
+
+到了1997年7月18日"全国科学技术名词审定委员会推荐名(一)"公布了.其中的
+第一个名词就是"互联网",它对应的英文名为:internet, internetwork, interconnection network.
+
+《计算机网络》第4版 谢希仁
+
+【 在 Illidan 的大作中提到: 】
+: 我记得有好几本书谈到了internet和Internet名称的问题。 
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员) 于  (Fri May  6 21:16:43 2005)  提到:
+
+找到了这个：
+
+全国科学技术名词审定委员会发布
+Internet及其相关名词的汉语定名 
+
+……
+Internet及其相关的名词中文推荐汉语定义表 (发布时间： 1997年7月)
+
+编 码  中文推荐名  英 文 名  现 有 名  注 释  
+97.X.1  互联网  internet, internetwork, interconnection, network  互联网,互连网,网际网,网间网
+97.X.2  因特网  Internet  国际互联网,互联网,全球互连网,英特网,交互网,国际电脑网络,国际计算机互联网
+……
+
+http://www.qiuyue.com/gendai/mingci-11.htm
+
+
+ 【文章标题】：目前所看到的国内最优秀的通信技术资源网（推荐） 【文章地址】：https://bbs.byr.cn/article/Communications/968 【创建时间】：2005-11-16 【作者】：Duke 【评论】：11 【内容】：发信人: Duke (Joey), 信区: Communications
+标  题: 目前所看到的国内最优秀的通信技术资源网（推荐）
+发信站: BBS 北邮人论坛站 (Wed Nov 16 22:42:01 2005), 站内
+
+汇集专业通信人才，引领前卫通信技术，共享专业通信资料
+
+中国通信技术资源网－<a target="_blank" href="http://www.cnttr.com">http://www.cnttr.com</a> 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.187.*]
+ 
+【文章标题】：[公告] 将 Communications 版设置为只读模式 (转载) 【文章地址】：https://bbs.byr.cn/article/Communications/1072 【创建时间】：2005-12-14 【作者】：lyinh 【评论】：0 【内容】：发信人: lyinh (破碎的眼泪@Lucifer), 信区: Communications
+标  题: [公告] 将 Communications 版设置为只读模式
+发信站: 北邮人论坛 (Wed Dec 14 14:26:54 2005), 站内
+
+【 以下文字转载自 Board_Management 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Management
+标  题: [公告] 将 Communications 版设置为只读模式
+发信站: 北邮人论坛 (Wed Dec 14 14:21:45 2005), 站内
+
+    经版面管理组讨论，决定即日起将 Communications/通信技术 版面设为只读 
+ 
+    原因：    长期缺少版主管理版面
+ 
+    截止日期：只读到该版有新版主为止 
+ 
+    补充说明：
+ 
+                                   北邮人论坛版面管理组 
+
+--
+女人啊~~
+如果你的美丽无法带给你幸福
+那么，
+她将一文不值
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.149.*]
+ 
+【文章标题】：问一下，我们学校“最优化理论与算法 ”这门课谁讲。 【文章地址】：https://bbs.byr.cn/article/Communications/1071 【创建时间】：2005-12-14 【作者】：cwdcwb 【评论】：2 【内容】：发信人: cwdcwb (糊涂), 信区: Communications
+标  题: 问一下，我们学校“最优化理论与算法 ”这门课谁讲。
+发信站: 北邮人论坛 (Wed Dec 14 10:02:35 2005), 站内
+
+问一下，我们学校“最优化理论与算法 ”这门课那个老师讲的。我有个问题想找他问一下。拜托知道的人回个贴，这里先谢了。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.138.*]
+ 
+【文章标题】：【请教】mpeg视频编码中vbr速率控制问题 【文章地址】：https://bbs.byr.cn/article/Communications/1093 【创建时间】：2005-12-27 【作者】：huangying330 【评论】：6 【内容】：发信人: huangying330 (西瓜的眼泪), 信区: Communications
+标  题: 【请教】mpeg视频编码中vbr速率控制问题
+发信站: 北邮人论坛 (Tue Dec 27 11:19:34 2005), 站内
+
+现在正在做给定平均速率的vbr控制方式，郁闷中。。。。请高人指点！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.134.*]
+ 
+【文章标题】：祝大家圣诞快乐！ 【文章地址】：https://bbs.byr.cn/article/Communications/1078 【创建时间】：2005-12-24 【作者】：wwsunny 【评论】：4 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: 祝大家圣诞快乐！
+发信站: 北邮人论坛 (Sat Dec 24 23:10:58 2005), 站内
+
+
+圣诞快乐哦
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.209.*]
+ 
+【文章标题】：哪位老大会配置路由器，请进。 【文章地址】：https://bbs.byr.cn/article/Communications/224 【创建时间】：2005-06-20 【作者】：aoao 【评论】：11 【内容】：发信人: aoao (北邮枪神), 信区: Communications
+标  题: 哪位老大会配置路由器，请进。
+发信站: BBS 北邮人论坛站 (Mon Jun 20 19:15:08 2005), 站内
+
+我在老家是开网吧的，现在遇到一个问题。我想在学校用远程登录的方式登陆我们家路由上进行软件升级，但是怎么也连接不上。cisco的路由有没有远程方的权限打开或关闭这么个命令吗？不是设置好了特权密码和用户密码就可以的吗？
+
+我家用的是锐公司的nbr100路由，基本配置和cisco应该是一样的~ 
+
+难道是咱们学校屏蔽掉了23短口？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.192.*]
+ 
+
+【文章标题】：[合集] 请教一个关于均衡的问题 【文章地址】：https://bbs.byr.cn/article/Communications/1120 【创建时间】：2005-12-28 【作者】：wwsunny 【评论】：0 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: [合集] 请教一个关于均衡的问题
+发信站: 北邮人论坛 (Wed Dec 28 19:31:33 2005), 站内
+
+☆─────────────────────────────────────☆
+   xryo99 (xryo99) 于  (Sun Jul  3 09:38:22 2005)  提到:
+
+从最基本的概念上来讲，OFDM信号经过理想均衡后其相位是否就是和发送时的信号相同？
+多谢各位大牛<img src="/img/ubb/em/68.gif" alt="em68" style="display:inline;border-style:none">
+
+
+☆─────────────────────────────────────☆
+   danny63 (白云) 于  (Sun Jul  3 22:12:59 2005)  提到:
+
+关键是你的条件如何了！是高速还是低速？
+
+
+☆─────────────────────────────────────☆
+   bhrs (gg) 于  (Sun Jul  3 22:34:48 2005)  提到:
+
+什么叫理想均衡？由于AWGN的存在,信道估计总是有误差的，由多径衰落造成的相位误差应该存在。如果不考虑AWGN，当然可以完全恢复到发送信号相位，因为这时候训练序列可以完全估计出信道特性
+【 在 xryo99 (xryo99) 的大作中提到: 】
+: 从最基本的概念上来讲，OFDM信号经过理想均衡后其相位是否就是和发送时的信号相同？ 
+: 多谢各位大牛<img src="/img/ubb/em/68.gif" alt="em68" style="display:inline;border-style:none"> 
+
+
+
+
+☆─────────────────────────────────────☆
+   xryo99 (xryo99) 于  (Sun Jul  3 23:36:53 2005)  提到:
+
+对，我说的就是理想信道估计情况下的。
+
+
+☆─────────────────────────────────────☆
+   danny63 (白云) 于  (Mon Jul  4 23:51:31 2005)  提到:
+
+理想信道估计有什么用呢？是做文章吧！
+
+
+☆─────────────────────────────────────☆
+   xryo99 (xryo99) 于  (Tue Jul  5 12:04:50 2005)  提到:
+
+刚入门，是做网络层的，需要对物理层的东西有初步了解，呵呵。以后还请大家多指教
+【 在 danny63 的大作中提到: 】
+: 理想信道估计有什么用呢？是做文章吧！ 
+
+
+
+☆─────────────────────────────────────☆
+   shooting (脸谱下的水妖) 于  (Sun Jul 10 12:23:31 2005)  提到:
+
+理想估计下必然没有相位偏差了
+它本身是个拟系统模拟，而频响特性包括增益和相位偏移，所以做了均衡后都补偿了
+
+
+☆─────────────────────────────────────☆
+   difuk (胖夫|再见，丁香花) 于  (Tue Jul 12 20:13:31 2005)  提到:
+
+不懂，来顶帖
+
+
+☆─────────────────────────────────────☆
+   maqiutian (mc) 于  (Thu Jul 14 16:55:04 2005)  提到:
+
+我们如果是要考虑用均衡的话,应该是要考虑瑞丽衰落信道吧,
+<u>如果不考虑AWGN，当然可以完全恢复到发送信号相位</u>
+这个说法,需要商酌,AWGN实际上是加性噪声,而我们只所以要均衡,是因为多径的影响,而多径并不是AWGN信道的特性吧.呵呵,互相讨论下
+【 在 bhrs 的大作中提到: 】
+: 什么叫理想均衡？由于AWGN的存在,信道估计总是有误差的，由多径衰落造成的相位误差应该存在。如果不考虑AWGN，当然可以完全恢复到发送信号相位，因为这时候训练序列可以完全估计出信道特性 
+
+
+
+☆─────────────────────────────────────☆
+   danny63 (白云) 于  (Mon Jul 18 17:40:07 2005)  提到:
+
+如此呀！AWGN信道要用均衡？
+
+
+☆─────────────────────────────────────☆
+   bhrs (gg) 于  (Wed Jul 20 18:42:58 2005)  提到:
+
+我说的当然是瑞利衰落，而且是频率选择性衰落。如果没有awgn，就可以完全估计出信道特征。无论使用LS估计，还是MMSSE，估计之所以有误差，都是噪音的存在造成的，当然这个噪音也可能是有色噪音。当噪音为0，估计值的误差为0，也就是信道特性完全恢复
+这仅仅是我的一些理解吧，如果说的不对欢迎指正啊。建议找本统计信号处理、检测与估值之类的书看看
+
+
+【 在 maqiutian (mc) 的大作中提到: 】
+: 我们如果是要考虑用均衡的话,应该是要考虑瑞丽衰落信道吧, 
+: <u>如果不考虑AWGN，当然可以完全恢复到发送信号相位</u> 
+: 这个说法,需要商酌,AWGN实际上是加性噪声,而我们只所以要均衡,是因为多径的影响,而多径并不是AWGN信道的特性吧.呵呵,互相讨论下 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   bhrs (gg) 于  (Wed Jul 20 18:51:57 2005)  提到:
+
+均衡的确是为了消除多径的影响。 对于ofdm系统而言，一般是先通过preamble和pilot来做信道估计，然后再用估计出的信道做均衡
+
+【 在 maqiutian (mc) 的大作中提到: 】
+: 我们如果是要考虑用均衡的话,应该是要考虑瑞丽衰落信道吧, 
+: <u>如果不考虑AWGN，当然可以完全恢复到发送信号相位</u> 
+: 这个说法,需要商酌,AWGN实际上是加性噪声,而我们只所以要均衡,是因为多径的影响,而多径并不是AWGN信道的特性吧.呵呵,互相讨论下 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   maqiutian (mc) 于  (Thu Jul 21 12:00:04 2005)  提到:
+
+恩，对，原来我理解的也有误区，这个分析应该是正确的
+【 在 bhrs 的大作中提到: 】
+: 我说的当然是瑞利衰落，而且是频率选择性衰落。如果没有awgn，就可以完全估计出信道特征。无论使用LS估计，还是MMSSE，估计之所以有误差，都是噪音的存在造成的，当然这个噪音也可能是有色噪音。当噪音为0，估计值的误差为0，也就是信道特性完全恢复 
+: 这仅仅是我的一些理解吧，如果说的不对欢迎指正啊。建议找本统计信号处理、检测与估值之类的书看看 
+
+
+
+☆─────────────────────────────────────☆
+   danny63 (白云) 于  (Wed Jul 27 00:52:58 2005)  提到:
+
+当噪音为0，估计值的误差为0?如此精度呀？
+
+
+ 
+【文章标题】：[合集] Td中的接力切换 【文章地址】：https://bbs.byr.cn/article/Communications/1123 【创建时间】：2005-12-28 【作者】：wwsunny 【评论】：0 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: [合集] Td中的接力切换
+发信站: 北邮人论坛 (Wed Dec 28 19:34:46 2005), 站内
+
+☆─────────────────────────────────────☆
+   foreveraha (aha | 北邮刷天下) 于  (Sat Oct 22 18:41:00 2005)  提到:
+
+一直以为TD中用的是硬切换，昨天到通信展跟大唐的mm聊过之后才发现大唐居然用的是接力切换，偶一直以为灭有人用呢
+
+那么，有没有人做过相应的仿真，它的性能怎么样？
+个人感觉这种技术不适宜在无线系统中使用，无论是定位还是测距都会有很大问题
+又灭有人了解它的性能到底如何
+大唐既然用了它，应该还可以吧
+
+PS:发现这个版是byr中比较冷的版，大家要努力啊：）
+
+
+☆─────────────────────────────────────☆
+   iCer (硬件版首席御姐控) 于  (Sat Oct 22 19:46:16 2005)  提到:
+
+嗯 一直关注 但是插不上话 比如这次接力切换和硬切换的概念就不知...
+【 在 foreveraha (aha | 北邮刷天下) 的大作中提到: 】
+: 一直以为TD中用的是硬切换，昨天到通信展跟大唐的mm聊过之后才发现大唐居然用的是接力切换，偶一直以为灭有人用呢 
+: 那么，有没有人做过相应的仿真，它的性能怎么样？ 
+: 个人感觉这种技术不适宜在无线系统中使用，无论是定位还是测距都会有很大问题 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员·∫rp dt) 于  (Sat Oct 22 22:29:20 2005)  提到:
+
+简单的说
+硬切换就是先断掉原连接再同新基站连接，中间会丢失一小段信号，但是实现起来简单
+语音为主的2G系统里问题不大，因为语音短时间的终端是可以接受的
+但是数据传输就不能容忍这种情况，所以TD-SCDMA系统里用了接力切换
+就是手机在切换时，同两个或更多基站同时保持连接，这样始终保持数据的持续传输
+
+不过楼主的问题.....一介小本，力不能及
+
+【 在 iCer 的大作中提到: 】
+: 嗯 一直关注 但是插不上话 比如这次接力切换和硬切换的概念就不知... 
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sat Oct 22 22:58:44 2005)  提到:
+
+这么说接力切换就属于软切换了？
+
+
+☆─────────────────────────────────────☆
+   foreveraha (aha | 北邮刷天下) 于  (Sat Oct 22 23:39:03 2005)  提到:
+
+从概念上讲，接力切换界于软切换与硬切换之间。
+让我们从头说起：）
+硬切换：
+特点：先断后连。即在断开当前链路之后再去寻找新的基站进行接入，同一时刻用户只和一个基站相连接。
+优点：占用资源少，控制简单
+缺点：在断开当前连接到接入新基站会有一段时间的数据丢失（大约几十ms），而且断开
+之后能否被新基站接入也是个问题，所以相应的掉话率也比较高
+
+软切换
+特点：“先连后断”。用户在不断开当前链界的情况下寻找新的基站接入，同时保持已有连接。因此，软切换的用户可以和多个基站相连接。
+优点：降低了掉话率，提供了分集增益。
+缺点：站用了大量资源，降低了系统利用率。
+
+接力切换
+特点：首先它不会断开当前链路（断上行，保持下行），然后寻找新的基站进行接入。它首先与待接基站建立上行（注意）链路，无下行；上行链路建立成功后，立即断开原有链路，与新基站建立下行链路。
+优点：同时只与一个基站有下行连接，节约了系统资源
+缺点：信令有点复杂，而且切换条件比较叫难以判断
+
+心血来潮敲了半天，欢迎大家讨论：）
+
+【 在 caozihua (潜水员·∫rp dt) 的大作中提到: 】
+: 简单的说 
+: 硬切换就是先断掉原连接再同新基站连接，中间会丢失一小段信号，但是实现起来简单 
+: 语音为主的2G系统里问题不大，因为语音短时间的终端是可以接受的 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   iCer (硬件版首席御姐控) 于  (Sun Oct 23 00:14:29 2005)  提到:
+
+老曹说的还是很清楚地  可是2G 2.5G也有数据应用阿  
+
+【 在 caozihua (潜水员·∫rp dt) 的大作中提到: 】
+: 简单的说 
+: 硬切换就是先断掉原连接再同新基站连接，中间会丢失一小段信号，但是实现起来简单 
+: 语音为主的2G系统里问题不大，因为语音短时间的终端是可以接受的 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   iCer (硬件版首席御姐控) 于  (Sun Oct 23 00:15:04 2005)  提到:
+
+en
+
+受教了
+【 在 foreveraha (aha | 北邮刷天下) 的大作中提到: 】
+: 从概念上讲，接力切换界于软切换与硬切换之间。 
+: 让我们从头说起：） 
+: 硬切换： 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   caozihua (潜水员·∫rp dt) 于  (Sun Oct 23 00:57:42 2005)  提到:
+
+这个我不清楚它是怎么解决数据丢失的
+
+【 在 iCer 的大作中提到: 】
+: 老曹说的还是很清楚地  可是2G 2.5G也有数据应用阿   
+
+
+
+☆─────────────────────────────────────☆
+   iCer (硬件版首席御姐控) 于  (Sun Oct 23 11:40:27 2005)  提到:
+
+Buffer?
+【 在 caozihua (潜水员·∫rp dt) 的大作中提到: 】
+: 这个我不清楚它是怎么解决数据丢失的 
+
+
+
+
+☆─────────────────────────────────────☆
+   aptitude (有空多读读书) 于  (Tue Oct 25 13:01:14 2005)  提到:
+
+
+【 在 caozihua (潜水员·∫rp dt) 的大作中提到: 】
+: 简单的说 
+: 硬切换就是先断掉原连接再同新基站连接，中间会丢失一小段信号，但是实现起来简单 
+: 语音为主的2G系统里问题不大，因为语音短时间的终端是可以接受的 
+
+PS业务有切换么……
+
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   bupter (考研HMS) 于  (Tue Nov  1 12:46:14 2005)  提到:
+
+
+【 在 foreveraha 的大作中提到: 】
+: 从概念上讲，接力切换界于软切换与硬切换之间。 
+: 让我们从头说起：） 
+: 硬切换： 
+: ................... 
+牛人<img src="/img/ubb/em/68.gif" alt="em68" style="display:inline;border-style:none">
+
+
+☆─────────────────────────────────────☆
+   foreveraha (aha | 北邮刷天下) 于  (Thu Nov  3 13:41:36 2005)  提到:
+
+这个问题问的好
+琢摩了一下
+感觉应该是这样di
+
+数据业务切换如果也采用硬切换，那么在切换过程中必然会丢掉一部分数据
+对端接收到这不完整的数据后，会根据业务自身的要求进行判断
+如果该种数据业务属于可以丢失部分数据，或者丢失在自身能够容忍程度的
+业务时，如流媒体，将抛弃这部分数据
+如果该种业务属于不能丢失数据的种类，如背景级业务应用种电子邮件等，
+那么就会通知发送端进行重传
+
+总的思路应该是底层可以丢失数据，但是在高层会根据业务种类来做响应处理，决定是
+重传还是放弃该部分数据
+
+
+
+【 在 iCer (硬件版首席御姐控) 的大作中提到: 】
+: 老曹说的还是很清楚地  可是2G 2.5G也有数据应用阿   
+
+
+
+
+☆─────────────────────────────────────☆
+   bennyjia (北邮人) 于  (Mon Nov  7 08:56:02 2005)  提到:
+
+搂住的两个问题我不会。
+但td应该是接力切换没问题。
+偶认为既然要传数据业务不应该用硬切换吧
+
+
+☆─────────────────────────────────────☆
+   foreveraha (aha | 北邮刷天下) 于  (Mon Nov  7 12:23:18 2005)  提到:
+
+前两天跟鼎桥的人聊
+了解到现在td中使用的接力切换已经不是最初的提出的方式
+其实是换了个概念
+在3gp的协议中提到硬切换有两种模式：同步和异步。
+异步就是传统的硬切换，而同步模式则节约了几条信令，现在所谓的接力切换使用的也就是这种方式。这种切换模式下，没有最初说的要利用智能天线测方位，上行同步测距离等
+接力切换特有的方式。
+
+
+至于数据业务能否使用硬切换的问题。其实目前在使用的GSM用的就是硬切换，但是一样可以传输数据，它都是靠重传机制来保证数据的完整与正确。
+
+
+
+
+
+【 在 bennyjia (北邮人) 的大作中提到: 】
+: 搂住的两个问题我不会。 
+: 但td应该是接力切换没问题。 
+: 偶认为既然要传数据业务不应该用硬切换吧 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   bennyjia (北邮人) 于  (Tue Nov  8 10:48:36 2005)  提到:
+
+谢了。
+不过gsm使用硬切换是因为毕竟g网原本以语音业务为主。
+
+【 在 foreveraha 的大作中提到: 】
+: 前两天跟鼎桥的人聊 
+: 了解到现在td中使用的接力切换已经不是最初的提出的方式 
+: 其实是换了个概念 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   Tidy (憶吾壹世·熊心) 于  (Wed Nov  9 16:59:53 2005)  提到:
+
+基本没来这个版。。。群里解决
+
+
+☆─────────────────────────────────────☆
+   yzh (【流浪派】♂流浪者之王) 于  (Thu Nov 10 17:51:14 2005)  提到:
+
+aha,原来是你
+
+
+☆─────────────────────────────────────☆
+   foreveraha (aha | 北邮刷天下) 于  (Thu Nov 10 18:07:50 2005)  提到:
+
+嘿嘿~~
+【 在 yzh (【流浪派】♂流浪者之王) 的大作中提到: 】
+: aha,原来是你 
+
+
+
+
+☆─────────────────────────────────────☆
+   wwsunny (猕猴桃) 于  (Fri Nov 18 12:51:34 2005)  提到:
+
+
+不一定是这样
+硬切换给话音业务也会带来很大影响
+前面提到数据业务可以靠重传来恢复丢失数据
+但是像话音这种实时业务没法重传
+硬切换直接丢包导致话音质量下降
+
+g网使用硬切换是因为g网的切换是异频切换，无法实现软切换
+而不是因为是话音业务没必要用
+
+【 在 bennyjia 的大作中提到: 】
+: 谢了。 
+: 不过gsm使用硬切换是因为毕竟g网原本以语音业务为主。 
+
+
+
+☆─────────────────────────────────────☆
+   wwsunny (猕猴桃) 于  (Fri Nov 18 12:57:49 2005)  提到:
+
+
+同步和异步是怎么弄的啊?
+
+【 在 foreveraha 的大作中提到: 】
+: 前两天跟鼎桥的人聊 
+: 了解到现在td中使用的接力切换已经不是最初的提出的方式 
+: 其实是换了个概念 
+: ................... 
+
+
+
+ 【文章标题】：[合集] 求咱们学校IpV6结构 【文章地址】：https://bbs.byr.cn/article/Communications/1121 【创建时间】：2005-12-28 【作者】：wwsunny 【评论】：1 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: [合集] 求咱们学校IpV6结构
+发信站: 北邮人论坛 (Wed Dec 28 19:33:02 2005), 站内
+
+☆─────────────────────────────────────☆
+   GoodBobo (北邮人) 于  (Wed Sep  7 11:43:56 2005)  提到:
+
+谢谢
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Thu Sep  8 23:09:54 2005)  提到:
+
+估计也就楼道交换机，汇聚交换机，核心交换机，出口路由器吧！
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Fri Sep  9 15:38:42 2005)  提到:
+
+。。。。。。 人家好像是要topograph。。。。
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 估计也就楼道交换机，汇聚交换机，核心交换机，出口路由器吧！ 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 17:41:55 2005)  提到:
+
+我猜猜吧~接入层，学生宿舍每层估计是使用二层100M交换机，32口或者24口的，确保每个宿舍一个端口，比较低档的；然后全部连接在每座宿舍楼应该有个带千兆上行口的二层或三层会聚级或者边缘级交换机上面；据我经验，打CS时不同层之间建的局域网游戏找不到，所以可能每层划成一个VLAN~传说中宿舍网交换中心在学八，所有的宿舍网应该连在那里，怎么得有大机架子那么大的路由交换机吧！全校网络汇聚到网络中心应该也有几个巨大的交换机和路由器，那个估计得比人高了，呵呵~宿舍楼的那些交换机应该都能在网络中心或者宿舍网交换中心实现远程管理
+
+以上纯属个人胡思乱想，抛砖~希望网络中心的老师和熟悉咱们校园网的同学指点~谢谢！
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 18:02:05 2005)  提到:
+
+有点错误....:P
+
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 我猜猜吧~接入层，学生宿舍每层估计是使用二层100M交换机，32口或者24口的，确保每个宿舍一个端口，比较低档的；然后全部连接在每座宿舍楼应该有个带千兆上行口的二层或三层会聚级或者边缘级交换机上面；据我经验，打CS时不同层之间建的局域网游戏找不到，所以可能每层� 
+: 以上纯属个人胡思乱想，抛砖~希望网络中心的老师和熟悉咱们校园网的同学指点~谢谢！ 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 18:05:41 2005)  提到:
+
+呵呵~~~~愿闻其详
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 18:11:28 2005)  提到:
+
+我住在学5  不同层CS是可以互联的 
+
+我说一下自己的意见吧
+
+首先每个寝室一个很普通的2层交换机 然后一个普口连接到学5十楼的交换机 可管理 支持
+vlan 比如思科2950 或者2948G  然后一个G口 连接到学校管理机房 
+整个学5划为一个VLAN 以区别其他楼  注:不同层网上邻居可以互访
+
+各个宿舍楼和教学楼的出口可以通过光缆或者铜缆连接到核心交换机房 估计DHCP服务器还有byr  真情等都挂在核心交换机上  然后通过路由器出口到教育网 以及各个vlan之间互访
+
+个人意见
+【 在 iCer (shader shader and more shader) 的大作中提到: 】
+: 有点错误....:P 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 18:20:46 2005)  提到:
+
+偶纠正你一点~校园网斑竹说过，北邮全网采用华为设备组网，因此呵呵~2950就不要考虑了~~~~
+
+整个学5楼一个VLAN~~~你是否听说过广播风暴~~~~:)
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 18:26:28 2005)  提到:
+
+2950只是一个例子 表示这种级别的交换机来连接各个寝室
+
+如果不是整个学5一个VLAN 如何解释网上邻居互访 还有CS WAR3等局域网游戏互联？ 而且学校三番五次声明 局域网中无论如何不得开启DHCP服务器 
+
+而且 如果是华为的设备 那么就可以为一个端口划分不同的vlan  cisco不行
+
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 偶纠正你一点~校园网斑竹说过，北邮全网采用华为设备组网，因此呵呵~2950就不要考虑了~~~~ 
+: 整个学5楼一个VLAN~~~你是否听说过广播风暴~~~~:) 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 19:45:57 2005)  提到:
+
+可能几层是一个VLAN，我觉得一座楼规模太大了，现在的交换机，都带侦测伪DHCP服务器功能
+
+咱们学校我觉得还是基于端口的VLAN划分
+
+
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 19:56:50 2005)  提到:
+
+基于端口划分的话.......很累很累得  cisco有VTP协议,华为不知道类似的是什么...
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 可能几层是一个VLAN，我觉得一座楼规模太大了，现在的交换机，都带侦测伪DHCP服务器功能 
+: 咱们学校我觉得还是基于端口的VLAN划分 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 20:12:19 2005)  提到:
+
+一般都是基于端口划分VLAN比较多而且比较容易啊，也可以允许一个VLAN跨越多个交换机，或者一个端口允许通过几个VLAN的数据~~~~Cisco难道不行？
+基于MAC划分比较麻烦
+
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 21:58:53 2005)  提到:
+
+Cisco貌似只有中继端口可以 被你搞混了 
+我的意思是 huawei的普通端口 也可以在好多不同的vlan  听我听人家说的
+而思科只有中继端口可以传输不同vlan的数据
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 一般都是基于端口划分VLAN比较多而且比较容易啊，也可以允许一个VLAN跨越多个交换机，或者一个端口允许通过几个VLAN的数据~~~~Cisco难道不行？ 
+: 基于MAC划分比较麻烦 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 22:17:11 2005)  提到:
+
+"我的意思是 huawei的普通端口 也可以在好多不同的vlan  听我听人家说的"
+
+汗一个~
+trunk端口跑带VLAN标志的报文，Hybrid（MS这个）端口应该就是你说的那种，不同端口的报文里面不带VLAN的标志的
+
+关于VLAN你可以看看IEEE 802.1Q协议：）
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 22:23:37 2005)  提到:
+
+相比dotQ 偶喜欢ISL解决方案~~~~~~~~  :P
+
+我说不清楚 查了
+KKBLUE的笔记（他是CCIE)
+
+原文如下
+
+cisco交换的vlan成员关系中 ，每个端口只能属于一个vlan， 华为的设备可以实现一个端口多个vlan，但cisco认为这样不安全.
+
+我也认为不安全....汗......
+
+
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: "我的意思是 huawei的普通端口 也可以在好多不同的vlan  听我听人家说的" 
+: 汗一个~ 
+: trunk端口跑带VLAN标志的报文，Hybrid（MS这个）端口应该就是你说的那种，不同端口的报文里面不带VLAN的标志的 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 22:29:43 2005)  提到:
+
+偶没说错把~
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 22:35:17 2005)  提到:
+
+我的意思是华为的有些交换机每个端口都可以属于不同的vlan  你的意思是只有某些 MS如此 哈哈
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 偶没说错把~ 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 22:43:57 2005)  提到:
+
+那是需要具体配置的，把端口配置不同的类型
+表抬出CCIE吓唬偶~偶专业不是学计算机网络地~
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 22:47:53 2005)  提到:
+
+晕 
+我不是吓你 表示可信而已
+
+cisco的交换机没有一台可以这样配置：每个端口都属于多个vlan..
+
+偶也觉得不安全....就是这样 华为可以 思科 不可以 我就想说明这个
+
+偶的专业也不是计算机  
+估计学计算机的都在旁边偷笑咱两.....
+
+
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 那是需要具体配置的，把端口配置不同的类型 
+: 表抬出CCIE吓唬偶~偶专业不是学计算机网络地~ 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 22:54:02 2005)  提到:
+
+没事，抛砖
+
+Cisco的交换机你玩过几台？
+偶就玩过2950，3450，3500……
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 22:56:15 2005)  提到:
+
+拿履历来吓我.......
+
+
+很明显 先理论学习  偶不自卑这个 还小:P 
+
+
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 没事，抛砖 
+: Cisco的交换机你玩过几台？ 
+: 偶就玩过2950，3450，3500…… 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 22:59:51 2005)  提到:
+
+哪敢哪敢~我也不敢怎么弄~弄坏了那赔得起啊~
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Sun Sep 11 23:00:55 2005)  提到:
+
+........那么好的机会怎么不抓住.....
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 哪敢哪敢~我也不敢怎么弄~弄坏了那赔得起啊~ 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Sun Sep 11 23:02:01 2005)  提到:
+
+一开始不知道Reload，不过上电复位这道理偶还是懂地~
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Mon Sep 12 22:08:51 2005)  提到:
+
+说错了，不是3450，是3550……
+
+
+☆─────────────────────────────────────☆
+   iCer (shader shader and more shader) 于  (Mon Sep 12 22:09:52 2005)  提到:
+
+嗯................= =b  竖大拇指表示赞赏~~~~~~~  
+
+
+
+【 在 nvidia (Geforce 7800GTX) 的大作中提到: 】
+: 说错了，不是3450，是3550…… 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Mon Sep 12 22:14:19 2005)  提到:
+
+今天猛然看见一台3550，想起来……
+
+
+ 【文章标题】：WiMAX与Wi-Fi的比较 【文章地址】：https://bbs.byr.cn/article/Communications/1117 【创建时间】：2005-12-28 【作者】：wwsunny 【评论】：7 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: WiMAX与Wi-Fi的比较
+发信站: 北邮人论坛 (Wed Dec 28 19:04:25 2005), 站内
+
+WiMAX與Wi-Fi 的比較
+
+李彥輝 陳世揚 林義能 林盈達
+國立交通大學資訊科學系
+新竹市大學路1001號
+TEL：(03)5712121 EXT. 56667
+E-mail: andycyrus.cs94g@nctu.edu.tw, sychen@nbl.org.tw, {ynlin, ydlin}@cis.nctu.edu.tw
+
+摘要
+802.11 (Wi-Fi)的PHY (physical layer)因傳輸功率的限制，以及其MAC(Medium Access Control layer)因CSMA/CA的IFS (Interframe Space)的限制，使其不適合在長距離傳輸的WMAN (Wireless Metropolitan Area Network 無線都會區域網路)環境下使用。比較802.11 和802.16 (WiMAX)在PHY 與MAC 上的差異可發現，PHY主要的差異是在於傳輸功率以及頻帶，MAC 的差異則是在802.11用CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)，802.16則是TDMA (Time Division Multiple Access)。而802.16 又有分fixed (802.16-2004)與mobile (802.16e)，這兩者的差異主要在802.16e 多了和Handover 與節省能源的相關機制。
+
+1. WiMAX與Wi-Fi的簡介
+WiMAX [1]是Worldwide Interoperability for Microwave Access 的簡寫，是泛指符合802.16無線通訊標準製作出的WMAN通訊器材。這個名詞是由WiMAX forum(一個由許多通訊器材製作公司組成的聯盟)提出的。這個組織的主要目的就是為了能讓所有不同公司根據IEEE (Institute of Electrical and Electronic Engineers) 802.16 無線通訊標準製作出的WMAN 通訊器材能有互通性。802.16有針對fixed WMAN (根據802.16-2004)與支援mobile WMAN (根據802.16e)。Wireless Fidelity [2]，簡稱Wi-Fi，是泛指符合802.11、802.11a、802.11b 和802.11g這幾個無線通訊標準製作出的WMAN通訊器材。這個名詞則是由Wi-Fialliance(類似WiMAX forum 的組織)提出，這個組織則是為了能讓不同公司根據
+IEEE 802.11 標準製作出的WLAN (Wireless Local Area Network 無線區域網路)的通訊器材能有互通性。
+802.11 [2]與802.16 都是由IEEE 所制定的無線通訊標準。802.11 是針對WLAN 設計的，而802.16 則是針對WMAN 設計的。802.16 與802.11 雖然都是針對無線通訊網路而制定出的標準，但是這兩者卻也因其所針對的環境，而在標準的設計上有顯著的差異。WiMAX的fixed 與mobile兩個版本之間因其環境的差異而使得標準上的制定也有所不同。這將是我們這篇文章將會探討的內容。
+
+2. 為何802.11(Wi-Fi)的PHY與MAC不能直接用在802.16(WiMax)?
+早在802.16 問世的時候802.11 就已經是一個已經風行於市場上的無線區域網路通訊標準，那為何換到無線都會區域網路的時候卻要重新制定新的標準？為什麼不能直接繼續使用802.11的標準呢？主要是有以下的原因。
+
+802.11 PHY的power不適用
+Wi-Fi 所使用的頻帶是在無須執照的ISM 頻帶，此頻帶雖然任何人都能來使用但為了維持所以使用此頻帶者的公平性，其傳輸功率不可太大(見表一)。而影響無線傳輸的傳輸距離的一個主要因素就是訊號的功率，所以802.11 標準所制定的傳輸功率強度本身就限制了802.11 能傳輸的距離。這是802.11 不適合用在無線都會區域網路的一個主因。
+另外，802.11所選用的頻帶和頻寬會限制在一個AP (Access Point)的涵蓋範圍內能有多少個其他的AP。由於802.11 最多同時可有3 個不同的頻道(channel)進行傳輸，所以在一個AP 的涵蓋範圍內，最多只能再出現兩個AP。這同時也就會對於我們在單位面積內能服務多少個MT (Mobile Terminal)有了限制。就應用方面來說，因為這個限制，所以802.11 並不適用在需要服務多個MT 的公眾服務環境。
+
+802.11 MAC的CSMA不適用
+CSMA/CA 因為要確定媒介是否有人要使用，必須要等一個IFS (interframe space)的時間。這個時間的長度也就是決定了我們所能容忍的propagation delay的時間長度，而直接決定最長的傳輸距離。如果要把傳輸距離拉長，勢必要把IFS的時間拉長，但是這就會造成花過多的時間在等IFS 而浪費了本來可以用來傳輸資料的時間。另一方面來說，CSMA/CA 主要是為了能處理hidden terminal 與exposed terminal 的問題。如果在傳輸距離比較長的都會區域網路下，所有的station 有效傳輸距離加長，也就會增加hidden terminal與exposed terminal發生的機會。如果還要使用CSMA/CA來解決這個問題必須要拉長IFS 的時間，就會發生同上段的問題。
+
+3. WiMAX與Wi-Fi的PHY與MAC之差異?
+由上述我們可以了解到Wi-Fi 因為802.11 標準上的限制所以不適用在WMAN的環境。接下來，我們更進一步地從PHY、MAC、QoS 等層面探討Wi-Fi(802.11)和WiMAX (802.16)的差異。
+
+802.16與802.11 PHY的比較
+兩者PHY的比較如同(表一)所示。從base band來說，802.16與802.11 並沒有太大的差距。當我們數位的資料要傳輸出去時，首先就就要進行modulation，然後再透過channel access的方法將資料透過載波傳送出去。802.16和802.11兩者modulation的方式都差不多；從channel access來說，802.11是到802.11a/g採用OFDM (Orthogonal Frequency Division Multiplexing)。OFDM 能解決在NLOS(Non-Line of Sight) 的傳輸因multipath 產生的ISI (Inter Symbol Interference)干擾。802.16 的設計也是因考慮這項因素而採用OFDM。資料的傳輸是雙向的，
+有分上傳和下載。802.16 是使用TDD (Time Division Duplexing) 或FDD(Frequency Division Duplexing) 讓上傳跟下載在不同的時間或不同的頻帶傳輸來達到雙向的溝通，也需要搭配MAC 的協助才能做到這點。802.11的上傳還有下載則都是透過MAC的CSMA/CA機制讓上傳和下載去競爭使用媒介的機會。在802.11n 有提出MIMO-OFDM (Multiple Input and Multiple Output)，利用多個天線，每個天線都運用OFDM 的方式傳遞部分的資訊，再由接收端透過多個天線來接收由發送端各個天線送來的資料。因為從每個傳送端的一個天線到接收端的一個天線所走的路徑會因multipath 而不見得相同，所以藉由數個不同路徑傳遞的資料，我們可以有數個頻寬進行傳送。舉例來說，假如有兩個不同的路徑，每個路徑各有54 Mbps 的頻寬，則兩個路徑合起來就有108 Mbps 的頻寬。然而這需要在multipath 較容易影響的室內環境才容易運作。802.16 並沒有使用這種方法增加傳送速度，雖然在NLOS 的情況下也會有multipath，但是經過長距離的傳輸後，要分辨出兩個路徑的差異並不容易。就應用的角度來說，MIMO很適合在室內的家庭環境，提供像是多媒體等需要高傳遞速率的服務。當資料經過modulation 再透過載波送出，802.16 比起802.11 有更多種的頻寬與頻帶的選擇。如果使用需要執照的10~66GHz，802.16 還可以用更強的傳輸功率來增加傳輸距離。只是此頻帶頻率較高，所以只能進行LOS (Line of Sight)的傳輸。就傳輸功率來說，802.16 可以使用的傳輸功率比起802.11 高很多，也因此讓802.16有比802.11 更遠的傳輸距離。
+
+802.16與802.11 MAC的比較
+兩者MAC 的比較如同(表二)所示，可從媒介共用方式、連線、QoS 等方面探討。
+媒介共用方式的比較
+802.16是用TDMA (Time Division Multiple Access) 讓BS (Base Station) 去排定每個 SS (Subscriber Station) 可以傳送資料和聽取BS 傳送的資料的時間。802.11則是用CSMA/CA讓所有的station去競爭傳輸機會(不過也有無競爭由BS來排定SS 可以傳輸的時機，在此不額外贅述)。
+802.16 雖然主要都是TDMA為主，但是當有新的station 要進入或有station要跟BS 取得更多頻寬發送request 的時候，必須要透過上傳中一段利用類似Ethernet 的exponential backoff 的機制讓每個station 隨機決定再傳送的時間。如果兩個stations 選擇相同的時間則會發生碰撞，BS也就無法對發生碰撞的station給予回覆。未收到回覆，則station就會知道發生碰撞而進行backoff重新選擇傳送時間。802.11的CSMA/CA需要所有的Station去競爭媒介的使用權，每個station都會在要傳的時候先等一個IFS 的時間再加上一個隨機長度的CW (Contention Window) 的時間。經過這段時間如果媒介還是沒人使用傳送端就會發送RTS(Ready to Send) 來告知接收端準備接收資料，同時也讓在傳輸端週遭的stations知道他要進行傳送。接收端則會發送CTS (Clear to Send)來告知傳送端可以傳送資料，同時讓週遭的station 知道他要進行接收。
+連線的比較
+就BS和SS的連線來說，802.16 除了要知道哪些SS 和他建立連線，也必須要考慮到每個SS 和BS 建立的連線所佔有的頻寬，但802.11 的BS 只純粹關切有哪些SS和他建立連線。在連線建立後，必須要考慮資料傳輸的可靠性(reliability)還有安全性(security)。802.16 是使用ARQ (Automatic Repeat Request)，ARQ只要發送針對某個封包發送ACK就表示在這個封包之前所有的封包都被接收到。802.11 則是確保封包傳送後有被接收的作法是讓接受端發送一個ACK(acknowledge)的封包，來告知傳送端有順利接收到這個封包，沒收到ACK 傳送端就會認定這個封包沒有被送達而重傳。但是802.11 發送ACK只是確保封包有被接收端收到並不會去理會這個封包是由哪個連線送出，因而沒有連線的觀念。而 802.16 使用的ARQ 則會針對各個連線來做。就安全性來說， 802.16 是利用cryptographic suite和PKM (key management protocol)；由cryptographic suite來讓BS 與SS 得知要使用的加密與認證的演算法，再由PKM 來管理BS 與SS 間共用的encryption key。而802.11最初使用的authentication 和WEP(Wired EquivalentPrivacy)機制其實很弱。所以後來Wi-Fi Alliance 便依照802.11i [5]提出WPA(Wi-Fi Protected Access)和WPA2 (Wi-Fi Protected Access 2)來加強Wi-Fi 的安全性。Wi-Fi 在採用WAP 與WAP2 之後，其安全性才能和WiMAX匹敵。
+QoS相關比較
+在進行資料傳輸的時候也必須要考慮到QoS，來維持一定的傳輸品質。802.16 是在標準中就有提出對於QoS 的各種標準與要求，是parameterized 的QoS。802.16 另外也有定義4種scheduling的服務分別：UGS (Unsolicited GrantService)、rtPS (real-time Polling Service)、nrtPS (non-real-time Polling Service)、BE(Best Effort)。而要能達到這些服務的需求，則需要QoS 的搭配。而802.16也有
+訂出讓SS 向BS 要求更多頻寬的方法與過程，以便達到其所需要的通訊品質。
+802.11的QoS則是在802.11e [6]定的，他是在MAC的DCF (distributed coordinate function) 之上增加兩個function: EDCA (HCF (Hybrid coordination function)contention-based channel access) 和HCCA (HCF controlled channel access)，分別提供以priority的QoS 與parameterized 的QoS。相對於此，Scheduling跟要求頻寬在802.11e是有提到由HCCA實現，只是並沒有提出詳細的方法。就應用的角度來說，QoS對於多媒體這一類需要有固定傳輸量的應用需求比較高；對於企業的內部來說，資料的傳輸大概都是data為主，不需要用到QoS。
+其他項目的比較
+除了基本BS 與SS 間的unicast，802.11與802.16都還能提供multicast。然而802.11的multicast 比起802.16較不可靠，因為802.11的multicast在BS發送multicast 的封包後所有的接收端都不回傳ACK，雖然可以增加傳輸效率，但卻降低資料傳輸的可靠性。802.16 則是讓所有要接收multicast 封包的接收端共用一個CID (connection identifier)，所以所有的接收端只要聽到由BS送來的資料是該CID就接收下來，各個SS 也能在之後各自上傳的時間回傳確認訊息。由於WiMAX是用於距離較長的室外環境，傳輸媒介的的變化對於傳輸品質的好壞有很大的影響。故在802.16中有定義Ranging的程序，來調整傳輸時PHY的各種參數 (ie. Burst profile，包含modulation 方式、使用的bandwidth、等等)。由於好的傳輸品質就會有比較低的資料傳輸量，而高資料傳輸量卻常導致較低的傳輸品質，因此Ranging 主要就是從傳輸品質與資料傳輸量取得一個平衡。802.11k也有提出Ranging的功能，來讓BS能適應MT位置上的變化造成的影響。
+從應用的角度來說，802.11 和802.16 的安全性都不足以讓企業採用。乙企業的角度來說，通常會希望能限制所有企業內的人員都使用企業本身的網路系統。在有線的情況下這點很容易達成，但是無線的情況就很難掌控。企業內部的員工有機會可以透過非企業本身AP 連上線，也很有可能讓外面的人透過企業內部的AP 連入企業內部的網路系統。
+
+4. WiMAX的fixed(802.16-2004)版本與mobile(802.16e)版本的差異?
+802.16-2004 的標準主要是針對定點的用戶端，而802.16e [7]則是除了定點的用戶端，還能提供服務給具有移動性的用戶端。802.16e目前還仍然在制定中，主要是以802.16-2004為基礎。與移動性最密切的有兩個議題：HO (Handover)與Power。為HO 發生在MT因移動而從原本的BS 涵蓋範圍進入另一個BS 的涵蓋範圍時切換的動作。或是MT同時在多個BS的涵蓋範圍內，由訊號較弱的BS換到訊號較強的BS。Power則是指MT本身的電能的損耗，由於MT能攜帶的電量有限，進行傳輸或接收資料的時候都會消耗電能，所以有效的使用MT的電源也是很重要的議題。我們下面就針對這兩點來探討在802.16e上新增的部份。
+
+802.16e 的MAC增設項目
+802.16e在MAC 上增加的項目如表三所示。從HO的角度來說，802.16e主要的修改與新增的項目在於其管理訊息。對於Ranging的訊息新增與HO相關的參數。另外也新增了許多在HO 過程中會需要的管理訊息，像是(1)由周遭其他BS 提供給MT有關BS狀況的Neighbor advertisement 訊息，(2)由MT主動提出向周遭BS發送scanning interval allocation request 訊息來尋找適合連線的BS 再由BS發送 scanning interval allocation report 回覆MT，(3)由BS 發給MT要求其進行HO 的handover request，或是由MT 主動向BS 要求進行HO 而發送的handover request，再由BS 回傳MT handover response，以及(4) MT在進行HO前告知BS的Handover indication訊息，等等。這些都是在HO進行時做溝通用的訊息。
+從Power 的角度來說，802.16e 針對各種scheduling 服務定義了3 種不同的Sleep mode 以達到省電的目的。這些模式的切換是MT 透過Sleep request 告知BS 它所要採用的省電模式，BS再透過Sleep response回應表示確認。
+
+802.16e 的PHY增設項目
+從PHY的角度來說，802.16e在802.16-2004低頻率(2~11GHz)的部分增加了mobility的選擇性，其增加的項目主要都在OFDMA的部分，如表四所示。在mobile 的環境下，一個MT 可能同時在好幾個BS 的涵蓋範圍內，這些BS 統稱為Active BS。其中，只有一個BS是MT透過它來連上網路，也就是所謂的Anchor BS。
+在HO來說，因為在處裡SHO (soft handover)的時候MT會同時和兩個以上的BS做資料上的交換來完成HO的整個流程。因此，在DL-MAP (BS 告知所有MT在下載時所有station共用媒介的方法)和UL-MAP (BS 告知所有MT在上傳時所有station 共用媒介的方法)增加表中的各種IE (Information Element)。HOanchor active DL-MAP IE 是在一個Active BS (但不是anchor)的DL-MAP，告知在該區間傳遞的資料是從Anchor BS 來的。HO active anchor DL MAP IE 是在一個Anchor BS 的DL-MAP，告知在該區間傳遞的資料是從Active BS (但不是anchor)來的。HO anchor active UL MAP IE 與HO active anchor UL MAP IE 則是反過來表示MT 可以傳遞資料到Active BS 或anchor BS 的時機。HO CID translation MAP IE 是為了能把Active BS 對MT的CID與Anchor BS 對MT的CID做轉換用的，因為不同的BS對同一個MT不會給予相同的CID，所以透過此IE 來做轉換。
+就Power來說，增加了open loop power control來控制MT上傳時的訊號強度。Open loop power control是MT透過DL的訊號強度直接去推算UL應該傳遞的強度，沒有任何由MT回傳給BS 的資訊。
+其他方面來說，802.16e 還有增加告知Multicast 或Broadcast 傳遞時機的Multicast &amp; Broadcast service MAP IE。DL PUSC allocation in other segment IE 和UL PUSC allocation in other segment IE 則是讓MT與其他的非Anchor BS 透過別的Segment (在OFDMA切分眾多subcarrier 的單位)進行溝通。
+
+5. 結論
+802.11 因為PHY 與MAC 上分別有對於power 的限制CSMA/CA 的IFS 限制因而未被運用在有長距離傳輸的WMAN環境。我們進一步探討了802.11 和802.16 兩者的差異點，就PHY 來說802.16 的訊號功率比起802.11 強許多，而且能使用的頻帶也比802.11多；不僅能傳的遠，也可以提供服務給更多的MT。就MAC 來說，802.11 使用CSMA/CA而802.16則是TDMA；一個以競爭為基礎，另一個則是以BS來進行排程。最後，我們也探討了802.16e為了支援mobility新增處裡handover與節省電源的相關項目。
+就應用的角度來說，WiMAX 主要會被用在公眾服務，而Wi-Fi 主要是被運用在像是家庭這一類室內環境。Wi-Fi 的產品就只能收取賣出硬體後的錢，WiMAX 則是可以額外從提供公眾服務有更進一步的獲利。不過這兩者的安全性都無法被企業所接受，而無法應用在企業的內部環境。而WiMAX 與Wi-Fi 唯一會有互補的情況就是以fixed WiMAX 作為last mile，Wi-Fi 運用在LAN的部份。
+
+參考文獻
+[1] WiMAX Forum, <a target="_blank" href="http://www.wimaxforum.org/home.">http://www.wimaxforum.org/home.</a>
+[2] Wi-Fi Planet, <a target="_blank" href="http://www.wi-fiplanet.com/.">http://www.wi-fiplanet.com/.</a>
+[3] ANSI/IEEE Std 802.11, “Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications,” 1999 Edition (R2003).
+[4] IEEE Standard, “802.16-2004 Part 16: Air Interface for Fixed Broadband Wireless Access Systems,” Oct 2004.
+[5] IEEE Standard, “802.11i Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications. Amendment 6: Medium Access Control (MAC) Security Enhancements,” 2004.
+[6] IEEE Standard, “802.11e Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications. Amendment: Medium Access Control (MAC) Quality of Service (QoS) Enhancements,” Jan 2005.
+[7] IEEE Standard, “Draft IEEE Standard for Local and metropolitan area networks Part 16: Air Interface for Fixed and Mobile Broadband Wireless Access Systems Amendment for Physical and Medium Access Control Layers for Combined Fixed and Mobile Operation in Licensed Bands,” Feb 2005.
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.187.*]
+ 
+【文章标题】：[合集] 集线器和交换机的区别之疑问求解！ 【文章地址】：https://bbs.byr.cn/article/Communications/1124 【创建时间】：2005-12-28 【作者】：wwsunny 【评论】：0 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: [合集] 集线器和交换机的区别之疑问求解！
+发信站: 北邮人论坛 (Wed Dec 28 19:35:10 2005), 站内
+
+☆─────────────────────────────────────☆
+   bronzesmith (铜) 于  (Mon Oct 24 11:13:15 2005)  提到:
+
+集线器和交换机的区别：
+   集线器就是所有的用户共享总线，网络上的计算机必须竞争对传输媒体到控制，在一个特定的时刻，至多有一台计算机能够发送数据，那么该用户的速率就是10Mbps，怎么会出现有的书上说的每个用户的平均带宽只有总带宽10M的N分之一呢？
+   而交换机由于采用了交换原理，用户在通信时是独占而不是和其他网络用户共享传输媒体的带宽，因此速率当然就是10Mbps了。  
+   此处的用户带宽怎么理解？是从总的时间来看呢，还是怎么回事？望高手给予指点一二！！谢谢！
+
+
+☆─────────────────────────────────────☆
+   deazi (惰性50%) 于  (Mon Oct 24 12:11:46 2005)  提到:
+
+集线器上数据的发送是广播方式/带碰撞检测，所以同一时间只有一个用户可以发送，而根据概率，只有1/N的时间可以成功发送，所以带宽只有1/N;
+
+
+【 在 bronzesmith (铜) 的大作中提到: 】
+: 集线器和交换机的区别： 
+:    集线器就是所有的用户共享总线，网络上的计算机必须竞争对传输媒体到控制，在一个特定的时刻，至多有一台计算机能够发送数据，那么该用户的速率就是10Mbps，怎么会出现有的书上说的每个用户的平均带宽只有总带宽10M的N分之一呢？ 
+:    而交换机由于采用了交换原理，用户在通信时是独占而不是和其他网络用户共享传输媒体的带宽，因此速率当然就是10Mbps了。   
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   deazi (惰性50%) 于  (Mon Oct 24 12:13:03 2005)  提到:
+
+交换机是根据MAC地址识别传输目的地，每个用户的发送都可以同时进行
+【 在 bronzesmith (铜) 的大作中提到: 】
+: 集线器和交换机的区别： 
+:    集线器就是所有的用户共享总线，网络上的计算机必须竞争对传输媒体到控制，在一个特定的时刻，至多有一台计算机能够发送数据，那么该用户的速率就是10Mbps，怎么会出现有的书上说的每个用户的平均带宽只有总带宽10M的N分之一呢？ 
+:    而交换机由于采用了交换原理，用户在通信时是独占而不是和其他网络用户共享传输媒体的带宽，因此速率当然就是10Mbps了。   
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   bronzesmith (铜) 于  (Mon Oct 24 14:13:02 2005)  提到:
+
+多谢！
+   是否如此：假如统计10分钟的时间，10个用户的LAN，使用集线器的LAN中每个用户平均占用总线1分钟，而使用交换机的LAN则每个用户可占到10分钟总线，这样所谓的占用总线带宽的1/N就是指时间而言的 ，而速率都是10Mbps不变的，而不是1Mbps。对否？
+
+
+☆─────────────────────────────────────☆
+   deazi (惰性50%) 于  (Tue Oct 25 10:05:29 2005)  提到:
+
+恩
+时间上各主机争用信道
+【 在 bronzesmith (铜) 的大作中提到: 】
+: 多谢！ 
+:    是否如此：假如统计10分钟的时间，10个用户的LAN，使用集线器的LAN中每个用户平均占用总线1分钟，而使用交换机的LAN则每个用户可占到10分钟总线，这样所谓的占用总线带宽的1/N就是指时间而言的 ，而速率都是10Mbps不变的，而不是1Mbps。对否？ 
+
+
+
+
+☆─────────────────────────────────────☆
+   Temocully (Prince.Z.C) 于  (Tue Oct 25 13:23:40 2005)  提到:
+
+……没学过吗？
+
+
+
+☆─────────────────────────────────────☆
+   zaijian (北邮饿殍|八卦帮之地火明夷) 于  (Sun Nov  6 14:59:34 2005)  提到:
+
+呵呵
+
+
+☆─────────────────────────────────────☆
+   lovesky (爱的冬天已远去) 于  (Mon Nov  7 23:43:06 2005)  提到:
+
+这个态度不太好啊，
+绝对是鼓励大家把不明白的地方提出来的，
+但是，因为你明白别人不明白的地方就可以用这样一种口气？~~
+
+毕竟，大家都是从不明白到明白的过程的
+【 在 Temocully 的大作中提到: 】
+: ……没学过吗？ 
+
+
+
+☆─────────────────────────────────────☆
+   fxb010 (波波) 于  (Tue Nov 15 18:46:57 2005)  提到:
+
+哪路由器是啥原理？
+
+
+☆─────────────────────────────────────☆
+   deazi (惰性50%) 于  (Tue Nov 15 18:49:58 2005)  提到:
+
+复杂得多
+GOOGLE之
+【 在 fxb010 (波波) 的大作中提到: 】
+: 哪路由器是啥原理？ 
+
+
+
+
+☆─────────────────────────────────────☆
+   nvidia (Geforce 7800GTX) 于  (Wed Nov 16 17:02:41 2005)  提到:
+
+集线器：物理上的线路之间连接，只可能半双工工作，报文被广播到每个端口，然后每个端口所连接的设备提取属于自己的报文
+
+交换机：工作在链路层，根据MAC表转发报文，可以工作在全双工方式，对于每个待转发的报文，只转发到MAC表对应的端口。对于MAC表没有的地址，第一包广播，根据收到的回应报文学习MAC地址存入MAC表。采用ASIC硬件转发，效率高
+
+路由器：一般用来连接不同的物理网络，工作在网络层，根据路由表转发IP报文，转发效率低
+
+
+☆─────────────────────────────────────☆
+   Illidan (伊拉丹) 于  (Thu Dec  1 20:52:39 2005)  提到:
+
+在这也能遇到你啊，n卡同学，hoho。
+
+好像IP层的PDU一般是叫datagram，中文文献一般称之数据报；不过好像现在流行用packet（分组）这个词，以前datagram和packet是有联系和区别的，现在有不少关于IPv6的文献都不用datagram这个词，一率用packet。只有应用层的PDU才叫报文，E文里叫message.
+
+路由器只有IP层（TCP/IP模型）以下的东东，在网络接口层如果用以太网，它的那个接口也只是所在以太网中的一个普通成员。路由器一般有多个网络接口，如果都接在有交换机的以太网里，也各自只是一块普通的网卡。
+
+
+
+ 
+
+【文章标题】：这里的斑竹好负责啊~~赞一个！ 【文章地址】：https://bbs.byr.cn/article/Communications/1104 【创建时间】：2005-12-28 【作者】：ztmm 【评论】：6 【内容】：发信人: ztmm (zitan素偶mj), 信区: Communications
+标  题: 这里的斑竹好负责啊~~赞一个！
+发信站: 北邮人论坛 (Wed Dec 28 00:11:35 2005), 站内
+
+rt
+顺便问个问题：
+
+能否介绍一些关于WiMAX的基础知识以及其关键技术？
+
+本人菜鸟，希望多多了解一下相关知识。
+
+--
+<marquee width="100%" behavior="alternate" scrollamount="3"><span style="text-shadow:0px 0px 2px red">[color=white]<b>  春天偶不要把老公埋在地下</b>[/color]</span>
+<span style="text-shadow:0px 0px 2px limegreen">[color=white]<b>恩对，有一个老公陪着偶就够了</b>[/color]</span></marquee>
+
+
+※ 修改:·ztmm 于 Dec 28 00:12:09 修改本文·[FROM: 59.64.217.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.217.*]
+ 
+【文章标题】：【请问】这里有人熟悉 FDTD吗? 【文章地址】：https://bbs.byr.cn/article/Communications/1137 【创建时间】：2005-12-29 【作者】：missu 【评论】：1 【内容】：发信人: missu (笨笨), 信区: Communications
+标  题: 【请问】这里有人熟悉 FDTD吗?
+发信站: 北邮人论坛 (Thu Dec 29 13:09:04 2005), 站内
+
+最近想用FDTD法分析电磁场问题
+老师说可以用C，我打算用Matlab
+但是对吸收边界的处理不是很明白
+这里有没有熟悉FDTD的？
+请问PML吸收层的设置是怎么样的呢？
+^_^
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.138.*]
+ 
+
+【文章标题】：请教各位达人：组建一个网站都有哪些方法？ 【文章地址】：https://bbs.byr.cn/article/Communications/1139 【创建时间】：2005-12-29 【作者】：xiayifantasy 【评论】：4 【内容】：发信人: xiayifantasy (lavender), 信区: Communications
+标  题: 请教各位达人：组建一个网站都有哪些方法？
+发信站: 北邮人论坛 (Thu Dec 29 13:53:02 2005), 站内
+
+如果组建一个自己的商务网站，都需要哪些硬件设备呢？
+如果放到别人的服务器上是不是要缴费？大概都怎么个行情？
+请大家指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.206.*]
+ 
+【文章标题】：什么是ATM技术 【文章地址】：https://bbs.byr.cn/article/Communications/1158 【创建时间】：2005-12-31 【作者】：wwsunny 【评论】：0 【内容】：发信人: wwsunny (猕猴桃), 信区: Communications
+标  题: 什么是ATM技术
+发信站: 北邮人论坛 (Sat Dec 31 00:51:35 2005), 站内
+
+
+电信技术名词解释：什么是ATM技术 
+
+--------------------------------------------------------------------------------
+ 
+http://www.sina.com.cn 2004年07月08日 17:18 新浪科技 
+ 
+　　一、ATM的产生 
+
+　　自Alexander Graham Bell于1870年发明电话后，为有效地连接日益增多的电话用户，电话交换网应运而生。它经历了人工交换，机电式自动交换系统以及数字程控系统发展过程，但电路交换的原理一直未变。随着计算机的普及，电话网通过使用Modem来进行计算机数据传输及数据信息交换，随之产生了公用数据网，其典型的代表是X.25分组交换网，它是基干包交换的一种技术，具有信输可靠性高的优点，但由于Modem速率及交换技术本身限制, X.25只能处理中低速数据流。虽然LAN(局域网)技术的发展突飞猛进, 如Ethernet 、Token ring、Token bus等,传输速率已可达千兆,但它局域网的性质本身就大大限制了LAN的大规模的覆盖及应用,目前的LAN一般用于企业内部的数据传送,无法形成广域网的规模。 
+
+　　由此我们不难看出,传统网络普遍存在以下缺陷:第一,业务的依赖性,一般性网络只能用于专一服务,公用电话网不能用来传送TV信号,X.25不能用来传送高带宽的图像和对实时性要求较高的语言信号;第二,无灵活性,即业务拓展的可能性不大,原有网络的服务质量,很难适应今后出现的新业务;第三,效率低,一个网络的资源很难被其它网络共享。 
+
+　　随着社会不断发展,网络服务不断多样化,人们可以利用网络干很多事情,如收发信件、家庭办公、Video on demand、网络电话,这对网络的要求越来越高,有人还不禁提出这样一个想法:能否把这些对带宽、实时性、传输质量要求各不相同的网络服务由一个统一的多媒体网络来实现,做到真正的一线通?回答是肯定的,这就是ATM网。幸运的是,现在的半导体和光纤技术为ATM的快速交换和传输提供坚实的保障。目前的CMOS处理能力已达二三百兆,ECL可达5到10G。SDH和SONET技术提供了大容量的可靠传输,目前的STM-I标准为155.52M。 
+
+　　二、ATM技术 
+
+　　ATM(Asynchronous Transfer Mode)顾名思义就是异步传输模式,就是国际电信联盟ITU-T制定的标准,实际上在80年代中期，人们就已经开始进行快速分组交换的实验，建立了多种命名不相同的模型，欧洲重在图象通信把相应的技术称为异步时分复用(ATD)美国重在高速数据通信把相应的技术称为快速分组交换(FPS),国际电联经过协调研究，于1988年正式命名为Asynchronous Transfer Mode(ATM) 技术，推荐其为宽带综合业务数据网B-ISDN的信息传输模式。 
+
+　　ATM是一种传输模式，在这一模式中，信息被组织成信元，因包含来自某用户信息的各个信元不需要周期性出现，这种传输模式是异步的。 
+
+　　ATM信元是固定长度的分组，共有53个字节，分为2个部分。前面5个字节为信头，主要完成寻址的功能；后面的48个字节为信息段，用来装载来自不同用户，不同业务的信息。话音，数据，图象等所有的数字信息都要经过切割，封装成统一格式的信元在网中传递，并在接收端恢复成所需格式。由于ATM技术简化了交换过程，去除了不必要的数据校验，采用易于处理的固定信元格式，所以ATM交换速率大大高于传统的数据网，如x.25，DDN,帧中继等。另外，对于如此高速的数据网，ATM网络采用了一些有效的业务流量监控机制，对网上用户数据进行实时监控，把网络拥塞发生的可能性降到最小。对不同业务赋予不同的"特权"，如语音的实时性特权最高，一般数据文件传输的正确性特权最高，网络对不同业务分配不同的网络资源，这样不同的业务在网络中才能做到"和平共处"。 
+
+　　上图就是ATM的一般入网方式，与网络直接相连的可以是支持ATM协议的路由器或装有ATM卡的主机，也可以是ATM子网。在一条物理链路上，可同时建立多条承载不同业务的虚电路，如语音，图象，文件传输等。 
+
+　　三、ATM业务介绍 
+
+　　我们先来看一下ATM简化的协议分层示意图 
+
+　　ATM采用了AAL1、AAL2、AAL3/4、AAL5、多种适配层,以适应A级、B级、C级、D级四种不同的用户业务,业务描述如下: 
+
+　　　A 级 - 固定比特率(CBR)业务:ATM适配层1(AAL1),支持面向连接的业务,其比特率固定,常见业务为64Kbit/s话音业务,固定码率非压缩的视频通信及专用数据网的租用电路。 
+
+　　　B 级 - 可变比特率(VBR)业务:ATM适配层2(AAL2)。支持面向连接的业务,其比特率是可变的。常见业务为压缩的分组语音通信和压缩的视频传输。该业务具有传递介面延迟物性,其原因是接收器需要重新组装原来的非压缩语音和视频信息。 
+
+　　　C 级 - 面向连接的数据服务:AAL3/4。该业务为面向连接的业务,适用于文件传递和数据网业务,其连接是在数据被传送以前建立的。它是可变比特率的,但是没是介面传递延迟。 
+
+　　　D 级 - 无连接数据业务:常见业务为数据报业务和数据网业务。在传递数据前, 其连接不会建立。AAL3/4或AAL5均支持此业务。 
+
+　　注: ⑴. 由于AAL3/4协议技术复杂,于是提出AAL5用来支持C级业务。 
+　　⑵. 对于每级的业务,我们还可细分, 这里不一一赘述。 
+
+　　四、ATM应用举例-LANE 
+
+　　LANE指的是LAN Emulation Over ATM, 即在ATM网上进行LAN局域网的模拟。 
+
+　　大多数数据目前都是LAN上传送,例如Ethernet网等。在ATM网上应用LANE技术, 我们就可以把分布在不同区域网互联起来，在广域网上实现局域网的功能，对于用户来讲, 他们所接触到仍然是传统的局域网的范畴, 根本感觉不到LANE的存在。 
+
+　　LANE技术主要用到了LANE Server, 它可以存在于一个或多个交换机内, 也可以放在一台单独的工作站中, LANE Server可简写为LES, 主要功能就是进行MAC-to-ATM的地址转换,因为Ethernet用的是MAC地址，ATM用的自己的地址方案，通过LES地址转换可以把分布在ATM边缘的LANE Client之间连接起来。 
+
+　　下图就是LANE的工作方式 
+
+　　1、LAN Switch从Ethernet终端接收到一个帧, 这个帧的目的地址是ATM网络另一端的一台Ethernet终端。LEC即LANEClient(它驻留在LAN Switch中)于是就发送一个MAC-to- ATM地址转换请求到LES(LES驻留在ATM Switch中)。 
+
+　　2、LES发送多点组播至网络上的其它LEC。 LANE的工作方式 
+
+　　3、在地址表中含有被叫MAC地址的LEC向LEC作出响应。 
+
+　　4、LEC接着便向其它LEC广播这个响应。 
+
+　　5、发送地址转换请求的LEC认知这个响应, 并得到目的地的ATM 地址, 接着便通过ATM网建立一条SVC至目的LEC, 用ATM信 元传送数据。 
+
+　　五、上海ATM骨干网节点介绍 
+
+　　全国ATM骨干网上海节点建于1997年4月, 开通后网络运行稳定。目前已与北京、南京、广州、杭州、西安、沈阳、武汉各大局之间直接开通了155M电路，另外还有若干大容量电路开至其它省会城市，全网业已全部联通，规模覆盖全国，具有带宽高、延迟小、无瓶颈等特点，是网络多媒体应用的最佳选择。 
+
+　　目前网络提供交换型虚电路(SVC)和永久型虚电路业务,接口类型支持BNC电口和单、多模光纤, 物理接入速率有2M、34M、155M, 能满足任何业务的需求。 
+
+--
+
+※ 修改:·wwsunny 於 Jan  1 15:31:24 修改本文·[FROM: 59.64.187.*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.149.*]
+ 
+【文章标题】：ATM和SDH分别是在网络的哪一部分？ 【文章地址】：https://bbs.byr.cn/article/Communications/1160 【创建时间】：2005-12-31 【作者】：Nyquist 【评论】：2 【内容】：发信人: Nyquist (奈奎斯特), 信区: Communications
+标  题: ATM和SDH分别是在网络的哪一部分？
+发信站: 北邮人论坛 (Sat Dec 31 12:07:21 2005), 站内
+
+一直不太明白....
+--
+要想抽样后能不失真的还原出原信号，则抽样频率必须大于两倍的信号谱的最高频率 ，这就是奈奎斯特抽样定理。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.193.*]
+ 
+【文章标题】：MAC地址问题 【文章地址】：https://bbs.byr.cn/article/Communications/900 【创建时间】：2005-11-03 【作者】：saskei 【评论】：0 【内容】：发信人: saskei (夏天要冰爽), 信区: Communications
+标  题: MAC地址问题
+发信站: BBS 北邮人论坛站 (Thu Nov  3 22:39:56 2005), 站内
+
+I/G 位是只是在mac帧中起寻址作用吗?
+固化在网卡上的对应bit有没有什么作用?
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.233.*]
+ 
+【文章标题】：Re: 咱们学校的地址是什么？c类吗？但是宿舍的是59.64.*.*，是? 【文章地址】：https://bbs.byr.cn/article/Communications/911 【创建时间】：2005-11-06 【作者】：zaijian 【评论】：0 【内容】：发信人: zaijian (北邮饿殍|八卦帮之地火明夷), 信区: Communications
+标  题: Re: 咱们学校的地址是什么？c类吗？但是宿舍的是59.64.*.*，是?
+发信站: BBS 北邮人论坛站 (Sun Nov  6 15:02:20 2005), 站内
+
+
+【 在 from259 的大作中提到: 】
+: 纪红老师说的，是A类的地址，合用的，咱们用了2的15次方个号 
+好学生
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.225.*]
+ 
+【文章标题】：再次求救：我有个奇怪的东西 【文章地址】：https://bbs.byr.cn/article/Communications/838 【创建时间】：2005-10-25 【作者】：llyan988 【评论】：2 【内容】：发信人: llyan988 (lily), 信区: Communications
+标  题: 再次求救：我有个奇怪的东西
+发信站: BBS 北邮人论坛站 (Tue Oct 25 15:18:06 2005), 站内
+
+
+<a target="_blank" href="/att/Communications/0/838/320"><img border="0" title="" src="/att/Communications/0/838/320" alt="" class="resizeable"></a>
+<a target="_blank" href="/att/Communications/0/838/51484"><img border="0" title="" src="/att/Communications/0/838/51484" alt="" class="resizeable"></a>
+<a target="_blank" href="/att/Communications/0/838/184179"><img border="0" title="" src="/att/Communications/0/838/184179" alt="" class="resizeable"></a>
+
+这些都是干什么用的？请大家指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.226.*]
+
+ 
+【文章标题】：Re: hello, everyone 【文章地址】：https://bbs.byr.cn/article/Communications/862 【创建时间】：2005-11-06 【作者】：原帖已删除 【评论】：0 【内容】：发信人: zaijian (北邮饿殍|八卦帮之地火明夷), 信区: Communications
+标  题: Re: hello, everyone
+发信站: BBS 北邮人论坛站 (Sun Nov  6 15:03:46 2005), 站内
+
+还好没有版主
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.225.*]
+ 
+【文章标题】：CISCO 7206的LOG，谁能帮忙看看？ 【文章地址】：https://bbs.byr.cn/article/Communications/894 【创建时间】：2005-11-02 【作者】：vestwood 【评论】：2 【内容】：发信人: vestwood (琴台故径凤求凰), 信区: Communications
+标  题: CISCO 7206的LOG，谁能帮忙看看？
+发信站: BBS 北邮人论坛站 (Wed Nov  2 16:21:54 2005), 站内
+
+我们的设备在#show log 后看到经常有端口和对应Neighbour DOWN掉的情况，谁帮忙看看？
+
+Nov  1 04:10:59.339: %OSPF-5-ADJCHG: Process 1, Nbr 211.137.141.141 on FastEthernet2/0 from LOADING to FULL, Loading Done
+Nov  1 04:11:06.867: %OSPF-5-ADJCHG: Process 1, Nbr 211.137.141.138 on FastEthernet2/0 from LOADING to FULL, Loading Done
+Nov  1 04:58:09.181: %OSPF-5-ADJCHG: Process 1, Nbr 10.1.50.3 on FastEthernet2/0 from 2WAY to DOWN, Neighbor Down: Dead timer expired
+Nov  1 04:58:11.897: %OSPF-5-ADJCHG: Process 1, Nbr 10.1.50.1 on FastEthernet2/0 from 2WAY to DOWN, Neighbor Down: Dead timer expired
+Nov  1 04:58:11.981: %OSPF-5-ADJCHG: Process 1, Nbr 211.137.141.138 on FastEthernet2/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+Nov  1 04:58:13.357: %OSPF-5-ADJCHG: Process 1, Nbr 10.1.51.1 on FastEthernet2/0 from 2WAY to DOWN, Neighbor Down: Dead timer expired
+Nov  1 04:58:14.301: %OSPF-5-ADJCHG: Process 1, Nbr 10.1.51.2 on FastEthernet2/0 from 2WAY to DOWN, Neighbor Down: Dead timer expired
+Nov  1 04:58:14.489: %OSPF-5-ADJCHG: Process 1, Nbr 211.137.141.141 on FastEthernet2/0 from FULL to DOWN, Neighbor Down: Dead timer expired
+Nov  1 04:58:18.533: %OSPF-5-ADJCHG: Process 1, Nbr 10.1.50.2 on FastEthernet2/0 from EXSTART to DOWN, Neighbor Down: Dead timer expired
+Nov  1 05:04:31.995: %OSPF-5-ADJCHG: Process 1, Nbr 211.137.141.138 on FastEthernet2/0 from LOADING to FULL, Loading Done
+Nov  1 05:04:34.503: %OSPF-5-ADJCHG: Process 1, Nbr 211.137.141.141 on FastEthernet2/0 from LOADING to FULL, Loading Done
+--
+ASB＞MCG＞BU１
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 211.137.141.*]
+ 
+【文章标题】：【紧急求教】一个关于网络知识问题 【文章地址】：https://bbs.byr.cn/article/Communications/927 【创建时间】：2005-11-08 【作者】：realOne 【评论】：0 【内容】：发信人: realOne (ｉｃｅＭａｎ), 信区: Communications
+标  题: 【紧急求教】一个关于网络知识问题
+发信站: BBS 北邮人论坛站 (Tue Nov  8 13:46:03 2005), 站内
+
+
+下面是下一代互联网课上老师的问题，麻烦达人帮助一下，谢谢了先 
+向本组其他成员报告 
+向本链路内所有路由器报告 
+向本组内其他成员通知已退出组服务 
+向本链路内所有节点通知已退出组服务 
+ 
+方法方式是什么？
+--
+[quote]╔╦╗╔╦╗╔╦╗╔╦╗ 
+╠从╣╠容╣╠做╣╠事╣ 
+╚╩╝╚╩╝╚╩╝╚╩╝ 
+╔╦╗╔╦╗╔╦╗╔╦╗  
+╠宽╣╠容╣╠做╣╠人╣  
+╚╩╝╚╩╝╚╩╝╚╩╝[/quote]河北人的永久ｑｑ群：８９６５６８０
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.204.*]
+ 
+【文章标题】：[转帖]手机解码<公开类> 【文章地址】：https://bbs.byr.cn/article/Communications/973 【创建时间】：2005-11-17 【作者】：nghxy 【评论】：0 【内容】：发信人: nghxy (我是风), 信区: Communications
+标  题: [转帖]手机解码&lt;公开类&gt;
+发信站: BBS 北邮人论坛站 (Thu Nov 17 17:24:13 2005), 站内
+
+三星解话机锁：*2767*2878#/*2767*7377# 
+三星码片复位：*2767*3855# 也可用于解机锁或卡锁 
+三星显温度、电池容量：*#0228# 
+三星调显示屏对比度：*#0523# 
+三星软件版本：*#9999# 
+三星A100-A188看版本：*#0837# 
+摩托罗拉T2688解所有锁：19980722 
+T2688/2988/988d没有中文：*#0000# OK（插卡） 
+摩托罗拉所有机锁：按MENU+5+1/2 
+西门子恢复出厂设置：*#9999# 
+西门子乱文回中文：*#0000#/*#0086# 
+西门子软件版本：*#06# 左键 
+爱立信老机回英语：*#0000# 
+爱立信新机回英语：按CLR-左键-0000-右键 
+爱立信显出厂日期：右、*、左、左、*、左、*键 
+诺基亚显出厂日期：*#0000#（插卡） 
+诺基亚省30%电：*#746025625# 
+飞利浦强迫重连网：*#2562*# 
+飞利浦显示和更改手机密码：*#7489*# 
+博世(BOSCH)909S回中文：*#0852# 
+博世(BOSCH)909s回英文：*#0851# 
+NEC显软件版本：*#2820# 
+NEC恢复原厂设置：*#73738# 
+波导s1000隐藏功能：*#*#1705# 
+波导s1000解锁：*#*#1705#46(也用于999D,720) 
+如死机再用---24681357（或直接就用它解） 
+波导8xx/9xx系列：*#+串号7-14位# 
+SIM卡 波导串号最后9位去掉最后一位 
+阿尔卡特OT221/220解锁：25228352/ALCATEL+D 
+阿尔卡特OT301/302解锁：83227423 
+阿尔卡特OT500/700解锁：25228352 
+康佳：*#0001# *#1001# ##1001# 
+康佳小雪5219：#8879576# 原始：1234 
+GVC：*#1001* （海尔） 
+南方高科320开机键入##1001#，然后装上卡输入0000 OK 
+三菱NET LOCK：*787090或*787292 
+三菱IMSI LOCK：*362628或*360608 
+三菱NETSUB LOCK：*476989 
+三菱CP LOCK：*482896或*480896 
+三菱SP LOCK：*967678 
+三菱EXT LOCK：*574243 
+
+三星解话机锁：*2767*2878#/*2767*7377# 
+三星码片复位：*2767*3855# 也可用于解机锁或卡锁 
+三星显温度、电池容量：*#0228# 
+三星调显示屏对比度：*#0523# 
+三星软件版本：*#9999# 
+三星A100-A188看版本：*#0837# 
+摩托罗拉T2688解所有锁：19980722 
+T2688/2988/988d没有中文：*#0000# OK（插卡） 
+摩托罗拉所有机锁：按MENU+5+1/2 
+西门子恢复出厂设置：*#9999# 
+西门子乱文回中文：*#0000#/*#0086# 
+西门子软件版本：*#06# 左键 
+爱立信老机回英语：*#0000# 
+爱立信新机回英语：按CLR-左键-0000-右键 
+爱立信显出厂日期：右、*、左、左、*、左、*键 
+诺基亚显出厂日期：*#0000#（插卡） 
+诺基亚省30%电：*#746025625# 
+飞利浦强迫重连网：*#2562*# 
+飞利浦显示和更改手机密码：*#7489*# 
+博世(BOSCH)909S回中文：*#0852# 
+博世(BOSCH)909s回英文：*#0851# 
+NEC显软件版本：*#2820# 
+NEC恢复原厂设置：*#73738# 
+波导s1000隐藏功能：*#*#1705# 
+波导s1000解锁：*#*#1705#46(也用于999D,720) 
+如死机再用---24681357（或直接就用它解） 
+波导8xx/9xx系列：*#+串号7-14位# 
+SIM卡 波导串号最后9位去掉最后一位 
+阿尔卡特OT221/220解锁：25228352/ALCATEL+D 
+阿尔卡特OT301/302解锁：83227423 
+阿尔卡特OT500/700解锁：25228352 
+康佳：*#0001# *#1001# ##1001# 
+康佳小雪5219：#8879576# 原始：1234 
+GVC：*#1001* （海尔） 
+南方高科320开机键入##1001#，然后装上卡输入0000 OK 
+三菱NET LOCK：*787090或*787292 
+三菱IMSI LOCK：*362628或*360608 
+三菱NETSUB LOCK：*476989 
+三菱CP LOCK：*482896或*480896 
+三菱SP LOCK：*967678 
+三菱EXT LOCK：*574243 
+
+三星解话机锁：*2767*2878#/*2767*7377# 
+三星码片复位：*2767*3855# 也可用于解机锁或卡锁 
+三星显温度、电池容量：*#0228# 
+三星调显示屏对比度：*#0523# 
+三星软件版本：*#9999# 
+三星A100-A188看版本：*#0837# 
+摩托罗拉T2688解所有锁：19980722 
+T2688/2988/988d没有中文：*#0000# OK（插卡） 
+摩托罗拉所有机锁：按MENU+5+1/2 
+西门子恢复出厂设置：*#9999# 
+西门子乱文回中文：*#0000#/*#0086# 
+西门子软件版本：*#06# 左键 
+爱立信老机回英语：*#0000# 
+爱立信新机回英语：按CLR-左键-0000-右键 
+爱立信显出厂日期：右、*、左、左、*、左、*键 
+诺基亚显出厂日期：*#0000#（插卡） 
+诺基亚省30%电：*#746025625# 
+飞利浦强迫重连网：*#2562*# 
+飞利浦显示和更改手机密码：*#7489*# 
+博世(BOSCH)909S回中文：*#0852# 
+博世(BOSCH)909s回英文：*#0851# 
+NEC显软件版本：*#2820# 
+NEC恢复原厂设置：*#73738# 
+波导s1000隐藏功能：*#*#1705# 
+波导s1000解锁：*#*#1705#46(也用于999D,720) 
+如死机再用---24681357（或直接就用它解） 
+波导8xx/9xx系列：*#+串号7-14位# 
+SIM卡 波导串号最后9位去掉最后一位 
+阿尔卡特OT221/220解锁：25228352/ALCATEL+D 
+阿尔卡特OT301/302解锁：83227423 
+阿尔卡特OT500/700解锁：25228352 
+康佳：*#0001# *#1001# ##1001# 
+康佳小雪5219：#8879576# 原始：1234 
+GVC：*#1001* （海尔） 
+南方高科320开机键入##1001#，然后装上卡输入0000 OK 
+三菱NET LOCK：*787090或*787292 
+三菱IMSI LOCK：*362628或*360608 
+三菱NETSUB LOCK：*476989 
+三菱CP LOCK：*482896或*480896 
+三菱SP LOCK：*967678 
+三菱EXT LOCK：*574243 
+
+　　*#06#：显示IMEI码 
+　　*#92702689#：显示序列号和IMEI码,带滚动菜单 
+　　第一屏表示 - 手机出厂时间：1197(月月年年)； 
+　　第二屏表示 - 串号和IMEI； 
+　　第三屏表示 - 购买时间：1197(月月年年)可以更改一次 
+　　（但一经输入就不能再作更改，日期会被永久记录） 
+　　第四屏表示 - 最后修理时间：0000(月月年年)维修时设置。 
+　　第五屏表示 - 传输用户数据：退出关闭电话，然后返回。 
+　　如果以上工作不正常，并且电话要求您输入一个合法的代码，可试试 
+
+　　 
+　 
+
+
+
+　　十、5110锁码机解码 
+　　操作步骤：按C,按下 -&gt; 按C不放 -&gt; 按*不放 -&gt; 按*不放 -&gt; 
+　　键入04*PIN*PIN*PIN#，就完成了。 
+
+
+
+
+　　速率编码 
+　　*3370#或*efr#：开启(EFR)全速率编码 
+　　#3370#或#efr#：关闭全速率编码 
+　　（开启全速增强型编码模式，可改善话音质量但会耗电） 
+　　*4720#或*hra0#：开启(HR)半速率编码 
+　　#4720#或#hra0#：关闭半速率编码 
+　　（话音质量降低，但可延长电池大概30%左右使用时间，需网络支持） 
+　　键入这些代码后，会关机重开，然后才能生效。 
+
+　　SIM卡锁信息 
+　　*#746025625# (= *#sim0clock#)：如果SIM卡能被锁，进行检测时键入该指令后，手机显示"SIM CLOCK STOP ALLOWED" or "SIM CLOCK STOP NOT ALLOWED"，这取决于你的SIM卡。 
+　　SIM卡锁信息：包括四种不同的锁 
+　　1).国家锁--锁指定的国家 
+　　2).网络锁--锁指定的网络 
+　　3).供应商锁--锁服务提供商 
+　　4).SIM卡锁--锁指定的SIM卡 
+
+
+　 
+　　 
+
+
+科建 *#722#不插卡调菜单 *#701# 版本号 *#715# 复位码片解锁 *#760# 调节对比度 
+
+
+康佳：*#0001# *#1001# ##1001# 
+康佳小雪5219：#8879576# 原始：1234 
+康佳3118看软件版本：*3118# 
+康佳3228看软件版本：*0519# 
+康佳3238看软件版本：*300# 
+康佳5218解锁：#8879576# 
+康佳3118。3118+。3228解锁：##1001# 
+康佳3118 解除网络锁*94726501# 
+康佳3238解锁：19980722 
+康佳3118 3228只识别一张卡锁：*94726501# 话机锁：##1001# *#0001# 
+GVC：*#1001* （海尔） 
+
+西门子解锁*#003*加解锁码#/就可以了! 
+TCL手机解——8988-8188--8388--999D解密*#*#1705#选4在选6按OK就可以了！（注意 请勿试过多！） 
+爱立信手机： ERICSSON 218/337 
+
+??IMEI??*#06# 
+????????-&gt; * &lt;- &lt;- * &lt;- * CLR 
+
+
+ERICSSON 318/388 
+
+显示IMEI号：*#06# 
+显示软件版本号：-&gt; * &lt;- &lt;- * &lt;- * CLR 
+
+ERICSSON 628 
+
+显示IMEI号：*#06# 
+显示软件版本号：-&gt; * &lt;- &lt;- * &lt;- * 
+读所有编程的文本：-&gt; * &lt;- &lt;- * &lt;- * -&gt; 
+查看电话网络锁状态：&lt; * * &lt; (等待3秒) 
+快速拔上一个电话：0# 
+将电话菜单语言设为英语：*#0000# 
+看电池容量：当关闭电话时快按并放开on/off　　 
+
+
+按 * &lt;- &lt;- *可设置锁(建议不要玩,大多机型也可以) -=-=-=-=-=&gt; 
+飞利浦手机秘籍 
+手机在待机状态下时，请输入以下按键组合： 
+
+*#06#—— 查看IMEI串号 
+
+*#2254*#—— 显示状况行 
+
+*#2255*#—— 开启或关闭（DEBUG CALL）模式 
+
+*#2558*#—— 显示通话时间 
+
+*#2562*#—— 强迫重新连接网络系统 
+
+*#7489*#—— 显示和更改手机密码 
+
+*#7378*#—— 显示一些SIM卡信息，例如相位(phaselevel) 
+
+
+
+
+飞利浦手机秘籍： 
+
+
+*#3377*#—— 读取SIM卡信息，初始化和标示 
+
+*#7693*#—— 开启或关闭睡眠模式 
+
+*#8463*#—— 读取睡眠模式信息 
+
+*#337*#—— EFR模式开/关 
+
+*#4764*#—— 单频/双频设置(切换单频GSM900) 
+
+*#4765*#—— 单频/双频设置(切换单频GSM1800) 
+
+*#4762*#—— 单频/双频设置(切换成双频模式) 
+
+以上指令供有兴趣的网友参考。 
+
+
+　　索尼手机秘籍： 
+索尼CMD-Z1 
+
+　　*#06#——显示IMEI码。 
+
+　　下面的指令将在第一行显示软件版本第二行显示一些CPU和OS信息： 
+　　#8377466# (#version#)。在早期软件版本上，上述方法可能无法进行，不妨试试下面的方法：进入菜单里的“PHONE SETTINGS”，向下轻推至：“FACTORY SETTINGS”然后点击一次，将显示 "Factory Setting Yes No" 。此时不要进行任何操作，让它自行离开此画面。迅速的拨动一下手机右侧的电源开关，然后键入#*04 。 
+　 
+
+索尼手机秘籍： 
+
+　　索尼CMD-1000 
+
+　　*#06#——显示IMEI码。 
+　　Show Software date 
+　　按下列步骤将可查看手机软件数据，取出SIM卡，然后键入： 
+　　*#06#，最后键入[左软键]。 
+　　工程模式 
+　　工程模式内建于手机的“ Network Option ”菜单: 
+　　Menu 
+　　9 (Phone Options) 
+　　7 (Phone Status) 
+　　[左软键] (left MENU key) 
+　　7684666 
+　　[挂机键] (红色挂机键) 
+　　Show Credits 
+　　在电话簿里显示自己的号码；然后删除此号码用下面的号码代替 
+　　+12022243121，然后按 [OK]，...一幅小的布景出现而且手机软件制造人的姓名也显示出来，还有些手机必须键入姓名后按OK。 
+
+　阿尔卡特手机秘籍： 
+　进入工程模式：输入000000*，下到第4项 CHARGE CTRL按OK，随后出现很多显示不用管它，往下翻页直到左下角有个三位数那就是电量显示数 
+TRACES---NETWORK -- 使用中基地台信息 
+RXLEV---登录基地台信息 
+BSIC--- ??????? 
+C1/C2---基地台信息 
+SWOFF CODE--- 10--关机后曾经拿开电池 46--正常关机 
+43--电力耗尽关机 44--自动关机 
+45--用旅充充电 00--手机不正常的关机 
+EMPTY CODE--- 清除 SWOFF CODE 的资料 
+CHARGE CTRL RE 000 --- 电池使用模式 
+
+00000 000 ---充电时间指示 
+0,00 ------电压指示 
+xxxx xxxx 00 充电中电压指示 
+00 NiMH 0000 
+000 0000 
+CHECKER---屏幕检试 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 61.149.33.*]
+ 【文章标题】：作业求助！铁路隧道保护的例子，提出对信号机制的改进措施，以 【文章地址】：https://bbs.byr.cn/article/Communications/16643 【创建时间】：2011-05-13 【作者】：minrui646784 【评论】：0 【内容】：发信人: minrui646784 (merry), 信区: Communications
+标  题: 作业求助！铁路隧道保护的例子，提出对信号机制的改进措施，以避
+发信站: 北邮人论坛 (Fri May 13 10:37:43 2011), 站内
+
+求助，哪位帅哥靓妹帮帮忙。！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.142.21.*]
+ 
+【文章标题】：有做过无线认知网络方面的师哥师姐吗 【文章地址】：https://bbs.byr.cn/article/Communications/16646 【创建时间】：2011-05-13 【作者】：qzmone 【评论】：0 【内容】：发信人: qzmone (qzmone), 信区: Communications
+标  题: 有做过无线认知网络方面的师哥师姐吗
+发信站: 北邮人论坛 (Fri May 13 11:17:32 2011), 站内
+
+小弟现在做毕业设计，是认知无线网络方面的，主要做动态频谱接入技术研究这一块，看了很多相关论文，都是计算当主用户来临时对认知用户性能的影响，如阻塞概率、中断概率等，不知有没师哥师姐做过这方面，能否提供一些相关代码，小弟看Markov实在看不懂，也不知道咋用 
+  
+我的QQ452874195，也可站内，希望做过这方面的给些解答，不胜感激！！！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.179.153.*]
+ 
+【文章标题】：openfire 语音通信的问题 【文章地址】：https://bbs.byr.cn/article/Communications/16200 【创建时间】：2011-04-01 【作者】：yingxinghuan 【评论】：1 【内容】：发信人: yingxinghuan (yingxinghuan), 信区: Communications
+标  题: openfire 语音通信的问题
+发信站: 北邮人论坛 (Fri Apr  1 17:40:44 2011), 站内
+
+openfire 完成部署，用jitsi 以前（sip-communicator） 可以实现语音通信，但是他们走的什么p2p技术。
+openfire官网上说用Smack包可以使用ICETransportManager  3478端口的 STUN 穿洞技术 ;但是运行后 抛出 java.net.PortUnreachableException: ICMP Port Unreachable 异常，lsof -i 3478 发现并没有进程监听 3478 端口，
+
+大概能够明白，客户端之间通过xmpp 相互交换 用于音频的udp通信地址和端口，但是他们具体采用了什么技术协议。
+
+问题
+ 1.sip-communicator/ 或者 pidgin 等是用什么技术来语音通信的？
+ 2.如何用抓包器分析协议，方便找到客户端新开的udp端口
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.148.82.*]
+ 
+【文章标题】：求教自由度的理解 【文章地址】：https://bbs.byr.cn/article/Communications/16579 【创建时间】：2011-05-09 【作者】：Sealand 【评论】：3 【内容】：发信人: Sealand (神马), 信区: Communications
+标  题: 求教自由度的理解
+发信站: 北邮人论坛 (Mon May  9 19:39:03 2011), 站内
+
+自由度定义为：R(snr)/log(snr)当snr趋于无穷大时的极限值，搞不清数为什么这么定义，求教前辈。在实际中有什么物理意义?
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.195.*]
+ 
+【文章标题】：向学哥学姐求助有关turbo码解码原理的资料，谢谢~ 【文章地址】：https://bbs.byr.cn/article/Communications/12601 【创建时间】：2010-02-26 【作者】：andy01392601 【评论】：5 【内容】：发信人: andy01392601 (人来人往), 信区: Communications
+标  题: 向学哥学姐求助有关turbo码解码原理的资料，谢谢~
+发信站: 北邮人论坛 (Fri Feb 26 21:43:23 2010), 站内
+
+正在自学turbo码，编码器还好，解码器有点迷糊，麻烦学哥学姐帮个忙，谢谢~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 220.166.201.*]
+ 
+【文章标题】：VBLAST的<分集>增益是如何体现的？ 【文章地址】：https://bbs.byr.cn/article/Communications/16662 【创建时间】：2011-05-17 【作者】：mtyylx 【评论】：0 【内容】：发信人: mtyylx (winnie), 信区: Communications
+标  题: VBLAST的&lt;分集&gt;增益是如何体现的？
+发信站: 北邮人论坛 (Tue May 17 10:50:45 2011), 站内
+
+挺纳闷的是虽然说VBLAST的分集增益来源于接收分集，基本上是在（Nr-Nt+1 ~ Nr）这个范围内
+（即：SIC检测第一层分集增益是Nr-Nt+1，最后一层是Nr），
+
+但是好像从来没有人讲这个分集增益是怎么被使用的，如何体现在BER上面什么的。
+
+MIMO空间分集的系统发送分集增益和接收分集增益都会有，
+
+因此一般接收端都会采用各种各样的合并方式，
+
+但是好像空间复用的系统没有讲在接收端用合并方式的，虽然它也有Nr个接收端副本。
+
+
+我上面的理解有什么问题么？望指正~~~
+
+--
+※ 修改:·mtyylx 于 May 17 10:59:37 2011 修改本文·[FROM: 59.64.150.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.150.*]
+ 
+【文章标题】：LTE调度的话是不是不需要用到反馈回来的PMI啊？ 【文章地址】：https://bbs.byr.cn/article/Communications/16567 【创建时间】：2011-05-08 【作者】：softly 【评论】：3 【内容】：发信人: softly (softly), 信区: Communications
+标  题: LTE调度的话是不是不需要用到反馈回来的PMI啊？
+发信站: 北邮人论坛 (Sun May  8 21:56:05 2011), 站内
+
+UE端反馈PMI，CQI，IR，是不是只要用到CQI来确定分配那个用户那些subband，然后RI=layer数，那么PMI是不是在调度的时候用不到啊？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.120.224.*]
+ 
+【文章标题】：打电话时，由摘机到接通，这中间经历了什么过程呢？ 【文章地址】：https://bbs.byr.cn/article/Communications/10856 【创建时间】：2009-09-04 【作者】：fmjia 【评论】：6 【内容】：发信人: fmjia (jia), 信区: Communications
+标  题: 打电话时，由摘机到接通，这中间经历了什么过程呢？
+发信站: 北邮人论坛 (Fri Sep  4 19:55:02 2009), 站内
+
+求达人用深入浅出的语言解释一下，不求专业，但求易懂，先行谢过 
+希望解释是和基站啊、信道啊一类有关的~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.149.*]
+ 
+【文章标题】：CHINICT科技明星在中国诚邀软件开发学习者参加CHINAPPLANET开发 【文章地址】：https://bbs.byr.cn/article/Communications/16639 【创建时间】：2011-05-12 【作者】：coldhall 【评论】：0 【内容】：发信人: coldhall (淋雨塘), 信区: Communications
+标  题: CHINICT科技明星在中国诚邀软件开发学习者参加CHINAPPLANET开发
+发信站: 北邮人论坛 (Thu May 12 22:16:55 2011), 站内
+
+活动名称：CHINAPPLANET开发之星在中国论坛 
+活动时间：2011年5月26日下午14:00-17:00  
+活动地点：在北京市海淀区中关村东路1号院清华科技园2层国际会议中心 
+官方网站：<a target="_blank" href="http://www.chinict.org/zh-hans/chinapplanet-2/">http://www.chinict.org/zh-hans/chinapplanet-2/</a> 
+更多信息： 
+info@CHINICT.org / www.CHINICT.org 
+想知道为什么精英都爱CHINICT？请看 <a target="_blank" href="http://tiny.cc/wxku6">http://tiny.cc/wxku6</a>  
+活动介绍：时间定于5月26日下午14:00-17:00举行的CHINAPPLANET论坛是CHINICT科技明星在中国发起的一项有关移动应用程序与云计算领域的盛会。此次由黑莓赞助的CHINAPPLANET论坛有来自海内外的顶尖的开发商和供应商，当然也有包括了投资者、业界领袖、企业家、政府官员以及媒体在内的&amp;nbsp;CHINICT的忠实观众们。 
+相关专业有兴趣的同学可以通过向linan@chinict.org发邮件申请参与，而得到CHINAPPLANET免费入场的机会。邮件开头为“报名开发之星在中国论坛”，附上姓名，学校，专业，联系方式以及简单介绍在软件开发方面的经历。（因为CHINAPPLANET论坛的免费入场名额是有限的，所以建议您提早申请） 
+  
+CHINAPPLANET&amp;nbsp;论坛： 
+● 首次展示黑莓最新的平板电脑PlayBook； 
+● 介绍中国飞速发展的移动应用程序和云计算商机； 
+● 向开发商们教授产品与服务； 
+● 开发商们将在舞台上对其最佳应用程序做精短介绍； 
+● 将通过专业的中国媒体（如：腾讯、新浪）以及国外媒体（如：TechCrunch&amp;nbsp;<a target="_blank" href="http://tiny.cc/oxbor&amp;nbsp;">http://tiny.cc/oxbor&amp;nbsp;</a>, Bloomberg）现场直播。 
+  
+具体日程： 
+2:00 中国飞速发展的应用软件业务 
+Greg Shea，黑莓&amp;nbsp;中国负责人 
+  
+  
+2:30 应用软件世界&amp;联络项目  
+Zhang Chi, 黑莓联络处负责人(China) 
+2:50 新浪微博+ 支付宝移动应用软件 
+3:20 黑莓平台介绍 
+Jason Wang, 黑莓技术客户经理 
+  
+3:45&amp;nbsp;台上最佳应用程序的精短介绍  
+  
+4:25 PLAYBOOK平台介绍  
+Jason Wang, 黑莓技术客户经理 
+  
+4:45&amp;nbsp;PLAYBOOK 最佳应用程序展示 
+Jason Wang, 黑莓技术客户经理 
+  
+—————————————————————— 
+帮人发的，请勿站内。机会不错，有兴趣去看看。 
+--
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.136.*]
+ 
+【文章标题】：新手问一下：3GPP36212中速率匹配为何没有像WCDMA系统，TD-SCDM 【文章地址】：https://bbs.byr.cn/article/Communications/10880 【创建时间】：2009-09-07 【作者】：wsb2009 【评论】：2 【内容】：发信人: wsb2009 (byr), 信区: Communications
+标  题: 新手问一下：3GPP36212中速率匹配为何没有像WCDMA系统，TD-SCDMA系统那样对传输信道中的比特进行重发或打孔？
+发信站: 北邮人论坛 (Mon Sep  7 15:33:51 2009), 站内
+
+
+顺便问一下哪位大牛熟悉LTE物理层过程，我有几个不懂的地方想请教一下，呵呵
+
+※ 修改:·wsb2009 于 Sep  7 15:39:38 修改本文·[FROM: 59.64.186.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.186.*]
+ 
+【文章标题】：请问SAP业务接入点是什么意思？ 【文章地址】：https://bbs.byr.cn/article/Communications/10859 【创建时间】：2009-09-05 【作者】：moveon 【评论】：1 【内容】：发信人: moveon (zjbc), 信区: Communications
+标  题: 请问SAP业务接入点是什么意思？
+发信站: 北邮人论坛 (Sat Sep  5 20:56:49 2009), 站内
+
+WCDMA教程里有如下的RRC协议结构
+
+<a target="_blank" href="/att/Communications/0/10859/340"><img border="0" title="2009-09-05_205447.gif" src="/att/Communications/0/10859/340" alt="2009-09-05_205447.gif" class="resizeable"></a>
+图中的圆圈表示业务接入点，但是这个SAP具体是什么东西啊？
+
+谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.218.*]
+
+ 
+【文章标题】：弱问速率匹配 【文章地址】：https://bbs.byr.cn/article/Communications/10792 【创建时间】：2009-08-30 【作者】：tsunami 【评论】：4 【内容】：发信人: tsunami (风之子), 信区: Communications
+标  题: 弱问速率匹配
+发信站: 北邮人论坛 (Sun Aug 30 15:19:31 2009), 站内
+
+对于速率匹配这块一直有一个疑问，就是无论是TD的，还是LTE的速率匹配，不明白为什么有的时候打掉了三分之一或者二分之一的码之后，有的时候像turbo把信息比特都打掉了很多，最后译码还能译对呢，仅靠HARQ，或者软输出吗，不太理解，有人解释下吗？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.186.*]
+ 
+【文章标题】：承载是啥意思？ 【文章地址】：https://bbs.byr.cn/article/Communications/10832 【创建时间】：2009-09-02 【作者】：moveon 【评论】：2 【内容】：发信人: moveon (zjbc), 信区: Communications
+标  题: 承载是啥意思？
+发信站: 北邮人论坛 (Wed Sep  2 17:47:12 2009), 站内
+
+看书的时候看到信令承载，数据承载，是不是指下层对上层的服务啊？
+谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.106.72.*]
+ 
+【文章标题】：请教the capacity of wireless networks（by kumar）中的一个公 【文章地址】：https://bbs.byr.cn/article/Communications/3526 【创建时间】：2007-03-01 【作者】：wangyiqing 【评论】：0 【内容】：发信人: wangyiqing (王逸清), 信区: Communications
+标  题: 请教the capacity of wireless networks（by kumar）中的一个公式
+发信站: 北邮人论坛 (Thu Mar  1 20:20:25 2007), 站内
+
+
+<a href="/att/Communications/0/3526/452" target="_blank" color="blue">附件(369.1KB)  00825799.pdf</a>
+<a target="_blank" href="/att/Communications/0/3526/378437"><img border="0" title="gongshi.JPG" src="/att/Communications/0/3526/378437" alt="gongshi.JPG" class="resizeable"></a>
+公式8是怎么得到的啊？困惑~
+--
+第一次吃自助餐，我是扶着墙进去扶着墙出来的
+第二次吃自助餐，我是被背着进去抬着出来的
+第三次吃自助餐，我是120送去120接回来的
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.201.*]
+
+ 
+【文章标题】：急求symbian视频教程！！！！ 【文章地址】：https://bbs.byr.cn/article/Communications/3530 【创建时间】：2007-03-02 【作者】：pisTol 【评论】：1 【内容】：发信人: pisTol (dreammaster), 信区: Communications
+标  题: 急求symbian视频教程！！！！
+发信站: 北邮人论坛 (Fri Mar  2 18:41:05 2007), 站内
+
+急求symbian视频教程！！！！
+--
+为ＡＣＥ上刀山下火海，一定要让ＡＣＥ成为高校ＣＳ的代表．
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.195.*]
+ 
+【文章标题】：Re: 求论文"Adaptive Modulation over Nakagami Fading Channel 【文章地址】：https://bbs.byr.cn/article/Communications/3330 【创建时间】：2007-01-22 【作者】：原帖已删除 【评论】：2 【内容】：发信人: simulink (Simulink), 信区: Communications
+标  题: Re: 求论文"Adaptive Modulation over Nakagami Fading Channels"
+发信站: 北邮人论坛 (Thu Jan 18 15:17:48 2007), 站内
+
+这个。。。
+为什么不去自己搜呢，学校数据库IEEE阿 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.148.*]
+ 
+【文章标题】：求opnet 【文章地址】：https://bbs.byr.cn/article/Communications/3422 【创建时间】：2007-01-23 【作者】：landiya 【评论】：1 【内容】：发信人: landiya (landiya), 信区: Communications
+标  题: 求opnet
+发信站: 北邮人论坛 (Tue Jan 23 10:48:13 2007), 站内
+
+请问谁有,能不能共享一下,我在网上和ftp上找了很久都没找到,谢谢了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.132.*]
+ 
+【文章标题】：[讨论]在W.Richard Stevens的著作中有这样一句话，不明白 【文章地址】：https://bbs.byr.cn/article/Communications/3432 【创建时间】：2007-01-24 【作者】：hman 【评论】：2 【内容】：发信人: hman (oy), 信区: Communications
+标  题: [讨论]在W.Richard Stevens的著作中有这样一句话，不明白
+发信站: 北邮人论坛 (Wed Jan 24 10:07:25 2007), 站内
+
+在书3.2 IP Header中，讲述IP包头的total length字段中有这样一句话。
+
+原版书第36页第二段第二行
+Furthermore , a host is not required to receive a datagram larger than 576 bytes.
+不知道为什么有这样的限制？576字节？这句话貌似是对UDP来说的，不针对TCP。
+
+书中11.5节详细描述的fragment时的情形。此时发送的数据量肯定是超过576字节的，那么这样的fragment会发生么？如果限制在576字节一下的话？
+
+还请高手指点。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.180.*]
+ 
+【文章标题】：请问2007年真的要发3G标准吗？ 【文章地址】：https://bbs.byr.cn/article/Communications/3434 【创建时间】：2007-01-24 【作者】：wbsr54 【评论】：9 【内容】：发信人: wbsr54 (平平与安安), 信区: Communications
+标  题: 请问2007年真的要发3G标准吗？
+发信站: 北邮人论坛 (Wed Jan 24 10:40:04 2007), 站内
+
+如果要发，很可能在哪个月份？
+
+--
+愿善良的人都平平安安!
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.226.*]
+ 
+【文章标题】：求ZigBee的远程测试平台的软件设计 【文章地址】：https://bbs.byr.cn/article/Communications/22532 【创建时间】：2013-05-04 【作者】：beipan 【评论】：0 【内容】：发信人: beipan (杯杯盘盘), 信区: Communications
+标  题: 求ZigBee的远程测试平台的软件设计
+发信站: 北邮人论坛 (Sat May  4 16:50:49 2013), 站内
+
+有没有做过ZigBee远程测试平台的同僚、学长、学姐？求源代码，或是任何相关的帮助，谢谢各位了。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.182.96.*]
+ 
+【文章标题】：RFID求问 【文章地址】：https://bbs.byr.cn/article/Communications/28531 【创建时间】：2019-08-06 【作者】：eee1 【评论】：0 【内容】：发信人: eee1 (eee孙小雨), 信区: Communications
+标  题: RFID求问
+发信站: 北邮人论坛 (Tue Aug  6 22:53:36 2019), 站内
+
+我感觉我们买的那个读写器的那个功能一言难尽，有谁知道哪个实验室有那个impinj的那一套东西可以借一下做一下实验的吗。感觉老师这里没什么人带我这种小白，感觉做这个就跟过家家一样
+我QQ806317209，论坛私信也可以的，
+谢谢大哥们了
+--
+
+※ 来源:·北邮人论坛手机版 <a target="_blank" href="http://m.byr.cn">http://m.byr.cn</a>·[FROM: 10.28.128.*]
+ 

@@ -69,3 +69,1008 @@
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.222.*]
  
+【文章标题】：【网易游戏】技术讲座北邮专场周五与你不见不散 (转载) 【文章地址】：https://bbs.byr.cn/article/Database/9630 【创建时间】：2015-08-18 【作者】：HellOctober 【评论】：0 【内容】：发信人: HellOctober (我是L的小号), 信区: Database
+标  题: 【网易游戏】技术讲座北邮专场周五与你不见不散
+发信站: 北邮人论坛 (Tue Aug 18 21:00:01 2015), 站内
+
+【 以下文字转载自 Job 讨论区 】
+发信人: HellOctober (我是L的小号), 信区: Job
+标  题: 【网易游戏】技术讲座北邮专场周五与你不见不散
+发信站: 北邮人论坛 (Tue Aug 18 20:56:46 2015), 站内
+
+【网易游戏】资深技术专家走进北邮，带你敲开游戏开发的大门！
+
+-----------------------------------------------------------------------------------
+
+主讲人：陈伊力
+天下事业部，技术经理，《乱斗西游》项目主程
+华南理工大学硕士，2012年7月入职
+
+主讲人：李冰
+天下事业部，技术主管，《无尽战区》项目组客户端组长
+北京大学硕士，2012年4月入职
+
+-----------------------------------------------------------------------------------
+
+活动当天更有网易游戏的HR镇场，想要找工作和实习机会的同学不要错过了
+
+时间：2015.8.21（本周五）19:30 
+地点：北邮科技大厦第五会议室
+
+报名方式：微信打开
+          <a target="_blank" href="http://game.campus.163.com/2015/xiaozhao/?mbshare=wx_1&amp;spreadtimes=3&amp;from=timeline&amp;isappinstalled=0">http://game.campus.163.com/2015/xiaozhao/?mbshare=wx_1&amp;spreadtimes=3&amp;from=timeline&amp;isappinstalled=0</a>            
+
+-----------------------------------------------------------------------------------
+<b>写在后面的必读</b>
+  再老生常谈一下 
+  
+  简历含金量：实习≈奖项（大奖）&gt;项目&gt;技能&gt;其他
+  ①不要把与求职岗位无关的经验过分描述（通信项目、过多的社会、学校项目） 
+  ②实习&amp;项目要三点描述清楚：项目是干什么的、自己干了什么、项目的产出&amp;自己的产出 
+  ③项目&amp;技能：一定与职位匹配。到场大方，想问问题套近乎的不要害羞
+
+-----------------------------------------------------------------------------------
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 2001:da8:215:da3c:9dba:83e5:15de:*]
+ 
+【文章标题】：求助:oracle安装后启动 sql*plus的问题 【文章地址】：https://bbs.byr.cn/article/Database/277 【创建时间】：2006-10-31 【作者】：buptinside 【评论】：5 【内容】：发信人: buptinside (洞庭湖的麻雀), 信区: Database
+标  题: 求助:oracle安装后启动 sql*plus的问题
+发信站: 北邮人论坛 (Tue Oct 31 22:53:13 2006), 站内
+
+第一次用 oracle 
+看了本书,按照刷书上的说法 应该有两种方式进入 sql*plus,
+一种 是 在dos 窗口中 输入 sqlplus 进入,这种方法可以进去.
+另一种就是 使用 <b>GUI工具  </b>选择"程序"|Oracle|Application Development| Sql plus,这里的 GUI工具是什么?我的 "程序"|Oracle|下面没有 Application Development 这一 选项.
+
+thanks.
+--
+
+<marquee width="100%" behavior="alternate" scrollamount="3">JAY他爷爷说:孙子才玩动感！</marquee>
+YM他老爸说:儿子新时空,老子全球通
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.232.*]
+ 
+【文章标题】：Re: 如何打开加密数据库？mdb 【文章地址】：https://bbs.byr.cn/article/Database/75 【创建时间】：2006-09-23 【作者】：原帖已删除 【评论】：0 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: 如何打开加密数据库？mdb
+发信站: 北邮人论坛 (Sat Sep 23 20:46:19 2006), 站内
+
+输入密码或者用工具破解
+
+【 在 tiemeng (铁米) 的大作中提到: 】
+: rt 
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.232.*]
+ 
+【文章标题】：[原创]小谈Apache+PHP+MySQL+phpMyAdmin在Win XP下的安装 【文章地址】：https://bbs.byr.cn/article/Database/86 【创建时间】：2006-09-24 【作者】：Twu 【评论】：0 【内容】：发信人: Twu (哞哞哞), 信区: Database
+标  题: [原创]小谈Apache+PHP+MySQL+phpMyAdmin在Win XP下的安装
+发信站: 北邮人论坛 (Sun Sep 24 00:08:04 2006), 站内
+
+算是报到帖吧！想学些数据库和linux的东西，希望能跟大家交流下！学校的论坛是比较亲切啊，尤其见到chit师兄和snavy同学也在版上。哈哈！
+具体安装方法比较多，我是按我安装的流程写的，可能会跟你的不一样^^
+
+图比较多，就不发帖了，大家到这里看吧。
+http://twuzzz.spaces.live.com/blog/cns!58404DA71412B070!489.entry
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.166.18.*]
+ 
+【文章标题】：Re: access高手请进，请教个问题.. 【文章地址】：https://bbs.byr.cn/article/Database/54 【创建时间】：2006-09-25 【作者】：原帖已删除 【评论】：2 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: access高手请进，请教个问题..
+发信站: 北邮人论坛 (Tue Sep 19 09:19:49 2006), 站内
+
+桌面型数据库最简单的备份方法就是直接把文件复制一份就可以
+当然他肯定也提供倒出功能，菜单很简单看一下就知道了
+压缩机制为了节约硬盘但是带来的是效率的降低，至于修复属于内部机制
+什么情况下可以用或者需要用你可以看手册
+我不明白你这个接口是什么意思，不过我相信肯定可以通过excel文件倒入
+
+btw:我从来没有用过access，以上完全是推断
+
+【 在 busyboy (亲切) 的大作中提到: 】
+: 如何进行数据的备份？ 
+: 如何调用压缩和修复功能？ 
+: 如何与excell接口？ 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：Re: 赶紧问个问题：mysql浏览 【文章地址】：https://bbs.byr.cn/article/Database/38 【创建时间】：2006-09-11 【作者】：原帖已删除 【评论】：0 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: 赶紧问个问题：mysql浏览
+发信站: 北邮人论坛 (Mon Sep 11 20:44:43 2006), 站内
+
+没太看明白
+不过我建议你看一下php的帮助中关于mysql的函数部分
+应该会找到答案
+
+【 在 tiemeng (铁米) 的大作中提到: 】
+: 想在html中浏览数据库的索引表 
+: 就是载入时候直接显示index表 
+: 不知道用php如何添加在html中 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：恭喜一下！ 【文章地址】：https://bbs.byr.cn/article/Database/53 【创建时间】：2006-09-16 【作者】：iceiceberg 【评论】：0 【内容】：发信人: iceiceberg (冰锋), 信区: Database
+标  题: 恭喜一下！
+发信站: 北邮人论坛 (Sat Sep 16 22:07:55 2006), 站内
+
+终于在BYR上也有这个版了：）
+--
+牛顿说：“我还要什么证据吗？我的大姆指就是证据，足以叫我相信世上有神。”
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.249.60.*]
+ 
+【文章标题】：［求助］有没有在阿里oceanbase部门工作的学长学姐？或者熟悉oc 【文章地址】：https://bbs.byr.cn/article/Database/8225 【创建时间】：2014-07-08 【作者】：bignan 【评论】：3 【内容】：发信人: bignan (), 信区: Database
+标  题: ［求助］有没有在阿里oceanbase部门工作的学长学姐？或者熟悉oce
+发信站: 北邮人论坛 (Tue Jul  8 21:48:40 2014), 站内
+
+RT，
+
+最近做项目和oceanbase有关，具体的讲就是给oceanbase添加cursor。。。
+
+小弟我对oceanbase源码不熟，有没有熟悉的学长学姐可以交流一下？
+
+我的QQ shi 262七159五29
+
+谢谢verymuch！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.66.117.*]
+ 
+【文章标题】：有个PHP/MySql的问题，摆脱大家帮忙解决一下 【文章地址】：https://bbs.byr.cn/article/Database/43 【创建时间】：2006-09-12 【作者】：duoshi 【评论】：6 【内容】：发信人: duoshi (北邮人), 信区: Database
+标  题: 有个PHP/MySql的问题，摆脱大家帮忙解决一下
+发信站: 北邮人论坛 (Tue Sep 12 17:34:30 2006), 站内
+
+本地为windows xp/php 4.3.8，远程服务器为linux/php5，都是实用Apache。本地执行的时候完全正常，但是将文件上传到服务器以后却出现如下错误：
+Warning: mysql_get_server_info() [function.mysql-get-server-info]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /var/www/voc/new/db_mysql.php on line 34
+
+Warning: mysql_get_server_info() [function.mysql-get-server-info]: A link to the server could not be established in /var/www/voc/new/db_mysql.php on line 34
+
+请问这是为什么？
+--
+渔翁夜傍西岩宿，晓汲清湘燃楚竹。烟销日出不见人，歙乃一声山水绿，回看天际下东流，岩上无心云相逐。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.42.96.*]
+ 
+【文章标题】：Re: 关于字符集的问题，如何使用中文 【文章地址】：https://bbs.byr.cn/article/Database/73 【创建时间】：2006-09-23 【作者】：原帖已删除 【评论】：0 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: 关于字符集的问题，如何使用中文
+发信站: 北邮人论坛 (Sat Sep 23 14:18:14 2006), 站内
+
+自从mysql4.1开始，mysql对中文的支持问题是比较烦人的，怎么弄都乱码，如今mysql5 据说是mysql的新纪元，但从官方下载安装的mysql5仍存在乱码现象，这里就是针对此现象做的讨论：
+
+建议最好是下载mysql的源码进行编译，这是由于官方编译的mysql的默认支持编码是latin字符集，所以中文字符在数据库里查看的时候看到的是乱码。编译MySQL时使用–with–charset=编码，可以方便地把mysql编译成该编码形式，这样MySQL就会直接支持中文查找和排序，--with-extra-charsets参数指定其它可用的字符集。
+
+下载并解压源码包，打开INSTALL-SOURCE，这里介绍了linux下详细的安装方法，所以大家所要注意的只是下面的configure指令：
+
+     shell&gt; ./configure --with-charset=gbk --with-collation=gbk_chinese_ci --with-extra-charsets=gb2312,big5,utf8,binary,ascii --prefix=/usr/local/mysql
+     shell&gt; make
+     shell&gt; make install
+     shell&gt; cp support-files/my-medium.cnf /etc/my.cnf
+     shell&gt; cd /usr/local/mysql
+     shell&gt; bin/mysql_install_db --user=mysql
+     shell&gt; chown -R root  .
+     shell&gt; chown -R mysql var
+     shell&gt; chgrp -R mysql .
+     shell&gt; bin/mysqld_safe --user=mysql &amp;
+     shell&gt; bin/mysql
+     mysql&gt; show variables;
+
+你可以看到全局的字符集参数全是gbk，gb2312字集应该包含在gbk里，所以不讨论。
+
+进行和平常mysql4.0一样的php操作，你会发现仍然出现中文乱码现象。
+
+这里要说明的是：从mysql5开始，必需在mysql数据库连接后对应用的字符集做出说明，否则非英文字母的文字存取都无法解释变成?号。
+
+解决方法就是要适应新版mysql的要求，在连接mysql数据库后执行set character set 字符集：
+
+set character set gbk;
+
+在php里应该是这么写:mysql_query("set character set gbk");
+
+指令大小写均可
+
+phpwind和discuz是广泛应用的国产php论坛，大量的朋友在应用它，了解了以上步骤，你也可以对论坛源码进行很小的修改，安全地把数据库升级到mysql5：
+
+找到include/db_mysql.php，修改function connect(...){.....}
+在选择数据库mysql_select_db($dbname);后面加上一句mysql_query('set character set gbk');存盘。
+
+二.  如果存入非gbk字符，这时候你需要先在导入文件的头部加一行: SET NAMES '字符集'; 并注意最后也是;号，别漏了。
+
+文件导入和导出执行
+
+mysql -u用户名 -p密码 数据库名&lt;data.sql
+
+mysqldump -u用户名 -p密码 数据库名&gt;data.sql
+
+如果用mysqldump导出数据出现了乱码也没有关系，可以运行iconv来转换一下：
+
+iconv -c -f utf8 -t gbk 库文件名&gt;新的gbk的库文件名
+
+综上所述，你要注意：
+
+1。尽量在需要导入的库文件的开头加入set names 'gbk';告诉mysql你要导入的是一个gbk的文件；
+
+2。在mysql上使用 show variables;或show variables like 'character_set_%'; 用来查看当前的字集状态。
+
+3。如果出现乱码也不要怕，其一是你要注意留存原有的备份，其二是用iconv来进行转化。
+
+#PHP连接问题：
+
+由于MySQL 4.1版本开始密码的hash算法改变，所以连接数据库时可能会出现Client does not support authentication protocol问题。
+
+可以通过一下两种方法解决数据库用户密码不符问题：
+
+其一: mysql&gt; SET PASSWORD FOR  'some_user'@'some_host' = OLD_PASSWORD('newpwd');
+
+其二: mysql&gt; UPDATE mysql.user SET Password = OLD_PASSWORD('newpwd') WHERE Host = 'some_host' AND User = 'some_user'
+
+PHP输出的其它乱码问题：
+
+    如果将mysql编译为默认编码gbk的话，又会造成非gbk数据直接导入显示为乱码，比如部份utf8存储的字符，如果你大部份数据是utf8字集，当然得把mysql编译为默认编码utf8才合适。
+
+     Mysql 4.1.x出来以后，引入了collation (校勘)的概念，终于有办法让mysql同时支持多种编码的数据库了，所以PHP要用以下SQL语句来创建utf-8编码的数据库：
+CREATE DATABASE `mytest` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+     但是仅仅是将数据库的校勘改为utf-8是不够的，还必须在连接了mysql数据库之后用这个语句来设置：set names 'utf8';才能在php程序里得到正确编码的字符，并将其显示在web页面里。
+
+mysql_query("set names 'utf8'",$connection);
+
+具体WIN下的mysql5方法也雷同，编译源码的方法参照源码包里INSTALL-WIN-SOURCE，由于WIN下的编译需要Visual Studio 2003，所以没有尝试过。无法自行编译win-mysql的mysql用户可以通过更改my.ini，在[client][mysqld]这两节分别写入default-character-set=gbk如：
+
+[mysqld]
+   basedir=D:/mysql
+   datadir=D:/mysql-data/data
+   default-character-set=gbk
+   
+[client]
+   default-character-set=gbk
+
+【 在 tiemeng (铁米) 的大作中提到: 】
+: 看了一些文章 
+: mysql建库的时候用utf-8 
+: 应该用utf-unicode-ci？ 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：Re: 请教高手一个问题 【文章地址】：https://bbs.byr.cn/article/Database/236 【创建时间】：2006-11-04 【作者】：原帖已删除 【评论】：1 【内容】：发信人: paradin (power), 信区: Database
+标  题: Re: 请教高手一个问题
+发信站: 北邮人论坛 (Sun Oct 29 12:44:36 2006), 站内
+
+试试就知道了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.159.*]
+ 
+【文章标题】：关于DB2安装 【文章地址】：https://bbs.byr.cn/article/Database/298 【创建时间】：2006-11-03 【作者】：money 【评论】：1 【内容】：发信人: money (工作？考研？), 信区: Database
+标  题: 关于DB2安装
+发信站: 北邮人论坛 (Fri Nov  3 23:25:48 2006), 站内
+
+DB2安装后出问题,命令中心之类的工具都没办法使用,请问如何解决?
+--
+大学生活＝无聊＋无奈
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.196.*]
+ 
+【文章标题】：紧急求救 【文章地址】：https://bbs.byr.cn/article/Database/295 【创建时间】：2006-11-03 【作者】：money 【评论】：5 【内容】：发信人: money (工作？考研？), 信区: Database
+标  题: 紧急求救
+发信站: 北邮人论坛 (Fri Nov  3 23:08:22 2006), 站内
+
+1.哪位大哥知道能不能把DB2的数据库导入SQL Sever?
+            如何导入?
+          2.DB2安装后出问题,命令中心之类的工具都没办法使用,请问如何解决?
+
+
+ＱＱ：401089791　　手机；１３５８１５００５４１
+宿舍：４７０２
+
+急啊～～～～～～～～～～
+--
+大学生活＝无聊＋无奈
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.205.*]
+ 
+【文章标题】：恭喜一下！ 【文章地址】：https://bbs.byr.cn/article/Database/53 【创建时间】：2006-09-16 【作者】：iceiceberg 【评论】：0 【内容】：发信人: iceiceberg (冰锋), 信区: Database
+标  题: 恭喜一下！
+发信站: 北邮人论坛 (Sat Sep 16 22:07:55 2006), 站内
+
+终于在BYR上也有这个版了：）
+--
+牛顿说：“我还要什么证据吗？我的大姆指就是证据，足以叫我相信世上有神。”
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.249.60.*]
+ 
+【文章标题】：Re: 关于字符集的问题，如何使用中文 【文章地址】：https://bbs.byr.cn/article/Database/73 【创建时间】：2006-09-23 【作者】：原帖已删除 【评论】：0 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: 关于字符集的问题，如何使用中文
+发信站: 北邮人论坛 (Sat Sep 23 14:18:14 2006), 站内
+
+自从mysql4.1开始，mysql对中文的支持问题是比较烦人的，怎么弄都乱码，如今mysql5 据说是mysql的新纪元，但从官方下载安装的mysql5仍存在乱码现象，这里就是针对此现象做的讨论：
+
+建议最好是下载mysql的源码进行编译，这是由于官方编译的mysql的默认支持编码是latin字符集，所以中文字符在数据库里查看的时候看到的是乱码。编译MySQL时使用–with–charset=编码，可以方便地把mysql编译成该编码形式，这样MySQL就会直接支持中文查找和排序，--with-extra-charsets参数指定其它可用的字符集。
+
+下载并解压源码包，打开INSTALL-SOURCE，这里介绍了linux下详细的安装方法，所以大家所要注意的只是下面的configure指令：
+
+     shell&gt; ./configure --with-charset=gbk --with-collation=gbk_chinese_ci --with-extra-charsets=gb2312,big5,utf8,binary,ascii --prefix=/usr/local/mysql
+     shell&gt; make
+     shell&gt; make install
+     shell&gt; cp support-files/my-medium.cnf /etc/my.cnf
+     shell&gt; cd /usr/local/mysql
+     shell&gt; bin/mysql_install_db --user=mysql
+     shell&gt; chown -R root  .
+     shell&gt; chown -R mysql var
+     shell&gt; chgrp -R mysql .
+     shell&gt; bin/mysqld_safe --user=mysql &amp;
+     shell&gt; bin/mysql
+     mysql&gt; show variables;
+
+你可以看到全局的字符集参数全是gbk，gb2312字集应该包含在gbk里，所以不讨论。
+
+进行和平常mysql4.0一样的php操作，你会发现仍然出现中文乱码现象。
+
+这里要说明的是：从mysql5开始，必需在mysql数据库连接后对应用的字符集做出说明，否则非英文字母的文字存取都无法解释变成?号。
+
+解决方法就是要适应新版mysql的要求，在连接mysql数据库后执行set character set 字符集：
+
+set character set gbk;
+
+在php里应该是这么写:mysql_query("set character set gbk");
+
+指令大小写均可
+
+phpwind和discuz是广泛应用的国产php论坛，大量的朋友在应用它，了解了以上步骤，你也可以对论坛源码进行很小的修改，安全地把数据库升级到mysql5：
+
+找到include/db_mysql.php，修改function connect(...){.....}
+在选择数据库mysql_select_db($dbname);后面加上一句mysql_query('set character set gbk');存盘。
+
+二.  如果存入非gbk字符，这时候你需要先在导入文件的头部加一行: SET NAMES '字符集'; 并注意最后也是;号，别漏了。
+
+文件导入和导出执行
+
+mysql -u用户名 -p密码 数据库名&lt;data.sql
+
+mysqldump -u用户名 -p密码 数据库名&gt;data.sql
+
+如果用mysqldump导出数据出现了乱码也没有关系，可以运行iconv来转换一下：
+
+iconv -c -f utf8 -t gbk 库文件名&gt;新的gbk的库文件名
+
+综上所述，你要注意：
+
+1。尽量在需要导入的库文件的开头加入set names 'gbk';告诉mysql你要导入的是一个gbk的文件；
+
+2。在mysql上使用 show variables;或show variables like 'character_set_%'; 用来查看当前的字集状态。
+
+3。如果出现乱码也不要怕，其一是你要注意留存原有的备份，其二是用iconv来进行转化。
+
+#PHP连接问题：
+
+由于MySQL 4.1版本开始密码的hash算法改变，所以连接数据库时可能会出现Client does not support authentication protocol问题。
+
+可以通过一下两种方法解决数据库用户密码不符问题：
+
+其一: mysql&gt; SET PASSWORD FOR  'some_user'@'some_host' = OLD_PASSWORD('newpwd');
+
+其二: mysql&gt; UPDATE mysql.user SET Password = OLD_PASSWORD('newpwd') WHERE Host = 'some_host' AND User = 'some_user'
+
+PHP输出的其它乱码问题：
+
+    如果将mysql编译为默认编码gbk的话，又会造成非gbk数据直接导入显示为乱码，比如部份utf8存储的字符，如果你大部份数据是utf8字集，当然得把mysql编译为默认编码utf8才合适。
+
+     Mysql 4.1.x出来以后，引入了collation (校勘)的概念，终于有办法让mysql同时支持多种编码的数据库了，所以PHP要用以下SQL语句来创建utf-8编码的数据库：
+CREATE DATABASE `mytest` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+     但是仅仅是将数据库的校勘改为utf-8是不够的，还必须在连接了mysql数据库之后用这个语句来设置：set names 'utf8';才能在php程序里得到正确编码的字符，并将其显示在web页面里。
+
+mysql_query("set names 'utf8'",$connection);
+
+具体WIN下的mysql5方法也雷同，编译源码的方法参照源码包里INSTALL-WIN-SOURCE，由于WIN下的编译需要Visual Studio 2003，所以没有尝试过。无法自行编译win-mysql的mysql用户可以通过更改my.ini，在[client][mysqld]这两节分别写入default-character-set=gbk如：
+
+[mysqld]
+   basedir=D:/mysql
+   datadir=D:/mysql-data/data
+   default-character-set=gbk
+   
+[client]
+   default-character-set=gbk
+
+【 在 tiemeng (铁米) 的大作中提到: 】
+: 看了一些文章 
+: mysql建库的时候用utf-8 
+: 应该用utf-unicode-ci？ 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：Re: 如何打开加密数据库？mdb 【文章地址】：https://bbs.byr.cn/article/Database/75 【创建时间】：2006-09-23 【作者】：原帖已删除 【评论】：0 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: 如何打开加密数据库？mdb
+发信站: 北邮人论坛 (Sat Sep 23 20:46:19 2006), 站内
+
+输入密码或者用工具破解
+
+【 在 tiemeng (铁米) 的大作中提到: 】
+: rt 
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.232.*]
+ 
+【文章标题】：[原创]小谈Apache+PHP+MySQL+phpMyAdmin在Win XP下的安装 【文章地址】：https://bbs.byr.cn/article/Database/86 【创建时间】：2006-09-24 【作者】：Twu 【评论】：0 【内容】：发信人: Twu (哞哞哞), 信区: Database
+标  题: [原创]小谈Apache+PHP+MySQL+phpMyAdmin在Win XP下的安装
+发信站: 北邮人论坛 (Sun Sep 24 00:08:04 2006), 站内
+
+算是报到帖吧！想学些数据库和linux的东西，希望能跟大家交流下！学校的论坛是比较亲切啊，尤其见到chit师兄和snavy同学也在版上。哈哈！
+具体安装方法比较多，我是按我安装的流程写的，可能会跟你的不一样^^
+
+图比较多，就不发帖了，大家到这里看吧。
+http://twuzzz.spaces.live.com/blog/cns!58404DA71412B070!489.entry
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.166.18.*]
+ 
+【文章标题】：Re: 赶紧问个问题：mysql浏览 【文章地址】：https://bbs.byr.cn/article/Database/38 【创建时间】：2006-09-11 【作者】：原帖已删除 【评论】：0 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: 赶紧问个问题：mysql浏览
+发信站: 北邮人论坛 (Mon Sep 11 20:44:43 2006), 站内
+
+没太看明白
+不过我建议你看一下php的帮助中关于mysql的函数部分
+应该会找到答案
+
+【 在 tiemeng (铁米) 的大作中提到: 】
+: 想在html中浏览数据库的索引表 
+: 就是载入时候直接显示index表 
+: 不知道用php如何添加在html中 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：有个PHP/MySql的问题，摆脱大家帮忙解决一下 【文章地址】：https://bbs.byr.cn/article/Database/43 【创建时间】：2006-09-12 【作者】：duoshi 【评论】：6 【内容】：发信人: duoshi (北邮人), 信区: Database
+标  题: 有个PHP/MySql的问题，摆脱大家帮忙解决一下
+发信站: 北邮人论坛 (Tue Sep 12 17:34:30 2006), 站内
+
+本地为windows xp/php 4.3.8，远程服务器为linux/php5，都是实用Apache。本地执行的时候完全正常，但是将文件上传到服务器以后却出现如下错误：
+Warning: mysql_get_server_info() [function.mysql-get-server-info]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /var/www/voc/new/db_mysql.php on line 34
+
+Warning: mysql_get_server_info() [function.mysql-get-server-info]: A link to the server could not be established in /var/www/voc/new/db_mysql.php on line 34
+
+请问这是为什么？
+--
+渔翁夜傍西岩宿，晓汲清湘燃楚竹。烟销日出不见人，歙乃一声山水绿，回看天际下东流，岩上无心云相逐。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 124.42.96.*]
+ 
+【文章标题】：Re: access高手请进，请教个问题.. 【文章地址】：https://bbs.byr.cn/article/Database/54 【创建时间】：2006-09-25 【作者】：原帖已删除 【评论】：2 【内容】：发信人: chit (chit), 信区: Database
+标  题: Re: access高手请进，请教个问题..
+发信站: 北邮人论坛 (Tue Sep 19 09:19:49 2006), 站内
+
+桌面型数据库最简单的备份方法就是直接把文件复制一份就可以
+当然他肯定也提供倒出功能，菜单很简单看一下就知道了
+压缩机制为了节约硬盘但是带来的是效率的降低，至于修复属于内部机制
+什么情况下可以用或者需要用你可以看手册
+我不明白你这个接口是什么意思，不过我相信肯定可以通过excel文件倒入
+
+btw:我从来没有用过access，以上完全是推断
+
+【 在 busyboy (亲切) 的大作中提到: 】
+: 如何进行数据的备份？ 
+: 如何调用压缩和修复功能？ 
+: 如何与excell接口？ 
+: ................... 
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 202.112.10.*]
+ 
+【文章标题】：[合集] [求助]php向mysql插入图片的问题 【文章地址】：https://bbs.byr.cn/article/Database/2973 【创建时间】：2009-02-23 【作者】：coolfantasy 【评论】：0 【内容】：发信人: coolfantasy (Cool), 信区: Database
+标  题: [合集] [求助]php向mysql插入图片的问题
+发信站: 北邮人论坛 (Mon Feb 23 15:38:58 2009), 站内
+
+☆─────────────────────────────────────☆
+   happyc (RO) 于  (Mon Jan 12 17:36:52 2009)  提到:
+
+我想向数据库存入一张gif格式的图片，图片大小都没问题，但就是进不去，不知道为什么！高手指点一下吧！
+代码如下：
+                     $form_data_type = $_FILES ['file'] ['type'];
+        $form_data = $_FILES ['file'] ['tmp_name'];
+        db_connect ();//连接mysql
+        db_select ();//选择数据库
+        $fileopen = fopen ( $form_data, "rb" );
+        $filesize = filesize ( $form_data );
+        $fof = fread ( $fileopen, $filesize );
+        $data = addslashes ( $fof );
+        fclose ( $form_data );
+                                $query = "INSERT INTO address_pic (tra_id,pic_type,pic_bin) VALUES ('".$_POST['stra_id']."','$form_data_type','$data')";
+                         mysql_query ( $query);
+
+数据库结构：CREATE TABLE IF NOT EXISTS `address_pic` (
+  `tra_id` char(20) NOT NULL,
+  `pic_type` char(20) default NULL,
+  `pic_bin` longblob,
+  PRIMARY KEY  (`tra_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=gbk;
+
+如果用phpmyadmin插入图片完全可以，是以十六进制格式存放。难道非得让我先把图片二进制流转成十六进制再存？会不会是addslashes的问题？
+
+PS：magic_quotes_gpc=off
+
+
+☆─────────────────────────────────────☆
+   happyc (RO) 于  (Mon Jan 12 22:39:23 2009)  提到:
+
+问题是解决了，不过还是不明白，为什么图片没转成二进制流？
+
+
+☆─────────────────────────────────────☆
+   ericyosho (ericyosho) 于  (Tue Jan 13 00:45:55 2009)  提到:
+
+fread的用法可以再看看。
+
+
+
+☆─────────────────────────────────────☆
+   happyc (RO) 于  (Tue Jan 13 11:22:54 2009)  提到:
+
+fread之后的结果我打印出来看是ASC2码，我看别人上传图片到mysql都是用的这个套路。
+
+为什么呢？我把那些ASC2码直接变成16进制就能插入到数据库，但其他人上传图片也没我这么费事啊！
+
+
+☆─────────────────────────────────────☆
+   happyc (RO) 于  (Tue Jan 13 18:09:09 2009)  提到:
+
+最终问题是出在字符集上
+
+
+ 
+【文章标题】：总是提示： 在关键字'FOREIGN' 附近有语法问题，是怎么回事？ 【文章地址】：https://bbs.byr.cn/article/Database/2950 【创建时间】：2009-02-20 【作者】：ImageP 【评论】：1 【内容】：发信人: ImageP (o(∩_∩)o...), 信区: Database
+标  题: 总是提示： 在关键字'FOREIGN' 附近有语法问题，是怎么回事？
+发信站: 北邮人论坛 (Fri Feb 20 10:42:29 2009), 站内
+
+大家好！
+     我是数据库新手，今天练习CREATE TABLE 创建表的时候：
+总是提示： 在关键字'FOREIGN' 附近有语法问题，这是怎么回事？
+
+【代码】
+CREATE TABLE  Company
+(
+    companyName   CHAR(30),
+    id            INT  PRIMARY  KEY
+)
+
+CREATE TABLE  EmployeesHired
+(
+    id            INT  PRIMARY  KEY,
+    numHird       INT,
+    ficalQuarter  INT,  
+    FOREIGN   KEY     id  REFERENCES  Company
+)
+
+
+谢谢，在线等ing....
+--
+-——————/ ˉ/)
+-—————-/—-/
+--————-/—-/
+-———--/′ˉ/'--'/′ˉ`?_楼上请保持队形！ [安徽 北邮 代表队]╭∩╮（︶︿︶）╭∩╮
+-———-/'/--/—-/—--/¨ˉ\
+-——--('(———- ˉ~/'--')
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.141.*]
+ 
+【文章标题】：[合集] [求助]如何向一个表中同时插入多个数据元素？ 【文章地址】：https://bbs.byr.cn/article/Database/2974 【创建时间】：2009-02-23 【作者】：coolfantasy 【评论】：0 【内容】：发信人: coolfantasy (Cool), 信区: Database
+标  题: [合集] [求助]如何向一个表中同时插入多个数据元素？
+发信站: 北邮人论坛 (Mon Feb 23 15:39:36 2009), 站内
+
+☆─────────────────────────────────────☆
+   ImageP (o(∩_∩)o...) 于  (Fri Feb 20 12:49:13 2009)  提到:
+
+如何向一个表中 一次添加多个数据元素？
+如：
+CREATE TABLE  Company
+(
+    companyName   CHAR(30),
+    id            INT  PRIMARY  KEY
+)
+
+我要向Company 中加入数据：
+Hillary Plumbing        6
+John Lawn Company       9
+Dave Cookie Company    19    
+怎么写？
+（我用的是SQL 2000）
+
+
+☆─────────────────────────────────────☆
+   ericyosho (ericyosho) 于  (Fri Feb 20 13:48:04 2009)  提到:
+
+难道不是用insert语句么？
+
+
+☆─────────────────────────────────────☆
+   ImageP (o(∩_∩)o...) 于  (Fri Feb 20 14:15:54 2009)  提到:
+
+谢谢，
+已经解决
+
+
+☆─────────────────────────────────────☆
+   buptyzc (小超) 于  (Sat Feb 21 10:06:03 2009)  提到:
+
+哦。。。
+
+
+ 
+【文章标题】：有人有存储过程的上机考试的经验吗？ 【文章地址】：https://bbs.byr.cn/article/Database/2866 【创建时间】：2008-12-19 【作者】：zf522 【评论】：1 【内容】：发信人: zf522 (刀把儿), 信区: Database
+标  题: 有人有存储过程的上机考试的经验吗？
+发信站: 北邮人论坛 (Fri Dec 19 18:01:07 2008), 站内
+
+本人周三去企业进行db的上机考试，据说是写存储过程，有人有过这样的经历吗 ？
+一般都会考写什么难度的存储过程啊？
+--
+在这个物欲横流的社会里，一切都在流淌，一切都在变，唯一不变的是我对钱的追求！
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.218.*]
+ 
+【文章标题】：请教各位学长，数据库容易得高分吗？或者是多媒体技术？ 【文章地址】：https://bbs.byr.cn/article/Database/2971 【创建时间】：2009-02-23 【作者】：c372715496 【评论】：1 【内容】：发信人: c372715496 (tmacyeah), 信区: Database
+标  题: 请教各位学长，数据库容易得高分吗？或者是多媒体技术？
+发信站: 北邮人论坛 (Mon Feb 23 15:24:19 2009), 站内
+
+RT，困惑，不知道该怎么选
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.137.*]
+ 
+【文章标题】：[求助]用ODBC和VC6.0做数据库系统遇到的问题 【文章地址】：https://bbs.byr.cn/article/Database/2948 【创建时间】：2009-02-19 【作者】：Smiler 【评论】：1 【内容】：发信人: Smiler (Smiler), 信区: Database
+标  题: [求助]用ODBC和VC6.0做数据库系统遇到的问题
+发信站: 北邮人论坛 (Thu Feb 19 15:08:56 2009), 站内
+
+程序执行下面这句时，出错：
+sql.Format("call add_customer_info_tab (%d,'%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s')", -1,m_strName,m_strSelectedArea,m_strSelectedProfession,
+m_strSelectedVocation,m_strCompany,m_strSelectedApproach,
+m_strEmail,m_strPhone,m_strMobile,m_strInterest,m_strMemo);
+--
+      I open my wallet, find no money.  
+                           
+                   I open my pocket, find no coin.
+                                         
+                          I open my life, I find you. 
+
+※ 修改:·Smiler 于 Feb 19 15:11:18 修改本文·[FROM: 118.229.170.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.170.*]
+ 
+【文章标题】：请教一个查询 【文章地址】：https://bbs.byr.cn/article/Database/2913 【创建时间】：2009-01-06 【作者】：huhaoran005 【评论】：4 【内容】：发信人: huhaoran005 (albert), 信区: Database
+标  题: 请教一个查询
+发信站: 北邮人论坛 (Tue Jan  6 14:36:21 2009), 站内
+
+学生成绩表：
+Transcript（表名） 
+StudentId（学号） CourseCode（课程号） Score（分数）
+
+从中查询：课程C01的成绩高于课程C02的所有学生的学号
+
+请教查询语句怎么写
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.215.*]
+ 
+【文章标题】：添加一个记录进数据库却显示两个的问题 【文章地址】：https://bbs.byr.cn/article/Database/547 【创建时间】：2006-12-29 【作者】：jingang1016 【评论】：1 【内容】：发信人: jingang1016 (哈哈), 信区: Database
+标  题: 添加一个记录进数据库却显示两个的问题
+发信站: 北邮人论坛 (Fri Dec 29 17:12:54 2006), 站内
+
+
+ 我往数据库添加进一条记录,但界面的DBgrid上却显示两条,这会是为什么呢?
+   数据库中明明只有一条呀
+  而且关闭窗体,再打开,就变成一条了
+ 
+ 我的程序环境是:delphi7,Access
+  用Database连接的数据库,table连的Database,再用table和一个DBgrid相连.
+  在我的电脑上没有错,在别的电脑上却错了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.180.*]
+ 
+【文章标题】：[合集]  [提案]成立看版(数据库技术) (转载) 【文章地址】：https://bbs.byr.cn/article/Database/1 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: Database
+标  题: [合集]  [提案]成立看版(数据库技术)
+发信站: 北邮人论坛 (Tue Sep  5 12:55:53 2006), 站内
+
+【 以下文字转载自 Board_Apply 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Apply
+标  题: [合集]  [提案]成立看版(数据库技术)
+发信站: 北邮人论坛 (Fri Aug 25 12:57:39 2006), 站内
+
+☆─────────────────────────────────────☆
+   cher (车车) 于  (Mon Jun 12 23:15:22 2006)  提到:
+
+内容: (1). 英文版名: Database 
+      (2). 中文版名: 数据库技术
+分区：2
+类别: 类别名 非水版 
+ 
+(2). 版面宗旨：讨论数据库技术及其数据库系统开发相关问题  
+ 
+(3). 申请人信息:  
+申请人 ID：cher 
+申请人是否曾经担任过本站的管理或非管理职务？若有，可否列举？ 
+   版主 
+申请人是否承诺一旦开版成功，即担任版主：是 
+申请人是否承诺一旦开版成功，将支持并接受站务委员会的管理：是 
+申请人是否了解新开设或新恢复的主题版面应在通过复审后一周内，由版主在版面与版面管理版同 
+    时提交正式的制版方针：是
+ 
+(4). 范文文件标题列表 
+    
+    标题：[数据库往何处去]
+    标题：[大型数据库设计原则]
+    标题：[Linux数据库大比拚(节选)]
+
+
+
+☆─────────────────────────────────────☆
+   sunsimonny (KN~|处男处长) 于  (Tue Jun 13 01:06:45 2006)  提到:
+
+ 
+第一个来支持小车
+
+【 在 cher (车车) 的大作中提到: 】
+: 内容: (1). 英文版名: Database  
+:       (2). 中文版名: 数据库技术 
+: 分区：2 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   JimmyDong (尤里安) 于  (Tue Jun 13 02:04:05 2006)  提到:
+
+支持boss
+
+
+☆─────────────────────────────────────☆
+   Neverwinter (Sci-Fi SG Atlantis) 于  (Tue Jun 13 18:51:29 2006)  提到:
+
+sp!
+
+不过，现在开个DB版还不如先开个matlab或mathtools版
+【 在 cher (车车) 的大作中提到: 】
+: 内容: (1). 英文版名: Database  
+:       (2). 中文版名: 数据库技术 
+: 分区：2 
+: ................... 
+
+
+
+☆─────────────────────────────────────☆
+   littleboy (北邮首席宠物...) 于  (Tue Jun 13 21:29:47 2006)  提到:
+
+SP
+
+
+
+ 
+【文章标题】：恭喜恭喜开版 【文章地址】：https://bbs.byr.cn/article/Database/23 【创建时间】：2006-09-06 【作者】：yanchaowang 【评论】：3 【内容】：发信人: yanchaowang ((loveRan)我就是那个飞上高), 信区: Database
+标  题: 恭喜恭喜开版
+发信站: 北邮人论坛 (Wed Sep  6 23:20:01 2006), 站内
+
+呵呵
+--
+怎么 怎么 情愿一起沉没 也不欣赏泡沫 不愿立地成佛 宁愿要走火入魔 是谁 你是谁 为什么 情愿两个人不快活 也要 一起生活 我们做过什么 怎么 怎么 莫非你是阿修罗 享受哀艳的战火 将玻璃鞋也击破 都不愿看破 你变做 好战的阿修罗  
+
+※ 修改:·yanchaowang 于 Sep  6 23:21:19 修改本文·[FROM: 59.64.225.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.225.*]
+ 
+【文章标题】：请问一个jsp连接mysql的问题 【文章地址】：https://bbs.byr.cn/article/Database/585 【创建时间】：2007-01-17 【作者】：landiya 【评论】：3 【内容】：发信人: landiya (landiya), 信区: Database
+标  题: 请问一个jsp连接mysql的问题
+发信站: 北邮人论坛 (Wed Jan 17 20:46:50 2007), 站内
+
+type Exception report
+
+message 
+
+description The server encountered an internal error () that prevented it from fulfilling this request.
+
+exception 
+
+org.apache.jasper.JasperException: /Login.jsp(4,0) The value for the useBean class attribute com.iapr.bean.UserLogin is invalid.
+    org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:512)
+    org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:377)
+    org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:314)
+    org.apache.jasper.servlet.JspServlet.service(JspServlet.java:264)
+    javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+
+
+root cause 
+
+org.apache.jasper.JasperException: /Login.jsp(4,0) The value for the useBean class attribute com.iapr.bean.UserLogin is invalid.
+    org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:39)
+    org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:405)
+    org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:146)
+    org.apache.jasper.compiler.Generator$GenerateVisitor.visit(Generator.java:1174)
+    org.apache.jasper.compiler.Node$UseBean.accept(Node.java:1116)
+    org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2163)
+    org.apache.jasper.compiler.Node$Visitor.visitBody(Node.java:2213)
+    org.apache.jasper.compiler.Node$Visitor.visit(Node.java:2219)
+    org.apache.jasper.compiler.Node$Root.accept(Node.java:456)
+    org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2163)
+    org.apache.jasper.compiler.Node$Visitor.visitBody(Node.java:2213)
+    org.apache.jasper.compiler.Node$Visitor.visit(Node.java:2237)
+    org.apache.jasper.compiler.Node$IncludeDirective.accept(Node.java:597)
+    org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2163)
+    org.apache.jasper.compiler.Node$Visitor.visitBody(Node.java:2213)
+    org.apache.jasper.compiler.Node$Visitor.visit(Node.java:2219)
+    org.apache.jasper.compiler.Node$Root.accept(Node.java:456)
+    org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2163)
+    org.apache.jasper.compiler.Generator.generate(Generator.java:3320)
+    org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:198)
+    org.apache.jasper.compiler.Compiler.compile(Compiler.java:295)
+    org.apache.jasper.compiler.Compiler.compile(Compiler.java:276)
+    org.apache.jasper.compiler.Compiler.compile(Compiler.java:264)
+    org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:563)
+    org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:305)
+    org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:314)
+    org.apache.jasper.servlet.JspServlet.service(JspServlet.java:264)
+    javax.servlet.http.HttpServlet.service(HttpServlet.java:802)
+
+请问一下这个是什么问题啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 159.226.21.*]
+ 
+【文章标题】：关于appache的问题…… 【文章地址】：https://bbs.byr.cn/article/Database/438 【创建时间】：2006-12-02 【作者】：ply1025 【评论】：3 【内容】：发信人: ply1025 (风の忘寻), 信区: Database
+标  题: 关于appache的问题……
+发信站: 北邮人论坛 (Sat Dec  2 23:57:17 2006), 站内
+
+开始装了个appserv，然后卸了，在装php+apache+mysql的一个安装包，每次都提示找不到apache的所在路径，测试appache又是开着的，怎么整啊……
+--
+妈妈说，朋友说，要做个幸福的小孩……即使是只有我一个人！！！
+
+※ 修改:·ply1025 于 Dec  3 09:32:52 修改本文·[FROM: 59.64.243.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.243.*]
+ 
+【文章标题】：[公告] 开设 Database/数据库技术 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/Database/2 【创建时间】：2006-09-05 【作者】：zitan 【评论】：0 【内容】：发信人: zitan (子夜昙花), 信区: Database
+标  题: [公告] 开设 Database/数据库技术 版面
+发信站: 北邮人论坛 (Tue Sep  5 12:56:21 2006), 站内
+
+【 以下文字转载自 Board_Management 讨论区 】
+发信人: zitan (子夜昙花), 信区: Board_Management
+标  题: [公告] 开设 Database/数据库技术 版面
+发信站: 北邮人论坛 (Tue Sep  5 12:54:36 2006), 站内
+
+经版面管理组讨论，同意开设 Database/数据库技术 版面，
+并任命 chit 为第一任版主。
+
+分区位置：学术科技
+是否计发文数：计入
+是否计入十大统计：计入
+是否直接提供附件功能：不直接提供
+
+需要改变上述属性的，请在开版满两周后在 Board_Management 按格式提出申请。
+
+本版其他版主申请，请到 BM_Apply 版按申请的格式进行。
+
+申请人作为版主，请在收到正式任命通知后 3 天内到 BoardManager 版报道。
+同时建议多到 BM_Office 版学习和讨论版务事宜。
+
+新开设版面应在通过一周内，由版主在版面、Board_Document 版
+同时提交正式的版规。版规未经审批通过的，不能通过后
+续的新开版期考核，直接终止版面。
+
+新开设版面成立满 2 个月后，应由版主在版面与 Board_Document 版同时
+提交版面发展总结报告并申请通过新开期考核。版面管理组将对报告进行讨论，并
+决定是否接受申请。
+
+通过新开版期考核的版面将成为本站的正式版面，并视情况改变其版面属性。
+ 
+                                                    北邮人论坛版面管理组
+
+--
+柚子  榴莲  芒果  番石榴  杨桃干
+清平鸡  烧鹅濑  肠粉  水蛇粥  马蹄糕  榴莲酥  钵仔糕
+双皮奶  姜撞奶  芝麻糊  陈村粉  龟苓膏  癍痧凉茶  绿豆沙
+林林牛杂  云吞面  
+上下九  宝华路  北京路  珠江边  中山大道  那间小屋
+淸炒空心菜  煮玉米  蛋炒饭  
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.217.*]
+ 
+【文章标题】：添加一个记录进数据库却显示两个的问题 【文章地址】：https://bbs.byr.cn/article/Database/547 【创建时间】：2006-12-29 【作者】：jingang1016 【评论】：1 【内容】：发信人: jingang1016 (哈哈), 信区: Database
+标  题: 添加一个记录进数据库却显示两个的问题
+发信站: 北邮人论坛 (Fri Dec 29 17:12:54 2006), 站内
+
+
+ 我往数据库添加进一条记录,但界面的DBgrid上却显示两条,这会是为什么呢?
+   数据库中明明只有一条呀
+  而且关闭窗体,再打开,就变成一条了
+ 
+ 我的程序环境是:delphi7,Access
+  用Database连接的数据库,table连的Database,再用table和一个DBgrid相连.
+  在我的电脑上没有错,在别的电脑上却错了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.180.*]
+ 
+【文章标题】：mysql命令中使用变量的问题 【文章地址】：https://bbs.byr.cn/article/Database/542 【创建时间】：2006-12-26 【作者】：sherlock 【评论】：2 【内容】：发信人: sherlock (漠漠), 信区: Database
+标  题: mysql命令中使用变量的问题
+发信站: 北邮人论坛 (Tue Dec 26 15:18:56 2006), 站内
+
+  rt，我在linux上做了一个mysql的client，调用mysql_query的api实现输入命令。现在需要在命令中使用变量，可是那个api对于命令是按字符串的方式处理的，不知道如何能够 实现变量，谢谢大家。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.183.*]
+ 
+【文章标题】：嵌套查询中内外层如何交互? 【文章地址】：https://bbs.byr.cn/article/Database/548 【创建时间】：2006-12-30 【作者】：riverbuildin 【评论】：2 【内容】：发信人: riverbuildin (k), 信区: Database
+标  题: 嵌套查询中内外层如何交互?
+发信站: 北邮人论坛 (Sat Dec 30 10:43:43 2006), 站内
+
+比如说要找出员工表中年纪比其主管年纪大的员工ID?
+谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.209.*]
+ 
+【文章标题】：【求助】用vs 2005 将int类型压入string出错 【文章地址】：https://bbs.byr.cn/article/Database/5609 【创建时间】：2011-05-19 【作者】：ailinlin 【评论】：2 【内容】：发信人: ailinlin (twilight II), 信区: Database
+标  题: 【求助】用vs 2005 将int类型压入string出错
+发信站: 北邮人论坛 (Thu May 19 14:45:09 2011), 站内
+
+代码：
+			string sql = "insert into hot_topic(TopicID,Word,Time,DocumentNum,ReplyNum,ClickNum,TopicTitle,TopicBody) values("+topic_id+","+key_word+","+T+","+document_number+","+reply_number+","+click_number+","+title+","+body+")";		
+
+报错：
+
+1&gt;c:\documents and settings\ailingling\桌面\毕业论文相关\代码\代码\processmodule\pris_hot_topic_detection.cpp(699) : error C2784: “std::_Vb_iterator&lt;_MycontTy&gt; std::operator +(_Vb_iterator&lt;_MycontTy&gt;::difference_type,std::_Vb_iterator&lt;_MycontTy&gt;)”: 无法从“int”为“std::_Vb_iterator&lt;_MycontTy&gt;”推导 模板 参数
+--
+※ 修改:·ailinlin 于 May 19 14:48:32 2011 修改本文·[FROM: 118.229.207.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.207.*]
+ 
+【文章标题】：有关PB与SQL的连接问题 【文章地址】：https://bbs.byr.cn/article/Database/5616 【创建时间】：2011-05-25 【作者】：zhangzhiyuan 【评论】：0 【内容】：发信人: zhangzhiyuan (树袋熊), 信区: Database
+标  题: 有关PB与SQL的连接问题
+发信站: 北邮人论坛 (Wed May 25 20:47:14 2011), 站内
+
+PB与SQL连接不上，在PB中添加sql的一个库可以，但是在后来在preview里测试就不行了，怎么办
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.243.*]
+ 
+【文章标题】：求推荐 【文章地址】：https://bbs.byr.cn/article/Database/5572 【创建时间】：2011-05-11 【作者】：Crisecool 【评论】：3 【内容】：发信人: Crisecool (Crisecool), 信区: Database
+标  题: 求推荐
+发信站: 北邮人论坛 (Wed May 11 20:22:54 2011), 站内
+
+能做B/S架构管理信息系统的除了.net 还有些什么软件？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.207.*]
+ 
+【文章标题】：求数据库备份与恢复、存储器和触发器实验报告 【文章地址】：https://bbs.byr.cn/article/Database/5611 【创建时间】：2011-05-22 【作者】：ocarina 【评论】：0 【内容】：发信人: ocarina (aiyo), 信区: Database
+标  题: 求数据库备份与恢复、存储器和触发器实验报告
+发信站: 北邮人论坛 (Sun May 22 11:56:13 2011), 站内
+
+求数据库备份与恢复、存储器和触发器实验报告
+ 有些不太懂，想看着报告边学边做
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.207.*]
+ 
+【文章标题】：求助 数据库实验 【文章地址】：https://bbs.byr.cn/article/Database/5612 【创建时间】：2011-05-22 【作者】：wrx0621 【评论】：0 【内容】：发信人: wrx0621 (绿色G ), 信区: Database
+标  题: 求助 数据库实验
+发信站: 北邮人论坛 (Sun May 22 14:02:36 2011), 站内
+
+如何书写脚本在-学生表上插入100条记录，在学生表上插入10000条记录
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 115.171.142.*]
+ 

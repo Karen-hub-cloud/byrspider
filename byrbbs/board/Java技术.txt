@@ -18114,3 +18114,1490 @@ System.out.printf(c);
 
 
  
+【文章标题】：【问题】gitbook标题和目录问题 【文章地址】：https://bbs.byr.cn/article/Java/59351 【创建时间】：2018-06-10 【作者】：demaxiya 【评论】：0 【内容】：发信人: demaxiya (【意涵团】溪 ＃井), 信区: Java
+标  题: 【问题】gitbook标题和目录问题
+发信站: 北邮人论坛 (Sun Jun 10 10:47:37 2018), 站内
+
+最近要用gitbook给单位写一个版本控制文档，然后部署到web上。
+目前遇到了一些问题，在用SUMMARY生成目录的时候，每个目录标题下面对应一个 .md文件，也就是每个标题对应一个独立的页面。
+但文档里面有一部分标题都只有半页内容，
+我想能不能把这一部分标题做到同一个md页面里面，类似word或者pdf那种，能连续滑动到每一页的，然后左边也能根据标题跳到这个md的对应部分。 
+
+<img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"> <img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"> 求助啊，自己在网上查了一下没有找到解决办法。
+
+--
+※ 修改:·demaxiya 于 Jun 10 10:48:32 2018 修改本文·[FROM: 10.108.79.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.79.*]
+ 
+【文章标题】：MR程序发生异常Type mismatch in key from map 【文章地址】：https://bbs.byr.cn/article/Java/59014 【创建时间】：2018-05-10 【作者】：Albert115 【评论】：3 【内容】：发信人: Albert115 (Albert115), 信区: Java
+标  题: MR程序发生异常Type mismatch in key from map
+发信站: 北邮人论坛 (Thu May 10 10:05:53 2018), 站内
+
+执行MR程序的时候发生异常：java.lang.Exception: java.io.IOException: Type mismatch in key from map: expected org.apache.hadoop.io.Text, received org.apache.hadoop.io.LongWritable
+代码如下：
+package test;
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+
+public class maxScoreOfEachSubject {
+    // Mapper模块
+    public static class MyMapper extends Mapper&lt;Object, Text, Text, IntWritable&gt; {
+        public void Map(Object key, Text value, Context context) throws IOException, InterruptedException {
+            String lines = value.toString();
+            String array[] = lines.split("\\s");
+            String keyOutput = array[0];
+            int valueOutput = Integer.parseInt(array[1]);
+            context.write(new Text(keyOutput), new IntWritable(valueOutput));
+        }
+    }
+
+    // Reducer模块
+    public static class MyReducer extends Reducer&lt;Text, IntWritable, Text, IntWritable&gt; {
+        private IntWritable sortMax = new IntWritable();
+        public void Reduce(Text key, Iterable&lt;IntWritable&gt; values, Context context)
+                throws IOException, InterruptedException {
+            int score = 0;
+            for (IntWritable value : values) {
+                score = Math.max(score, value.get());
+            }
+            sortMax.set(score);
+            context.write(key, sortMax);
+        }
+    }
+
+    // Driver模块
+    public static void main(String[] args) throws Exception {
+        Configuration conf = new Configuration();
+        Job job = Job.getInstance(conf, "max score of each subject");
+        job.setJarByClass(maxScoreOfEachSubject.class);
+        job.setMapperClass(MyMapper.class);
+        job.setReducerClass(MyReducer.class);
+        
+        job.setMapOutputKeyClass(Text.class);
+        job.setMapOutputValueClass(IntWritable.class);
+        job.setOutputKeyClass(Text.class);
+        job.setOutputValueClass(IntWritable.class);
+        
+        for (int i = 0; i &lt; args.length - 1; ++i) {
+            FileInputFormat.addInputPath(job, new Path(args[i]));
+        }
+        FileOutputFormat.setOutputPath(job, new Path(args[args.length - 1]));
+        System.exit(job.waitForCompletion(true) ? 0 : 1);
+    }
+}
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.29.*]
+ 
+【文章标题】：SSM源码阅读 【文章地址】：https://bbs.byr.cn/article/Java/59003 【创建时间】：2018-05-09 【作者】：coyding 【评论】：2 【内容】：发信人: coyding (aaa), 信区: Java
+标  题: SSM源码阅读
+发信站: 北邮人论坛 (Wed May  9 21:03:44 2018), 站内
+
+最近准备开始阅读SSM源码，大家说说自己刚开始读源码的经验
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 121.69.55.*]
+ 
+【文章标题】：寻找一起学习Java的同学~ 【文章地址】：https://bbs.byr.cn/article/Java/59004 【创建时间】：2018-05-09 【作者】：fantasyyht 【评论】：6 【内容】：发信人: fantasyyht (Haotian), 信区: Java
+标  题: 寻找一起学习Java的同学~
+发信站: 北邮人论坛 (Wed May  9 21:26:33 2018), 站内
+
+先介绍一下本人情况——信通院通信工程大三男生（性格略内向，但是在熟悉的人面前还是比较健谈的hhh）。目标是毕业后找到一份Java后端的工作。我开始学的时间比较晚所以现在只学完JavaSE基础，还有MySQL基础，现在正在学jsp和servlet的相关知识。希望能找到志同道合的同学一起学习吧，大家互相讨论互相督促进步会更快<img src="/img/ubb/emc/3.gif" alt="emc3" style="display:inline;border-style:none">当然如果有大佬愿意收我为徒的话也是感激不尽的哈哈哈<img src="/img/ubb/emc/8.gif" alt="emc8" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.202.16.*]
+ 
+【文章标题】：java web的一个小问题，求教 【文章地址】：https://bbs.byr.cn/article/Java/59008 【创建时间】：2018-05-10 【作者】：gzm9583 【评论】：8 【内容】：发信人: gzm9583 (gzzzm), 信区: Java
+标  题: java web的一个小问题，求教
+发信站: 北邮人论坛 (Thu May 10 02:32:25 2018), 站内
+
+最近在学习java web，试着用servlet jsp写一个简易的论坛，想问一下登录成功之后，点击帖子的链接之后应该怎么办？我的想法是转到一个jsp页面然后从数据库中读取数据加载帖子内容？但是问题在于点开链接的时候没法提交request，没法把这个帖子的相关信息传进去。还是说发帖的时候就为这个帖子专门创建一个界面，然后直接在点击链接进入呢？求教各位大神，问题很简单，大家别笑我
+--
+
+※ 来源:·北邮人论坛手机版 <a target="_blank" href="http://m.byr.cn">http://m.byr.cn</a>·[FROM: 10.210.27.*]
+ 
+【文章标题】：有谁会condor么？condor支持GPU计算不？ 【文章地址】：https://bbs.byr.cn/article/Java/24780 【创建时间】：2013-04-12 【作者】：xydaxia 【评论】：0 【内容】：发信人: xydaxia (Xavier), 信区: Java
+标  题: 有谁会condor么？condor支持GPU计算不？
+发信站: 北邮人论坛 (Fri Apr 12 18:28:14 2013), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 210.73.77.*]
+ 
+【文章标题】：Java的Implements，是不是就等同于C++的类外实现？ 【文章地址】：https://bbs.byr.cn/article/Java/24705 【创建时间】：2013-04-08 【作者】：LYMing 【评论】：2 【内容】：发信人: LYMing (老玉米), 信区: Java
+标  题: Java的Implements，是不是就等同于C++的类外实现？
+发信站: 北邮人论坛 (Mon Apr  8 04:08:08 2013), 站内
+
+我看糊涂了，按照网上说的：
+为什么调用时候要用接口的方法，而不是直接用类的方法？
+一个类的一个方法，可以有多个接口么？
+
+譬如下面这个例子里：
+为什么是“People chinese = new Chinese();”，而非“People chinese = new People;”
+-----------------我是例子--------------------------------------
+比如：People是一个接口，他里面有say这个方法。
+接口的定义：
+public interface People{
+public void say();
+}
+但是接口没有方法体。只能通过一个具体的类去实现其中的方法体。
+比如 Chinese这个类，就实现了People这个接口。
+接口的实现：
+public class Chinese implements People{
+public void say() {
+System.out.println(" 你好！");
+}
+}
+接口的调用：
+People chinese = new Chinese() ;
+chinese.say();
+
+资料来自：<a target="_blank" href="http://baike.baidu.com/view/2424683.htm">http://baike.baidu.com/view/2424683.htm</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.205.77.*]
+ 
+【文章标题】：James Gosling又跑了。。。。。。 【文章地址】：https://bbs.byr.cn/article/Java/19953 【创建时间】：2011-09-04 【作者】：wodetiandi 【评论】：1 【内容】：发信人: wodetiandi (啥也不写了~), 信区: Java
+标  题: James Gosling又跑了。。。。。。
+发信站: 北邮人论坛 (Sun Sep  4 21:52:22 2011), 站内
+
+老头这么大岁数了还四处跑，为sun服务了16年，一被oracle收购就给逼走了，去了google人家已经有自己的java虚拟机了，还有python和go的创始人在那呢，没他的份了。。。。。。。
+当程序猿真伤= =！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 125.39.117.*]
+ 
+【文章标题】：[问题]求教android的jsoup问题 【文章地址】：https://bbs.byr.cn/article/Java/24781 【创建时间】：2013-04-12 【作者】：gsl2011 【评论】：4 【内容】：发信人: gsl2011 (longGG), 信区: Java
+标  题: [问题]求教android的jsoup问题
+发信站: 北邮人论坛 (Fri Apr 12 23:34:35 2013), 站内
+
+android小白～做了个简单的android程序，效果ok。
+今天想用jsoup解析一下网页，
+Document doc = Jsoup.connect("http://example.com/").get();
+确切的说Jsoup.connect()的时候出现问题。提示没有android.jar这个包，可是已经导入过了。
+我感觉可能是配置神码的有点问题，无奈实在太小白了。
+请问有谁碰到过这个情况么，或者是说使用jsoup的时候要有哪些注意事项呢？直接导入jsoup.jar不好使么？
+谢拉。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.41.*]
+ 
+【文章标题】：将SCWS开源项目从Ｃ语言移植到JAVA 【文章地址】：https://bbs.byr.cn/article/Java/24788 【创建时间】：2013-04-14 【作者】：haiziwang 【评论】：4 【内容】：发信人: haiziwang (海之王), 信区: Java
+标  题: 将SCWS开源项目从Ｃ语言移植到JAVA
+发信站: 北邮人论坛 (Sun Apr 14 11:45:17 2013), 站内
+
+老师说：你帮我把这东西从Ｃ语言移植到JAVA吧：
+http://www.xunsearch.com/scws/download.php#scws
+
+求问：怎么弄？要我把代码重写一遍是不可能的…………
+--
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.24.*]
+ 
+【文章标题】：关于链接MySQL数据库问题 【文章地址】：https://bbs.byr.cn/article/Java/19789 【创建时间】：2011-08-24 【作者】：taotao1624 【评论】：0 【内容】：发信人: taotao1624 (Torrey), 信区: Java
+标  题: 关于链接MySQL数据库问题
+发信站: 北邮人论坛 (Wed Aug 24 18:04:45 2011), 站内
+
+刚学JAVA一个半星期，新手问题，求解答。
+
+通过控制台输入username和password去访问MySQL数据库，要求：当username和password错误时，让控制继续给机会输入，直到username和password正确或者用户自动放弃为止，可以理解为套密码的行为。
+
+我的问题是当第一次的username和password输入错误时，就抛出错误了。然后就什么都没有了。
+
+呃~~~新手问题，不要见笑。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.172.244.*]
+ 
+【文章标题】：菜鸟求助Struts2中#、%｛｝、${}区别？ 【文章地址】：https://bbs.byr.cn/article/Java/19792 【创建时间】：2011-08-24 【作者】：zx723 【评论】：0 【内容】：发信人: zx723 (zx), 信区: Java
+标  题: 菜鸟求助Struts2中#、%｛｝、${}区别？
+发信站: 北邮人论坛 (Wed Aug 24 20:15:47 2011), 站内
+
+如题，谢谢。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.165.*]
+ 
+【文章标题】：jsp求教 【文章地址】：https://bbs.byr.cn/article/Java/19834 【创建时间】：2011-08-26 【作者】：shenyangsy 【评论】：6 【内容】：发信人: shenyangsy (sy), 信区: Java
+标  题: jsp求教
+发信站: 北邮人论坛 (Fri Aug 26 16:40:27 2011), 站内
+
+&lt;h2&gt;个人基本信息&lt;/h2&gt;
+  &lt;form action="person2.jsp" method="post"&gt;
+  姓名：&lt;input type="text" name="name"/&gt;&lt;br/&gt;&lt;br/&gt;
+  年龄: &lt;input type="text" name="age"/&gt;&lt;br/&gt;&lt;br/&gt;
+  性别：&lt;input type="radio" name="sex" value="男"/&gt;男
+  &lt;input type="radio" name="sex" value="女"/&gt;女
+  &lt;br/&gt;&lt;br/&gt;
+  籍贯：&lt;select name="city"&gt;
+  &lt;option value="辽宁"&gt;辽宁&lt;/option&gt;
+  &lt;option value="安徽"&gt;安徽&lt;/option&gt;
+  &lt;option value="山东"&gt;山东&lt;/option&gt;
+  &lt;option value="湖北"&gt;湖北&lt;/option&gt;&lt;/select&gt;&lt;br/&gt;&lt;br/&gt;
+  职业：
+  &lt;select name="career"&gt;
+  &lt;option value="工人"&gt;工人&lt;/option&gt;
+  &lt;option value="农民"&gt;农民&lt;/option&gt;
+  &lt;option value="教师"&gt;教师&lt;/option&gt;
+  &lt;option value="学生"&gt;学生&lt;/option&gt;&lt;/select&gt;&lt;br/&gt;&lt;br/&gt;
+  &lt;input type="submit" value="提交"/&gt;
+  &lt;input type="reset" value="重置"/&gt;
+  &lt;/form&gt;&lt;/center&gt;
+  &lt;/body&gt;
+这是静态页面，点提交后
+&lt;body&gt; 
+  &lt;% request.setCharacterEncoding("gbk"); %&gt;
+  &lt;jsp:useBean id="bean" class="bean.Person" scope="page"/&gt;
+  &lt;jsp:setProperty name="bean" property="*"/&gt;
+  您刚才提交的信息为：&lt;br/&gt;
+  姓名：&lt;jsp:getProperty name="bean" property="name"/&gt;&lt;br/&gt;
+  年龄：&lt;jsp:getProperty name="bean" property="age"/&gt;&lt;br/&gt;
+  性别：&lt;jsp:getProperty name="bean" property="sex"/&gt;&lt;br/&gt;
+  籍贯：&lt;jsp:getProperty name="bean" property="city"/&gt;&lt;br/&gt;
+  职业：&lt;jsp:getProperty name="bean" property="career"/&gt;&lt;br/&gt;
+ &lt;/body&gt;
+执行上述代码，结果：
+
+<a target="_blank" href="/att/Java/0/19834/1626"><img border="0" title="" src="/att/Java/0/19834/1626" alt="" class="resizeable"></a>
+点提交后：
+
+<a target="_blank" href="/att/Java/0/19834/17065"><img border="0" title="" src="/att/Java/0/19834/17065" alt="" class="resizeable"></a>
+为啥前两个有值，后面的单选按钮，和复选框都没有成功传过来值啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.229.161.*]
+
+ 
+【文章标题】：【陌陌科技】招聘android开发工程师 【文章地址】：https://bbs.byr.cn/article/Java/19793 【创建时间】：2011-08-24 【作者】：hanx06 【评论】：0 【内容】：发信人: hanx06 (马尔代夫), 信区: Java
+标  题: 【陌陌科技】招聘android开发工程师
+发信站: 北邮人论坛 (Wed Aug 24 20:31:52 2011), 站内
+
+【岗位】 
+Android开发工程师 
+   
+【要求】 
+希望您有丰富的Java开发经验，擅长Android界面与网络编程,有参与开发android应用的经验。 
+   
+【招聘说明】 
+如果你是一个IT工程师，每天朝九晚五，呆在一个等级分明、俨然有序的公司里。作为一个螺丝钉，你辛苦的贡献着自己的价值，却可能需要面对呆头呆脑的上司、沉闷乏味的环境，以及一成不变的前途。在北京这样一个房价高耸的城市，你将面临如下的选择：把青春耗在原地慢慢向上爬，或者，干脆玩一票大的——加入陌陌团伙，或许你就能成为未来的敲钟人之一。如果你愿意选择后者，那么请加入我们，我们可以为你提供： 
+  
+1、优厚的薪水和五险一金；（职位月薪：8000-20000元/月，视能力而定可突破此限制） 
+2、弹性自由的工作时间； 
+3、对你个性的绝对尊重和理解； 
+3、环境舒适的办公环境和位置绝佳的办公地点； 
+4、和睦、积极、充满乐趣的工作氛围； 
+5、根据表现给予的期权奖励； 
+  
+以及最重要的： 
+6、一个值得期待和充满希望的未来。 
+  
+  
+【公司简介】 
+陌陌科技是一家新成立的创业公司，专注于移动互联网产品的开发，现在公司规模15人左右，目前处在快速发展中。办公室位于三元桥地铁站附近。我们已发布产品的iOS版<a target="_blank" href="http://itunes.apple.com/cn/app/id448165862?mt=8#">http://itunes.apple.com/cn/app/id448165862?mt=8#</a> ，上线不到一周就有1万多的注册用户。微博评价和反馈非常好，我们对产品非常有信心。 
+官网：<a target="_blank" href="http://immomo.com">http://immomo.com</a> 
+  
+Email：hr@immomo.com 
+工作地点：朝阳区霄云路霄云中心，距离三元桥地铁站步行10分钟；
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.129.54.*]
+ 
+【文章标题】：求教，自动下载jar包问题 【文章地址】：https://bbs.byr.cn/article/Java/19798 【创建时间】：2011-08-25 【作者】：tingyu 【评论】：0 【内容】：发信人: tingyu (tingyu), 信区: Java
+标  题: 求教，自动下载jar包问题
+发信站: 北邮人论坛 (Thu Aug 25 10:53:50 2011), 站内
+
+想问下，现在在想用jws，实现客户端自动加载dll的jar包，这样的话，客户端在第一次打开浏览器的时候，自动下载程序，以后，就会自动的更新，这种方法可行吗？想了解一下，如果要是不可行的话，有没有其他的方法啊。。。急。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.108.130.*]
+ 
+【文章标题】：如何在脚本文件里控制input文本框里面的值呢 【文章地址】：https://bbs.byr.cn/article/Java/19788 【创建时间】：2011-08-24 【作者】：alice1989 【评论】：1 【内容】：发信人: alice1989 (alice), 信区: Java
+标  题: 如何在脚本文件里控制input文本框里面的值呢
+发信站: 北邮人论坛 (Wed Aug 24 17:21:21 2011), 站内
+
+一是要求每次进入div时都要清空div里面的文本框里面的值
+二是如何赋值呢
+
+我的代码是这样的 可是控制不了
+ $('#dialog_form input[name=CategoryUP]')[0].value=''
+ $('#CategoryUP").val('')
+这两种我都试过 都不好使
+对了 在IE浏览器是OK的 但在foxfire中就不行了 求解啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 211.103.131.70]
+ 
+【文章标题】：[公告] 开设 Java/Java技术 版面 (转载) 【文章地址】：https://bbs.byr.cn/article/Java/1 【创建时间】：2007-07-22 【作者】：DarkIce 【评论】：0 【内容】：发信人: DarkIce (『承影·暗冰』丨坐墙等红杏の等良人归), 信区: Java
+标  题: [公告] 开设 Java/Java技术 版面
+发信站: 北邮人论坛 (Sun Jul 22 23:26:41 2007), 站内
+
+【 以下文字转载自 Board_Management 讨论区 】
+发信人: DarkIce (『承影·暗冰』丨坐墙等红杏の等良人归), 信区: Board_Management
+标  题: [公告] 开设 Java/Java技术 版面
+发信站: 北邮人论坛 (Sun Jul 22 23:24:26 2007), 站内
+
+经版面管理组讨论，同意开设 Java/Java技术 版面，
+并任命 ljay04114 为第一任版主。
+
+分区位置：学术科技
+是否计发文数：计入
+是否计入十大统计：计入
+是否直接提供附件功能：不直接提供
+
+需要改变上述属性的，请在开版满两周后在 Board_Management 按格式提出申请。
+
+本版其他版主申请，请到 BM_Apply 版按申请的格式进行。
+
+申请人作为版主，请在收到正式任命通知后 3 天内到 BoardManager 版报道。
+同时建议多到 BM_Office 版学习和讨论版务事宜。
+
+新开设版面应在通过一周内，由版主在版面、Board_Document 版
+同时提交正式的版规。版规未经审批通过的，不能通过后
+续的新开版期考核，直接终止版面。
+
+新开设版面成立满 2 个月后，应由版主在版面与 Board_Document 版同时
+提交版面发展总结报告并申请通过新开期考核。版面管理组将对报告进行讨论，并
+决定是否接受申请。
+
+通过新开版期考核的版面将成为本站的正式版面，并视情况改变其版面属性。
+ 
+                                                    北邮人论坛版面管理组
+
+--
+DarkIce|暗冰                                    ￣╲   （∵）        
+    我于墙头坐，将红杏等待，缘何还不来……     \╭  ╲╭。 ∕╮      
+                                              ╭\╯ ╰╲╯∕╰ ╲╭︵
+我已等待了千年为何城门还不开                   ︶\╮ ╭ ╮ ︵  ╭  ╮
+                  我已等待了千年为何良人不回来  ╰° ゜╯ ╲.）〔╰°
+                                                          ╰╯       
+
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.235.*]
+ 
+【文章标题】：有偿征一个会android的同学做一个小程序 【文章地址】：https://bbs.byr.cn/article/Java/19785 【创建时间】：2011-08-24 【作者】：Terry1983 【评论】：3 【内容】：发信人: Terry1983 (孙悟空@北邮刷天下), 信区: Java
+标  题: 有偿征一个会android的同学做一个小程序
+发信站: 北邮人论坛 (Wed Aug 24 14:16:40 2011), 站内
+
+做一个简单的小软件，有报酬。 
+
+有意者联系QQ  26104813
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.148.16.*]
+ 
+【文章标题】：【请教版内大牛】关于一个运算符。 【文章地址】：https://bbs.byr.cn/article/Java/19795 【创建时间】：2011-08-25 【作者】：John 【评论】：5 【内容】：发信人: John (John), 信区: Java
+标  题: 【请教版内大牛】关于一个运算符。
+发信站: 北邮人论坛 (Thu Aug 25 09:51:01 2011), 站内
+
+boolean right = false;
+right |= true;
+System.out.println(right);
+上述的输出是true。可是|=是什么意思呢？
+我猜的是right = right || true，如果是这样，跟true做或运算有什么意思啊。。。求版内大牛给个解释。。。谢谢~<img src="/img/ubb/emb/22.gif" alt="emb22" style="display:inline;border-style:none">
+--
+※ 修改:·John 于 Aug 25 09:59:50 2011 修改本文·[FROM: 203.86.57.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 203.86.57.*]
+ 
+【文章标题】：问个关于hibernate的问题 【文章地址】：https://bbs.byr.cn/article/Java/13172 【创建时间】：2010-02-01 【作者】：LoveLotus 【评论】：0 【内容】：发信人: LoveLotus (爱荷散人|DestinyOwner), 信区: Java
+标  题: 问个关于hibernate的问题
+发信站: 北邮人论坛 (Mon Feb  1 18:59:58 2010), 站内
+
+以下代码为什么不能实现查询结果按照降序排列？
+
+session.createCriteria(clazz).setResultTransformer( Criteria.DISTINCT_ROOT_E
+NTITY).addOrder(Order.desc("date")).list();
+
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 59.64.180.*]
+ 
+【文章标题】：求助：推荐一本java题库 【文章地址】：https://bbs.byr.cn/article/Java/13431 【创建时间】：2010-03-11 【作者】：honeysuckle 【评论】：4 【内容】：发信人: honeysuckle (honeysuckle), 信区: Java
+标  题: 求助：推荐一本java题库
+发信站: 北邮人论坛 (Thu Mar 11 11:32:42 2010), 站内
+
+想做些题巩固java基础，有没有相关的书可以推荐呢（那种有题和精解的）
+--
+自强不息，厚德载物
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 211.68.70.*]
+ 
+【文章标题】：[合集] &和&&的区别 【文章地址】：https://bbs.byr.cn/article/Java/6079 【创建时间】：2008-08-23 【作者】：SturdyEagle 【评论】：0 【内容】：发信人: SturdyEagle (计忆邮心|眉鹰LoveIBM), 信区: Java
+标  题: [合集] &amp;和&amp;&amp;的区别
+发信站: 北邮人论坛 (Sat Aug 23 16:18:48 2008), 站内
+
+☆─────────────────────────────────────☆
+   feiniao2006 (飞鸟2006) 于  (Thu Nov  8 22:48:28 2007)  提到:
+
+常在各种场合中看到这两个符号，有牛人解释一下
+bool&amp;bool和bool&amp;&amp;bool的区别吗，不胜感激
+
+
+☆─────────────────────────────────────☆
+   flykobe (笔亲|小爷) 于  (Fri Nov  9 11:03:22 2007)  提到:
+
+前者是位与，后者是条件运算，并且的意思。
+呵呵，我是搞c的，说的不对请java牛人拍砖
+
+
+☆─────────────────────────────────────☆
+   wangxyw (思情若水) 于  (Fri Nov  9 13:04:27 2007)  提到:
+
+补充楼上的：是有不同的，&amp;&amp;往往称为短路与，也就是说&amp;&amp;之前部分值为false，那么&amp;&amp;后面的就不判断了，
+比如：
+int a=3,b=4,c=0;
+if( (a&gt;b) &amp;&amp; ((c=4)&gt;a));
+System.out.printf(c);
+if( (a&gt;b) &amp; ((c=4)&gt;a));
+System.out.printf(c);
+结果就不会一样了第一个短路了&amp;&amp;后面语句不做，所以c=0
+而&amp;后面会做所以c=4
+
+
+
+ 
+【文章标题】：StackOverflowError cannot be resolved to a type 【文章地址】：https://bbs.byr.cn/article/Java/13341 【创建时间】：2010-03-03 【作者】：matthew 【评论】：1 【内容】：发信人: matthew (kiefer), 信区: Java
+标  题: StackOverflowError cannot be resolved to a type
+发信站: 北邮人论坛 (Wed Mar  3 17:21:37 2010), 站内
+
+rt   编译一个文件时出来的。。。。。。
+上网找了找没找到相关的
+就到这来问一问。。。。。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 211.68.70.50]
+ 
+【文章标题】：貌似将不再提供Jre了 【文章地址】：https://bbs.byr.cn/article/Java/12973 【创建时间】：2010-01-13 【作者】：Thinker 【评论】：4 【内容】：发信人: Thinker (思想者), 信区: Java
+标  题: 貌似将不再提供Jre了
+发信站: 北邮人论坛 (Wed Jan 13 13:25:45 2010), 站内
+
+From:
+http://java.sun.com/javase/6/docs/technotes/tools/index.html#basic
+
+java    The launcher for Java applications. In this release, a single launcher is used both for development and deployment.
+The old deployment launcher, jre, is no longer provided.
+
+看来6还是有所变化的
+--
+---------------------------
+       有所为有所不为
+---------------------------
+
+
+※ 修改:·Thinker 于 Jan 13 13:26:29 2010 修改本文·[FROM: 2001:da8:215:8501:21a:4dff:fe83:*]
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 2001:da8:215:8501:21a:4dff:fe83:*]
+ 
+【文章标题】：Re: 求教大神！！！J2ME如何创造并保存一个jpg图像文件 【文章地址】：https://bbs.byr.cn/article/Java/12028 【创建时间】：2009-11-10 【作者】：原帖已删除 【评论】：2 【内容】：发信人: xiuyuan (已经滚蛋的修远||【路】左将军), 信区: Java
+标  题: Re: 求教大神！！！J2ME如何创造并保存一个jpg图像文件
+发信站: 北邮人论坛 (Sat Nov  7 01:10:50 2009), 站内
+
+jspSmartUpload?~
+
+不知道。。。
+BD~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.118.0.*]
+ 
+【文章标题】：在线求myeclipse8.0 【文章地址】：https://bbs.byr.cn/article/Java/13380 【创建时间】：2010-03-07 【作者】：sgxg 【评论】：3 【内容】：发信人: sgxg (水果香瓜), 信区: Java
+标  题: 在线求myeclipse8.0
+发信站: 北邮人论坛 (Sun Mar  7 09:54:12 2010), 站内
+
+ 最近在学JAVA，想下个Myeclipse,但BT上没种子<a target="_blank" href="http://downloads.myeclipseide.com/downloads/products/eworkbench/galileo/myeclipse-8.0M1-win32.exe">http://downloads.myeclipseide.com/downloads/products/eworkbench/galileo/myeclipse-8.0M1-win32.exe</a>也不能下，麻烦好心人给我传一个，万分感谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.147.*]
+ 
+【文章标题】：菜鸟请教高手们一个问题！谢谢了先！ 【文章地址】：https://bbs.byr.cn/article/Java/12312 【创建时间】：2009-11-20 【作者】：ailovecs 【评论】：5 【内容】：发信人: ailovecs (freezing), 信区: Java
+标  题: 菜鸟请教高手们一个问题！谢谢了先！
+发信站: 北邮人论坛 (Fri Nov 20 16:40:21 2009), 站内
+
+最近碰到这样一段代码，以前没有遇到过，请教高手给予解释。创建对象之后可以重写方法吗？就是下面的代码，看得挺疑惑的！
+Node nodeA = new Node("A"){
+            public int getHeight() {
+            return 50;
+            }
+            public int getWidth() {
+            return 50;
+            }
+        };
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 125.33.164.*]
+ 
+【文章标题】：Re: 小白问个问题>< 【文章地址】：https://bbs.byr.cn/article/Java/11946 【创建时间】：2009-11-13 【作者】：原帖已删除 【评论】：0 【内容】：发信人: lymickey (低调的华丽ly), 信区: Java
+标  题: Re: 小白问个问题&gt;&lt;
+发信站: 北邮人论坛 (Fri Nov 13 08:26:17 2009), 站内
+
+java就这样，方便
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 60.28.165.*]
+ 
+【文章标题】：Re: 【请教】j2EE学习问题 【文章地址】：https://bbs.byr.cn/article/Java/11993 【创建时间】：2009-11-13 【作者】：原帖已删除 【评论】：1 【内容】：发信人: L7 (寂静之声), 信区: Java
+标  题: Re: 【请教】j2EE学习问题
+发信站: 北邮人论坛 (Sat Nov  7 12:53:19 2009), 站内
+
+误会……
+真没说只有SSH，先强调了东西很多……
+专门用了一堆句号，还是这种影响……
+
+【 在 jingping 的大作中提到: 】
+: 又是ssh，无语了。。 
+: java不只是j2ee,j2ee也不仅是ssh 
+
+--
+                   
+                   じ☆ve    
+
+THE SOUND OF SILENCE！   
+
+※ 修改:·L7 于 Nov  7 12:54:05 2009 修改本文·[FROM: 2001:da8:215:1230:518a:1fc0:f273:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:1230:518a:1fc0:f273:*]
+ 
+【文章标题】：求课件 【文章地址】：https://bbs.byr.cn/article/Java/12141 【创建时间】：2009-11-10 【作者】：llhts 【评论】：0 【内容】：发信人: llhts (llhts), 信区: Java
+标  题: 求课件
+发信站: 北邮人论坛 (Tue Nov 10 19:17:26 2009), 站内
+
+谁有 伍淳华 老师的全部java课件？？给传下好吗？
+先谢谢啦~ 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.180.*]
+ 
+【文章标题】：问个关于编码的问题 【文章地址】：https://bbs.byr.cn/article/Java/12160 【创建时间】：2009-11-12 【作者】：timberwolf 【评论】：8 【内容】：发信人: timberwolf (狼), 信区: Java
+标  题: 问个关于编码的问题
+发信站: 北邮人论坛 (Thu Nov 12 23:53:01 2009), 站内
+
+‘中’，gbk:6dd0, unicode:4e2d
+假设在英文操作系统下（设其系统编码为iso-8859-1）连续存储了6d,d0两个字节，那么javac在读取的时候所有本地编码会被转为unicode编码，请问这两个字节转换后应该是什么？
+--
+在所有哺乳动物中，最有感情者，莫过于狼；最具韧性者，莫过于狼；最有成就者，还是莫过于狼。
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8304:d9c1:6cde:2c34:*]
+ 
+【文章标题】：请教，一个文本编辑器问题 【文章地址】：https://bbs.byr.cn/article/Java/12158 【创建时间】：2009-11-12 【作者】：abyr 【评论】：0 【内容】：发信人: abyr (一个北邮人), 信区: Java
+标  题: 请教，一个文本编辑器问题
+发信站: 北邮人论坛 (Thu Nov 12 16:13:45 2009), 站内
+
+这是一个后台用户上传文章时使用的文本编辑器。本来带有插入图片的功能。但是word中的图片却不能直接黏贴过去
+有什么文本编辑器能直接把word里面的内容连图片一起按原来的格式复制到网页上的文本编辑器中？或者如何解决？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 218.249.96.*]
+ 
+【文章标题】：Re: 一起互联网创业 【文章地址】：https://bbs.byr.cn/article/Java/11995 【创建时间】：2009-11-10 【作者】：原帖已删除 【评论】：0 【内容】：发信人: Yamauchi (山内), 信区: Java
+标  题: Re: 一起互联网创业
+发信站: 北邮人论坛 (Tue Nov 10 20:55:03 2009), 站内
+
+。。。。银监会管这个叫“地下钱庄”
+--
+<marquee width="100%" behavior="alternate" scrollamount="3">高麗棒子統統去仆街~~~~~~~~</marquee>
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 221.221.212.*]
+ 
+【文章标题】：【java小白求助】有关short数据类型 【文章地址】：https://bbs.byr.cn/article/Java/12071 【创建时间】：2009-11-07 【作者】：police 【评论】：6 【内容】：发信人: police (头像是mm|我不是), 信区: Java
+标  题: 【java小白求助】有关short数据类型
+发信站: 北邮人论坛 (Sat Nov  7 15:40:56 2009), 站内
+
+求解释下面这段代码的问题。。。我也知道挺白痴的。。。我就是没搜出来为啥不对。。。
+
+
+short a,b,c;
+                a = 1;
+                b = 2;
+                c=a+b;
+
+--
+
+※ 来源:·北邮人论坛 forum.byr.edu.cn·[FROM: 118.229.162.*]
+ 
+【文章标题】：小弟刚学java，请教一个初级问题 【文章地址】：https://bbs.byr.cn/article/Java/12166 【创建时间】：2009-11-13 【作者】：zhangweitai 【评论】：13 【内容】：发信人: zhangweitai (&amp;#10084;紫侠狼&amp;#10084;), 信区: Java
+标  题: 小弟刚学java，请教一个初级问题
+发信站: 北邮人论坛 (Fri Nov 13 09:59:15 2009), 站内
+
+public class promotion{
+    public static void main(string([] args){
+     system.out.println(1.0+1.0/4);
+   }
+}
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.182.*]
+ 
+【文章标题】：{求助}JSP如何调用服务器的exe文件 【文章地址】：https://bbs.byr.cn/article/Java/21792 【创建时间】：2012-03-20 【作者】：million 【评论】：2 【内容】：发信人: million (【意涵团】分队小队长||Nolife), 信区: Java
+标  题: {求助}JSP如何调用服务器的exe文件
+发信站: 北邮人论坛 (Tue Mar 20 20:05:27 2012), 站内
+
+rt
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.201.9.*]
+ 
+【文章标题】：[问题]编译一个SSH框架下的程序出现的问题，求指导（已解决） 【文章地址】：https://bbs.byr.cn/article/Java/26829 【创建时间】：2013-09-15 【作者】：i99010282515 【评论】：0 【内容】：发信人: i99010282515 (歆享), 信区: Java
+标  题: [问题]编译一个SSH框架下的程序出现的问题，求指导（已解决）
+发信站: 北邮人论坛 (Sun Sep 15 11:48:17 2013), 站内
+
+严重: Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'empManager' defined in ServletContext resource [/WEB-INF/applicationContext.xml]: Cannot resolve reference to bean 'appDao' while setting bean property 'appDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appDao' defined in ServletContext resource [/WEB-INF/daoContext.xml]: Initialization of bean failed; nested exception is java.lang.ClassFormatError: Code segment has wrong length in class file org/springframework/orm/hibernate3/HibernateTemplate
+    at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+    at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1325)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1086)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+    at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+    at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+    at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:580)
+    at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+    at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:425)
+    at org.springframework.web.context.ContextLoader.createWebApplicationContext(ContextLoader.java:276)
+    at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:197)
+    at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:47)
+    at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+    at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+    at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+    at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+    at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+    at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+    at java.util.concurrent.FutureTask.run(Unknown Source)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+    at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appDao' defined in ServletContext resource [/WEB-INF/daoContext.xml]: Initialization of bean failed; nested exception is java.lang.ClassFormatError: Code segment has wrong length in class file org/springframework/orm/hibernate3/HibernateTemplate
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:527)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+    at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+    at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+    at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+    ... 25 more
+Caused by: java.lang.ClassFormatError: Code segment has wrong length in class file org/springframework/orm/hibernate3/HibernateTemplate
+    at java.lang.ClassLoader.defineClass1(Native Method)
+    at java.lang.ClassLoader.defineClass(Unknown Source)
+    at java.security.SecureClassLoader.defineClass(Unknown Source)
+    at org.apache.catalina.loader.WebappClassLoader.findClassInternal(WebappClassLoader.java:2895)
+    at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1173)
+    at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1681)
+    at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1559)
+    at java.lang.ClassLoader.loadClassInternal(Unknown Source)
+    at java.lang.Class.getDeclaredMethods0(Native Method)
+    at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+    at java.lang.Class.getDeclaredMethods(Unknown Source)
+    at java.beans.Introspector$1.run(Unknown Source)
+    at java.security.AccessController.doPrivileged(Native Method)
+    at java.beans.Introspector.getPublicDeclaredMethods(Unknown Source)
+    at java.beans.Introspector.getTargetMethodInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.&lt;init&gt;(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.&lt;init&gt;(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at org.springframework.beans.CachedIntrospectionResults.&lt;init&gt;(CachedIntrospectionResults.java:224)
+    at org.springframework.beans.CachedIntrospectionResults.forClass(CachedIntrospectionResults.java:149)
+    at org.springframework.beans.BeanWrapperImpl.getCachedIntrospectionResults(BeanWrapperImpl.java:305)
+    at org.springframework.beans.BeanWrapperImpl.getPropertyDescriptors(BeanWrapperImpl.java:312)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.filterPropertyDescriptorsForDependencyCheck(AbstractAutowireCapableBeanFactory.java:1208)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1069)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+    ... 31 more
+2013-9-15 11:30:35 org.apache.catalina.core.StandardContext listenerStart
+严重: Exception sending context initialized event to listener instance of class org.springframework.web.context.ContextLoaderListener
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'empManager' defined in ServletContext resource [/WEB-INF/applicationContext.xml]: Cannot resolve reference to bean 'appDao' while setting bean property 'appDao'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appDao' defined in ServletContext resource [/WEB-INF/daoContext.xml]: Initialization of bean failed; nested exception is java.lang.ClassFormatError: Code segment has wrong length in class file org/springframework/orm/hibernate3/HibernateTemplate
+    at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+    at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:106)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1325)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1086)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+    at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+    at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+    at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:580)
+    at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:895)
+    at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:425)
+    at org.springframework.web.context.ContextLoader.createWebApplicationContext(ContextLoader.java:276)
+    at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:197)
+    at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:47)
+    at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+    at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+    at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+    at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+    at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+    at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+    at java.util.concurrent.FutureTask.run(Unknown Source)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+    at java.lang.Thread.run(Unknown Source)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'appDao' defined in ServletContext resource [/WEB-INF/daoContext.xml]: Initialization of bean failed; nested exception is java.lang.ClassFormatError: Code segment has wrong length in class file org/springframework/orm/hibernate3/HibernateTemplate
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:527)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
+    at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:291)
+    at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:288)
+    at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:190)
+    at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:322)
+    ... 25 more
+Caused by: java.lang.ClassFormatError: Code segment has wrong length in class file org/springframework/orm/hibernate3/HibernateTemplate
+    at java.lang.ClassLoader.defineClass1(Native Method)
+    at java.lang.ClassLoader.defineClass(Unknown Source)
+    at java.security.SecureClassLoader.defineClass(Unknown Source)
+    at org.apache.catalina.loader.WebappClassLoader.findClassInternal(WebappClassLoader.java:2895)
+    at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1173)
+    at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1681)
+    at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1559)
+    at java.lang.ClassLoader.loadClassInternal(Unknown Source)
+    at java.lang.Class.getDeclaredMethods0(Native Method)
+    at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+    at java.lang.Class.getDeclaredMethods(Unknown Source)
+    at java.beans.Introspector$1.run(Unknown Source)
+    at java.security.AccessController.doPrivileged(Native Method)
+    at java.beans.Introspector.getPublicDeclaredMethods(Unknown Source)
+    at java.beans.Introspector.getTargetMethodInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.&lt;init&gt;(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at java.beans.Introspector.&lt;init&gt;(Unknown Source)
+    at java.beans.Introspector.getBeanInfo(Unknown Source)
+    at org.springframework.beans.CachedIntrospectionResults.&lt;init&gt;(CachedIntrospectionResults.java:224)
+    at org.springframework.beans.CachedIntrospectionResults.forClass(CachedIntrospectionResults.java:149)
+    at org.springframework.beans.BeanWrapperImpl.getCachedIntrospectionResults(BeanWrapperImpl.java:305)
+    at org.springframework.beans.BeanWrapperImpl.getPropertyDescriptors(BeanWrapperImpl.java:312)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.filterPropertyDescriptorsForDependencyCheck(AbstractAutowireCapableBeanFactory.java:1208)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1069)
+    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:517)
+    ... 31 more
+2013-9-15 11:30:35 org.apache.catalina.core.StandardContext startInternal
+严重: Error listenerStart
+2013-9-15 11:30:35 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/HRSystem_Eclipse] startup failed due to previous errors
+2013-9-15 11:30:35 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2013-9-15 11:30:35 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+严重: The web application [/HRSystem_Eclipse] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+--
+※ 修改:·i99010282515 于 Sep 17 08:11:25 2013 修改本文·[FROM: 106.120.122.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 106.120.122.*]
+ 【文章标题】：[问题]有没有 靠谱的 java  社区 【文章地址】：https://bbs.byr.cn/article/Java/26843 【创建时间】：2013-09-17 【作者】：youxiu 【评论】：0 【内容】：发信人: youxiu (youxiu), 信区: Java
+标  题: [问题]有没有 靠谱的 java  社区
+发信站: 北邮人论坛 (Tue Sep 17 16:31:27 2013), 站内
+
+国内外有没有知名的java 技术  讨论 社区啊？类似开开源社区之类的？小白敬谢。
+--
+※ 修改:·youxiu 于 Sep 17 16:38:49 2013 修改本文·[FROM: 10.109.234.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.109.234.*]
+ 
+【文章标题】：JAVA菜鸟 咨询一个入门问题 【文章地址】：https://bbs.byr.cn/article/Java/26825 【创建时间】：2013-09-15 【作者】：leeshell 【评论】：2 【内容】：发信人: leeshell (蘑菇晓), 信区: Java
+标  题: JAVA菜鸟 咨询一个入门问题
+发信站: 北邮人论坛 (Sun Sep 15 01:16:33 2013), 站内
+
+我以前用C++的 如果我在C++里面用一个文件写了一个类，只需要在include这个文件就行了
+
+但是我在JAVA的文件里面写了一个类，import总是失败，不知道是不是路径问题，求问在JAVA里自己写的.java要怎么IMPORT到别的.java里呢
+
+我把这个类的定义放到Main函数的文件里了，在里面定义这个类的对象时，仍然说找不到类定义，请问如果把两个类定义在一个文件里面，怎么在一个类里使用另一个类的对象呢呢？
+
+能不能给个示例文件之类的 多谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 70.90.116.*]
+ 
+【文章标题】：java获取Cookie的碎碎念 【文章地址】：https://bbs.byr.cn/article/Java/21686 【创建时间】：2012-03-08 【作者】：wh88725 【评论】：0 【内容】：发信人: wh88725 (超级就错), 信区: Java
+标  题: java获取Cookie的碎碎念
+发信站: 北邮人论坛 (Thu Mar  8 14:31:19 2012), 站内
+
+这几天老板让我用java搞一个网站登陆器。好吧，各种百度搜索，各种eclipse，开始了我的碎碎念之旅。
+网上的大神们都说post+cookie保存即可实现登陆，好吧，我的LoginTest类里面出现了这两个关键步骤。
+我顺利的用<a target="_blank" href="http://bbs.byr.cn/wForum/logon.php">http://bbs.byr.cn/wForum/logon.php</a>搞定了我的post。
+好吧，就像我预想的那样，cookie出了问题。为啥子我getHeaderField("Set-Cookie")保存的cookie就一句话，而firebug里面那么多？
+度娘是不行了，还是谷歌吧。
+for a server page that sets multiple cookies, it only gets the last cookie set.
+This also seems to be a bug that happened in java 1.4 <a target="_blank" href="http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4670281">http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4670281</a>
+还是“哥”给力啊。可是java.net你这是坑爹哪？
+
+好吧，虽然我掉进了java的坑里，还好我有北邮人、firebug还有google。还是附上处理代码
+            for (int i=1; i&lt;100; i++){
+                if (huc.getHeaderFieldKey(i) == null)
+                    break;
+
+                else{
+                    if(huc.getHeaderFieldKey(i).equals("Set-Cookie"))
+                        cookieVal = cookieVal + huc.getHeaderField(i).substring(0, huc.getHeaderField(i).indexOf(";"))+"; ";    
+                }
+            }
+最后再念一句：近信码不如无*，你懂得
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 122.200.76.*]
+ 
+
+【文章标题】：eclipse rcp开发中使用poi生成excel的问题 【文章地址】：https://bbs.byr.cn/article/Java/19759 【创建时间】：2011-08-22 【作者】：cb 【评论】：2 【内容】：发信人: cb (搓逼), 信区: Java
+标  题: eclipse rcp开发中使用poi生成excel的问题
+发信站: 北邮人论坛 (Mon Aug 22 10:28:34 2011), 站内
+
+public void run() {
+        FileDialog fileDialog = new FileDialog(workbenchWindow.getShell(),
+                SWT.SAVE);
+        fileDialog.setText("导出报表");
+        fileDialog.setFilterNames(new String[] { "Excel报表" });
+        fileDialog.setFilterExtensions(new String[] { "*.xls" });
+        if (null != fileDialog.open()) {
+            String fileName = fileDialog.getFilterPath() + File.separator
+                    + fileDialog.getFileName();
+            System.out.println(fileName);
+            saveFile(fileName);
+        }
+    }
+
+    @SuppressWarnings("deprecation")
+    private void saveFile(String filePath) {
+        
+        HSSFWorkbook workbook;
+        try {
+            // 创建Excel工作薄
+            workbook = new HSSFWorkbook();
+            HSSFSheet sheet = workbook.createSheet();
+            workbook.setSheetName(0, "统计表");
+            // 设置单元格样式
+            HSSFCellStyle cellStyle = workbook.createCellStyle();
+            cellStyle.setAlignment(HSSFCellStyle.ALIGN_CENTER);
+            cellStyle.setBorderLeft(HSSFCellStyle.BORDER_THIN);
+            cellStyle.setBorderTop(HSSFCellStyle.BORDER_THIN);
+            cellStyle.setBorderRight(HSSFCellStyle.BORDER_THIN);
+            cellStyle.setBorderBottom(HSSFCellStyle.BORDER_THIN);
+            // 第一行,标题
+            HSSFRow row = sheet.createRow(0);
+            HSSFCell cell = row.createCell((short) 0);
+            cell.setCellStyle(cellStyle);
+            cell.setCellValue("学号");
+            cell = row.createCell((short) 1);
+            cell.setCellStyle(cellStyle);
+            cell.setCellValue("姓名");
+            cell = row.createCell((short) 2);
+            cell.setCellStyle(cellStyle);
+            cell.setCellValue("总分");
+
+            // 2
+            row = sheet.createRow(1);
+            cell = row.createCell((short) 0);
+            cell.setCellStyle(cellStyle);
+            cell.setCellValue("学号");
+            cell = row.createCell((short) 1);
+            cell.setCellStyle(cellStyle);
+            cell.setCellValue("姓名");
+            cell = row.createCell((short) 2);
+            cell.setCellStyle(cellStyle);
+            cell.setCellValue("总分");
+            
+            //写入文件
+            FileOutputStream fileOutput = new FileOutputStream(filePath);
+            workbook.write(fileOutput);
+            fileOutput.flush();
+            fileOutput.close();
+        } catch (FileNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+
+以上是一个继承自 org.eclipse.jface.action.Action的action的run方法及调用的saveFile代码,实现的功能是:点击菜单中的"导出报表"按钮之后弹出一个对话框,在对话框中选择保存路径和保存文件名之后,将数据保存到该文件中.
+程序进入saveFile方法以后,在红色那行跳转到了一个很莫名奇妙的地方,下面的语句就不再执行了..
+但是我测试过这段代码放在独立的java application中是可以正确生成excel的,不知道是哪里出了问题?
+--
+※ 修改:·cb 于 Aug 22 10:43:48 2011 修改本文·[FROM: 2001:da8:215:5200:0:5efe:3b40:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 2001:da8:215:5200:0:5efe:3b40:*]
+ 
+【文章标题】：菜鸟请教一个java反射机制的问题 【文章地址】：https://bbs.byr.cn/article/Java/26838 【创建时间】：2013-09-17 【作者】：Ada2011 【评论】：4 【内容】：发信人: Ada2011 (Ada), 信区: Java
+标  题: 菜鸟请教一个java反射机制的问题
+发信站: 北邮人论坛 (Tue Sep 17 10:53:38 2013), 站内
+
+有以下两个类：
+第一个是Test:
+public class Test {
+   public Test(){}
+   public static void say(){
+       System.out.println("This is just a test");
+   }
+}
+第二个类是Main:
+public class Main{
+    public static void main(String[] args) {
+        ArrayList&lt;Class&lt;?&gt;&gt; methodArgTypes = new ArrayList&lt;Class&lt;?&gt;&gt;();
+        Method method;
+        try {
+            method = Test.class.getMethod("say", methodArgTypes.toArray(new Class&lt;?&gt;[methodArgTypes.size()]));
+            method.invoke(Test.class, new Object[] {});
+        } catch (SecurityException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (NoSuchMethodException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IllegalArgumentException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (InvocationTargetException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        
+    }
+}
+没有去掉Test类里public static void say()函数中的static之前，一切都是运行完好的，打印出"This is just a test",去掉了static之后，即变成了public void say(),就会抛出异常，异常信息如下：
+java.lang.IllegalArgumentException: object is not an instance of declaring class
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+    at java.lang.reflect.Method.invoke(Method.java:597)
+    at Main.main(Main.java:14)
+我想问下如果去掉了static，怎么改代码才能确保程序能够运行正确呢，谢谢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 72.52.96.*]
+ 
+【文章标题】：初学javascript，看什么书比较好 【文章地址】：https://bbs.byr.cn/article/Java/21672 【创建时间】：2012-03-08 【作者】：butterflyyy 【评论】：7 【内容】：发信人: butterflyyy (我不想飞), 信区: Java
+标  题: 初学javascript，看什么书比较好
+发信站: 北邮人论坛 (Thu Mar  8 09:30:45 2012), 站内
+
+菜鸟一枚，或者有什么视频推荐嘛
+还有想问跟jsp有啥区别~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.126.50.*]
+ 
+【文章标题】：求教大牛一个问题（关于ssl socket的） 【文章地址】：https://bbs.byr.cn/article/Java/21678 【创建时间】：2012-03-08 【作者】：woaini153sb 【评论】：0 【内容】：发信人: woaini153sb (xx-boy), 信区: Java
+标  题: 求教大牛一个问题（关于ssl socket的）
+发信站: 北邮人论坛 (Thu Mar  8 10:53:44 2012), 站内
+
+客户端为java实现的，java有自带的sslsocket类，服务器为C写的，怎么样是socket的通信用ssl或者ssh加密，关键是java和C通信，应该使用什么样的证书，新手请教，请知道的大牛，告一声？在线等。 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 129.192.196.*]
+ 
+【文章标题】：【关于jvm】 【文章地址】：https://bbs.byr.cn/article/Java/21684 【创建时间】：2012-03-08 【作者】：corchen 【评论】：1 【内容】：发信人: corchen (corchen), 信区: Java
+标  题: 【关于jvm】
+发信站: 北邮人论坛 (Thu Mar  8 12:30:26 2012), 站内
+
+感觉现在应该看看jvm机理的一些书来进一步提升一下自己了，很多朋友推荐n年前文纳斯的那本《深入java虚拟机》但是里边大多是jdk1.2的东西，会不会版本更新这么多了，一些jvm的机理变了什么的，看这本书虽然很经典但是有点过时了呢？
+
+
+想听听看过的同学的心得。我菜鸟，轻拍哦。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.31.*]
+ 
+【文章标题】：求助：有没有人使用java基于SNMP协议远程监控服务器性能？求指 【文章地址】：https://bbs.byr.cn/article/Java/21543 【创建时间】：2012-02-27 【作者】：ITworker 【评论】：0 【内容】：发信人: ITworker (ITworker), 信区: Java
+标  题: 求助：有没有人使用java基于SNMP协议远程监控服务器性能？求指导
+发信站: 北邮人论坛 (Mon Feb 27 15:46:59 2012), 站内
+
+主要是想获取服务器的CPU、内存和硬盘信息，求大牛指导！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.114.180.*]
+ 
+【文章标题】：关于Eclipse的一点小问题，请解惑 【文章地址】：https://bbs.byr.cn/article/Java/21535 【创建时间】：2012-02-26 【作者】：feng549 【评论】：4 【内容】：发信人: feng549 (burning), 信区: Java
+标  题: 关于Eclipse的一点小问题，请解惑
+发信站: 北邮人论坛 (Sun Feb 26 10:27:39 2012), 站内
+
+Eclipse中新建一个Java project后，右侧outline没有显示工程，然后将workspace1里面的那个文件删掉后，Eclipse无法新建同样名称的工程，说是已存在，谁知道这是怎么回事，该怎么解决
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 110.240.180.*]
+ 
+【文章标题】：初学菜鸟请教大牛··· 【文章地址】：https://bbs.byr.cn/article/Java/12618 【创建时间】：2009-12-09 【作者】：xgtandyx 【评论】：3 【内容】：发信人: xgtandyx (Appletree), 信区: Java
+标  题: 初学菜鸟请教大牛···
+发信站: 北邮人论坛 (Wed Dec  9 16:09:13 2009), 站内
+
+这个小程序是实现对集合类对象的排序；
+运行如下代码的时候出现了错误：
+import java.util.*;
+class CollectionsTest
+{
+    public  static void main (String[] args)
+    {
+        student s1=new student(1,"wanghaixin");
+        student s2=new student(2,"lisi");
+        student s3=new student(3,"nima");
+        ArrayList &lt;student&gt; ss=new ArrayList &lt;student&gt;();
+        ss.add(s1);
+        ss.add(s2);
+        ss.add(s3);
+        Collections.sort(ss,new student.m());
+        System.out.println(ss);
+    }
+    
+} 
+  class student
+   {
+        int num;
+        String name;
+        student(int num,String name)
+     {
+        this.num=num;
+        this.name=name;
+     }
+        static class m implements Comparator
+    {
+       public int compare(Object p,Object q)
+       {
+           student a=(student) p;
+           student b= (student)q;
+            if(a.num&gt;b.num)
+                return(1);
+            else if(a.num==b.num)
+          return(0);                
+             else 
+             return(-1);
+       }  
+    }
+   public String toString()
+       {
+           return("the id is:"+num+"the name is:"+name);
+           
+      }   
+ }
+ 错误信息：CollectionsTest.java使用了未经检查或不安全的操作
+错误信息：要了解详细信息，请使用X-lint：unchecked重新编译
+
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8616:3815:e716:6617:*]
+ 
+【文章标题】：求助java输入回显问题 【文章地址】：https://bbs.byr.cn/article/Java/12602 【创建时间】：2009-12-08 【作者】：newstar19870 【评论】：5 【内容】：发信人: newstar19870 (miemie), 信区: Java
+标  题: 求助java输入回显问题
+发信站: 北邮人论坛 (Tue Dec  8 20:19:04 2009), 站内
+
+怎么在控制台中输入密码回显*号？
+在网上找了下，这个例子好像不行，一直输出*
+public class PasswordField {
+
+    /**
+     * @param input
+     *            stream to be used (e.g. System.in)
+     * @param prompt
+     *            The prompt to display to the user.
+     * @return The password as entered by the user.
+     */
+
+    public static final char[] getPassword(InputStream in, String prompt)
+            throws IOException {
+        MaskingThread maskingthread = new MaskingThread(prompt);
+        Thread thread = new Thread(maskingthread);
+        thread.start();
+
+        char[] lineBuffer;
+        char[] buf;
+        int i;
+
+        buf = lineBuffer = new char[128];
+
+        int room = buf.length;
+        int offset = 0;
+        int c;
+
+        loop: while (true) {
+            switch (c = in.read()) {
+            case -1:
+            case '\n':
+                break loop;
+
+            case '\r':
+                int c2 = in.read();
+                if ((c2 != '\n') &amp;&amp; (c2 != -1)) {
+                    if (!(in instanceof PushbackInputStream)) {
+                        in = new PushbackInputStream(in);
+                    }
+                    ((PushbackInputStream) in).unread(c2);
+                } else {
+                    break loop;
+                }
+
+            default:
+                if (--room &lt; 0) {
+                    buf = new char[offset + 128];
+                    room = buf.length - offset - 1;
+                    System.arraycopy(lineBuffer, 0, buf, 0, offset);
+                    Arrays.fill(lineBuffer, ' ');
+                    lineBuffer = buf;
+                }
+                buf[offset++] = (char) c;
+                break;
+            }
+        }
+        maskingthread.stopMasking();
+        if (offset == 0) {
+            return null;
+        }
+        char[] ret = new char[offset];
+        System.arraycopy(buf, 0, ret, 0, offset);
+        Arrays.fill(buf, ' ');
+        return ret;
+    }
+    
+    public static void main(String argv[]) {
+        char password[] = null;
+        try {
+           password = PasswordField.getPassword(System.in, "Enter your password: ");
+        } catch(IOException ioe) {
+           ioe.printStackTrace();
+        }
+        if(password == null ) {
+           System.out.println("No password entered");
+        } else {
+           System.out.println("The password entered is: "+String.valueOf(password));
+        }
+
+     }
+
+}
+
+public class MaskingThread implements Runnable {
+    private volatile boolean stop;
+    private char echochar = '*';
+
+   /**
+    *@param prompt The prompt displayed to the user
+    */
+    public MaskingThread(String prompt) {
+       System.out.print(prompt);
+    }
+
+   /**
+    * Begin masking until asked to stop.
+    */
+    public void run() {
+
+       int priority = Thread.currentThread().getPriority();
+       Thread.currentThread().setPriority(Thread.MAX_PRIORITY);
+
+       try {
+          stop = true;
+          while(stop) {
+            System.out.print(echochar);
+            System.out.flush();
+            try {
+               // attempt masking at this rate
+               Thread.currentThread().sleep(1);
+            }catch (InterruptedException iex) {
+               Thread.currentThread().interrupt();
+               return;
+            }
+           
+          }
+       } finally { // restore the original priority
+          Thread.currentThread().setPriority(priority);
+       }
+    }
+
+   /**
+    * Instruct the thread to stop masking.
+    */
+    public void stopMasking() {
+       this.stop = false;
+    }
+
+}
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 123.116.139.*]
+ 
+【文章标题】：想学习java，不知道看什么书好，求大神们推荐啊！ 【文章地址】：https://bbs.byr.cn/article/Java/21500 【创建时间】：2012-02-23 【作者】：lijun28215 【评论】：5 【内容】：发信人: lijun28215 (__领导来视察), 信区: Java
+标  题: 想学习java，不知道看什么书好，求大神们推荐啊！
+发信站: 北邮人论坛 (Thu Feb 23 10:07:15 2012), 站内
+
+刚开始学习，如题求推荐啊
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 119.139.122.*]
+ 
+【文章标题】：给同学配置环境变量，同学的电脑跟我的电脑基本上是同一型号的 【文章地址】：https://bbs.byr.cn/article/Java/21630 【创建时间】：2012-03-05 【作者】：ziying007 【评论】：10 【内容】：发信人: ziying007 (子影), 信区: Java
+标  题: 给同学配置环境变量，同学的电脑跟我的电脑基本上是同一型号的，
+发信站: 北邮人论坛 (Mon Mar  5 23:24:58 2012), 站内
+
+帮同学配置JAVA的环境变量。Javac可以，但是Java总是出错。VM有问题，找不到lib。装了两次jdk了。系统是64位win7。
+
+一下是环境变量：
+JAVA_HOME  E:\Java\jdk1.7.0
+CLASSPATH 为.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
+Path里加了%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin
+
+P.s.同学的电脑跟我的电脑基本上是同一型号的。但是我的可以，他的却不行....
+
+很是无语... 求指点！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 221.217.36.*]
+ 
+【文章标题】：有木有java求职交流群 【文章地址】：https://bbs.byr.cn/article/Java/61495 【创建时间】：2019-03-14 【作者】：shadow123 【评论】：1 【内容】：发信人: shadow123 (冬季蓝桥), 信区: Java
+标  题: 有木有java求职交流群
+发信站: 北邮人论坛 (Thu Mar 14 09:39:16 2019), 站内
+
+一个人学又慢又没有方向
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 117.136.0.*]
+ 
+【文章标题】：【问题】关于微信扫码登陆的实现 【文章地址】：https://bbs.byr.cn/article/Java/60985 【创建时间】：2019-01-17 【作者】：xvanning 【评论】：0 【内容】：发信人: xvanning (【意涵团】xvanning), 信区: Java
+标  题: 【问题】关于微信扫码登陆的实现
+发信站: 北邮人论坛 (Thu Jan 17 20:04:25 2019), 站内
+
+网上看了一下，微信扫码登陆的原理大概知道了。
+但是具体到细节实现。不太懂怎么用Java实现的。
+其中涉及到前端页面轮询请求，和长连接pending状态，具体到代码，这两块是咋实现的？
+如下图，后端状态pending这个。。
+
+
+<a target="_blank" href="/att/Java/0/60985/526"><img border="0" title="1.jpg" src="/att/Java/0/60985/526" alt="1.jpg" class="resizeable"></a>
+※ 修改:·xvanning 于 Jan 17 21:38:47 2019 修改本文·[FROM: 10.210.29.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.135.169.*]
+ 
+【文章标题】：【更新】热迁移YARN HA的ResourceManager遇到的一些问题 【文章地址】：https://bbs.byr.cn/article/Java/60553 【创建时间】：2018-12-01 【作者】：liujinhong 【评论】：1 【内容】：发信人: liujinhong (大鹏展翅), 信区: Java
+标  题: 【更新】热迁移YARN HA的ResourceManager遇到的一些问题
+发信站: 北邮人论坛 (Sat Dec  1 15:53:28 2018), 站内
+
+<b>背景</b>
+1. AWS上部署了一个YRAN HA集群，包括两个ResourceManager和若干个NodeManager。
+2. ResourceManager的地址都使用的是Route53.
+
+<b>需求</b>
+为了调整ResourceManager机器的机型，现在要迁移一个ResourceManager到一台新的机器上，在迁移的过程中Yarn的服务不受影响。
+
+<b>方案</b>
+1. 把要迁移的ResourceManager状态设置为Standby，然后停掉这个ResourceManager。
+2. 把要迁移机器的Route53配置到另外一台机器上。
+3. 在另外一台机器上启动ResourceManager。
+
+<b>问题</b>
+当新的ResourceManager启动后，把它failover到active，但是NodeManager并不能连接到这个新的ResourceManager。查看日志发现NodeManager还是会尝试连接旧的机器的，因为旧的机器无法连接，自动failover去连接另外一台ResourceManager，但是此时这个ResourceManager处于Standby状态，因此不能提供服务。如果重启所有的NodeManager，集群才能恢复正常。
+请问大家有解决这个问题的好方法吗？
+
+解决方案
+经过几次实验发现在迁移过程中NodeManager虽然发现了ResourceManager地址发生了变化，却没有去重试连接。
+在yarn-site.xml中增加了下面的参数后就可以正常工作了
+yarn.client.failover-retries=2
+这个值一定要设置一个大于0的数，不然不会去重试～
+--
+※ 修改:·liujinhong 于 Dec  3 15:39:46 2018 修改本文·[FROM: 111.202.212.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 39.155.225.*]
+ 
+【文章标题】：IDEA bug 求帮忙 【文章地址】：https://bbs.byr.cn/article/Java/60219 【创建时间】：2018-09-20 【作者】：xiaoyang12 【评论】：5 【内容】：发信人: xiaoyang12 (肖扬), 信区: Java
+标  题: IDEA bug 求帮忙
+发信站: 北邮人论坛 (Thu Sep 20 16:09:26 2018), 站内
+
+今天打开idea，不知道为啥就出现了以下这个报错：
+Cannot start internal HTTP server. Git integration, JavaScript debugger and LiveEdit may operate with errors. Please check your firewall settings and restart 
+间接导致maven啥的都无法工作。 按照网上说的，什么关防火墙，允许应用通过，各种骚操作，包括重装都试过了，就是不行。 真的无能为力了。
+
+具体的工作日志上传到文件中，
+<a href="/att/Java/0/60219/901" target="_blank" color="blue">附件(179.3KB)  idea.log</a>， 
+
+不过在任务管理器中，突然发现，以前起idea，一定会有Java(TM) Platform SE binary 进程，但是现在发现居然没有，试了下，环境变量啥的问题都不大，Java指令简单编译依然正常。 所以很懵逼，，希望给位大佬能帮帮忙解决，真的十分感谢~~， 如果在本部，要是大佬不介意，有时间，可以直接找上门求帮解决~~真的不胜感激，，已经折腾很久了
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.203.45.*]
+
+ 
+【文章标题】：公司寻找ArcGIS开发人员 【文章地址】：https://bbs.byr.cn/article/Java/61516 【创建时间】：2019-03-15 【作者】：tuulis 【评论】：0 【内容】：发信人: tuulis (Tuulis.Sh), 信区: Java
+标  题: 公司寻找ArcGIS开发人员
+发信站: 北邮人论坛 (Fri Mar 15 19:51:31 2019), 站内
+
+希望对ArcGIS有所了解，负责java业务后台开发。如果会前端或者有前端小伙伴一起参与也可以。
+
+私信。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 221.218.81.*]
+ 
+【文章标题】：【微信群】java后台刷题求职互帮互助小分队 【文章地址】：https://bbs.byr.cn/article/Java/61518 【创建时间】：2019-03-16 【作者】：zhang1aa 【评论】：1 【内容】：发信人: zhang1aa (在看一本书), 信区: Java
+标  题: 【微信群】java后台刷题求职互帮互助小分队
+发信站: 北邮人论坛 (Sat Mar 16 22:08:39 2019), 站内
+
+不需要太多人哈，几个人就可以啦。这几天多突击一下，面经互助。想组个队学习，刷题的留个号，私信，楼下留都可以
+--
+
+
+
+<a target="_blank" href="/att/Java/0/61518/438"><img border="0" title="" src="/att/Java/0/61518/438" alt="" class="resizeable"></a>
+※ 修改:·zhang1aa 于 Mar 18 11:47:20 2019 修改本文·[FROM: 10.108.113.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.113.*]
+ 
+【文章标题】：【讨论】好的java版的leetcode解题链接推荐？ 【文章地址】：https://bbs.byr.cn/article/Java/61639 【创建时间】：2019-04-02 【作者】：littlebean 【评论】：12 【内容】：发信人: littlebean (littlebean), 信区: Java
+标  题: 【讨论】好的java版的leetcode解题链接推荐？
+发信站: 北邮人论坛 (Tue Apr  2 14:59:17 2019), 站内
+
+求问 有没有比较好的java版的leetcode解题链接？基本包含所有题目或者是持续更新那种？<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"> 网上一个一个题找好不方便。<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.101.171.*]
+ 
+【文章标题】：求助！如何在4.7ee版本的JAVA中找到window builder的功能？ 【文章地址】：https://bbs.byr.cn/article/Java/61552 【创建时间】：2019-03-19 【作者】：Gvyyyyy 【评论】：2 【内容】：发信人: Gvyyyyy (Gvyyyyy), 信区: Java
+标  题: 求助！如何在4.7ee版本的JAVA中找到window builder的功能？
+发信站: 北邮人论坛 (Tue Mar 19 10:27:33 2019), 站内
+
+有没有懂java的朋友呀 为什么我安装的4.7ee版本里面找到不到window builder 这个功能然后百度显示去官网找这个插件 ，但百度显示的是图一，我点击进去是图二呀 找不到这个插件
+<a target="_blank" href="/att/Java/0/61552/441"><img border="0" title="" src="/att/Java/0/61552/441" alt="" class="resizeable"></a>
+<a target="_blank" href="/att/Java/0/61552/278517"><img border="0" title="" src="/att/Java/0/61552/278517" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.74.*]
+
+ 
+【文章标题】：请问前端 后端 测试是一个什么比例呢？ 【文章地址】：https://bbs.byr.cn/article/Java/61470 【创建时间】：2019-03-05 【作者】：vimlala 【评论】：5 【内容】：发信人: vimlala (vimlala), 信区: Java
+标  题: 请问前端 后端 测试是一个什么比例呢？
+发信站: 北邮人论坛 (Tue Mar  5 19:07:03 2019), 站内
+
+测试比前端还要少吗
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.28.228.*]
+ 
+【文章标题】：有一些java基础，想深入学java的书求推荐 【文章地址】：https://bbs.byr.cn/article/Java/61502 【创建时间】：2019-03-14 【作者】：v7fgg 【评论】：3 【内容】：发信人: v7fgg (并不是机器人), 信区: Java
+标  题: 有一些java基础，想深入学java的书求推荐
+发信站: 北邮人论坛 (Thu Mar 14 18:05:57 2019), 站内
+
+如题，楼主本科上课学过一些简单java，之后一直没有再碰过。。现在希望自己看一些书来深入学习一下，主要还是自学，以便以后找工作时用到，求问过来人，有没有一些系统深入学习java的好书呢，或者有哪些好的推荐网课视频什么的，求指点
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.186.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/abcbing"><img src="https://bbs.byr.cn/uploadFace/A/abcbing.1586.jpg"></a><a href="/user/query/abcbing"><strong style="color:red;">abcbing</strong></a>深入理解jvm，并发编程实践<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Java/61502?s=61504">第2楼</a></li><li><a href="/article/Java/ajax_voteup/61504.json" class="a-func-like" id="like_list61504"><samp class="ico-pos-zaninactive" id="icon_like_list61504"></samp>赞(2)</a></li><li><a href="/article/Java/ajax_votedown/61504.json" id="listCai61504" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai61504"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Java/post/61504" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">对不起，我是警察。 3/10</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：【字节跳动】财经部门暑期实习直聘（可转正） 【文章地址】：https://bbs.byr.cn/article/Java/61517 【创建时间】：2019-03-16 【作者】：precious1 【评论】：0 【内容】：发信人: precious1 (zblue), 信区: Java
+标  题: 【字节跳动】财经部门暑期实习直聘（可转正）
+发信站: 北邮人论坛 (Sat Mar 16 20:39:41 2019), 站内
+
+投递方式：zhangzhengzhen@bytedance.com
+实习时间：一周实习3天及以上，连续实习3个月及以上
+办公地点：北京市东城区东安门大街55号王府世纪2层
+公司福利：免费三餐下午茶、健身房、住房补贴
+
+【iOS开发实习生】(不要求经验，熟练任一编程语言均可)
+岗位描述：
+1、负责移动产品的研发,编写高质量的代码；
+2、和产品经理配合,深度参与手机产品需求讨论,功能定义等； 
+3、设计良好的代码结构,不断迭代重构。
+职位要求：
+1、有扎实的数据结构和算法功底，能熟练使用一门开发语言；
+2、有技术好奇心，具备良好的沟通能力和协作意识，有比较好的产品意识；
+3、热爱移动开发，有移动开发经验者优先。
+
+【Android开发实习生】
+职位描述：
+1、负责移动产品的研发,编写高质量的代码；
+2、和产品经理配合,深度参与手机产品需求讨论,功能定义等； 
+3、设计良好的代码结构,不断迭代重构。
+职位要求：
+1、有良好的编程习惯, 代码结构清晰, 命名规范；
+2、对软件产品有强烈的责任心, 具备良好的沟通能力和优秀的团队协作能力；
+3、熟悉JAVA，了解Kotlin的优先。
+
+【后端开发实习生】
+职位描述：
+1、参与公司的后台研发工作；
+2、参与在线大流量高并发系统设计；
+3、持续优化系统，支撑业务快速发展。
+职位要求：
+1、有扎实的数据结构和算法功底；
+2、熟悉C/C++/Java/Python/Golang中的至少一门语言；
+3、了解数据库相关知识和基础操作，至少熟练使用MySQL。
+
+【前端开发实习生】
+职位描述：
+1、参与产品研发，包括 toC、toB、服务化等多个方向；
+2、参与重点、难点的技术攻坚工作；
+3、践行公司价值观，在工作中保持高度责任感和投入度。
+职位要求：
+1、有扎实的数据结构和算法功底, C++ / Python / Golang / Node 至少掌握一种；
+2、了解 ES6 / CSS3, 前端框架 React / Vue 至少一种；
+3、有成熟团队协作经历、开源项目、成熟作品优先。
+
+【大数据开发实习生】
+岗位描述：
+1、负责海量用户行为数据的统计分析； 
+2、参与数据平台的建设；
+3、参与用户画像系统建设。
+职位要求：
+1、对至少一项分布式计算平台有使用经验，如 Hadoop，Spark，Hive，Storm等；
+2、对数据敏感，善于从数据中发现问题，提出假设并使用数据进行验证；
+3、善于沟通，具备优秀的技术与业务结合能力。
+
+
+【测试开发实习生】
+职位描述：
+1、深度参与产品研发项目， 协同产品、研发、运营等团队优质交付产品；
+2、推进线上线下质量指标的优化； 
+3、参与完善研发过程中质量和效率问题, 并提出改进意见。
+职位要求：
+1、有扎实的数据结构和算法功底，熟悉至少一门编程语言；
+2、有优秀的产品意识，快速适应和学习能力、热爱质量保障工作；
+3、了解客户端/服务端常用测试方法者优先，如自动化框架、压测工具、大数据处理工具等。
+
+【算法实习生】
+职位描述：
+1、优化内容的排序，提升用户发布内容的转化率；
+2、优化模型和召回，提升内容的分发效率，改善用户体验；
+3、对海量文本进行深度分析、抽取事件、情感分析，构建知识图谱；
+4、搭建和优化推荐、排序系统，提供稳定的线上服务。
+职位要求：
+1、优秀的代码能力，掌握常用编程语言和算法；
+2、对推荐系统、机器学习和大数据处理感兴趣，熟悉其中一项或者多项；
+3、在文本分析、词性标注、新词发现、词义消歧等领域有丰富经验者优先；
+4、责任心强，积极主动，有良好的沟通能力和团队合作能力。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.252.214.*]
+ 
+【文章标题】：用idea整合spring和mybatis 问题请教 【文章地址】：https://bbs.byr.cn/article/Java/61419 【创建时间】：2019-03-03 【作者】：yangtianpeng 【评论】：8 【内容】：发信人: yangtianpeng (草帽), 信区: Java
+标  题: 用idea整合spring和mybatis 问题请教
+发信站: 北邮人论坛 (Sun Mar  3 21:43:47 2019), 站内
+
+配置文件都是配置好的，也查了百度，但是就是解决不了，总是报"no bean named UserDao is defined"
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.28.201.*]
+ 
+【文章标题】：Re: 17级BUPTCS互助群 【文章地址】：https://bbs.byr.cn/article/Java/61519 【创建时间】：2019-03-17 【作者】：原帖已删除 【评论】：1 【内容】：发信人: xwz1998 (Robbie), 信区: Java
+标  题: Re: 17级BUPTCS互助群
+发信站: 北邮人论坛 (Sun Mar 17 16:58:28 2019), 站内
+
+这些东西在论坛说不挺好吗？？？
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 117.136.0.*]
+ 

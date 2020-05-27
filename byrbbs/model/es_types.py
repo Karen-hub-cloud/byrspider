@@ -35,7 +35,7 @@ class bbsType(Document):
     content = Text(analyzer="ik_max_word")  # 内容
     comments = Text(analyzer="ik_smart")  # 评论
 
-    suggest = Completion(analyzer="ik_smart")  # 搜索建议
+    s = Completion()  # 搜索建议
 
 
     def __init__(self,item):
@@ -71,6 +71,7 @@ class bbsType(Document):
 
         # TODO：生成搜索建议词
         self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
+        item ['suggest'] = self.suggest
 
     def gen_suggests(self, info_tuple):
         # 根据字符串生成搜索建议数组

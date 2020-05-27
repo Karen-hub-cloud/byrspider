@@ -3312,3 +3312,213 @@ qq：719436685
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 99.249.2.*]
  
+【文章标题】：IBM 招聘实习生 Operation Research Intern 【文章地址】：https://bbs.byr.cn/article/MathModel/5306 【创建时间】：2009-12-03 【作者】：xiaofeng 【评论】：0 【内容】：发信人: xiaofeng (我不做大哥好多年@北邮刷天下), 信区: MathModel
+标  题: IBM 招聘实习生 Operation Research Intern
+发信站: 北邮人论坛 (Thu Dec  3 15:41:24 2009), 站内
+
+Position: Operation Research Intern
+
+This position is based in Beijing, and the candidate is expected to work at office at least three days per week. 
+
+Skills Requirements:
+-Students in Operation Research, Logistics, Industrial Engineering, Information Management Science, Mathematics, Industrial Control, Automation, Computer Science, or related major.
+-Has strong OR background. The understanding of linear programming, mathematical programming and constrain programming are required. 
+-Master degree is preferred. 
+-Railway management knowledge is a strong plus.
+- ILOG optimization and supply chain products experiences are preferred.
+- Project experience is a strong plus.
+-JAVA or/and C&amp;C++ programming experiences are preferred.
+
+Responsibilities:
+-Participate in operation research projects or/and activities which apply ILOG optimization Technology and provide solution to railway management problems.
+-Learn and build skills on ILOG optimization professional tools: OPL, CPLEX, CP and ODMS, etc.
+
+If you are interested in this position, please send your resumes to opti_ibm@hotmail.com by Dec 11. Thank you in advance for your interests. 
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 202.108.130.*]
+ 
+【文章标题】：上传个lingo的教程吧 【文章地址】：https://bbs.byr.cn/article/MathModel/5143 【创建时间】：2009-11-06 【作者】：caogen 【评论】：1 【内容】：发信人: caogen (草根), 信区: MathModel
+标  题: 上传个lingo的教程吧
+发信站: 北邮人论坛 (Fri Nov  6 23:27:54 2009), 站内
+
+见附件
+<a href="/att/MathModel/0/5143/259" target="_blank" color="blue">附件(872.6KB)  </a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8207:91ac:a792:5d2d:*]
+
+ 
+【文章标题】：求贺老师的邮箱 【文章地址】：https://bbs.byr.cn/article/MathModel/4700 【创建时间】：2009-08-26 【作者】：wen1055 【评论】：3 【内容】：发信人: wen1055 (花儿), 信区: MathModel
+标  题: 求贺老师的邮箱
+发信站: 北邮人论坛 (Wed Aug 26 14:50:35 2009), 站内
+
+最近在数模培训，有些问题要问贺老师~现求贺老师的邮箱？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 61.50.223.*]
+ 
+【文章标题】：参加数学建模大赛需要准备什么 【文章地址】：https://bbs.byr.cn/article/MathModel/4661 【创建时间】：2009-08-03 【作者】：kkxhx 【评论】：3 【内容】：发信人: kkxhx (小浣熊), 信区: MathModel
+标  题: 参加数学建模大赛需要准备什么
+发信站: 北邮人论坛 (Mon Aug  3 12:30:11 2009), 站内
+
+我是08级学生，开学大二，想参加数学建模大赛，但不知道如何学习这方面的知识，想麻烦大家推荐几本教材。听说数学建模要用软件，是什么，能具体说明一下吗？还有，北邮数学建模校内赛一般是在什么时候啊？
+
+谢谢大家~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 119.48.153.*]
+ 
+【文章标题】：线性最小二乘法 【文章地址】：https://bbs.byr.cn/article/MathModel/4842 【创建时间】：2009-09-19 【作者】：kkxhx 【评论】：6 【内容】：发信人: kkxhx (小浣熊), 信区: MathModel
+标  题: 线性最小二乘法
+发信站: 北邮人论坛 (Sat Sep 19 22:36:54 2009), 站内
+
+小弟大二，刚刚接触建模，今天遇到一个人口预测的建模题，用到了线性最小二乘法，上网查资料后，发现这个知识点太难了，完全看不懂。请问各位学长，这个知识什么时候接触会容易些，有没有详解这类知识的书籍？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.130.*]
+ 
+【文章标题】：征人组队~~~~ 【文章地址】：https://bbs.byr.cn/article/MathModel/4594 【创建时间】：2009-07-06 【作者】：xzh2002 【评论】：3 【内容】：发信人: xzh2002 (纵横南北), 信区: MathModel
+标  题: 征人组队~~~~
+发信站: 北邮人论坛 (Mon Jul  6 14:51:38 2009), 站内
+
+数模还算学得不错 有学长指导 希望能征比较擅长编程的人组队 电话15810537123
+--
+我们走得太远了，以至于忘记了为什么而出发
+　　　　　　　　　　　　　　　　－－纪伯伦
+愿几年下来，目标没有迷失在生活里，梦想没有迷失在时间中～
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.134.*]
+ 
+【文章标题】：杯具了，真2... 【文章地址】：https://bbs.byr.cn/article/MathModel/5106 【创建时间】：2009-11-05 【作者】：gxy837 【评论】：15 【内容】：发信人: gxy837 (烧鱼仔|Welcome to cantonese), 信区: MathModel
+标  题: 杯具了，真2...
+发信站: 北邮人论坛 (Thu Nov  5 09:12:59 2009), 站内
+
+这是我们全赛的题目，居然是模板的题目，这就是比赛的时候睡觉的后果…可以很完美的得一次成功参赛了。。。
+
+
+
+
+<a target="_blank" href="/att/MathModel/0/5106/483"><img border="0" title="" src="/att/MathModel/0/5106/483" alt="" class="resizeable"></a>
+--
+
+<img src="/img/ubb/em/9.gif" alt="em9" style="display:inline;border-style:none">
+※ 修改:·gxy837 于 Nov  5 09:14:27 2009 修改本文·[FROM: 2001:da8:215:8515:8573:67f1:e1ce:*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8515:8573:67f1:e1ce:*]
+ 
+【文章标题】：求：贺祖国老师的联系方式 【文章地址】：https://bbs.byr.cn/article/MathModel/4666 【创建时间】：2009-08-05 【作者】：gdpm 【评论】：2 【内容】：发信人: gdpm (gdpm), 信区: MathModel
+标  题: 求：贺祖国老师的联系方式
+发信站: 北邮人论坛 (Wed Aug  5 20:34:40 2009), 站内
+
+RT~~,跪求贺祖国老师的联系方式EMAIL，手机，不胜感激~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 119.32.71.*]
+ 
+【文章标题】：那个data文件找不到了 求一个~ 【文章地址】：https://bbs.byr.cn/article/MathModel/4681 【创建时间】：2009-08-15 【作者】：drdtyu 【评论】：1 【内容】：发信人: drdtyu (lovely_ruru), 信区: MathModel
+标  题: 那个data文件找不到了 求一个~
+发信站: 北邮人论坛 (Sat Aug 15 14:47:54 2009), 站内
+
+我们开始没想做这个题  现在想试试 但是那个data文件我找不到了~
+ 有没有好心人帮传一个~ 谢谢啦
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.45.62.*]
+ 
+【文章标题】：我对建模的一点看法 【文章地址】：https://bbs.byr.cn/article/MathModel/5122 【创建时间】：2009-11-05 【作者】：XiaoZhiqing 【评论】：9 【内容】：发信人: XiaoZhiqing (XiaoZhiqing), 信区: MathModel
+标  题: 我对建模的一点看法
+发信站: 北邮人论坛 (Thu Nov  5 21:14:55 2009), 站内
+
+全国奖出来了。我们学校在H老师的指导下，又得了好多奖。真是可喜可贺。
+
+其实我觉得，能得奖固然更好，不得奖也有收获。数学建模令人忘怀之处，在于它的基本思想和分析方法，不会向那些专业的知识一样，会随着时代的变化而过时，或会随着行业的更迭而浮沉。它对我们综合能力的提升，将服务于我们的一生。
+
+通过数学建模，我熟悉了Mathematica和Matlab。现在，这两个软件已经融入到我各个学科的学习中。
+
+通过数学建模，我了解了论文的写作方法，特别是摘要的写作。同时，我还熟悉了 MS Office Word。无论将来是写论文还是写申请，这段经历一定对我影响深刻。
+
+通过数学建模，我学习了如何搜索信息、筛选信息。这有助于我们在广袤的互联网中获得有益的东西。
+
+通过数学建模，我参与了小组合作，培养了团队协作能力。
+
+虽然这次，我没有得全国奖，但是，我毫不后悔，我将一如既往地热衷于数学建模。因为数学建模的学习经历让我终生受用。
+
+感谢数学建模！感谢H老师！ 
+
+美赛的培训又要开始了。让我们共同努力，争取在美赛中获得好成绩！
+
+--
+
+
+
+※ 修改:·XiaoZhiqing 于 Nov  5 21:15:55 2009 修改本文·[FROM: 118.229.136.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 118.229.136.*]
+ 
+【文章标题】：在一个人签名档发现的网站 【文章地址】：https://bbs.byr.cn/article/MathModel/4683 【创建时间】：2009-08-19 【作者】：alaalabuku 【评论】：0 【内容】：发信人: alaalabuku (睡觉的猪), 信区: MathModel
+标  题: 在一个人签名档发现的网站
+发信站: 北邮人论坛 (Wed Aug 19 08:08:07 2009), 站内
+
+http://www.51xuewen.com/
+注意看这个
+http://www.51xuewen.com/group/topic_show.aspx?groupid=678&amp;id=14138
+超级熟悉的面孔
+--
+能这样安静的生活学习就好了
+                  --------------《我的路》
+
+※ 修改:·alaalabuku 于 Aug 19 08:10:15 修改本文·[FROM: 116.117.206.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 116.117.206.*]
+ 
+【文章标题】：[求助]上次数学实验选修课作业上传到哪个网址啊？ 【文章地址】：https://bbs.byr.cn/article/MathModel/5152 【创建时间】：2009-11-07 【作者】：fredwilliam 【评论】：0 【内容】：发信人: fredwilliam (willliam), 信区: MathModel
+标  题: [求助]上次数学实验选修课作业上传到哪个网址啊？
+发信站: 北邮人论坛 (Sat Nov  7 21:35:48 2009), 站内
+
+上次数学实验选修课作业说是要上传到某ftp，
+  悲剧的是我没记下来，   
+求助同选的大虾们告知一下，感激不尽~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8508:2062:6c60:60df:*]
+ 
+【文章标题】：【问】为何建模的网站打不开？ 【文章地址】：https://bbs.byr.cn/article/MathModel/4690 【创建时间】：2009-08-21 【作者】：cysmagic 【评论】：3 【内容】：发信人: cysmagic (豆腐圆子), 信区: MathModel
+标  题: 【问】为何建模的网站打不开？
+发信站: 北邮人论坛 (Fri Aug 21 23:07:13 2009), 站内
+
+是这个吗？
+http://www.sci.bupt.cn/sxjm/
+想找一些资料来看看来着
+就是贺老师那些课程的。。
+哪位告诉我下。。不胜感激
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:9308:112f:3a0f:e574:*]
+ 
+【文章标题】：求一位有点空暇时间的学长指导我参加建模 【文章地址】：https://bbs.byr.cn/article/MathModel/5156 【创建时间】：2009-11-10 【作者】：zzsb 【评论】：4 【内容】：发信人: zzsb (这是浮云), 信区: MathModel
+标  题: 求一位有点空暇时间的学长指导我参加建模
+发信站: 北邮人论坛 (Tue Nov 10 16:14:32 2009), 站内
+
+现在大二，在看建模的书时遇到些比较2的问题。
+可是贺老师平时比较忙，外加问题可能的确比较2，不好意思问。。
+所以。。想求一位对建模比较了解的学长或者学姐指导下。。。不会耽误您平时学习时间的。。。也就是偶尔晚上熄灯前几分钟在线解答下比较简单问题。基本对学习时间没有影响。我也可以保证不会影响到您的学习。
+谢谢~~~如果要我偶尔bg也行。。。谢谢~~~qq：893727875
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8603:61bc:3aac:ad02:*]
+ 
+【文章标题】：想搞数学建模，寻全程指点学长。 【文章地址】：https://bbs.byr.cn/article/MathModel/4816 【创建时间】：2009-09-17 【作者】：Just88 【评论】：9 【内容】：发信人: Just88 (小笨), 信区: MathModel
+标  题: 想搞数学建模，寻全程指点学长。
+发信站: 北邮人论坛 (Thu Sep 17 16:58:11 2009), 站内
+
+不胜感谢。
+可以站内哈
+--
+
+
+
+我不想想不想想的东西。。。
+   
+
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 2001:da8:215:8605:d0a9:df62:c612:*]
+ 

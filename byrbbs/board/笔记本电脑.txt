@@ -1942,3 +1942,207 @@ http://tieba.baidu.com/p/2074868073?pn=1
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.10.*]
  
+【文章标题】：华硕玩家国度，至尊游戏本， 全新机 【文章地址】：https://bbs.byr.cn/article/Notebook/159590 【创建时间】：2015-03-02 【作者】：kongxiangfei 【评论】：0 【内容】：发信人: kongxiangfei (kong), 信区: Notebook
+标  题: 华硕玩家国度，至尊游戏本， 全新机
+发信站: 北邮人论坛 (Mon Mar  2 17:06:11 2015), 站内
+
+华硕G56JR-0072C4200H
+
+規格: i5 4200H , 8G ram , 750G HDD , Nvidia GeForce GTX 760M 独立显卡2G
+ Win 8 OS.
+ 2年全球保修. 
+
+
+另有thinkpad x220，t420，T410,X201，最低1450.
+
+需要的联系 
+
+qq641565042，微kongxiangf6814
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 118.186.222.*]
+ 
+【文章标题】：rMBP X82+16g内存 or X92？ 【文章地址】：https://bbs.byr.cn/article/Notebook/158603 【创建时间】：2015-01-04 【作者】：ziban 【评论】：13 【内容】：发信人: ziban (正版), 信区: Notebook
+标  题: rMBP X82+16g内存 or X92？
+发信站: 北邮人论坛 (Sun Jan  4 17:15:56 2015), 站内
+
+来求个意见，LZ女，程序媛…
+自己的电脑已经5年半了，实在受不了了…想换MBP是因为想学着做点儿iOS的开发，之前本来准备某宝港版X82，最近发现涨价到跟日本X92（不含税）差不多了，就找了寒假要去11区的小伙伴帮带…日语键盘大丈夫，有的店里是有英语键盘版的卖的…
+不过现在比较纠结是到底是X82上16G内存，还是X92，下一代的产品已经等不及了，小伙伴就在那儿待个寒假而已…
+
+现在的情况：
+1.X82+16G 加税大概9300，X92加税大概9800（11区的税真是高啊…=-=不知道能不能退税，如果能退的话，能少大概800块吧）
+2.需要iOS开发+windows下开发（工作需要，Visual Studio还是得用，还有些别的玩意儿，所以估计得双系统了）
+3.好人肉回国，所以我没考虑15寸的版本，麻烦小伙伴太多不好
+4.小伙伴说去实体买可能比官网还便宜，会有积分，差不多相当于10%的售价，可以买点儿别的配件，比如X92返还的积分大概等于900块，可以买个鼠标，tracepad的什么的…不过X82+16G版是定制机，实体店不一定有货，那只能官网下单，so这个10%的积分就木有了…
+5.这个电脑入了之后，估计很长时间都不会想换了…
+
+所以很纠结…不太清楚Mac做开发的时候到底吃不吃内存，特地来版上一求~
+--
+※ 修改:·ziban 于 Jan  4 17:31:08 2015 修改本文·[FROM: 61.48.18.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.48.18.*]
+ 
+【文章标题】：笔记本的混合硬盘是噱头还是确实能快？求指导 【文章地址】：https://bbs.byr.cn/article/Notebook/159109 【创建时间】：2015-01-23 【作者】：jin1 【评论】：11 【内容】：发信人: jin1 (高山流水), 信区: Notebook
+标  题: 笔记本的混合硬盘是噱头还是确实能快？求指导
+发信站: 北邮人论坛 (Fri Jan 23 13:26:32 2015), 站内
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.43.168.*]
+ 
+【文章标题】：求大神帮助：在MacBook Pro上安装虚拟机，以便于安装win7适用的 【文章地址】：https://bbs.byr.cn/article/Notebook/159699 【创建时间】：2015-03-12 【作者】：lavande 【评论】：17 【内容】：发信人: lavande (lavande), 信区: Notebook
+标  题: 求大神帮助：在MacBook Pro上安装虚拟机，以便于安装win7适用的
+发信站: 北邮人论坛 (Thu Mar 12 18:12:13 2015), 站内
+
+小女使用MacBook Pro，最近新开了计算机辅助的课程，需要安装老师要求的软件，但是都需要在Windows系统上安装。不想装装双系统，老师推荐的VMware station又找不到资源。求大神帮助。。。。。<img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none"><img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none"><img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none"><img src="/img/ubb/ema/13.gif" alt="ema13" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：thinkpad笔记本 【文章地址】：https://bbs.byr.cn/article/Notebook/159200 【创建时间】：2015-01-29 【作者】：sarahlxq 【评论】：1 【内容】：发信人: sarahlxq (sarah), 信区: Notebook
+标  题: thinkpad笔记本
+发信站: 北邮人论坛 (Thu Jan 29 23:47:44 2015), 站内
+
+E440和E540差别大吗？用起来有人用过吗？
+本人不玩大型游戏。需要系统运行顺畅，基本娱乐办公，还有些制图软件。
+
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮2.0』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 1.59.151.*]
+ 
+【文章标题】：游戏本求推荐 【文章地址】：https://bbs.byr.cn/article/Notebook/159092 【创建时间】：2015-01-22 【作者】：Legolas 【评论】：22 【内容】：发信人: Legolas (洗洗睡吧), 信区: Notebook
+标  题: 游戏本求推荐
+发信站: 北邮人论坛 (Thu Jan 22 17:04:26 2015), 站内
+
+使用者性别:  男
+   
+      
+预计花费:  6500以内吧
+   
+  
+    
+主要用途:  游戏娱乐
+   
+    
+  
+预计应用中对配置要求较高的游戏： 目前也就玩玩LOL、轩辕剑、剑网三这种
+  
+  
+  
+能接受的重量(&lt;1.5kg;1.5-2kg;2kg-2.5kg;无所谓?):  2kg左右
+  
+    
+喜欢的显示器大小（11/12寸、13、14、15/更大）:  15
+  
+    
+外观要求:  不太丑就行
+   
+    
+其他要求(独显或集显/硬盘容量/屏幕高分否/偏好品牌/已考虑型号): 目前考虑MSI，<b>喜欢多开程序或者游戏</b>，没事就喜欢同时开各种软件或者多个游戏，所以希望在这方面性能出色一点，散热不要太差
+--
+※ 修改:·Legolas 于 Jan 23 11:02:00 2015 修改本文·[FROM: 123.125.116.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.125.116.*]
+ 
+【文章标题】：什么样的人群喜欢用轻薄的笔记本电脑呢 【文章地址】：https://bbs.byr.cn/article/Notebook/158969 【创建时间】：2015-01-21 【作者】：skyhole 【评论】：20 【内容】：发信人: skyhole (skyhole), 信区: Notebook
+标  题: 什么样的人群喜欢用轻薄的笔记本电脑呢
+发信站: 北邮人论坛 (Wed Jan 21 09:03:36 2015), 站内
+
+想问问各位同学，什么样的人群喜欢用轻薄的笔记本电脑呢
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 180.166.196.*]
+ 
+【文章标题】：【全新未拆封U盘低价转让】 【文章地址】：https://bbs.byr.cn/article/Notebook/158834 【创建时间】：2015-01-10 【作者】：imitchell 【评论】：7 【内容】：发信人: imitchell (Rabbit Boy), 信区: Notebook
+标  题: 【全新未拆封U盘低价转让】
+发信站: 北邮人论坛 (Sat Jan 10 13:22:13 2015), 站内
+
+公司发的，因为已经有很多u盘，所以低价转让。
+规格：闪迪（SanDisk）至尊极速（CZ80）32GB U盘 USB3.0 读245MB/s，写100MB/s
+京东上的链接：<a target="_blank" href="http://item.jd.com/657807.html">http://item.jd.com/657807.html</a>
+京东上报价 179元。这里就以160元转让吧，全新的，未拆封。价格可以商议。有兴趣的站内联系吧~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 166.111.139.*]
+ 
+【文章标题】：macbook pro 13寸现在买合适么，还是等2015年的新款 【文章地址】：https://bbs.byr.cn/article/Notebook/158861 【创建时间】：2015-01-13 【作者】：libenchao 【评论】：3 【内容】：发信人: libenchao (青青子衿), 信区: Notebook
+标  题: macbook pro 13寸现在买合适么，还是等2015年的新款
+发信站: 北邮人论坛 (Tue Jan 13 22:02:57 2015), 站内
+
+如题，现在比较纠结的是，如果买了现在的MacBook pro的话，假如2015年的mac变化比较大，尤其是处理器，会不会比较吃亏，貌似Intel又出了新款的处理器。
+
+求有经验的亲们给点建议或者看法，欢迎讨论。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 162.105.146.*]
+ 
+【文章标题】：求比较 【文章地址】：https://bbs.byr.cn/article/Notebook/158875 【创建时间】：2015-01-14 【作者】：godby 【评论】：1 【内容】：发信人: godby (godby), 信区: Notebook
+标  题: 求比较
+发信站: 北邮人论坛 (Wed Jan 14 10:01:42 2015), 站内
+
+最近想换一台笔记本，看了联想的u330p、430p，还有小新出色版，最近好像联想又推出了小新v3000，对笔记本比较小白，希望各大神能帮比较一下，说说各自的优缺点，或者有什么其他推荐的笔记本，总体希望是5000以内吧。谢谢众大神了！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.205.0.*]
+ 
+【文章标题】：求大神推荐下笔记本，预算大概5k，谢谢 【文章地址】：https://bbs.byr.cn/article/Notebook/158344 【创建时间】：2014-12-23 【作者】：renshoujushi 【评论】：1 【内容】：发信人: renshoujushi (人寿居士), 信区: Notebook
+标  题: 求大神推荐下笔记本，预算大概5k，谢谢
+发信站: 北邮人论坛 (Tue Dec 23 20:50:15 2014), 站内
+
+使用者性别:  
+   男
+      
+预计花费:  
+   5000左右
+    
+考虑行货/水货/国货/非日货/非韩货？:  
+  无所谓
+    
+主要用途:  
+   上网看视频等
+    
+  
+预计应用中对配置要求较高的游戏： 
+  DOTA2
+  
+  
+预计应用中对配置要求较高的程序： 
+  没有
+  
+  
+  
+能接受的重量(&lt;1.5kg;1.5-2kg;2kg-2.5kg;无所谓?):  
+  无所谓
+    
+喜欢的显示器大小（11/12寸、13、14、15/更大）:  
+  无所谓
+    
+外观要求:  
+   无
+    
+其他要求(独显或集显/硬盘容量/屏幕高分否/偏好品牌/已考虑型号): 
+散热好点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.43.*]
+ 
+【文章标题】：【求比较】小新V2000 bigger，Thinkpad E440，y430p该选哪款？ 【文章地址】：https://bbs.byr.cn/article/Notebook/158859 【创建时间】：2015-01-13 【作者】：szm1002 【评论】：11 【内容】：发信人: szm1002 (cmd), 信区: Notebook
+标  题: 【求比较】小新V2000 bigger，Thinkpad E440，y430p该选哪款？
+发信站: 北邮人论坛 (Tue Jan 13 14:17:50 2015), 站内
+
+
+
+<a target="_blank" href="/att/Notebook/0/158859/537"><img border="0" title="V2000.jpg" src="/att/Notebook/0/158859/537" alt="V2000.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/Notebook/0/158859/47702"><img border="0" title="E440.jpg" src="/att/Notebook/0/158859/47702" alt="E440.jpg" class="resizeable"></a>
+<a target="_blank" href="/att/Notebook/0/158859/85475"><img border="0" title="y430p.jpg" src="/att/Notebook/0/158859/85475" alt="y430p.jpg" class="resizeable"></a>
+心仪的机器配置如图所示。另外V2000和y430p屏幕分辨率都是1920×1080，而E440分辨率为1366 x 768。 
+游戏不常玩，也就偶尔玩个2k。本本主要打算用来学习，编程，看比赛和看电影吧。 
+小白一只，求大神比较这三款本本哪个最好？<img src="/img/ubb/ema/0.gif" alt="ema0" style="display:inline;border-style:none"><img src="/img/ubb/ema/36.gif" alt="ema36" style="display:inline;border-style:none"><img src="/img/ubb/ema/25.gif" alt="ema25" style="display:inline;border-style:none"><img src="/img/ubb/ema/11.gif" alt="ema11" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.95.*]
+
+ 

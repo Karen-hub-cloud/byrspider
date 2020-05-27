@@ -2289,3 +2289,495 @@ appkey和secret不会错，是什么原因呢？请求是post形式
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.204.*]
  
+【文章标题】：[娱乐]远古无API时代的Python版BYR SDK 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/85 【创建时间】：2015-04-15 【作者】：wks 【评论】：11 【内容】：发信人: wks (cloverprince), 信区: BBSOpenAPI
+标  题: [娱乐]远古无API时代的Python版BYR SDK
+发信站: 北邮人论坛 (Wed Apr 15 18:59:25 2015), 站内
+
+libbyr： 北邮人Python语言绑定库。以前贴在linux版： <a target="_blank" href="http://bbs.byr.cn/#!article/Linux/100884">http://bbs.byr.cn/#!article/Linux/100884</a>
+github： <a target="_blank" href="http://github.com/wks/libbyr">http://github.com/wks/libbyr</a> （已无法使用）
+Java版： <a target="_blank" href="https://github.com/wks/libbyr4j">https://github.com/wks/libbyr4j</a> （已无法使用）
+
+那时候就是想爬爬论坛。于是用Python写了一个简易的程序库，可以用程序来访问byr论坛。
+
+
+<a target="_blank" href="/att/BBSOpenAPI/0/85/1768"><img border="0" title="Screenshot-DreamPie.png" src="/att/BBSOpenAPI/0/85/1768" alt="Screenshot-DreamPie.png" class="resizeable"></a>
+
+使用的技术：
+
+1. 标准库里的httplib，因为可以维持一个长TCP连接，效率比urllib稍微高一些
+
+2. 正则表达式。一开始做的时候，没怎么多想，直接用正则表达式去匹配html。这样做的程序非常不稳定，因为毕竟是逆向工程出来的模式。论坛的html在很多情况下会有变化，一旦有一点变化，就会抛出异常。代码在byr.py, byr2.py, byr3.py里。
+
+3. lxml。后来，改用xpath来匹配html里面的元素。一开始，我担心xpath只能对合法的html来操作，一旦遇上非法的html就不行了。后来，实践证明我的担心是多余的。byr的代码还是很合法的。xpath处理起来比正则表达式舒服多了，也稳定得多。代码在byr4.py里。
+
+用这个库干了一些也许会让论坛管理人员皱眉的事情：
+
+统计一个版的用户灌水量： <a target="_blank" href="http://bbs.byr.cn/#!article/Linux/101002">http://bbs.byr.cn/#!article/Linux/101002</a>
+统计一个版的用户平时的出没时间（代码在timeplotter.py里）： <a target="_blank" href="http://bbs.byr.cn/#!article/ACM_ICPC/42717">http://bbs.byr.cn/#!article/ACM_ICPC/42717</a>
+
+除了提供了操作函数以外，还提供了一些数据挖掘算法（那时候正在学数据挖掘）。比如：
+
+* 频繁模式算法，包括朴素的Apriori算法（apriori.py），和效率高得多的FP Growth算法（fptree.py）。用这个算法干过的事情有：
+
+寻找一个版里的好基友（经常在一个贴里出现的），代码在coexistutils.py里： <a target="_blank" href="http://bbs.byr.cn/#!article/Linux/101035">http://bbs.byr.cn/#!article/Linux/101035</a> <a target="_blank" href="http://bbs.byr.cn/#!article/ACM_ICPC/42706">http://bbs.byr.cn/#!article/ACM_ICPC/42706</a>
+
+不过这个库现在已经不能用了。
+
+--
+※ 修改:·wks 于 Apr 15 19:01:07 2015 修改本文·[FROM: 150.203.190.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 150.203.190.*]
+ 
+【文章标题】：[娱乐]远古无API时代的山寨BYR RESTful API 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/86 【创建时间】：2015-04-15 【作者】：wks 【评论】：1 【内容】：发信人: wks (cloverprince), 信区: BBSOpenAPI
+标  题: [娱乐]远古无API时代的山寨BYR RESTful API
+发信站: 北邮人论坛 (Wed Apr 15 19:05:06 2015), 站内
+
+byr-ws： 北邮人论坛web service支持。以前贴在web版： <a target="_blank" href="http://bbs.byr.cn/#!article/WWWTechnology/12365">http://bbs.byr.cn/#!article/WWWTechnology/12365</a>
+网站和API文档： <a target="_blank" href="http://byr-ws.appspot.com/">http://byr-ws.appspot.com/</a>
+
+那时候，RESTful API正好很火，但北邮人论坛还没有RESTful API。为了验证这种想法的可行性，我用Google AppEngine做了个代理，查询的时候，代为向byr.cn发送普通的请求，在服务器端解析，但把结果转换成json格式返回给查询的人。
+
+举例：
+
+http://byr-ws.appspot.com/board/WWWTechnology WWWTechnology版的帖子列表。
+
+http://byr-ws.appspot.com/article/WWWTechnology/12342?p=2 WWWTechnology版的帖子12342的第2页。
+
+http://byr-ws.appspot.com/user/query/wks 用户wks的详情。
+
+如果发现被墙，可以加上sixxs.org试试看，比如：
+
+http://byr-ws.appspot.com.sixxs.org/board/WWWTechnology
+http://byr-ws.appspot.com.sixxs.org/article/WWWTechnology/12342?p=2
+http://byr-ws.appspot.com.sixxs.org/user/query/wks
+
+今天测试了一下，服务器还活着，但已经无法返回正常的结果了（毕竟byr论坛更新了很多次）。如果想看代码例子，还是看原帖吧。
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 150.203.190.*]
+ 
+【文章标题】：校外人员api怎么申请呢 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/266 【创建时间】：2015-05-15 【作者】：rockics 【评论】：4 【内容】：发信人: rockics (rockics), 信区: BBSOpenAPI
+标  题: 校外人员api怎么申请呢
+发信站: 北邮人论坛 (Fri May 15 17:01:04 2015), 站内
+
+版主  你好  
+
+ 我是北科的毕业生，打算做一个信息的汇总app，打算申请一下北邮人的api权限。
+
+之前使用的是
+https://github.com/xw2423/nForum
+
+据说最近有更新。请问怎么申请相关权限呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.225.213.*]
+ 
+【文章标题】：[ppt&demo已上传]应用开发大赛线下活动之培训讲座Android篇 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/131 【创建时间】：2015-04-23 【作者】：paper777 【评论】：106 【内容】：发信人: paper777 (Also), 信区: BBSOpenAPI
+标  题: [ppt&amp;demo已上传]应用开发大赛线下活动之培训讲座Android篇
+发信站: 北邮人论坛 (Thu Apr 23 18:59:07 2015), 站内
+
+ppt 在板凳
+demo 代码在本楼
+
+----
+
+应用开发大赛开幕一周了
+还在纠结自己没有技术能力迟迟没有报名参加论坛应用开发大赛吗?
+
+<a target="_blank" href="/att/BBSOpenAPI/0/131/1808"><img border="0" title="" src="/att/BBSOpenAPI/0/131/1808" alt="" class="resizeable"></a>
+一个晚自习的时间，选择呆在寝室，你可以享一晚的懒散生活；选择加入我们，你可以试着挑战自己，
+你可以学习很多有意义的东西，还能和技术大牛在一起思维碰撞！于是，要和我们签订契约，来一场技术修炼吗?
+锁定下周一(2015/4/27)教4-444 晚上6:30-9:00
+
+北邮人论坛邀请了论坛Android技术大牛 @dss886 举行第一次线下培训讲座, 带大家探一探Android开发的究竟
+
+我们将改变过去生硬的培训方式，更加专注于培训的乐趣，让大家真正感受到技术的魅力
+
+主要面向:  参加论坛应用开发大赛的同学; 想入门/刚入门Android的同学; 想基于论坛API做开发的同学;  
+讲座内容为 1) 磨刀不误砍柴工-- Eclipse OR Android Studio
+           2) 控件美如画 -- 基本控件使用
+          3) 新的设计理念 -- Android5.0 设计规范浅谈
+           4) 开源拯救世界-- 优秀开源库浅谈
+           5) 我们开始干吧--论坛 nForum API2.0 使用指南
+           6) 头脑风暴-- 基于论坛应用开发的好想法
+热烈欢迎想入门Android, 想参加应用开发大赛的的同学前来参加
+你, 一定会有收获的^_^
+
+PS. 还没有入门的同学最好配一下开发环境与Android SDK (推荐用Android Studio, sdk可在 <a target="_blank" href="http://bt.byr.cn/details.php?id=170224&amp;hit=1">北邮人BT[戳我点我click我]</a>下载), 运行一个helloworld.
+有任何意见,建议与想法的可在讲座结束的时候与大家交流
+--
+
+<a href="/att/BBSOpenAPI/0/131/47026" target="_blank" color="blue">附件(3.6MB)  BBSOpenDemo.7z</a>
+※ 修改:·paper777 于 Apr 29 10:13:30 2015 修改本文·[FROM: 124.127.207.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.253.*]
+ 
+【文章标题】：关于bt 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1407 【创建时间】：2018-02-23 【作者】：LagroonCoMO 【评论】：1 【内容】：发信人: LagroonCoMO (CoMO), 信区: BBSOpenAPI
+标  题: 关于bt
+发信站: 北邮人论坛 (Fri Feb 23 11:24:34 2018), 站内
+
+bt被封号了怎么办?
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮2.0』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.221.165.*]
+ 
+【文章标题】：【公告】北京白鹭时代信息技术有限公司<招聘实习生>啦（H5生态 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1256 【创建时间】：2017-09-19 【作者】：biubiu299 【评论】：0 【内容】：发信人: biubiu299 (瓦特小浣熊), 信区: BBSOpenAPI
+标  题: 【公告】北京白鹭时代信息技术有限公司&lt;招聘实习生&gt;啦（H5生态，
+发信站: 北邮人论坛 (Tue Sep 19 17:10:43 2017), 站内
+
+[size=8][face=黑体]北京白鹭时代信息技术有限公司（简称白鹭时代），全球最大的HTML5一站式移动技术和服务提供商，致力于为移动互联网全行业提供技术解决方案与服务，携手行业伙伴共建开放、务实、繁荣的HTML5移动生态系统。
+
+白鹭时代于2014年2月创立于北京，同年11月获得顺为资本千万美元A轮融资；2015年5月,获得深创投和经纬创投等机构B轮融资；2016年3月，成功登陆新三板（股票代码836615）。
+
+凭借深厚的技术底蕴和多年行业经验积累，白鹭时代自主研发了白鹭引擎（Egret Engine）、白鹭加速器（Egret Runtime）、骨骼动画工具(Dragon Bones)、可视化编辑器（Egret Wing）等产品。其核心产品白鹭引擎（Egret Engine）已占据国内超七成的手机页游引擎市场份额，白鹭加速器（Egret Runtime）已植入超5亿台移动设备。白鹭时代提供白鹭游戏解决方案和青雀移动解决方案(Egret Lark)，服务游戏、应用、营销、教育、AR/VR等多元领域。目前白鹭全球活跃开发者超130000人，并与小米、360、腾讯、百度、猎豹、微软、谷歌等数百家公司达成深度合作。
+
+动画实习生岗位职责：
+1. 负责DragonBones Pro示例项目动画制作；
+2. 辅助产品经理反馈使用过程中问题；
+ 任职要求：
+1.熟悉动画原理、造型设计，了解二维动画制作流程，擅长二维骨骼动画,对游戏动作有较深认识；
+2.有良好的画面节奏感、善于处理角色动作与打击感；
+3.做事认真踏实，为人正直诚恳；高度的工作意识，具有良好的团队精神
+优先条件：
+2、有Spine使用经验优先。
+3、有DragonBones使用经验优先、有手绘能力者优先；[/size]
+联系方式;tianjing@egret.com  V:Naive_TJ（请备注实习生）
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.200.52.*]
+ 
+【文章标题】：【问题】雏雁计划 第一届 第二届 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1277 【创建时间】：2017-10-14 【作者】：shichengzhi 【评论】：4 【内容】：发信人: shichengzhi (时辰至), 信区: BBSOpenAPI
+标  题: 【问题】雏雁计划 第一届 第二届
+发信站: 北邮人论坛 (Sat Oct 14 07:18:25 2017), 站内
+
+大一新生希望参加十月和十一月组织的第二届雏雁计划，想问一下有没有同学和学姐学长了解三四月的第一届雏雁计划的参赛作品及获奖情况。同时希望征一下队友，没有自动化和通信的技术，所以应该做的是除智能系统领域的其他方面的项目。<img src="/img/ubb/emc/15.gif" alt="emc15" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.21.217.*]
+ 
+【文章标题】：【计算机的前辈请看过来！】 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1285 【创建时间】：2017-10-28 【作者】：Leemymy 【评论】：4 【内容】：发信人: Leemymy (Leemymy), 信区: BBSOpenAPI
+标  题: 【计算机的前辈请看过来！】
+发信站: 北邮人论坛 (Sat Oct 28 00:09:35 2017), 站内
+
+想转专业，想先了解一下计算机是怎样的专业呢？在大一的公共课过后 又会学什么呢..等等
+请前辈们畅所欲言！！！拜托了<img src="/img/ubb/emb/15.gif" alt="emb15" style="display:inline;border-style:none"><img src="/img/ubb/emb/15.gif" alt="emb15" style="display:inline;border-style:none">
+
+（我都不知道该投到哪个版面...
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.21.172.*]
+ 
+【文章标题】：blender编译错误 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1299 【创建时间】：2017-11-12 【作者】：sth 【评论】：0 【内容】：发信人: sth (SthNo.1), 信区: BBSOpenAPI
+标  题: blender编译错误
+发信站: 北邮人论坛 (Sun Nov 12 14:42:11 2017), 站内
+
+
+<a target="_blank" href="/att/BBSOpenAPI/0/1299/265"><img border="0" title="1510468568(1).png" src="/att/BBSOpenAPI/0/1299/265" alt="1510468568(1).png" class="resizeable"></a> 卡在这里 小伙伴们有没有遇到过这样的问题~~~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.41.*]
+
+ 
+【文章标题】：[紧急求助]调用开放平台接口出现400错误 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/435 【创建时间】：2015-11-04 【作者】：lingbo 【评论】：6 【内容】：发信人: lingbo (阳光的lingbo), 信区: BBSOpenAPI
+标  题: [紧急求助]调用开放平台接口出现400错误
+发信站: 北邮人论坛 (Wed Nov  4 10:54:33 2015), 站内
+
+最近在用ruby使用北邮人论坛的发文章接口，来通过第三方应用向论坛上发文章，关键部分的代码如下（其中access_token已经得到）：
+url=URI("http://bbs.byr.cn/open/article/:name/post.json?token=#{access_token}")
+        parameter = {}
+        parameter[":name"]='Python'
+        parameter[:title]='test'
+        parameter[:content]='Successfully sent'
+        body = Net::HTTP.post_form(url, parameter)
+但总是出现状态码是400的错误，说是参数请求错误或丢失，想请教一下您有什么解决办法？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.132.173.*]
+ 
+【文章标题】：[ppt&demo已上传]应用开发大赛线下活动之培训讲座Android篇 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/131 【创建时间】：2015-04-23 【作者】：paper777 【评论】：106 【内容】：发信人: paper777 (Also), 信区: BBSOpenAPI
+标  题: [ppt&amp;demo已上传]应用开发大赛线下活动之培训讲座Android篇
+发信站: 北邮人论坛 (Thu Apr 23 18:59:07 2015), 站内
+
+ppt 在板凳
+demo 代码在本楼
+
+----
+
+应用开发大赛开幕一周了
+还在纠结自己没有技术能力迟迟没有报名参加论坛应用开发大赛吗?
+
+<a target="_blank" href="/att/BBSOpenAPI/0/131/1808"><img border="0" title="" src="/att/BBSOpenAPI/0/131/1808" alt="" class="resizeable"></a>
+一个晚自习的时间，选择呆在寝室，你可以享一晚的懒散生活；选择加入我们，你可以试着挑战自己，
+你可以学习很多有意义的东西，还能和技术大牛在一起思维碰撞！于是，要和我们签订契约，来一场技术修炼吗?
+锁定下周一(2015/4/27)教4-444 晚上6:30-9:00
+
+北邮人论坛邀请了论坛Android技术大牛 @dss886 举行第一次线下培训讲座, 带大家探一探Android开发的究竟
+
+我们将改变过去生硬的培训方式，更加专注于培训的乐趣，让大家真正感受到技术的魅力
+
+主要面向:  参加论坛应用开发大赛的同学; 想入门/刚入门Android的同学; 想基于论坛API做开发的同学;  
+讲座内容为 1) 磨刀不误砍柴工-- Eclipse OR Android Studio
+           2) 控件美如画 -- 基本控件使用
+          3) 新的设计理念 -- Android5.0 设计规范浅谈
+           4) 开源拯救世界-- 优秀开源库浅谈
+           5) 我们开始干吧--论坛 nForum API2.0 使用指南
+           6) 头脑风暴-- 基于论坛应用开发的好想法
+热烈欢迎想入门Android, 想参加应用开发大赛的的同学前来参加
+你, 一定会有收获的^_^
+
+PS. 还没有入门的同学最好配一下开发环境与Android SDK (推荐用Android Studio, sdk可在 <a target="_blank" href="http://bt.byr.cn/details.php?id=170224&amp;hit=1">北邮人BT[戳我点我click我]</a>下载), 运行一个helloworld.
+有任何意见,建议与想法的可在讲座结束的时候与大家交流
+--
+
+<a href="/att/BBSOpenAPI/0/131/47026" target="_blank" color="blue">附件(3.6MB)  BBSOpenDemo.7z</a>
+※ 修改:·paper777 于 Apr 29 10:13:30 2015 修改本文·[FROM: 124.127.207.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.253.*]
+ 
+【文章标题】：【讨论】大家对于智能家居有什么看法 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1136 【创建时间】：2017-03-05 【作者】：LC970124 【评论】：7 【内容】：发信人: LC970124 (转泊), 信区: BBSOpenAPI
+标  题: 【讨论】大家对于智能家居有什么看法
+发信站: 北邮人论坛 (Sun Mar  5 08:32:57 2017), 站内
+
+   本人是经管院的一名大三老学姐，现在在帮助一家智能家居公司运营微信公众号。
+   我们在昨天发起了一个活动，就是想问一下关于智能家居大家有什么样的看法，无论是对于智能家居未来的发展的看法，还是对于新产品的构思，或者是现已开发产品有什么地方需要改进，我们都需要你们的意见（当然，如果大家对于我们公司的产品提出意见我们会更欢迎）
+   欢迎各位大神前去我们公众号留言哦~~
+   参与活动就有机会获得精美礼品<img src="/img/ubb/emc/32.gif" alt="emc32" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.128.41.*]
+ 
+【文章标题】：求电子书 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1262 【创建时间】：2017-09-21 【作者】：zh2015211203 【评论】：0 【内容】：发信人: zh2015211203 (hello world), 信区: BBSOpenAPI
+标  题: 求电子书
+发信站: 北邮人论坛 (Thu Sep 21 20:13:07 2017), 站内
+
+求通信原理 樊昌信 第七版 PDF
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.13.*]
+ 
+【文章标题】：新生求助 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1263 【创建时间】：2017-09-21 【作者】：whm990802 【评论】：0 【内容】：发信人: whm990802 (whmmm), 信区: BBSOpenAPI
+标  题: 新生求助
+发信站: 北邮人论坛 (Thu Sep 21 21:15:09 2017), 站内
+
+学长学姐或者新生大佬们，代码初级有什么好的参考书么，多谢。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.21.233.*]
+ 
+【文章标题】：关于双一流大学…… 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1257 【创建时间】：2017-09-21 【作者】：zsx258 【评论】：5 【内容】：发信人: zsx258 (zsx258), 信区: BBSOpenAPI
+标  题: 关于双一流大学……
+发信站: 北邮人论坛 (Thu Sep 21 12:01:44 2017), 站内
+
+都是两个一流学科，为什么电子科大就是一流大学呢
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.21.253.*]
+ 
+【文章标题】：老生常谈“it行业到底有没有前景”？ 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1265 【创建时间】：2017-09-25 【作者】：andyrain 【评论】：0 【内容】：发信人: andyrain (雨人), 信区: BBSOpenAPI
+标  题: 老生常谈“it行业到底有没有前景”？
+发信站: 北邮人论坛 (Mon Sep 25 17:02:47 2017), 站内
+
+踩着九月的尾巴要进入十月了，军训也差不多结束该进入正式上课学习了，各专业的学生饱含热情准备在自己所学专业施展拳脚。作为一名老北邮人也被这个气氛吸引想来看看学子们的状态，发现其中it专业的学子们似乎都有点蹙眉，对自己的未来有点迷茫。那<a target="_blank" href="https://www.applysquare.com/topic-cn/MnJaQGNpk/">IT这一行的就业形势咋样</a>。今天闲来没事，就想给各位即将踏入it的学子服上一颗定心丸，我觉得it这个行业发展还是很有发展前景的。
+首先我相信我大多数找工作的人最看重就是工资了，而每年的行业平均薪资排行榜，金融、IT 基本稳居前两位了。这样的排名不足以打动你们的心吗？
+再看市场需求，据国内权威数据统计，未来五年，我国IT人才总需求量高达1500万— 2000万人。
+其中“软件开发”、“网络工程”、“电脑美术”等人才的缺口最为突出。如此大的潜力还不想加入成为it的一员吗？
+还有人说到it吃的是青春饭，我想这更是无稽，不管跟销售还是物流比，我想it是最不受行业发展的限制，也不受年龄和体力的影响，相反经验越丰富，反而会越值钱。
+最后我还要强调一点IT行业是最公平的，没人靠关系、靠背景，你的能力决定一切，这样合理的工作条件才不会让人失去动力，不会因为关系户的攀升而感到失望，才能更好的发展。
+想了解更多关于it就业相关的讨论信息，也可以在<a target="_blank" href="https://www.applysquare.com/topic-cn/KGorlGzXn/">计算机科学专业就业前景</a> 中看一下哦，希望对计算机的小鲜肉们有所帮助！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 119.164.213.*]
+ 
+【文章标题】：求认识会php的同学 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/1270 【创建时间】：2017-10-13 【作者】：track06 【评论】：5 【内容】：发信人: track06 (track06), 信区: BBSOpenAPI
+标  题: 求认识会php的同学
+发信站: 北邮人论坛 (Fri Oct 13 11:49:13 2017), 站内
+
+求认识会php的同学，本人小白，没接触过php，但有个web项目需要用php，有些问题不懂，想请教一下。本人微信shoujipeng5940
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 10.108.67.*]
+ 
+【文章标题】：求助万能的“北邮人论坛” 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/324 【创建时间】：2015-06-26 【作者】：Shuifobupt 【评论】：1 【内容】：发信人: Shuifobupt (睡佛), 信区: BBSOpenAPI
+标  题: 求助万能的“北邮人论坛”
+发信站: 北邮人论坛 (Fri Jun 26 14:26:44 2015), 站内
+
+请问各位校友，原来北邮人自己做的FTP网站现在还存在吗？
+那里面曾经有无数的免费资源，至今让我非常怀念，但是现在不知道还能不能用？
+哪位达人指点迷津一下？
+拜谢啦！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.196.171.*]
+ 
+【文章标题】：[问题]在校外北邮人bt注册不上去，不知道哪一步错了，求各位大 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/327 【创建时间】：2015-07-19 【作者】：everything 【评论】：3 【内容】：发信人: everything (everything), 信区: BBSOpenAPI
+标  题: [问题]在校外北邮人bt注册不上去，不知道哪一步错了，求各位大神
+发信站: 北邮人论坛 (Sun Jul 19 09:26:52 2015), 站内
+
+求各位大神帮帮忙，不知道哪一步不对。谢谢大神~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.30.13.*]
+
+
+<a target="_blank" href="/att/BBSOpenAPI/0/327/301"><img border="0" title="1..jpg" src="/att/BBSOpenAPI/0/327/301" alt="1..jpg" class="resizeable"></a>
+<a target="_blank" href="/att/BBSOpenAPI/0/327/60367"><img border="0" title="2..jpg" src="/att/BBSOpenAPI/0/327/60367" alt="2..jpg" class="resizeable"></a>
+<a target="_blank" href="/att/BBSOpenAPI/0/327/130660"><img border="0" title="3..jpg" src="/att/BBSOpenAPI/0/327/130660" alt="3..jpg" class="resizeable"></a> 
+【文章标题】：求微处理器与嵌入式系统辅导，有酬私议！！ 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/331 【创建时间】：2015-07-31 【作者】：victoria2015 【评论】：0 【内容】：发信人: victoria2015 (victoria2015), 信区: BBSOpenAPI
+标  题: 求微处理器与嵌入式系统辅导，有酬私议！！
+发信站: 北邮人论坛 (Fri Jul 31 15:45:22 2015), 站内
+
+如题，私信~
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.193.186.*]
+ 
+【文章标题】：[问题]要做一个论坛iOS客户端 如何申请appkey 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/340 【创建时间】：2015-08-15 【作者】：Aprilcxn 【评论】：14 【内容】：发信人: Aprilcxn (April || 这样算是加入了意涵团了吗), 信区: BBSOpenAPI
+标  题: [问题]要做一个论坛iOS客户端 如何申请appkey
+发信站: 北邮人论坛 (Sat Aug 15 21:36:01 2015), 站内
+
+如题所示
+客户端已有雏形 准备测试 如何申请appkey？
+
+刚刚看了一下北邮人论坛开发平台 账号已通过认证 有一个uid和secret 是不是就可以了？
+--
+※ 修改:·Aprilcxn 于 Aug 15 21:38:26 2015 修改本文·[FROM: 10.215.5.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.215.5.*]
+ 
+【文章标题】：关于新版VPN的问题… 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/354 【创建时间】：2015-08-17 【作者】：xiaoxigua96 【评论】：7 【内容】：发信人: xiaoxigua96 (想不出来要叫什么), 信区: BBSOpenAPI
+标  题: 关于新版VPN的问题…
+发信站: 北邮人论坛 (Mon Aug 17 22:11:04 2015), 站内
+
+按照微信上的帖连接了VPN
+But……
+教务处登不进去！！
+图书馆下不了免费资源！！
+别告诉我只有我一个人酱紫啊T T…泪目…
+这VPN到底还有啥用啊……
+
+<a target="_blank" href="http://guiyou.wangx.in">发自「贵邮」</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.161.249.*]
+ 
+【文章标题】：[娱乐]远古无API时代的山寨BYR RESTful API 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/86 【创建时间】：2015-04-15 【作者】：wks 【评论】：1 【内容】：发信人: wks (cloverprince), 信区: BBSOpenAPI
+标  题: [娱乐]远古无API时代的山寨BYR RESTful API
+发信站: 北邮人论坛 (Wed Apr 15 19:05:06 2015), 站内
+
+byr-ws： 北邮人论坛web service支持。以前贴在web版： <a target="_blank" href="http://bbs.byr.cn/#!article/WWWTechnology/12365">http://bbs.byr.cn/#!article/WWWTechnology/12365</a>
+网站和API文档： <a target="_blank" href="http://byr-ws.appspot.com/">http://byr-ws.appspot.com/</a>
+
+那时候，RESTful API正好很火，但北邮人论坛还没有RESTful API。为了验证这种想法的可行性，我用Google AppEngine做了个代理，查询的时候，代为向byr.cn发送普通的请求，在服务器端解析，但把结果转换成json格式返回给查询的人。
+
+举例：
+
+http://byr-ws.appspot.com/board/WWWTechnology WWWTechnology版的帖子列表。
+
+http://byr-ws.appspot.com/article/WWWTechnology/12342?p=2 WWWTechnology版的帖子12342的第2页。
+
+http://byr-ws.appspot.com/user/query/wks 用户wks的详情。
+
+如果发现被墙，可以加上sixxs.org试试看，比如：
+
+http://byr-ws.appspot.com.sixxs.org/board/WWWTechnology
+http://byr-ws.appspot.com.sixxs.org/article/WWWTechnology/12342?p=2
+http://byr-ws.appspot.com.sixxs.org/user/query/wks
+
+今天测试了一下，服务器还活着，但已经无法返回正常的结果了（毕竟byr论坛更新了很多次）。如果想看代码例子，还是看原帖吧。
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 150.203.190.*]
+ 
+【文章标题】：[娱乐]远古无API时代的Python版BYR SDK 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/85 【创建时间】：2015-04-15 【作者】：wks 【评论】：11 【内容】：发信人: wks (cloverprince), 信区: BBSOpenAPI
+标  题: [娱乐]远古无API时代的Python版BYR SDK
+发信站: 北邮人论坛 (Wed Apr 15 18:59:25 2015), 站内
+
+libbyr： 北邮人Python语言绑定库。以前贴在linux版： <a target="_blank" href="http://bbs.byr.cn/#!article/Linux/100884">http://bbs.byr.cn/#!article/Linux/100884</a>
+github： <a target="_blank" href="http://github.com/wks/libbyr">http://github.com/wks/libbyr</a> （已无法使用）
+Java版： <a target="_blank" href="https://github.com/wks/libbyr4j">https://github.com/wks/libbyr4j</a> （已无法使用）
+
+那时候就是想爬爬论坛。于是用Python写了一个简易的程序库，可以用程序来访问byr论坛。
+
+
+<a target="_blank" href="/att/BBSOpenAPI/0/85/1768"><img border="0" title="Screenshot-DreamPie.png" src="/att/BBSOpenAPI/0/85/1768" alt="Screenshot-DreamPie.png" class="resizeable"></a>
+
+使用的技术：
+
+1. 标准库里的httplib，因为可以维持一个长TCP连接，效率比urllib稍微高一些
+
+2. 正则表达式。一开始做的时候，没怎么多想，直接用正则表达式去匹配html。这样做的程序非常不稳定，因为毕竟是逆向工程出来的模式。论坛的html在很多情况下会有变化，一旦有一点变化，就会抛出异常。代码在byr.py, byr2.py, byr3.py里。
+
+3. lxml。后来，改用xpath来匹配html里面的元素。一开始，我担心xpath只能对合法的html来操作，一旦遇上非法的html就不行了。后来，实践证明我的担心是多余的。byr的代码还是很合法的。xpath处理起来比正则表达式舒服多了，也稳定得多。代码在byr4.py里。
+
+用这个库干了一些也许会让论坛管理人员皱眉的事情：
+
+统计一个版的用户灌水量： <a target="_blank" href="http://bbs.byr.cn/#!article/Linux/101002">http://bbs.byr.cn/#!article/Linux/101002</a>
+统计一个版的用户平时的出没时间（代码在timeplotter.py里）： <a target="_blank" href="http://bbs.byr.cn/#!article/ACM_ICPC/42717">http://bbs.byr.cn/#!article/ACM_ICPC/42717</a>
+
+除了提供了操作函数以外，还提供了一些数据挖掘算法（那时候正在学数据挖掘）。比如：
+
+* 频繁模式算法，包括朴素的Apriori算法（apriori.py），和效率高得多的FP Growth算法（fptree.py）。用这个算法干过的事情有：
+
+寻找一个版里的好基友（经常在一个贴里出现的），代码在coexistutils.py里： <a target="_blank" href="http://bbs.byr.cn/#!article/Linux/101035">http://bbs.byr.cn/#!article/Linux/101035</a> <a target="_blank" href="http://bbs.byr.cn/#!article/ACM_ICPC/42706">http://bbs.byr.cn/#!article/ACM_ICPC/42706</a>
+
+不过这个库现在已经不能用了。
+
+--
+※ 修改:·wks 于 Apr 15 19:01:07 2015 修改本文·[FROM: 150.203.190.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 150.203.190.*]
+ 
+【文章标题】：[ppt&demo已上传]应用开发大赛线下活动之培训讲座Android篇 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/131 【创建时间】：2015-04-23 【作者】：paper777 【评论】：106 【内容】：发信人: paper777 (Also), 信区: BBSOpenAPI
+标  题: [ppt&amp;demo已上传]应用开发大赛线下活动之培训讲座Android篇
+发信站: 北邮人论坛 (Thu Apr 23 18:59:07 2015), 站内
+
+ppt 在板凳
+demo 代码在本楼
+
+----
+
+应用开发大赛开幕一周了
+还在纠结自己没有技术能力迟迟没有报名参加论坛应用开发大赛吗?
+
+<a target="_blank" href="/att/BBSOpenAPI/0/131/1808"><img border="0" title="" src="/att/BBSOpenAPI/0/131/1808" alt="" class="resizeable"></a>
+一个晚自习的时间，选择呆在寝室，你可以享一晚的懒散生活；选择加入我们，你可以试着挑战自己，
+你可以学习很多有意义的东西，还能和技术大牛在一起思维碰撞！于是，要和我们签订契约，来一场技术修炼吗?
+锁定下周一(2015/4/27)教4-444 晚上6:30-9:00
+
+北邮人论坛邀请了论坛Android技术大牛 @dss886 举行第一次线下培训讲座, 带大家探一探Android开发的究竟
+
+我们将改变过去生硬的培训方式，更加专注于培训的乐趣，让大家真正感受到技术的魅力
+
+主要面向:  参加论坛应用开发大赛的同学; 想入门/刚入门Android的同学; 想基于论坛API做开发的同学;  
+讲座内容为 1) 磨刀不误砍柴工-- Eclipse OR Android Studio
+           2) 控件美如画 -- 基本控件使用
+          3) 新的设计理念 -- Android5.0 设计规范浅谈
+           4) 开源拯救世界-- 优秀开源库浅谈
+           5) 我们开始干吧--论坛 nForum API2.0 使用指南
+           6) 头脑风暴-- 基于论坛应用开发的好想法
+热烈欢迎想入门Android, 想参加应用开发大赛的的同学前来参加
+你, 一定会有收获的^_^
+
+PS. 还没有入门的同学最好配一下开发环境与Android SDK (推荐用Android Studio, sdk可在 <a target="_blank" href="http://bt.byr.cn/details.php?id=170224&amp;hit=1">北邮人BT[戳我点我click我]</a>下载), 运行一个helloworld.
+有任何意见,建议与想法的可在讲座结束的时候与大家交流
+--
+
+<a href="/att/BBSOpenAPI/0/131/47026" target="_blank" color="blue">附件(3.6MB)  BBSOpenDemo.7z</a>
+※ 修改:·paper777 于 Apr 29 10:13:30 2015 修改本文·[FROM: 124.127.207.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.253.*]
+ 
+【文章标题】：校外人员api怎么申请呢 【文章地址】：https://bbs.byr.cn/article/BBSOpenAPI/266 【创建时间】：2015-05-15 【作者】：rockics 【评论】：4 【内容】：发信人: rockics (rockics), 信区: BBSOpenAPI
+标  题: 校外人员api怎么申请呢
+发信站: 北邮人论坛 (Fri May 15 17:01:04 2015), 站内
+
+版主  你好  
+
+ 我是北科的毕业生，打算做一个信息的汇总app，打算申请一下北邮人的api权限。
+
+之前使用的是
+https://github.com/xw2423/nForum
+
+据说最近有更新。请问怎么申请相关权限呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.225.213.*]
+ 

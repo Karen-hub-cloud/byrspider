@@ -654,3 +654,94 @@ cannot find package "github.com/astaxie/beego" in any of:
 ※ 修改:·albee 于 Jun 29 09:36:00 2016 修改本文·[FROM: 111.202.212.*]
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 208.36.133.*]
  
+【文章标题】：原百度机器学习大牛本周三来讲座了！ 【文章地址】：https://bbs.byr.cn/article/Golang/1207 【创建时间】：2018-09-17 【作者】：ls448439 【评论】：0 【内容】：发信人: ls448439 (Mcgrady), 信区: Golang
+标  题: 原百度机器学习大牛本周三来讲座了！
+发信站: 北邮人论坛 (Mon Sep 17 14:24:34 2018), 站内
+
+【讲座题目】
+人工智能讲座
+——大规模机器学习与AutoML技术
+ 
+【报告人简介】
+夏粉博士，毕业于中科院自动化所，师从机器学习泰斗王珏老师，15+年机器学习领域的研究和应用经验，机器学习顶级会议杂志JMLR,ICML,NIPS等发表多篇文章。智铀科技公司创始人兼CEO，专注于自动化机器学习平台产品，曾在百度任资深科学家，负责百度超大规模机器学习团队。
+ 
+【时间地点】
+9月19日（周三）19:00-21:00 
+北京邮电大学本部教三楼233
+ 
+【报名方式】
+链接：链接：链接：链接：<a target="_blank" href="http://www.huodongxing.com/event/4457845189700">http://www.huodongxing.com/event/4457845189700</a>
+报名即
+报名即
+报名即可参与抽奖，现场有精美礼品相送，热情欢迎各位同学来听讲座，研究前沿的机器学习技术！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 122.70.145.*]
+ 
+【文章标题】：请教，go技术栈的学习路线应该是什么样的？ 【文章地址】：https://bbs.byr.cn/article/Golang/1433 【创建时间】：2019-05-15 【作者】：mandy4321 【评论】：6 【内容】：发信人: mandy4321 (啦啦啦~), 信区: Golang
+标  题: 请教，go技术栈的学习路线应该是什么样的？
+发信站: 北邮人论坛 (Wed May 15 12:40:57 2019), 站内
+
+目前的工作是C语言开发，最近决定往这个方向转，要开始学习，然后找工作，希望大家帮忙指点大致的方向。
+感谢！
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 117.136.40.*]
+ 
+【文章标题】：【问题】golang中如何实现一个无限长的Queue 【文章地址】：https://bbs.byr.cn/article/Golang/1439 【创建时间】：2019-05-16 【作者】：Zelda 【评论】：22 【内容】：发信人: Zelda (Zelda), 信区: Golang
+标  题: 【问题】golang中如何实现一个无限长的Queue
+发信站: 北邮人论坛 (Thu May 16 11:28:52 2019), 站内
+
+buffered channel的设计简直匪夷所思，什么“内存有限，无限长的队列不符合逻辑”的鬼话。简直是bullshit，逻辑上的queue就可以是无限大的，就像slice和map是“无限大”的一样。举例来说，当你需要多线程bfs的时候，一个无限大的queue就是必须的，因为程序无法预估图的规模。那么问题来了，如何在golang中实现一个无限大的、线程安全的、有Timeout的queue呢？我发现在Golang中实现一个有Timeout的queue特别麻烦，只能用很不优雅的workaround。主要原因在于Golang的sync.Cond竟然不支持类似pthread的pthread_cond_timedwait的方法。现在的workaround是一个双链表+两个channel+两个routine处理输入输出，在外部用select+ticker，才勉强实现了这个功能。在此想请教下有什么优雅的方法实现一个类似Python中queue.Queue的数据结构。
+
+PS. 我真是服了，回复全是给Golang洗地的，说辞全是“需要无限长的Queue就是你程序有问题”，而没有一个回答问题的。
+PPS. 大概实现了一个支持Timeout的Condition variable，但是非常简陋，并不能支持notify_all.
+<pre class="markdown">```Go
+type myCond struct {
+	l  *sync.Mutex
+	ch chan bool
+}
+
+func (c *myCond) waitTimeout(timeout time.Duration) error {
+	c.l.Unlock()
+	defer c.l.Lock()
+	select {
+	case &lt;-time.After(timeout):
+		return fmt.Errorf("wait timeout")
+	case &lt;-c.ch:
+		return nil
+	}
+}
+
+func (c *myCond) wait() {
+	c.l.Unlock()
+	defer c.l.Lock()
+	&lt;-c.ch
+}
+
+func (c *myCond) notify() {
+	select {
+	case c.ch &lt;- true:
+		return
+	default:
+		return
+	}
+}
+```</pre>
+--
+※ 修改:·Zelda 于 May 17 13:14:32 2019 修改本文·[FROM: 61.135.169.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 61.135.169.*]
+ 
+【文章标题】：【问题】请教几个关于智能合约的问题，请大牛指教 【文章地址】：https://bbs.byr.cn/article/Golang/1217 【创建时间】：2018-09-25 【作者】：RG 【评论】：12 【内容】：发信人: RG (复仇的伯恩|毕业了), 信区: Golang
+标  题: 【问题】请教几个关于智能合约的问题，请大牛指教
+发信站: 北邮人论坛 (Tue Sep 25 21:45:20 2018), 站内
+
+1.智能合约中的mapping类型变量是如何存储的？
+
+2.智能合约账户对应的storageRoot Trie的叶子节点是如何由全局变量生成的，变量整体直接keccak hash吗?mapping和array类型的变量如何生成在storageRoot trie中的叶子节点
+
+3.假如某个智能合约中有变量int a =5, string b = 'abc', mapping = [&lt;k1,1&gt;,&lt;k2,1&gt;,&lt;k3,3&gt;]。SPV节点可以通过block header、storageRoot Trie、merkle path等来验证某个变量的值是否正确，如验证int a = 5是否正确。那么，对于mapping中的的某个&lt;k,v&gt;，如何在不获取整个mapping前提下，来验证其否正确
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 219.143.131.*]
+ 

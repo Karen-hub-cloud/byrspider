@@ -4174,3 +4174,728 @@ bupt.sunhao@gmail.com
 ※ 修改:·allen0308 于 Jul 22 10:38:31 2010 修改本文·[FROM: 207.46.92.*]
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 207.46.92.*]
  
+【文章标题】：【实习】【NewsJet】招聘推荐算法、大数据开发 【文章地址】：https://bbs.byr.cn/article/ML_DM/27094 【创建时间】：2017-12-05 【作者】：charmboy 【评论】：0 【内容】：发信人: charmboy (charmboy), 信区: ML_DM
+标  题: 【实习】【NewsJet】招聘推荐算法、大数据开发
+发信站: 北邮人论坛 (Tue Dec  5 20:35:59 2017), 站内
+
+【公司简介】铛铛铛~~靠谱Geek创业团队招聘实习生啦~\(≧▽≦)/~ 我们的产品NewsJet面向日本移动资讯市场，基于数据挖掘和机器学习技术，致力于为用户推荐优质、高效的资讯服务。技术团队成员均是211&amp;985背景，来自百度、腾讯、阿里、美团、搜狗等知名互联网企业，追求极致、高效干练。期待Geek范的同学能加入我们一起做有挑战的事~~
+
+【实习薪资】200-300元/天+免费两餐+免费健身+无限量零食
+
+【工作地点】北京市海淀区西土城致真大厦
+
+【投递邮箱】guqiuyuan@newsjet-inc.com
+
+
+推荐算法实习生
+岗位职责
+1. 业务推荐算法的调研、实现及相关数据的处理
+
+岗位要求 :
+1. 熟悉C /python/java；熟悉数据结构和算法；
+2. 有过机器学习相关算法的学习及应用；
+3. 快速的开发能力，认真细致，注重工作质量；
+4. 至少保证半年以上全职实习时间。
+
+以下是加分项 :
+1. 有hadoop等大数据平台或者分布式计算相关理论基础或者实践经验加分
+2. 有广告系统或者推荐系统实践经验者加分
+3. 对技术有热情，有兴趣，有过acm竞赛背景，或在国际会议上发表过paper。
+
+
+大数据实习生  
+岗位职责
+1. 大数据平台的相关调研与维护；
+2. 业务数据的清洗、梳理、分析及BI系统研发；
+
+岗位要求 :
+1. 熟悉C /python/java；熟悉数据结构和算法；
+2. 熟悉sql，了解hadoop、spark、storm等开源大数据相关系统；
+3. 快速的开发能力，认真细致，注重工作质量；
+4. 至少保证半年以上全职实习时间。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.126.13.*]
+ 
+【文章标题】：【社招】【NewsJet】招聘数据挖掘、推荐算法 【文章地址】：https://bbs.byr.cn/article/ML_DM/27095 【创建时间】：2017-12-05 【作者】：charmboy 【评论】：0 【内容】：发信人: charmboy (charmboy), 信区: ML_DM
+标  题: 【社招】【NewsJet】招聘数据挖掘、推荐算法
+发信站: 北邮人论坛 (Tue Dec  5 20:36:59 2017), 站内
+
+【公司简介】铛铛铛~~靠谱Geek创业团队招人啦n(*≧▽≦*)n产品面向日本移动资讯市场，基于数据挖掘和机器学习技术，致力于为用户推荐优质、高效的资讯服务。目前产品运营状况良好，用户和日活高速上升中。团队成员来自百度、腾讯、阿里、美团、搜狗等知名互联网企业，接受优秀的服务端工程师转算法方向，期待Geek范的你能加入我们一起做有挑战的事~~ 
+  
+【工作地点】北京市海淀区西土城致真大厦 
+  
+【投递邮箱】guqiuyuan@newsjet-inc.com； 
+  
+数据挖掘  20-40K 
+工作职责： 
+1.负责不同国家海量数据的抓取，抽取、消重、分类、聚类、过滤等架构的设计； 
+2.负责采用 NLP/Machine Learning 等技术构建高可用数据模型。 
+岗位要求： 
+1.重点统招本科及以上学历（ 211&amp;985 ）； 
+2.有扎实的计算机基础，熟悉常用数据结构、算法、设计模式； 
+3.至少熟练掌握 Python/Java/C++ 其中一种语言，良好的编码风格，强悍的编码能力，有代码洁癖者加分； 
+4.熟悉爬虫 /搜索系统，有过海量数据爬虫 /搜索系统设计经验者加分； 
+5.熟悉基本的 NLP 概念和算法，有过分类 /聚类等机器学习经验者加分； 
+6.可以接受高强度工作。 
+【投递邮箱】guqiuyuan@newsjet-inc.com; 
+  
+大数据开发 
+工作职责： 
+1.参与公司数据仓库架构设计与研发，建设的公共数据平台和服务系统，实现高质量数据的互通与共享； 
+2. 参与公司数据产品与应用的数据研发，发觉数据商业价值； 
+3. 结合实际业务问题，运用数据挖掘、机器学习领域的前沿技术，给出解决方案。 
+职位要求： 
+1. 精通 Linux/Unix 平台上的 C/C++/Java/Python 编程，对数据结构和算法有较为深刻的理解； 
+2. 有大型在线应用系统的开发经验，熟悉 Web 开发相关技术； 
+3. 熟悉分布式计算相关技术，有大数据处理经验； 
+4. 具备优秀的逻辑思维能力，对解决挑战性问题充满热情，善于解决问题和分析问题，具有良好的沟通能力和团队合作精神。 
+有下列经验之一者优先： 
+-有海量数据的处理经验，熟练使用 Hadoop、Hive、Spark 等分布式计算工具； 
+-有机器学习 /数据挖掘理论和技术基础； 
+-有高性能、高并发、高可用性、高扩展性系统架构设计经验。   
+  
+【投递邮箱】guqiuyuan@newsjet-inc.com; 
+  
+  
+  
+推荐算法 
+【职位描述】 
+岗位职责： 
+1. 负责分布式推荐系统引擎的架构设计和优化； 
+2. 结合业务需求，参与用户画像建模和挖掘，搭建推荐系统并持续提升个性化推荐的效果； 
+3. 构建大规模用户特征在线存储服务； 
+    
+【岗位要求】 
+1. 重点本科或本科以上学历，计算机、数学相关专业，有2年以上的相关经验； 
+2. 精通Linux环境下的代码开发，熟练使用调试工具，有推荐系统或搜索排序研发经验； 
+3. 具备良好的编程能力和代码风格，熟练掌握一门强类型语言，并至少掌握一门脚本语言。 
+4. 对常用的推荐算法有较深入了解，有实际算法调优经验。 
+5. 扎实的计算机基础（数据结构、算法、数据库等），熟悉linux开发环境，熟悉java语言； 
+6. 有丰富的数据挖掘、机器学习（svm、神经网络、随机森林等）、分布式计算（eg. mapreduce、spark, kafka等）的实际工作经验，参与过诸如广告点击率预估、个性化推荐模型、搜索排序等项目或在国际期刊发表过机器学习相关论文者优先； 
+7. 良好的团队合作和沟通能力。 
+  
+【投递邮箱】guqiuyuan@newsjet-inc.com; 
+  
+  
+---- 
+NewsJet是为用户精心打造的一款拥有7x24小时全方位新闻报道的新闻产品，为用户提供高效、优质的资讯服务。 
+【个性化推荐】根据用户的兴趣推荐内容，并且通过分析和学习用户在应用内的所有动作，使得推荐更加精准。 
+【热点即时搜】首页搜索功能，一键找到所有相关内容，不再担心错过时事热点。 
+【新闻阅读】每天更新海量资讯内容，包含国内外时事，体育赛事报道，金融财经动向…总有一个是你感兴趣的。 
+【天气预报】7*24小时精准天气预报，覆盖日本绝大多数城市和地区。 
+【评论互动】在每篇新闻资讯下与万千网友一起热辣点评。 
+  
+厳選した媒体より確かな情報を集め、注目ニュースをピックアップ！NewsJetではトップ、エンタメ、スポーツ、国内、政治、経済、国際など、幅広いジャンルのニュースが無料で読める！ 
+読みやすさを追求したシンプルな画面表示と充実なコンテンツでニュースをまとめ読みできる、今オススメのアプリ！ 
+      
+アプリの詳細 
+１.自分だけのニュースアプリを！ 
+おすすめでは、いつもあなたの好みに合わせて、思わず見たくなるような記事をお届け。 
+  
+２. トップニュースは常にリアルタイムで！ 
+今話題のニュースを一目でチェックできる！ 100万点以上の記事をNewsJetが独自の技術でリアルタイム解析。毎日流し読みするだけで話題のニュースをバッチリ確認できる。 
+  
+３.多彩なジャンルの中からニュースが無料で読み放題！ 
+政治·経済から、エンタメやスポーツまで…幅広いジャンルにわたり、日々刻々と変化する最新情報をお届け！今後どんどん増えていくチャンネルも楽しみ！ 
+  
+４. 重要なニュースは通知機能で 
+重要なニュースをプッシュ通知でいち早くお知らせ。 
+  
+５. 精度の高い天気予報 
+便利な天気チャンネルで、全国どこにいても天気を一瞬でチェックできる。降水確率や気温など気になる情報も満載。 
+*お住まいの地域を設定すると、現在地の天気予報を閲覧できます。 
+  
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.126.13.*]
+ 
+【文章标题】：【问题】特征选择的时候一定要去除相关性高的特征吗？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/27043 【创建时间】：2017-12-01 【作者】：YXwithU 【评论】：4 【内容】：发信人: YXwithU (YXwithU), 信区: ML_DM
+标  题: 【问题】特征选择的时候一定要去除相关性高的特征吗？
+发信站: 北邮人论坛 (Fri Dec  1 16:23:34 2017), 站内
+
+看到kaggle上好几个kernel都在特征选择这一步的时候构造了特征相关热点图，然后剔除掉相关性过高的特征然后再丢入模型中，原因是特征冗余是会对模型的训练造成干扰。
+但是如果在构造时间窗特征的时候，这样得到的特征相关性通常会比较高，比如某id的出现次数，窗口为1,3,7,15...，这几个统计量可能相差不大，这种情况下如何处理比较好呢，加大窗口直到相关性比较低吗？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.36.*]
+ 
+【文章标题】：组团去百度深度学习论坛 【文章地址】：https://bbs.byr.cn/article/ML_DM/27074 【创建时间】：2017-12-04 【作者】：upshenup 【评论】：18 【内容】：发信人: upshenup (HAHA), 信区: ML_DM
+标  题: 组团去百度深度学习论坛
+发信站: 北邮人论坛 (Mon Dec  4 23:37:17 2017), 站内
+
+百度AI 开发者实战营北京站将于12月7日北京泰富酒店开营分享，现在限额免费报名中，现场体验人脸识别签到，百度80+项 AI 核心技术现场分享。报名请点击：<a target="_blank" href="http://dwz.cn/6Y0QlR">http://dwz.cn/6Y0QlR</a>
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 223.104.3.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/jaegerstar"><img src="https://bbs.byr.cn/uploadFace/J/jaegerstar.2410.jpg"></a><a href="/user/query/jaegerstar"><strong style="color:red;">jaegerstar</strong></a>这些活动参加多了真感觉一点用都没，不如踏实看几篇论文码多几行代码<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/27074?s=27076">第2楼</a></li><li><a href="/article/ML_DM/ajax_voteup/27076.json" class="a-func-like" id="like_list27076"><samp class="ico-pos-zaninactive" id="icon_like_list27076"></samp>赞(25)</a></li><li><a href="/article/ML_DM/ajax_votedown/27076.json" id="listCai27076" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai27076"></samp>踩(1)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/27076" class="a-post">回复</a></li></ul><a class="a-nice-comment-face" href="/user/query/Viredery"><img src="https://bbs.byr.cn/uploadFace/V/Viredery.7524.jpg"></a><a href="/user/query/Viredery">Viredery</a>不想打击楼主，但二楼正解<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/27074?s=27078">第4楼</a></li><li><a href="/article/ML_DM/ajax_voteup/27078.json" class="a-func-like" id="like_list27078"><samp class="ico-pos-zaninactive" id="icon_like_list27078"></samp>赞(5)</a></li><li><a href="/article/ML_DM/ajax_votedown/27078.json" id="listCai27078" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai27078"></samp>踩(1)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/27078" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">不求最好，但求最贵！ 8/10</a></li></ul><a class="a-nice-comment-face" href="/user/query/qq1176694448"><img src="https://bbs.byr.cn/uploadFace/Q/qq1176694448.1293.jpg"></a><a href="/user/query/qq1176694448">qq1176694448</a>同意，多看看开源项目和paper
+比凑热闹有意义
+【 在 jaegerstar 的大作中提到: 】
+: 这些活动参加多了真感觉一点用都没，不如踏实看几篇论文码多几行代码<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/27074?s=27079">第5楼</a></li><li><a href="/article/ML_DM/ajax_voteup/27079.json" class="a-func-like" id="like_list27079"><samp class="ico-pos-zaninactive" id="icon_like_list27079"></samp>赞(7)</a></li><li><a href="/article/ML_DM/ajax_votedown/27079.json" id="listCai27079" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai27079"></samp>踩(1)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/27079" class="a-post">回复</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：【求大佬帮忙】人脸检测论文方向求问深度学习部分 【文章地址】：https://bbs.byr.cn/article/ML_DM/27069 【创建时间】：2017-12-04 【作者】：yanyaya 【评论】：1 【内容】：发信人: yanyaya (呀呀呀), 信区: ML_DM
+标  题: 【求大佬帮忙】人脸检测论文方向求问深度学习部分
+发信站: 北邮人论坛 (Mon Dec  4 21:03:56 2017), 站内
+
+我的论文是人脸检测方向，现在想写一部分深度学习的内容，但是不是特别懂这一部分，求有咩有大佬也是这个方向的帮忙解答一下。<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.104.7.*]
+ 
+【文章标题】：求html解析问题 【文章地址】：https://bbs.byr.cn/article/ML_DM/26900 【创建时间】：2017-11-19 【作者】：pingguokaile 【评论】：0 【内容】：发信人: pingguokaile (苹果VS凯乐), 信区: ML_DM
+标  题: 求html解析问题
+发信站: 北邮人论坛 (Sun Nov 19 00:00:06 2017), 站内
+
+求大神，.html文件解析的c++代码。文件是utf-8码。
+读取.html能否用fopen读取到带有&lt;html&gt;标签的内容。因为我现在读取文件总是失败！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 223.104.3.*]
+ 
+【文章标题】：[实习]sensetime实习 【文章地址】：https://bbs.byr.cn/article/ML_DM/25334 【创建时间】：2017-08-15 【作者】：cloudfly 【评论】：11 【内容】：发信人: cloudfly (【意涵团】learning_machine_learning), 信区: ML_DM
+标  题: [实习]sensetime实习
+发信站: 北邮人论坛 (Tue Aug 15 17:58:15 2017), 站内
+
+欢迎各位小伙伴来商汤实习，这里有很多牛人，也由充分的计算资源供研究使用（GPU多的令人发指），成长速度很快。如果想出国或者是想发论文，来这准没错，今年sensetime中了十多篇CVPR。感兴趣的话简历发到cloud9166@gmail.com
+
+基本条件：
+1.有计算机视觉或机器学习研究背景，数学功底扎实，最好有CV方向的research经验
+2.良好的计算机基础，熟悉C/C++和Python，有很强的算法实现能力  
+3.有顶会论文的最好
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.114.144.*]
+ 
+【文章标题】：想问问学校里Linguistic Data Consortium(LDC)的管理员是谁 【文章地址】：https://bbs.byr.cn/article/ML_DM/26895 【创建时间】：2017-11-17 【作者】：jaegerstar 【评论】：1 【内容】：发信人: jaegerstar (jaegerstar), 信区: ML_DM
+标  题: 想问问学校里Linguistic Data Consortium(LDC)的管理员是谁
+发信站: 北邮人论坛 (Fri Nov 17 14:00:42 2017), 站内
+
+毕业设计需要下载里面的数据（2009 NIST language recognition），跪求知道线索的人帮忙提供一下！！！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.103.240.*]
+ 
+【文章标题】：Re: 【实习】【社招】滴滴出行AI Lab高级算法工程师、研究员 【文章地址】：https://bbs.byr.cn/article/ML_DM/26881 【创建时间】：2017-11-20 【作者】：原帖已删除 【评论】：0 【内容】：发信人: xiaowen (小温), 信区: ML_DM
+标  题: Re: 【实习】【社招】滴滴出行AI Lab高级算法工程师、研究员
+发信站: 北邮人论坛 (Mon Nov 20 10:49:11 2017), 站内
+
+请问一下，滴滴的AI Lab 是不是就是研究院呢？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 210.77.30.*]
+ 
+【文章标题】：沙龙|自然语言处理——基于Rasa_NLU的微信chatbot搭建 【文章地址】：https://bbs.byr.cn/article/ML_DM/26842 【创建时间】：2017-11-15 【作者】：buptIEEE 【评论】：41 【内容】：发信人: buptIEEE (IEEE北邮分会), 信区: ML_DM
+标  题: 沙龙|自然语言处理——基于Rasa_NLU的微信chatbot搭建
+发信站: 北邮人论坛 (Wed Nov 15 22:20:29 2017), 站内
+
+<b>学术沙龙——一起搭chatbot手动“脱单”——基于Rasa_NLU的微信chatbot</b>
+
+<b>活动概述：</b>
+本次学术沙龙的主要内容为运用<b>机器学习和自然语言处理</b>知识以及<b>Python编程</b>语言实现微信chatbot聊天机器人的搭建。大牛学姐将现场为我们讲解实现原理，并带领我们动手搭建聊天机器人demo。强烈建议有<b>NLP开发经验或者学习热情</b>的你前来参加哦~
+
+<b>时间：2017.11.18（周六）15:00
+地点：教一  一楼学术办会议室</b>
+
+<a target="_blank" href="/att/ML_DM/0/26842/1980"><img border="0" title="QQ图片20171115220856.jpg" src="/att/ML_DM/0/26842/1980" alt="QQ图片20171115220856.jpg" class="resizeable"></a>
+                                 （学姐的自画像哦~卡哇伊~）
+<b>本次沙龙大概持续两个小时，学姐将为我们展示以下精彩内容 ：</b>                 
+10min：现场邀请观众测试chatbot
+10min：chatbot研究背景及流程介绍
+10min：介绍如何使用wxpy实现简单地微信收发信息
+30 min：NLU讲解及Rasa_NLU原理、配置演示
+20 min：Rasa_Core原理、配置演示
+10min：编程demo演示
+<b>报名方式：</b>
+
+<a target="_blank" href="/att/ML_DM/0/26842/185829"><img border="0" title="QQ图片20171115221143.jpg" src="/att/ML_DM/0/26842/185829" alt="QQ图片20171115221143.jpg" class="resizeable"></a>
+<b>扫描上方的二维码进群，进群后请大家按照下面的格式修改自己的备注：“学院-年级-姓名”。</b>
+<b>注意事项：</b>
+<b>1、 请参与人员不要迟到，沙龙将准时开始，参与人员将手机调至静音
+2、 参与人员需有一定的编程能力或者编程热情
+3、 参与人员需自行携带电脑
+4、 有条件的参与人员可以提前准备疑惑，沙龙将有自由讨论环节</b>
+
+<b>小彩蛋——学姐最近正在研究 Deep Mind 的AI挑战星际争霸项目，想要与大家分享一些激动人心的最新进展哦~</b>
+更多关于本次沙龙的内容请戳学姐的博客：<b>http://rowl1ng.com/2017/11/05/chatbot.html</b>
+
+欢迎关注北邮IEEE学生分会公众号，我们会在沙龙开始之前再次提醒你哦~
+
+
+<a target="_blank" href="/att/ML_DM/0/26842/440839"><img border="0" title="640.jpg" src="/att/ML_DM/0/26842/440839" alt="640.jpg" class="resizeable"></a>
+--
+※ 修改:·buptIEEE 于 Nov 16 12:27:48 2017 修改本文·[FROM: 10.202.7.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.202.7.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/guobingice"><img src="https://bbs.byr.cn/uploadFace/G/guobingice.7682.jpg"></a><a href="/user/query/guobingice"><strong style="color:red;">guobingice</strong></a>鉴于1群已满，建了一个临时群
+
+<a target="_blank" href="/att/ML_DM/0/26882/379"><img border="0" title="" src="/att/ML_DM/0/26882/379" alt="" class="resizeable"></a><ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/26842?s=26882">第31楼</a></li><li><a href="/article/ML_DM/ajax_voteup/26882.json" class="a-func-like" id="like_list26882"><samp class="ico-pos-zaninactive" id="icon_like_list26882"></samp>赞(2)</a></li><li><a href="/article/ML_DM/ajax_votedown/26882.json" id="listCai26882" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai26882"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/26882" class="a-post">回复</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：有大佬知道xgboost收敛性分析的吗？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/27067 【创建时间】：2017-12-04 【作者】：didi123 【评论】：1 【内容】：发信人: didi123 (bupt60), 信区: ML_DM
+标  题: 有大佬知道xgboost收敛性分析的吗？
+发信站: 北邮人论坛 (Mon Dec  4 18:29:10 2017), 站内
+
+求甩论文或者网页都行
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 202.118.20.*]
+ 
+【文章标题】：有做视频分类和推荐的么？求交流 【文章地址】：https://bbs.byr.cn/article/ML_DM/24847 【创建时间】：2017-07-11 【作者】：helenye 【评论】：8 【内容】：发信人: helenye (helenye), 信区: ML_DM
+标  题: 有做视频分类和推荐的么？求交流
+发信站: 北邮人论坛 (Tue Jul 11 23:57:08 2017), 站内
+
+课题刚起步，一个方案是对视频进行主题分类，根据用户喜欢看的视频属于哪些主题，推荐给用户。另一个方案是基于用户之间相同爱好，兴趣，来对用户做聚类，把彼此之间看过的视频，推荐给相同类的用户。
+
+不知道哪个方案更好些
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.242.248.*]
+ 
+【文章标题】：北邮师兄做的机器学习公众号 【文章地址】：https://bbs.byr.cn/article/ML_DM/26679 【创建时间】：2017-11-02 【作者】：llbbss 【评论】：0 【内容】：发信人: llbbss (gpoint/蓟门边创始人), 信区: ML_DM
+标  题: 北邮师兄做的机器学习公众号
+发信站: 北邮人论坛 (Thu Nov  2 21:46:43 2017), 站内
+
+今天，我要给大家推荐一下自己的微信公众号“凡人机器学习”
+里面有很多靠谱的文章和资料，都是结合工作经验写的，推荐给大家~
+有人说，计算机已经被淘汰了；有人说，我们的所学根本没用。
+如果你相信，那你可就太天真了。这是一个高速发展的社会，也是一个需要人才的社会。如果，你想要成功，拥有一项过人的本领是必不可少的。
+总有人问学了机器学习的人是不是特别厉害？什么都可以解决？
+我想说，当然是真的啦，如果你能懂点机器学习，还有什么搞不定？你将会走上人生巅峰，迎娶白富美，事业不断晋升，爱情路顺顺利利，就连生活都会洋溢着幸福，每时每刻秀着幸福。
+
+咳咳咳，好吧，其实也没有那么夸张啦。但是懂点机器学习，你会收获很多这是真的。同样的问题，你会比别人有着更深的洞察力。打开网页，铺天盖地的人工智能的消息，你会分辨出什么是真什么是假？可以追赶得上时代的步伐，告诉身边的人什么是机器学习？
+最大的好处就是可以在妹子面前扮演高智商IT男，smart is the new sexy！还不赶紧行动起来！
+
+那怎么才能懂点机器学习？
+
+我们有喜欢学习的小编，用自己的经历总结出来学习的经验，帮你扫清学习的障碍
+http://mp.weixin.qq.com/s/xeB0b-jQ8BJNKtt-JGbs2A
+http://mp.weixin.qq.com/s/fzGRvpOhKaGYxwNCVAYX9g
+http://mp.weixin.qq.com/s/9Umw6Z3-85cADSt2UdgbMg
+
+我们有热爱总结的小编，用通俗易懂的语言帮你梳理知识要点，不用啃大块头的专业书
+http://mp.weixin.qq.com/s/6J6275NfCZNOkhhdAbzu6w
+http://mp.weixin.qq.com/s/pc5knqp-vVwVDxcrRgjcJw
+http://mp.weixin.qq.com/s/rXU1Z_MY0ESMHEsAXWkZLg
+
+我们也有资深的算法达人，教你怎么将知识转化为实践，让算法学习不再是纸上谈兵
+http://mp.weixin.qq.com/s/m8lzUznZoAKbObeq_utc6Q
+http://mp.weixin.qq.com/s/ELJQ8C5gbZyuHzsbp_VIGQ
+
+我们关注着机器学习的最新发展，时刻向你们传达着最新的动态，让你们足不出户就可知天下事
+http://mp.weixin.qq.com/s/ZcdGeFYS-a_PwVcITAhugw
+http://mp.weixin.qq.com/s/aBebLqQHZWVqqb5abRG90Q
+
+如果你有什么疑问，欢迎来我们的公众号找我们玩，我们会和你们一起交流，共同进步
+
+<a target="_blank" href="/att/ML_DM/0/26679/2078"><img border="0" title="" src="/att/ML_DM/0/26679/2078" alt="" class="resizeable"></a>
+--
+※ 修改:·llbbss 于 Nov  2 21:47:20 2017 修改本文·[FROM: 111.199.188.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.199.188.*]
+ 
+【文章标题】：xgboost的参数大家都是怎么搜索出来的？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/26662 【创建时间】：2017-11-01 【作者】：XZC 【评论】：3 【内容】：发信人: XZC (力量), 信区: ML_DM
+标  题: xgboost的参数大家都是怎么搜索出来的？
+发信站: 北邮人论坛 (Wed Nov  1 22:02:32 2017), 站内
+
+我见kaggle上用xgboost做比赛的时候，好多人参数都早早定了，剩下都是在搞特征工程，不知道怎么定的。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 223.255.127.*]
+ 
+【文章标题】：第一次参加天池比赛（飞行航线），解决这类比赛的处理流程是什 【文章地址】：https://bbs.byr.cn/article/ML_DM/26661 【创建时间】：2017-11-01 【作者】：Kaido 【评论】：3 【内容】：发信人: Kaido (Kaido), 信区: ML_DM
+标  题: 第一次参加天池比赛（飞行航线），解决这类比赛的处理流程是什么
+发信站: 北邮人论坛 (Wed Nov  1 20:05:14 2017), 站内
+
+原来只看过李航老师的《统计学习方法》，看过cousera上Ng的课。实验室做的项目是脑图像分割，也没有涉及到这类大数据，数据挖掘问题。学的都是理论知识。第一次参加比赛，我应该怎么做呢？要参考什么比较好？
+是不是要用到sql
+目的目前不是名次，而是先解决问题。求各位帮帮忙
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 223.104.175.*]
+ 
+【文章标题】：中科院自动化所师兄做的人工智能在线教育的公众号 【文章地址】：https://bbs.byr.cn/article/ML_DM/26705 【创建时间】：2017-11-05 【作者】：mathorcup 【评论】：0 【内容】：发信人: mathorcup (mathorcup), 信区: ML_DM
+标  题: 中科院自动化所师兄做的人工智能在线教育的公众号
+发信站: 北邮人论坛 (Sun Nov  5 21:12:56 2017), 站内
+
+深蓝学院是中科院自动化所博士毕业师兄创建的在线教育平台，其公众号每周推送一篇人工智能、机器学习、深度学习相关入门级文章，值得关注！至今推送三篇：
+《深度学习时代的计算机视觉》
+《一篇文章讲清楚人工智能、机器学习和深度学习的区别与联系》
+《图解十大机器学习算法》
+
+<a target="_blank" href="/att/ML_DM/0/26705/515"><img border="0" title="" src="/att/ML_DM/0/26705/515" alt="" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 124.202.184.*]
+
+ 
+【文章标题】：求助：与城市公交地铁相关的数据 【文章地址】：https://bbs.byr.cn/article/ML_DM/26345 【创建时间】：2017-10-17 【作者】：track06 【评论】：0 【内容】：发信人: track06 (track06), 信区: ML_DM
+标  题: 求助：与城市公交地铁相关的数据
+发信站: 北邮人论坛 (Tue Oct 17 14:51:50 2017), 站内
+
+自己做的一个项目需要城市公交或地铁相关数据，比如某一路公交的运行时间、乘客人数、刷卡人数之类的服务类信息，做一个数据分析预测的项目。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.66.*]
+ 
+【文章标题】：征队友 【文章地址】：https://bbs.byr.cn/article/ML_DM/26461 【创建时间】：2017-10-21 【作者】：xiaoxiaohei 【评论】：12 【内容】：发信人: xiaoxiaohei (小兔兔不爱吃酱油醋), 信区: ML_DM
+标  题: 征队友
+发信站: 北邮人论坛 (Sat Oct 21 22:14:51 2017), 站内
+
+做比赛，天池
+希望有比赛经验，懂些理论即可，我也是差不多这个水平
+有意私信<img src="/img/ubb/emc/3.gif" alt="emc3" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 36.102.208.*]
+ 
+【文章标题】：有没有做人脸识别的，新手一起做呀 【文章地址】：https://bbs.byr.cn/article/ML_DM/26798 【创建时间】：2017-11-13 【作者】：wenkang529 【评论】：12 【内容】：发信人: wenkang529 (wenkang), 信区: ML_DM
+标  题: 有没有做人脸识别的，新手一起做呀
+发信站: 北邮人论坛 (Mon Nov 13 16:14:37 2017), 站内
+
+python + tensorflow 
+目前想到的方案是 mtcnn做检测，opencv对齐，facenet提取特征，机器学习|深度学习做分类。我也刚开始学，新手一枚，感兴趣的一起做呀实。
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 117.136.0.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/notahacker2"><img src="https://bbs.byr.cn/img/face_default_m.jpg"></a><a href="/user/query/notahacker2"><strong style="color:red;">notahacker2</strong></a>前几个月，基本是按照LZ的思路做过一个系列项目，准确只有95%，楼主有兴趣可以看看能不能改进撒~
+
+https://github.com/bupticybee/icyface_offline
+
+https://github.com/bupticybee/icyface_website
+
+https://github.com/bupticybee/icyface_api<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/26798?s=26873">第9楼</a></li><li><a href="/article/ML_DM/ajax_voteup/26873.json" class="a-func-like" id="like_list26873"><samp class="ico-pos-zaninactive" id="icon_like_list26873"></samp>赞(2)</a></li><li><a href="/article/ML_DM/ajax_votedown/26873.json" id="listCai26873" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai26873"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/26873" class="a-post">回复</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：求助caffe框架最基础人脸识别项目 【文章地址】：https://bbs.byr.cn/article/ML_DM/23014 【创建时间】：2017-03-13 【作者】：bumble 【评论】：2 【内容】：发信人: bumble (bumble), 信区: ML_DM
+标  题: 求助caffe框架最基础人脸识别项目
+发信站: 北邮人论坛 (Mon Mar 13 11:51:02 2017), 站内
+
+小白自学caffe框架，看过一部分视频，然而上手之后一脸懵逼，有没有大神能帮助啊，请吃饭的~或者有偿也行<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none"><img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">只想做一个最简单的项目，要求不高……
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮2.0』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.113.223.*]
+ 
+【文章标题】：【问题】python画q-q图，还请不吝赐教 【文章地址】：https://bbs.byr.cn/article/ML_DM/26348 【创建时间】：2017-10-17 【作者】：xwxw 【评论】：0 【内容】：发信人: xwxw (小于狙击手), 信区: ML_DM
+标  题: 【问题】python画q-q图，还请不吝赐教
+发信站: 北邮人论坛 (Tue Oct 17 20:36:57 2017), 站内
+
+如何画分位数-分位数图？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.107.19.*]
+ 
+【文章标题】：有大佬用过freebase data dump吗 【文章地址】：https://bbs.byr.cn/article/ML_DM/26349 【创建时间】：2017-10-17 【作者】：pafy 【评论】：0 【内容】：发信人: pafy (pafy), 信区: ML_DM
+标  题: 有大佬用过freebase data dump吗
+发信站: 北邮人论坛 (Tue Oct 17 21:33:14 2017), 站内
+
+或者用过别的知识图谱替代品吗。
+
+求大佬指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.125.*]
+ 
+【文章标题】：求问，神经网络激活函数使用sigmoid函数，反向传播时候的导数怎 【文章地址】：https://bbs.byr.cn/article/ML_DM/26350 【创建时间】：2017-10-17 【作者】：wqw1234 【评论】：7 【内容】：发信人: wqw1234 (你突然释怀地笑), 信区: ML_DM
+标  题: 求问，神经网络激活函数使用sigmoid函数，反向传播时候的导数怎
+发信站: 北邮人论坛 (Tue Oct 17 22:30:50 2017), 站内
+
+def nonlin(x,deriv=False):
+    if(deriv==True):
+        return x*(1-x)
+ 
+    return 1/(1+np.exp(-x))
+
+求问为何 是x*(1-x)
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.106.*]
+ 
+【文章标题】：【问题】数据集处理 【文章地址】：https://bbs.byr.cn/article/ML_DM/26329 【创建时间】：2017-10-15 【作者】：Tonny123 【评论】：1 【内容】：发信人: Tonny123 (Tonny), 信区: ML_DM
+标  题: 【问题】数据集处理
+发信站: 北邮人论坛 (Sun Oct 15 16:24:26 2017), 站内
+
+服务器上的数据集都是压缩包形式的数据，而且杂乱无章，如何进行数据抽取，获取每条源数据中所需的数据。需要通过Python编写命令行操作，还是需要下载下来，可视化操作。<img src="/img/ubb/emc/14.gif" alt="emc14" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.252.20.*]
+ 
+【文章标题】：有研究question answering方向的道友吗 【文章地址】：https://bbs.byr.cn/article/ML_DM/26325 【创建时间】：2017-10-14 【作者】：pafy 【评论】：2 【内容】：发信人: pafy (pafy), 信区: ML_DM
+标  题: 有研究question answering方向的道友吗
+发信站: 北邮人论坛 (Sat Oct 14 20:41:27 2017), 站内
+
+博一，现在在看question answering with knowledge base方向的文章
+
+看得有点无力，有方向相近的同僚吗，nlp的就行啊，加个微信讨论一番<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+
+
+--
+※ 修改:·pafy 于 Oct 14 20:41:58 2017 修改本文·[FROM: 10.108.125.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.125.*]
+ 
+【文章标题】：中科院自动化所一线青年学者，主讲《计算机视觉系列课程》 【文章地址】：https://bbs.byr.cn/article/ML_DM/25850 【创建时间】：2017-09-20 【作者】：mathorcup 【评论】：3 【内容】：发信人: mathorcup (mathorcup), 信区: ML_DM
+标  题: 中科院自动化所一线青年学者，主讲《计算机视觉系列课程》
+发信站: 北邮人论坛 (Wed Sep 20 16:42:47 2017), 站内
+
+计算机视觉是一门研究如何使机器“看”的科学，具体地说，是指用摄影机和计算机代替人眼和人脑对目标进行分割、检测、跟踪、识别和建模的过程。在实际应用中，计算机视觉处理的结果往往是人工智能和大数据的源泉。本次课程，从计算机视觉的基础图像处理出发，逐步学习计算机视觉的核心——图像视频理解以及三维建模。
+系列课程内容
+涵盖：图像处理、图像复原、目标检测、目标跟踪、目标识别、特征检测、三维运动姿态估计、图像拼接、三维重建等。
+讲师团队
+汪老师：副研究员，中国科学院自动化研究所毕业博士
+主持国家基金2项目，分别是目标跟踪和行为识别方向，以第一作者在图像分割、运动目标检测与跟踪，以及目标识别方面发表论文20余篇。
+隋老师：中科院一线科研学者，中科院自动化所模式识别与智能系统博士
+主要研究方向是三维计算机视觉与计算机图形学，研究课题是基于图像的三维建筑模型重建。曾在计算机图形学领域顶级国际期刊IEEE T-VCG发表文章，同时，基于博士期间的研究成果，研发若干三维重建相关系统，并申请专利。
+报名课程
+联系深蓝学院博士助教微信（shenlan-college）。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 121.69.81.*]
+ 
+【文章标题】：[建议][讨论][灌水]大家都来自我介绍吧 【文章地址】：https://bbs.byr.cn/article/ML_DM/217 【创建时间】：2007-11-16 【作者】：river 【评论】：79 【内容】：发信人: river (river), 信区: PR_AI
+标  题: [建议][讨论][灌水]大家都来自我介绍吧
+发信站: 北邮人论坛 (Fri Nov 16 20:08:53 2007), 站内
+
+建议常来这个版的灌水潜水的讨论的发帖的都来自我介绍吧
+
+我先：
+
+ID: river
+年级：研二
+实验室：人工智能
+导师：Prof. Zhong
+研究领域：ML, IR
+最近感兴趣的方向：metric learning, manifold learning, dimensionality reduction, users' behavior with implicit feedback, learning to rank
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://forum.byr.edu.cn">http://forum.byr.edu.cn</a>·[FROM: 59.64.139.*]
+ 
+【文章标题】：Re: 【链家网】计算机视觉算法工程师/架构师 - VR实验室 【文章地址】：https://bbs.byr.cn/article/ML_DM/26091 【创建时间】：2017-09-29 【作者】：原帖已删除 【评论】：0 【内容】：发信人: kingsleynj (kingsley), 信区: ML_DM
+标  题: Re: 【链家网】计算机视觉算法工程师/架构师 - VR实验室
+发信站: 北邮人论坛 (Fri Sep 29 07:06:27 2017), 站内
+
+顶！很赞
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 114.249.222.*]
+ 
+【文章标题】：有没有看《机器学习实战》这本书的，感觉纰漏是不是有点儿多啊 【文章地址】：https://bbs.byr.cn/article/ML_DM/25981 【创建时间】：2017-09-26 【作者】：xy191651196 【评论】：15 【内容】：发信人: xy191651196 (new byr), 信区: ML_DM
+标  题: 有没有看《机器学习实战》这本书的，感觉纰漏是不是有点儿多啊…
+发信站: 北邮人论坛 (Tue Sep 26 12:47:46 2017), 站内
+
+
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 117.136.38.*]
+ 
+【文章标题】：请问各位大佬，如何看做算法还是做开发？ 【文章地址】：https://bbs.byr.cn/article/ML_DM/25957 【创建时间】：2017-09-24 【作者】：ztinpn 【评论】：4 【内容】：发信人: ztinpn (ztinpn), 信区: ML_DM
+标  题: 请问各位大佬，如何看做算法还是做开发？
+发信站: 北邮人论坛 (Sun Sep 24 19:45:40 2017), 站内
+
+请问各位大佬，如何看做算法还是做开发？哪个方向的发展前景比较好呢？
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 123.121.216.*]
+ 
+【文章标题】：【征人】有没有同学感兴趣做儿童运动行为分类和识别 【文章地址】：https://bbs.byr.cn/article/ML_DM/26179 【创建时间】：2017-10-03 【作者】：datouniao 【评论】：0 【内容】：发信人: datouniao (datouniao), 信区: ML_DM
+标  题: 【征人】有没有同学感兴趣做儿童运动行为分类和识别
+发信站: 北邮人论坛 (Tue Oct  3 22:17:11 2017), 站内
+
+正在帮助一家国内的知名公共卫生研究所采集儿童运动行为数据，现在，希望基于这些数据对儿童行为进行分类。
+不知道有没有同学愿意参与？
+优势：大量的数据、知名的公共卫生研究专家、100%发表SCI论文的机率、有偿
+挑战：需要对机器学习、数据挖掘很熟悉（因为合作方没有这方面的人才）
+如果感兴趣，请和我联系。leonliang@qq.com, datoubird(wechat)
+
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.118.3.*]
+ 
+【文章标题】：knn优化方法 【文章地址】：https://bbs.byr.cn/article/ML_DM/25330 【创建时间】：2017-08-15 【作者】：xiaoxiaolyf 【评论】：3 【内容】：发信人: xiaoxiaolyf (【意涵团】求offer), 信区: ML_DM
+标  题: knn优化方法
+发信站: 北邮人论坛 (Tue Aug 15 12:50:24 2017), 站内
+
+请教大家一下knn有什么优化的算法，注意是knn，不是kmeans。谢谢啦
+
+<a target="_blank" href="http://iwoyou.duapp.com">通过『我邮2.0』发布</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.242.249.*]
+ 
+【文章标题】：ai challenger比赛，股票预测，提交数据格式错误 【文章地址】：https://bbs.byr.cn/article/ML_DM/25663 【创建时间】：2017-09-08 【作者】：melot 【评论】：12 【内容】：发信人: melot (我 能 反 杀), 信区: ML_DM
+标  题: ai challenger比赛，股票预测，提交数据格式错误
+发信站: 北邮人论坛 (Fri Sep  8 10:05:15 2017), 站内
+
+按提交要求，提交的是一个csv文件，内容也是按示例上写的，但每次提交都显示格式错误
+请问做这个比赛的同学，有没有遇到过这个问题
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 159.226.43.*]
+ 
+【文章标题】：广告投放算法问题 【文章地址】：https://bbs.byr.cn/article/ML_DM/25686 【创建时间】：2017-09-10 【作者】：willbupt 【评论】：5 【内容】：发信人: willbupt (【意涵团】execution), 信区: ML_DM
+标  题: 广告投放算法问题
+发信站: 北邮人论坛 (Sun Sep 10 10:43:30 2017), 站内
+
+有做广告的吗？求一道问题：广告投放策略，不同的广告语有不同的投放要求，怎么将各个广告主每天的预算尽可能地花完
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.139.*]
+ 
+【文章标题】：【问题】关于Storm的wordcount输出时，单词个数不一样的问题， 【文章地址】：https://bbs.byr.cn/article/ML_DM/25693 【创建时间】：2017-09-10 【作者】：xy191651196 【评论】：3 【内容】：发信人: xy191651196 (new byr), 信区: ML_DM
+标  题: 【问题】关于Storm的wordcount输出时，单词个数不一样的问题，求
+发信站: 北邮人论坛 (Sun Sep 10 20:46:46 2017), 站内
+
+如题，lz好久没看了，生疏了很多。想问：为什么发送的一句话，统计出来的单词计数会不同~，谢谢~~~！
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.41.*]
+ 
+【文章标题】：虚拟机上运行caffe2,tensorflow 等和双系统有区别吗？笔记本电 【文章地址】：https://bbs.byr.cn/article/ML_DM/25393 【创建时间】：2017-08-23 【作者】：thuuwooh11 【评论】：2 【内容】：发信人: thuuwooh11 (蓝色大海), 信区: ML_DM
+标  题: 虚拟机上运行caffe2,tensorflow 等和双系统有区别吗？笔记本电脑
+发信站: 北邮人论坛 (Wed Aug 23 19:29:24 2017), 站内
+
+如题
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 222.171.75.*]
+ 
+【文章标题】：Re: 有合买深度学习 （AI圣经 Deep Learning）28一本 盗版 【文章地址】：https://bbs.byr.cn/article/ML_DM/25223 【创建时间】：2017-08-11 【作者】：原帖已删除 【评论】：27 【内容】：发信人: chengg (库里的球迷), 信区: ML_DM
+标  题: Re: 有合买深度学习 （AI圣经 Deep Learning）28一本 盗版
+发信站: 北邮人论坛 (Wed Aug  9 17:23:24 2017), 站内
+
+质量如何，大兄弟。
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.85.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/chinapds"><img src="https://bbs.byr.cn/uploadFace/C/chinapds.1173.jpg"></a><a href="/user/query/chinapds"><strong style="color:red;">chinapds</strong></a>首先，有开源的中文pdf如果只是图看的话，pdf的就够了吧。个别关键章节自己打印出来看
+其次，要尊重别人的劳动成果，国内的书已经挺便宜了<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/25223?s=25231">第3楼</a></li><li><a href="/article/ML_DM/ajax_voteup/25231.json" class="a-func-like" id="like_list25231"><samp class="ico-pos-zaninactive" id="icon_like_list25231"></samp>赞(3)</a></li><li><a href="/article/ML_DM/ajax_votedown/25231.json" id="listCai25231" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai25231"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/25231" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">我猜着了开头，但我猜不中这结局。1/10</a></li></ul><a class="a-nice-comment-face" href="/user/query/jj8401"><img src="https://bbs.byr.cn/uploadFace/J/jj8401.8151.jpg"></a><a href="/user/query/jj8401">jj8401</a>恬不知耻
+【 在 leiky 的大作中提到: 】
+:<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/25223?s=25249">第10楼</a></li><li><a href="/article/ML_DM/ajax_voteup/25249.json" class="a-func-like" id="like_list25249"><samp class="ico-pos-zaninactive" id="icon_like_list25249"></samp>赞(10)</a></li><li><a href="/article/ML_DM/ajax_votedown/25249.json" id="listCai25249" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai25249"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/25249" class="a-post">回复</a></li></ul><a href="/user/query/"></a>有的现成的不看，非得买盗版的  <a target="_blank" href="https://github.com/exacity/deeplearningbook-chinese">https://github.com/exacity/deeplearningbook-chinese</a>  不谢<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/25223?s=25264">第23楼</a></li><li><a href="/article/ML_DM/ajax_voteup/25264.json" class="a-func-like" id="like_list25264"><samp class="ico-pos-zaninactive" id="icon_like_list25264"></samp>赞(4)</a></li><li><a href="/article/ML_DM/ajax_votedown/25264.json" id="listCai25264" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai25264"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/25264" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">对不起，我是警察。 3/10</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：【问题】新手求教，关于pytorch导入自建数据集 【文章地址】：https://bbs.byr.cn/article/ML_DM/25035 【创建时间】：2017-07-24 【作者】：chenyiwei 【评论】：3 【内容】：发信人: chenyiwei (kefish), 信区: ML_DM
+标  题: 【问题】新手求教，关于pytorch导入自建数据集
+发信站: 北邮人论坛 (Mon Jul 24 12:52:31 2017), 站内
+
+我将载入CIFAR10数据集后，将trainloder中的标签输出显示是
+
+2
+0
+9
+1
+
+[ torch.Longtensor size= 4 ]
+
+而载入自己创建的数据集后，将trainloder输出标签输出显示是
+
+1
+0
+1
+1
+
+[ torch.Longtensor size =4*1 ]
+怎么能将自己创建的数据集标签输出类型变成与CIFAR-10 一致？
+自己创建的数据集是txt文件
+部分代码是
+with open(label_file) as f:
+            lines = f.readlines()
+            self.num_samples = len(lines)
+
+        for line in lines:
+            splited = line.strip().split()
+            self.fnames.append(splited[0])
+            c = splited[1]
+            label=[]
+            label.append(int(c))
+            self.labels.append(torch.LongTensor(label))
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.206.37.*]
+ 
+【文章标题】：【代招】招募kaggle队友打Zillow赛事 【文章地址】：https://bbs.byr.cn/article/ML_DM/25221 【创建时间】：2017-08-09 【作者】：joepayne 【评论】：5 【内容】：发信人: joepayne (joe), 信区: ML_DM
+标  题: 【代招】招募kaggle队友打Zillow赛事
+发信站: 北邮人论坛 (Wed Aug  9 16:43:04 2017), 站内
+
+目前队中正式队员一人，public LB排名TOP4，鉴于有诸多策略等待验证，现需1-3个外部人员加入，当下正在与几个潜在candidate/team沟通中。小伙伴们，感兴趣的把ID帖过来   <img src="/img/ubb/emc/15.gif" alt="emc15" style="display:inline;border-style:none">
+--
+
+关于此赛事可以参考主页：<a target="_blank" href="https://www.kaggle.com/c/zillow-prize-1">https://www.kaggle.com/c/zillow-prize-1</a>
+※ 修改:·joepayne 于 Aug  9 16:46:08 2017 修改本文·[FROM: 119.57.114.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 119.57.114.*]
+ 
+【文章标题】：【问题】时序数据分析可以用Isolation Forest么 【文章地址】：https://bbs.byr.cn/article/ML_DM/25278 【创建时间】：2017-08-10 【作者】：eha 【评论】：4 【内容】：发信人: eha ([意涵团]咦哈), 信区: ML_DM
+标  题: 【问题】时序数据分析可以用Isolation Forest么
+发信站: 北邮人论坛 (Thu Aug 10 20:16:08 2017), 站内
+
+在做时序数据的异常检测，刚好sklearn里有iForest的包，本打算试一试，但是有一些问题没有想明白：
+
+本来是计划用前几天的正常曲线做训练，用今天的曲线做检测，但是我希望拿到的异常点是今天与前几天相比差异较大的，所以今天每一分钟的数据都是一个检测点，并且每一分钟的数据对应的训练数据应该都是不同日期同一时刻的数据，这样的话，如果我以1min为粒度统计数据，一天有1440个数据，岂不是要有1440个训练模型。。。
+
+
+求大神指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 58.251.37.*]
+ 
+【文章标题】：写了一个deep learning的framework，分享一下 【文章地址】：https://bbs.byr.cn/article/ML_DM/24706 【创建时间】：2017-07-04 【作者】：l11x0m7 【评论】：57 【内容】：发信人: l11x0m7 (lxm), 信区: ML_DM
+标  题: 写了一个deep learning的framework，分享一下
+发信站: 北邮人论坛 (Tue Jul  4 19:44:31 2017), 站内
+
+想做成面向入门使用的，通过原理和代码来介绍深度学习。对深度学习框架和原理感兴趣的同学可以参考一下。
+
+没有做auto-grad（目前主流框架都是有的），靠手动求导，实用性不强（毕竟全是python开发，运行效率很低）。用法类似Keras。
+
+后续补充说明文档、注释、更多目前流行的模块等等。
+
+欢迎各位star，fork，watch，pull request，以及提意见、想法和问题等，谢谢。
+
+<img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"><img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"><img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none">
+
+代码地址如下：
+<pre class="markdown">[lightnn](https://github.com/l11x0m7/lightnn)</pre>
+
+-------补充-------
+没想到在学术科技区发帖也能上十大，开心<img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none">
+
+-------二次补充-------
+看到好多人吐槽没有auto-grad或者不是symbolic style，如果对这两个感兴趣，这里推荐一下paradox(symbolic calculation &amp; auto grad)，或者可以直接tensorflow或者theano走起？我这边可能更偏向深度学习方面的基础内容，所以不做auto grad了。如果有大佬做了auto grad的engine，欢迎分享~
+
+--
+※ 修改:·l11x0m7 于 Jul  5 14:40:23 2017 修改本文·[FROM: 10.210.73.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/dss886"><img src="https://bbs.byr.cn/uploadFace/D/dss886.7008.jpg"></a><a href="/user/query/dss886"><strong style="color:red;">dss886</strong></a>本来看见热评也想嘲讽一下楼主的，点进Github简单看了一眼发现还是挺不错的，自己造轮子不管水平如何都是值得鼓励的<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/24706?s=24753">第30楼</a></li><li><a href="/article/ML_DM/ajax_voteup/24753.json" class="a-func-like" id="like_list24753"><samp class="ico-pos-zaninactive" id="icon_like_list24753"></samp>赞(15)</a></li><li><a href="/article/ML_DM/ajax_votedown/24753.json" id="listCai24753" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai24753"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/24753" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">听过无数的道理，可依然过不好这一生 2/10</a></li></ul><a class="a-nice-comment-face" href="/user/query/Quasi"><img src="https://bbs.byr.cn/img/face_default_m.jpg"></a><a href="/user/query/Quasi">Quasi</a>这都能算framework了<img src="/img/ubb/ema/2.gif" alt="ema2" style="display:inline;border-style:none"><ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/ML_DM/24706?s=24724">第9楼</a></li><li><a href="/article/ML_DM/ajax_voteup/24724.json" class="a-func-like" id="like_list24724"><samp class="ico-pos-zaninactive" id="icon_like_list24724"></samp>赞(9)</a></li><li><a href="/article/ML_DM/ajax_votedown/24724.json" id="listCai24724" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai24724"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/ML_DM/post/24724" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">对不起，我是警察。 3/10</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：Re: 靠谱兼职 【文章地址】：https://bbs.byr.cn/article/ML_DM/24885 【创建时间】：2017-07-27 【作者】：原帖已删除 【评论】：1 【内容】：发信人: whatname (whatname), 信区: ML_DM
+标  题: Re: 靠谱兼职
+发信站: 北邮人论坛 (Sun Jul 16 12:08:15 2017), 站内
+
+做什么的？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.210.5.*]
+ 
+【文章标题】：求组队刷kaggle 【文章地址】：https://bbs.byr.cn/article/ML_DM/25036 【创建时间】：2017-07-24 【作者】：chengge01 【评论】：1 【内容】：发信人: chengge01 (gyc), 信区: ML_DM
+标  题: 求组队刷kaggle
+发信站: 北邮人论坛 (Mon Jul 24 14:01:53 2017), 站内
+
+本人机器学习小白 求大神带打kaggle 
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 117.136.38.*]
+ 
+【文章标题】：svm badvase处理 【文章地址】：https://bbs.byr.cn/article/ML_DM/25105 【创建时间】：2017-07-28 【作者】：kkatnk 【评论】：0 【内容】：发信人: kkatnk (kangkang), 信区: ML_DM
+标  题: svm badvase处理
+发信站: 北邮人论坛 (Fri Jul 28 16:51:12 2017), 站内
+
+对于svm产生的badcase有什么比较好的方式进行处理吗？
+怎么操作可以将badcase纠正
+求大神指点
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.205.187.*]
+ 
+【文章标题】：有没有nlp方向的同道中人 【文章地址】：https://bbs.byr.cn/article/ML_DM/24573 【创建时间】：2017-06-23 【作者】：pafy 【评论】：30 【内容】：发信人: pafy (pafy), 信区: ML_DM
+标  题: 有没有nlp方向的同道中人
+发信站: 北邮人论坛 (Fri Jun 23 13:58:53 2017), 站内
+
+搭个伴讨论讨论啊<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+nlp交流分享群
+
+<a target="_blank" href="/att/ML_DM/0/24573/335"><img border="0" title="WechatIMG3.jpeg" src="/att/ML_DM/0/24573/335" alt="WechatIMG3.jpeg" class="resizeable"></a>
+※ 修改:·pafy 于 Jun 27 10:28:41 2017 修改本文·[FROM: 114.252.18.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.252.9.*]
+ 

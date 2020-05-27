@@ -8232,3 +8232,870 @@ HTTP协议的有个GET头，GET是为了获取各种网页内容，比如图片�
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 59.64.184.*]
  
+【文章标题】：求今日头条面经 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38798 【创建时间】：2016-09-13 【作者】：amm 【评论】：0 【内容】：发信人: amm (amm), 信区: WWWTechnology
+标  题: 求今日头条面经
+发信站: 北邮人论坛 (Tue Sep 13 13:58:50 2016), 站内
+
+有没有去今日头条面试过前端实习岗位的学长学姐，求面经<img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"><img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none"><img src="/img/ubb/ema/3.gif" alt="ema3" style="display:inline;border-style:none">
+--
+
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 175.167.146.*]
+ 
+【文章标题】：求个大神一起搞事儿 优化 byr.wiki 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38857 【创建时间】：2016-09-23 【作者】：fengliquan 【评论】：14 【内容】：发信人: fengliquan (夏大正 | 你看我在用力的微笑), 信区: WWWTechnology
+标  题: 求个大神一起搞事儿 优化 byr.wiki
+发信站: 北邮人论坛 (Fri Sep 23 12:02:47 2016), 站内
+
+本人菜鸟，求个好心的大神一起完成这个北邮人导航的项目。 目前网站只是雏形，还很多问题，欢迎入坑进行优化。
+
+求各位私信，或者在帖子里留言我私信你
+
+网址：<a target="_blank" href="http://byr.wiki/">http://byr.wiki/</a>
+
+更多介绍：<a target="_blank" href="https://bbs.byr.cn/#!article/Picture/3157471">https://bbs.byr.cn/#!article/Picture/3157471</a>
+
+
+可以参考和借鉴的网站：
+http://www.hust.cc/
+http://www.hustgate.com/
+http://www.hust123.com/
+--
+※ 修改:·fengliquan 于 Oct 17 12:12:12 2016 修改本文·[FROM: 104.199.160.73]
+※ 来源:·<a target="_blank" href="http://developers.byr.cn/mobile">北邮人论坛手机客户端</a> bbs.byr.cn·[FROM: 43.255.179.50]
+ 
+【文章标题】：论坛支持markdown啦，戳进来看看怎么用吧~ 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/37024 【创建时间】：2016-06-14 【作者】：PiEgg 【评论】：263 【内容】：发信人: PiEgg (皮蛋||八闽玲珑||独立开发||呵呵教大护法), 信区: WWWTechnology
+标  题: 论坛支持markdown啦，戳进来看看怎么用吧~
+发信站: 北邮人论坛 (Tue Jun 14 00:25:12 2016), 站内
+
+<pre class="markdown"># 由来
+
+6月6号在写markdown的时候，突然想着，论坛为何不能支持一波markdown呢？于是就配合@wdjwxh后端的支持，把论坛一个很简单的markdown的web版支持的方案做出来了。
+
+## 用法
+
+在论坛的回复或者文章输入框内输入：`[md][/md]`，然后就可以在标签内书写你熟悉的markdown了。  
+为了方便大家使用，原本的编辑框处增加了一个`M`标记的按钮，这个按钮就是快速插入`[md][/md]`标签对的按钮。并支持两种用法：
+
+- 支持在输入框内光标处直接插入标签对
+- 支持选中文本后在所选文本的基础上包上标签对
+
+
+另外，web版支持回复预览，邮件预览，在编辑文章后，点击下方预览按钮也支持markdown预览~
+
+
+### 示例
+
+```markdown
+[md]
+
+# 一级标题
+## 二级标题
+### 三级标题
+
+...
+
+![图片链接](https://static.byr.cn/img/logo.gif)
+[普通链接](https://bbs.byr.cn)
+
+- 列表1
+- 列表2
+- 列表3
+
+
+等等~
+[/md]
+```
+![示例1](https://bbs.byr.cn/att/Progress/0/275/7212)
+
+
+## 北邮人论坛Markdown风格
+
+论坛采用的是与github的[GFM](https://help.github.com/categories/writing-on-github/)(Github Flavored Markdown)相近的方案。
+
+### 标题
+
+支持1-6级标题，用若干#号来表示。注意#号和标题之间需要有一个空格。
+
+#### 示例
+
+```markdown
+# 一级标题
+## 二级标题
+### 三级标题
+...等等
+```
+![示例2](https://bbs.byr.cn/att/Progress/0/275/26652)
+
+### 换行
+
+标准MD要在一行的最后加两个空格符才表示换行，否则是不换行的。但是GFM则没有此要求。
+
+#### 示例
+
+```
+第一行（最后无两个空格）
+第二行
+```
+第一行（最后无两个空格）
+第二行
+
+
+### 自动URL链接
+
+如果在`[md][/md]`标签块中书写一个URL的连接文本，将会自动生成URL。比如：https://bbs.byr.cn
+
+### 列表
+
+支持有序列表和无序列表两种。注意列表前的标号和内容之间有一个空格。并且注意两段列表之间需要用其他格式分隔开来。比如下例采用分割线分隔，否则不能解析。
+另外尤其注意，列表与其之后非列表的内容之间需要两个换行才能正常解析。
+
+#### 示例
+
+```markdown
+
+1. 有序列表1
+2. 有序列表2
+3. 有序列表3
+
+---
+
+- 无序列表1
+- 无序列表2
+- 无序列表3
+
+```
+![示例3](https://bbs.byr.cn/att/Progress/0/275/43540)
+
+
+### 任务列表
+
+支持把列表变成带勾选框的任务列表，只需要修改列表前序号的格式为`- [ ]`或者`- [x]`。  
+**注意**：`[ ]`中有个空格。并且目前只支持`- [ ]`或者`- [x]`这两种格式书写。同样，任务列表与其之后非列表的内容之间需要两个换行才能正常解析。
+
+#### 示例
+
+```markdown
+- [ ] Task1
+- [ ] Task2
+- [x] Task3
+```
+
+- [ ] Task1
+- [ ] Task2
+- [x] Task3
+
+
+### 表格
+
+支持表格的写法，不过需要注意，表格必须要有表头，如果表头没有内容就把内容空着就行。另外注意，表格之前的内容和表格之间需要两个换行才能正常解析。
+
+#### 示例
+
+```
+|表格|表头|表头|
+|---|---|---|
+|论坛|支持|markdown了|
+|终于|也支持|表格了|
+|表格的写法|就是这样的|行数和列数没有限制|
+```
+
+
+|表格|表头|表头|
+|---|---|---|
+|论坛|支持|markdown了|
+|终于|也支持|表格了|
+|表格的写法|就是这样的|行数和列数没有限制|
+
+### 代码块
+
+支持用一对` ``` `将代码块包起来进行代码块输出，并支持语法高亮。
+
+#### 语法高亮支持的语言
+
+|||||||
+|---|---|---|---|---|---|
+|Apache|Bash|C#|C\C++|CoffeeScript|Diff|
+|HTML\XML|HTTP|Ini|JSON|JAVA|JavaScript|
+|MakeFile|Markdown|Nginx|Object-C|PHP|Perl|
+|Python|Ruby|SQL|Go|CSS\LESS|SCSS|
+
+
+所以今后大家要贴代码就可以不再用之前的`[code][/code]`标签来写东西啦，可以直接用markdown的语法来贴代码了。
+
+#### 示例</pre>
+```JavaScript
+var a = "Hello,BYR!";
+function helloByr(){
+  console.log(a);
+}
+```
+<pre class="markdown">```JavaScript
+var a = "Hello,BYR!";
+function helloByr(){
+  console.log(a);
+}
+```
+
+是不是好看了不少呢？
+
+### 文本链接和图片展示
+
+支持用Markdown特定的语法来实现文本链接和图片展示。文本链接采用格式`[]()`,图片链接采用格式`![]()`
+
+#### 示例
+
+```
+[北邮人论坛](https://bbs.byr.cn)
+
+![图片展示](https://static.byr.cn/img/logo.gif)
+```
+
+[北邮人论坛](https://bbs.byr.cn)
+
+![图片展示](https://static.byr.cn/img/logo.gif)
+
+
+### 引用
+
+支持引用的语法。采用`&gt; XXXXX`的写法，内容和`&gt;`之间有个空格。
+
+#### 示例
+
+```
+&gt; 这里是引用
+
+```
+
+&gt; 这里是引用
+
+### 更多语法
+
+剩下还有一些语法没有列出来，如果你对markdown不熟悉，可以参考本文下面给出的markdown语言简要介绍。
+
+### 暂不支持的东西
+
+- [ ] latex公式
+- [ ] 流程图
+- [ ] 序列图
+- [ ] 脚注
+- [ ] TOC
+------
+
+## 注意事项
+
+在`[md][/md]`标签中不能书写以往在论坛里嵌入的标签块，例如表情块`[em*][ema*]`等等，不能加入上传的图片、文件的`upload`标签块等等。 
+
+因为在`[md][/md]`标签块中他们都不会被解析。因此如果你既想要顺滑地写markdown又想用上论坛以前的文本功能的话，目前的解决方案是在需要用markdown的地方在`[md][/md]`标签内书写，这样的话`[md][/md]`块只会解析成markdown格式的文本。在标签外，可以用以前的正常写法，这部分会跟以前的解析方式一样，进行相应的解析。  
+
+另外，在论坛的文本输入框内`[md][/md]`标签的数量没有限制。不过需要注意的是，如果你在`[md][/md]`标签块内继续嵌套`[md][/md]`标签对的话一定注意标签对要闭合。否则将会渲染出错误的样式。  
+书写markdown的时候，如果发现有时候格式跟预期的不一样，很可能就是内容之间换行的时候少换了一行，在有问题的内容前再换一行试试~
+
+**重要**：目前markdown文章效果只支持北邮人论坛web网页版（手机web版也暂时不支持）；手机客户端目前不支持，应该是会输出markdwon的原始代码。所以你在手机客户端上是看不到样式的。  
+不过markdown文章的源码的相对来说已经比较工整。所以要看效果的话可以到web端查看。预计后续客户端和手机web版将会进行支持。
+
+## Markdwon语言简要介绍
+
+如果你之前没有接触过markdown，可以参考如下的指引，但是要注意论坛的markdown实现方案里不一定能够实现如下教程里全部功能。
+
+- github的[GFM指引](https://help.github.com/categories/writing-on-github/)
+- 简书上的[markdown教程](http://www.jianshu.com/p/21d355525bdf)
+- 作业部落[markdown教程](https://www.zybuluo.com/mdeditor)
+
+
+## 推荐工具
+
+&gt; 只是个人推荐的markdown书写工具，有更好的可以提出来，请轻拍~
+
+### Windows 平台
+- MarkdownPad
+- MarkPad
+- Atom
+- Sublime
+
+
+### Linux 平台
+- ReText
+- Sublime
+- Atom
+
+
+### Mac 平台
+- Mou
+- Atom
+
+
+### 网页版
+- [StackEdit](https://stackedit.io/)
+- [作业部落](https://www.zybuluo.com/mdeditor)
+- [马克飞象](https://maxiang.io/)
+
+
+推荐大家在工具里写完markdown再搬运到论坛上，毕竟论坛的编辑器实在是功能比较少。
+
+## 开发相关
+
+如果你对论坛如何实现markdown感兴趣可以看看这部分。简要说说。
+
+这里需要在此感谢@wdjwxh的后端的部分的支持，更新了对`[md][/md]`标签的支持，并且在比较复杂的标签对嵌套、同级识别上花了很多功夫。使之能够将md标签块的内容在提交给后端后，解析并返回到前端。
+
+而我做的前端部分的工作，真真基本上就是github的搬运工了。
+
+前端主要做的部分是解析返回的内容。
+
+采用的markdown解析器是[marked.js](https://github.com/chjj/marked)，代码高亮的解析器是[highlight.js](https://highlightjs.org/)，采用的配色方案是github的[markdown风格](https://gist.github.com/andyferra/2554919)+highlight的[github.css](https://github.com/isagalaev/highlight.js/blob/master/src/styles/github.css)。
+
+简单来说，后端返回前端的时候，会将原有`[md]内容[/md]`标签及其内部内容替换成`&lt;pre class="markdown"&gt;内容&lt;pre&gt;`，然后先用`marked.js`对传到前端来的这类标签块进行解析，然后将其转成`&lt;div class="markdown"&gt;markdown内容&lt;div&gt;`，于是内部如果有代码块的部分，就可以用`highlight.js`来进行格式解析，最后配合上相应样式就能实现markdown内容输出了。
+
+当然在渲染和样式的细节上还是有相应的修改，并最大程度上做到了和github的风格一致。虽然是前端客户端渲染的方案，但是渲染起来速度还是很快的。因此吐槽性能问题的朋友们就稍安勿躁啦哈哈。
+
+这个前端解决方案已经开源，使用起来很简单，你也可以给自己的网站加上markdown的支持啦哈哈。
+
+开源地址：[bbs-markdown](https://github.com/Molunerfinn/bbs-markdown)，注意，目前暂时还是需要配合jquery才能使用。
+
+如果大家对论坛的markdown功能有什么提议或者有什么bug欢迎私信我~
+
+------
+
+**最后，enjoy~**</pre>
+--
+
+--
+※ 修改:·PiEgg 于 Jun 14 13:42:17 2016 修改本文·[FROM: 10.123.0.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.123.0.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/PiEgg"><img src="https://bbs.byr.cn/uploadFace/P/PiEgg.9489.jpg"></a><a href="/user/query/PiEgg"><strong style="color:red;">PiEgg</strong></a><img src="/img/ubb/emc/25.gif" alt="emc25" style="display:inline;border-style:none">
+【 在 wdjwxh 的大作中提到: 】
+: [md]
+: ```c
+: int main() {
+: ...................<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/WWWTechnology/37024?s=37028">第4楼</a></li><li><a href="/article/WWWTechnology/ajax_voteup/37028.json" class="a-func-like" id="like_list37028"><samp class="ico-pos-zaninactive" id="icon_like_list37028"></samp>赞(3)</a></li><li><a href="/article/WWWTechnology/ajax_votedown/37028.json" id="listCai37028" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai37028"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/WWWTechnology/post/37028" class="a-post">回复</a></li></ul><a class="a-nice-comment-face" href="/user/query/wdjwxh"><img src="https://bbs.byr.cn/uploadFace/W/wdjwxh.68.jpg"></a><a href="/user/query/wdjwxh">wdjwxh</a><pre class="markdown">```c
+int main() {
+     test();
+     thanks_PiEgg(":)");
+     return 0;
+}
+```
+
+|开始|结束|
+|----|----|
+|2012|2016|
+|祝你们|毕业快乐，常回来看看~|</pre><ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/WWWTechnology/37024?s=37027">第3楼</a></li><li><a href="/article/WWWTechnology/ajax_voteup/37027.json" class="a-func-like" id="like_list37027"><samp class="ico-pos-zaninactive" id="icon_like_list37027"></samp>赞(26)</a></li><li><a href="/article/WWWTechnology/ajax_votedown/37027.json" id="listCai37027" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai37027"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/WWWTechnology/post/37027" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">Tomorrow is another day. 4/10</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 【文章标题】：转让一本网络技术书，原价100元，9成新，现价50元 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38802 【创建时间】：2016-09-14 【作者】：Mongolvv 【评论】：6 【内容】：发信人: Mongolvv (Mongolvv), 信区: WWWTechnology
+标  题: 转让一本网络技术书，原价100元，9成新，现价50元
+发信站: 北邮人论坛 (Wed Sep 14 10:44:04 2016), 站内
+
+兄弟姐妹们，本人之前买了一本网络技术书，比砖头还厚，一时冲动下买的，100大洋，有50元愿意收购的么？
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 106.38.0.*]
+ 
+【文章标题】：weird PHP 之 不完全函数式 之 函数变量赋值 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38597 【创建时间】：2016-08-31 【作者】：panchao 【评论】：6 【内容】：发信人: panchao (chaoge), 信区: WWWTechnology
+标  题: weird PHP 之 不完全函数式 之 函数变量赋值
+发信站: 北邮人论坛 (Wed Aug 31 14:21:22 2016), 站内
+
+class static 方法不能赋值给变量 ？
+
+<pre class="brush:php">class Foo
+{
+    public static function func()
+    {
+        echo 'hello func';
+    }
+}
+
+// PHP Fatal error:  Undefined class constant 'func'
+$func = Foo::func; 
+
+// PHP Notice:  Undefined variable: func
+// PHP Fatal error:  Function name must be a string
+$func();</pre>
+
+普通函数可以，但是为什么也要 `Notice me` ?
+
+<pre class="brush:php">function func()
+{
+    echo 'hello func';
+}
+
+// PHP Notice Use of undefined constant func
+$foo = func; 
+
+// hello func
+$foo();</pre>
+
+有必要请@暖洋洋吗？
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 47.88.102.*]
+ 
+【文章标题】：【求助】PHP curl 登录北邮人404 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38790 【创建时间】：2016-09-11 【作者】：xyw043735 【评论】：6 【内容】：发信人: xyw043735 (小P孩), 信区: WWWTechnology
+标  题: 【求助】PHP curl 登录北邮人404
+发信站: 北邮人论坛 (Sun Sep 11 16:42:58 2016), 站内
+
+想通过curl的方式模拟登录，但是一直得到404，求指点~~
+代码：
+ $url = '<a target="_blank" href="https://bbs.byr.cn/user/ajax_login.json';">https://bbs.byr.cn/user/ajax_login.json';</a>
+ $data = array('id' =&gt; 'XXX', 'passwd' =&gt; 'XXX');
+ $header = array(        
+    'Host' =&gt; 'bbs.byr.cn',
+    'content-type' =&gt; 'application/x-www-form-urlencoded; charset=UTF-8',
+    'user-agent' =&gt; 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+    'x-requested-with' =&gt; 'XMLHttpRequest',    
+ );
+ 
+$ch = curl_init();
+//curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER,FALSE);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST,FALSE);
+curl_setopt($ch, CURLOPT_HEADER, $header);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+curl_setopt($ch, CURLOPT_POST, TRUE);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+$output = curl_exec($ch);
+print_r(curl_getinfo($ch));
+print_r(curl_errno($ch));  //查看报错信息
+curl_close($ch);
+echo 'result = ';print_r($output);
+
+返回结果：
+Array
+(
+    [url] =&gt; <a target="_blank" href="https://bbs.byr.cn/user/ajax_login.json">https://bbs.byr.cn/user/ajax_login.json</a>
+    [content_type] =&gt; text/html
+    [http_code] =&gt; 404
+    [header_size] =&gt; 236
+    [request_size] =&gt; 199
+    [filetime] =&gt; -1
+    [ssl_verify_result] =&gt; 20
+    [redirect_count] =&gt; 0
+    [total_time] =&gt; 0.656
+    [namelookup_time] =&gt; 0
+    [connect_time] =&gt; 0.015
+    [pretransfer_time] =&gt; 0.625
+    [size_upload] =&gt; 238
+    [size_download] =&gt; 0
+    [speed_download] =&gt; 0
+    [speed_upload] =&gt; 362
+    [download_content_length] =&gt; -1
+    [upload_content_length] =&gt; 238
+    [starttransfer_time] =&gt; 0.625
+    [redirect_time] =&gt; 0
+    [certinfo] =&gt; Array
+        (
+        )
+
+    [redirect_url] =&gt;
+)
+0result = HTTP/1.1 100 Continue
+
+HTTP/1.1 404 Not Found
+Server: nginx/1.10.0
+Date: Sun, 11 Sep 2016 08:40:30 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.10
+
+请按任意键继续. . .
+
+一直是404<img src="/img/ubb/ema/1.gif" alt="ema1" style="display:inline;border-style:none">
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 111.197.83.*]
+ 
+
+【文章标题】：PHP7 vs HHVM 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38772 【创建时间】：2016-09-08 【作者】：iGuang 【评论】：1 【内容】：发信人: iGuang (iGuang), 信区: WWWTechnology
+标  题: PHP7 vs HHVM
+发信站: 北邮人论坛 (Thu Sep  8 15:16:46 2016), 站内
+
+测试结果如下(俩个测试都会首先用100个请求预热, 然后开始100个并发, 10000个请求ab压测):
+
+PHP7:
+
+Concurrency Level:      100
+Time taken for tests:   38.726 seconds
+Complete requests:      10000
+Failed requests:        0
+Write errors:           0
+Total transferred:      89290000 bytes
+HTML transferred:       86900000 bytes
+Requests per second:    258.22 [#/sec] (mean)
+Time per request:       387.260 [ms] (mean)
+Time per request:       3.873 [ms] (mean, across all concurrent requests)
+Transfer rate:          2251.64 [Kbytes/sec] received
+HHVM-3.2
+
+Document Path:          /wordpress/
+Document Length:        8690 bytes
+ 
+Concurrency Level:      100
+Time taken for tests:   43.296 seconds
+Complete requests:      10000
+Failed requests:        0
+Write errors:           0
+Total transferred:      89260000 bytes
+HTML transferred:       86900000 bytes
+Requests per second:    230.97 [#/sec] (mean)
+Time per request:       432.957 [ms] (mean)
+Time per request:       4.330 [ms] (mean, across all concurrent requests)
+Transfer rate:          2013.31 [Kbytes/sec] received
+结论,
+
+PHP7 – 258.22 QPS
+
+HHVM – 230.97 QPS
+
+PHP7的在真实场景的性能确实已经和HHVM相当, 在一些场景甚至超过了HHVM
+
+腾跃校长社区是一家互联网教育公司，目前处于A轮阶段，2000万融资，顶级教育机构好未来（学而思）、高思教育领投。初始工程师团队来自baidu，初期主要目标打造校长知识类产品与在线直播类产品。公司处于快速发展中，已经实现商业变现，发展空间大。
+
+目前正在招聘PHP高级工程师，工作描述如下：
+
+工作职责：
+    1. 负责知识类产品的后端工程设计、开发和维护
+    2. 负责直播类产品的整合开发，参与直播技术调研与应用
+职位要求：
+    1. 计算机相关专业，本科及以上学历，至少2年的PHP开发经验
+    2. 很强的逻辑思维能力、分析能力、抽象能力
+    3. 熟练掌握Linux, Apache, MySQL, PHP (LAMP)环境，各种应用配置，熟练掌握 shell 脚本
+    4. 精通SQL、PL/SQL语言，能熟练编写存储过程、触发器等
+    5. 能熟练进行SQL查询优化以及数据库读写性能优化
+    6. 熟悉工作流技术理论和方法，1年以上工作流实际开发经验
+    7. 有创新精神，积极进取，能承受很大工作压力
+    8. 有3年以上MySQL数据库先关项目实施和开发经验的优先
+    9. 有处理大访问量和大数据量的工作经验者优先
+
+以下是一些媒体对公司的介绍：
+    - 36kr - 腾跃校长社区获 1500 万元 A 轮融资，将发力在线师资培训 - <a target="_blank" href="http://36kr.com/p/5045428.html">http://36kr.com/p/5045428.html</a>
+今日头条 - 腾跃常筠：四十六岁，北漂一年，我拿到千万投资 - <a target="_blank" href="http://toutiao.com/a6272278149896110338/">http://toutiao.com/a6272278149896110338/</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 101.36.75.*]
+ 
+【文章标题】：[完结]写给想要做前端的同学 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/35955 【创建时间】：2016-05-04 【作者】：Caolixiang 【评论】：58 【内容】：发信人: Caolixiang (慕慕珍珍), 信区: WWWTechnology
+标  题: [完结]写给想要做前端的同学
+发信站: 北邮人论坛 (Wed May  4 20:48:08 2016), 站内
+
+楼主4年前从我邮毕业，期间在百度实习过，在杭州阿里巴巴度过了“三年陈”，现在在帝都创业。和这个板块的北邮人一样，我很喜欢前端技术：希望和大家分享、交流，共同进步；更希望能够给将要在前端行业工作、实习的同学一些帮助。
+
+P.S. 喷神请绕道，大神勿喷，不引战，不攻击，不钻牛角尖。
+
+大二时第一次接触前端。许多同学估计都想过要做一个网站，大部分又是从PHP开始的（谁让它是世界上最好的语言呢）。后端语言参与渲染HTML一直很主流，跟着教程做，你会写一堆样式表，到后来也许是需要在提交表单时进行客户端验证，你开始写一些JS。
+想做个网站啥的（以前app没有那么多），必须要学会HTML、CSS、JS，HTML构造结构，CSS表现样式，JS决定行为。JS似乎充满奇技淫巧，可以做各种效果啊，飞雪花片啊，搞咱们选课、评老师的网站啊。
+
+后来接触了jQuery，用起来无比顺手，特别是看完《DOM编程艺术》以后。那段时间担心JS掌握得不好，心想总是用jQuery以后不会写Native怎么办？也会关注“可以直接学习jQuery吗”这样一些问题。学习了Ajax后又做过瀑布流图片墙，觉得无比兴奋。不过认识也仅仅停留在异步加载局部更新DOM可以创造更好地用户体验。
+
+实习期间，看到公司前端做雪碧图、切片、搞div、css布局，然后花很多时间在浏览器兼容的问题的调试上。尤其是活动页面，写HTML、CSS基本占到工程的80%，JS写起来很快。后来Bootstrap逐渐流行起来，后端同学可以直接写后台，甚至都不需要前端和射鸡师了。加点栅格，加几个类，轮播组件啥的样样有，再引入jQuery，前端便成为了顺带做的事了。
+
+我接触前端的过程没有系统性，充满了探（瞎）索（搞），也缺少引导。不过细想想，我邮只有前端的选修课啥的，课程也不是那么就业导向。就像论坛里的同学，自己搞，自己提升。
+
+我们把上面这些点提取出来：HTML、CSS、JS、jQuery、Bootstrap，再刷刷题，看看基础知识，基本就可以参加校招了。
+
+
+<a target="_blank" href="/att/WWWTechnology/0/35955/18650"><img border="0" title="zp.jpg" src="/att/WWWTechnology/0/35955/18650" alt="zp.jpg" class="resizeable"></a>
+
+那些求入门、求实习、赶春招、赶秋招的同学一定来得及：不过泼一盆冷水，进入大公司只是开始，你的认识、习惯、思维方式最终会决定你事业或者专业的高度。
+
+面对新技术我觉得了解它为什么产生，解决什么问题，会怎么发展，如何在现有的工程中进行实践，比讨论它们的优劣更有意义：
+
+首先 html5 不是一个新技术，而是在现代浏览器中使用CSS 3等特性进行前端开发的过程。以前我们更关注浏览器的差异性，而现代的浏览器对标准的支持越来越统一。
+
+回到jQuery，在web app中使用越来越少了，一方面这个库太“大”了（吃流量），从页面加载、打开速度理论看，英明的老大会把它砍掉。针对库大小的问题，Zepto.js是一个解决方案。这个库与jQuery API相对统一，抛却了很多浏览器的兼容性的代码。
+
+但是现在浏览器的querySelector方法，已经很好地解决了jQuery中的“Query”，使用原生的fetch方法请求数据，返回Promise也能比jQuery.ajax()的实现更好、更清晰的解决问题。
+
+看待jQuery，我觉得应该更多看到它的历史意义。jQuery，一定程度上成为了工业标准，影响了JS语言的发展和其他JS库的构建。如同coffeescript对ES2015的影响。至于实践，越来越多的web已经不依赖jQuery进行开发了。
+
+看到大家讨论了不同的技术栈，如同@dcy0701提到的，前端这几年进步太快了，我尝试按照不同方向讨论一下这些技术栈。
+
+脱离浏览器的JavaScript
+
+Node.js
+
+我们讨论的JavaScript更多是以浏览器为宿主的ECMAScript，同源的ActionScript以Adobe的Flash作为宿主的。
+
+浏览器中的JavaScript提供了大量与浏览器相关的API。脱离这些特定API看JavaScript，异步是它特别重要的一个特性。Google的V8引擎，让JavaScript的运行时性能大大提升，是Node.js的产生另一个必要的条件。
+
+Jser突然可以全栈了，面对新的技术，不乏布道师。国内第一本Node.js书籍是BYVoid写的，当时盛传这个同学拿到了我司的60w的offer，一片沸沸扬扬；大家可以向他学习，在一个技术还未在祖国大地流行起来时，迅速写一本书。
+
+至少目前，很少有大公司完全把JavaScript作为前后端通用的技术栈。传统的后端语言和技术并未没有被代替的危险。不能把Node.js简单看做是JavaScript在服务端的延展。
+
+我觉得，Node.js很大程度拓展了JavaScript的使用范围，改变了传统前端的工作流程（后面提）。特别是NPM的产生，意义非常之大，它让JavaScript成为了一个生态系统，CommonJs也在JavaScript模块化未成熟之前，提供了优秀的模块化解决方案。
+
+通过package.json，我们可以依赖已有的NPM项目构建自己的库。前段时间，某个同学应为法律的问题，撤消了发布在NPM上的leftpad包，短短11行代码的包撤消后，造成了React-Native、Babel等项目构建失败的灾难。
+
+<pre class="brush:js">module.exports = leftpad;
+function leftpad (str, len, ch) {
+  str = String(str);
+  var i = -1;
+  if (!ch &amp;&amp; ch !== 0) ch = ' ';
+  len = len - str.length;
+  while (++i &lt; len) {
+    str = ch + str;
+  }
+  return str;
+}</pre>
+
+许多人反思，为啥那么简单的代码要依赖，不自己写？是不是Jser忘记了怎么写代码了？我觉得，盲目解除对其他库的依赖会失去NPM社区的初衷，除非你想做超级轮子哥。NPM生态圈制定一下撤包的规则，这种灾难或许以后就不会发生。自给自足的同学们，如果lodash撤包了，或者是tj holowaychuk大神激情起来删了所有包，你们怎么办？
+
+Node.js也让服务端渲染成为可能（universal），代码段技能在服务端运行也可以在客户端运行（universal）。从这点看，代码更容易维护和编写了，部分解耦了前端和服务端。对于SEO这个令人头大的商业问题，服务端渲染可以较好地解决。感兴趣的同学，可以去了解一下搜索引擎的爬虫是如何干活的。
+
+总结一下，Node.js的产生完善了JavaScript生态圈，让大家看到了JavaScript的潜力，让构建更为庞大的JavaScript项目成为可能，同时前端可以使用更为工程化的流程和工具进行开发。
+
+推荐大家一定去了解和使用Node.js，使用NPM构建自己的项目。
+
+JSON
+
+JSON变成了事实上Web数据的传输标准，这个是JavaScript另一大贡献。
+
+对终端的开发，使用JSON数据后使得服务端的开发更加专注和统一。
+
+<pre class="brush:ruby">data.each do |key, value|
+     puts "Key #{key.inspect} has value #{value.inspect}"
+ end</pre>
+
+这种代码展示了服务端渲染的能力。但是对于对于iOS、Android等原生应用，除了在WebView中，无法消费这些渲染好的HTML。
+
+JSON和App的流行，让后端语言在渲染方面逐渐让道，向纯粹的Service发展。比如beta版本的 Rails 5 大大增强了 Rails 作为 API Service的能力。 
+
+从Ruby 或者 PHP转换到JSON需要相应的映射函数，Node.js来得更为直接，因为JSON就是一个普通的JavaScript对象。
+
+大家可以去学习成熟的JSON风格指南，<a target="_blank" href="https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md">https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md</a>。同时通过实践逐步加强对JSON的认识，设计更为规范的JSON（这个会森森影响到Mongo的存储，查询效率，React的性能）。
+
+二进制处理后的JSON，是MongoDB存储的内容，这个基于文档的数据库被越来越多的公司使用，使得编写嵌套数据，存储流数据更为容易。传统的关系数据库，将查询结果表示为JSON，需要经过查询、封装、Transform等多个步骤，而MongoDB的查询结果就是JSON，直接查询直接使用。当然我们看到，在处理事务型问题上，关系型数据库还是首选，比如电商。我们去褒贬关系型数据库是否落后没有意义——使用场景不同。
+
+如果大家有兴趣，可以去尝试MongoDB，感受一下冲击。
+
+前端工程化
+
+@stevesasuke，写到“Less/Sass/Stylus 这三个知道是啥吧？”
+
+接下来提一下前端工程化。脚本语言并不一定需要编译再执行。传统的工程中，通过`&lt;script&gt;`标签引入依赖的JavaScript库、样式表后直接开发，写样式表。
+
+当工程规模增大后，传统实践维护成本直线上升——于是模块化开发成为工程上的最佳实践。我们可以使用特定的技术对JavaScript、CSS进行压缩，同时合并JS与CSS解决脚本间的依赖问题，以此减少线上环境中HTTP请求的数量。
+
+Sass Less Stylus
+
+CSS在前端领域，进步最慢。声明式的样式表缺乏逻辑性，层层嵌套，维护成本高且不易团队合作，样式覆盖这个问题也相当恼人。
+
+Sass等技术，输出编译后的CSS样式表，把开发过程和实际样式表分开。`.scss`文件结构清晰，通过变量定义、mixin等的使用让样式表的开发更加正规化。
+
+Less与Sass类似，Stylus是TJ大神的作品，实在非常简约抽象，个人感觉不易维护。最新的Bootstrap 4使用Sass，放弃了Bootstrap 3中使用的Less。
+
+个人觉得，这些技术深入掌握一门就可以了。实际开发还要看公司的技术栈。
+
+CoffeeScript 与 TypeScript
+
+与Sass等技术思想类似，Coffee 与 TypeScript 也是一个编译技术——把`.coffee`、`.ts`文件编译成javascript。编译这个思想在前端领域很重要：不改变现有的语言环境（JS、CSS）同时进行最佳的工程实践。
+
+使用过一段TypeScript，真心觉得是神器，在无类型语言中写类型不是倒退吗？请摒弃这些激进思想（世界上最好的语言第7代不是也支持类型了吗），尝试在项目中使用TypeScript，你就会感知到它的神器之处。首先，多人协作更为容易了，结合IntelliSense，IDE更为智能，开发快感直线提升。
+
+TypeScript是微软的开源项目，Angular 2 放弃 Dart完全拥抱了TypeScript，TypeScript与Angular 2 强强合作，加入了许多构建 Angular 2的新特性。
+
+我们整理一下这些工程化的实践：预编译、合并、压缩、打包，引入下一个概念Package工具：
+
+Webpack Gulp Grunt Browserify
+
+Package工具，是任务驱动型的工程化工具。通过打包构建，线上代码更为精简，循环引用等问题迎刃而解。
+
+上述这些工具变化极快，Webpack 2快接近稳定了，JSPM这个新的工具也得到了使用：但是没有最好的，只有最合适的工具。都说Grunt已经过时，jQuery等库还一度使用Grunt进行构建。对于新的工具，我们可以了解它们的思想，不要被它们压得喘不过气：比如Gulp更像是一个PipeLine，对代码流一步步通过Loader进行加工。
+
+在淘宝无线时，有些H5前端用Grunt构建工程，使用Less写样式表（还有些人什么都不用，直接在JsBin里面写样式、写JS）。
+
+任务工具结合CommonJS后，可以只引用需要的模块、样式表。这样打包后，文件更小：当然如果结合sourcemap，调试和定位问题会更为容易。
+
+JavaScript Libraries
+
+工程化、模块化解决了code如何生产，模块、结构如何组织等问题。大家也在不断思考在前端与数据的关系。传统前端开发并不是数据导向的，多数页面由服务端渲染，前端的重心不在数据而是聚焦在用户行为的响应上，这时前端仅仅是产品的视觉末梢。
+
+单页应用开发技术越来越多地被实践后，前端逐步变得更为数据导向（JSON API），由末梢变为大脑——业务逻辑前移；对浏览器历史的管理也是也是单页应用的另外一个中心，前端也逐步变得更为历史导向。
+
+为了更为数据，JavaScript 库借鉴了很多服务端的思想比如MVC。MVC将数据抽象为模型，在模型中定义操作数据的基本方法；在控制器中定义商业逻辑，并控制模型的渲染。
+
+这个阶段的代表是Backbone.js。Backbone有一个可以自定义的依赖于jQuery的前端模版引擎，是MVC模式在前端开发中的实践。同时Backbone依赖于同一个作者创建的 Underscore 库，以函数式编程思想操作数据或者集合（这个Jser创造了CoffeScript、Backbone、UnderScore，Lodash是从Underscore项目派生出来的，大家可以膜拜大神Jeremy Ashkenas <a target="_blank" href="https://github.com/jashkenas">https://github.com/jashkenas</a>）。Backbone影响深远。比如facebook的 parse（中国克隆版叫LeanCloud）这种无后端服务就从Backbone借鉴了很多。
+
+Angular.js的产生是跨时代的，这个大而全的框架让单页应用的开发更为容易。
+最开始Jser们并不是很适应Angular，反倒Java程序员可以很快的上手，因为Angular 借助了很多 Spring的思想比如依赖注入。
+
+Angular 仍然深受 jQuery 的影响，内部实现了极简版本的选择器。Angular进行双向绑定，这个牛逼的特性也有时因为性能问题被诟病。
+
+JavaScript 库也借鉴了很多客户端开发的思想，比如React、Vue。
+
+个人觉得，拿Angular、React、Vue这些库比较，论其优劣意义不大。他们产生的时代不同，解决的问题不同。React、Vue离开Router和生态圈的其他组件也无法构建单页应用。
+
+React.js
+
+React并不是一个大而全的框架，主要专注在UI层，React以Component的方式组织应用：一个Component包含这个组件的模版（样式）和行为逻辑。多个Component可以组合，产生兄弟、父子的Component结构关系。
+
+以往开发强调结构、样式、行为的分离。但从组件角度看来，所有这些都是构成组件不可分割的整体。JSX使得HTML与JS的混编更为容易，同时React组件也可以使用内联方式来组织样式。
+
+React默认单向绑定，在State发生变换后重新渲染DOM。从Component的生命周期中，我们可以看到客户端开发的影子（特别有iOS开发的经验的话）。譬如componentWillMount、componentDidMount、componentWillReceiveProps、componentWillUnmount这些生命周期的钩子就是像客户端开发学习的例子。一方面，生命周期的增加细化了开发的粒度，另一方，也为前端的再一次拓展做了充分地准备。
+
+父组件通过props向子组件传值，子组件调用porps所传递的父组件的方法来执行业务逻辑。这点，非常类似iOS开发中的委托\代理模式，同样是向客户端开发技术学习的例子。
+
+React调用render方法对Component进行渲染，其中涉及了Virtual DOM机制和只能的diff算法——只更新发生变化的DOM，以此提高渲染的效率。
+
+React并没有提供完成的数据管理方案，Flux也仅仅是一个实践的建议。去年，各种Flux解决方案百花齐放，Redux获得了最大的关注度。使用Redux是一个从入门到懵逼的过程，而且往往不知所以然，然后“这厮”有引入了Store、Action、这些概念。建议大家不要为了Flux而Flux，多做一些实践，了解函数式编程，了解Map、Reduce的概念，再深入Redux：
+
+在这里分享些自己的认识：每一个组件都有自己的State，有层次关系的State共同组成一颗状态树来记录整个应用的状态。当Aciton被触发后，State随之更新，React以此部分地更新应用的状态和视图（State —Action—&gt; State’）。贴一个自己总结的白板图：
+
+
+<a target="_blank" href="/att/WWWTechnology/0/35955/58895"><img border="0" title="tmpdir--16_5_6_15_30_22.png" src="/att/WWWTechnology/0/35955/58895" alt="tmpdir--16_5_6_15_30_22.png" class="resizeable"></a>
+
+这里第一次提到Immultable这个概念：总是不改变原来的对象而生成新的对象。Immultable，让时光大法得以实现。我们如果把DOM看做是State在UI层的映射，难么从State’到State后，自然能把UI层还原到原来的状态。<a target="_blank" href="https://www.youtube.com/watch?v=xsSnOQynTHs">https://www.youtube.com/watch?v=xsSnOQynTHs</a>(观看时，请自带梯子)
+
+Angular 2
+
+Angular 2 已经到了Release Candidate阶段，从alpha阶段开始，每一次release都有一大堆BREAKING CHANGES（MD API说变就变）。
+
+不过好在基本每个版本我都在跟进，还是做了些实践。
+
+如果大家抱着学习的心态，一定不要去看国外或者知乎大神们对各种框架的褒贬，也不要去搜“我究竟是学习（使用）React、Angular 2、Ember还是Vue这种问题”，了解它们的思想和解决问题的方式。
+
+Angular 一直使用依赖注入的单例模式解决数据管理的问题。Angular 2使用zone.js实现了一个新的脏值检查机制，并在浏览器端使用System.js管理code的依赖。
+
+使用 TypeScript 进行开发，意味着从生产到上线过程必须经过编译和转换，特别装饰符的使用，让代码表意性更强，同时装饰符作为元数据，指导TypeScript的编译过程。
+
+举个例子，我们看看Angular 2如何解决表单的验证问题： 
+Angular 2将每一个表单项（比如 input、textArea、radio）抽象为一个Control，将整个表单抽象为一个ControlGroup。每一个Control都有自己的验证规则，ControlGroup的合法性又由其包含的所有Control共同决定。这个实践使得验证逻辑与表单DOM实现了分离，更为清晰，同时原本操蛋的表单测试变得简单易行，因为测试ControlGroup时并不需要依赖于DOM。
+
+分享一篇我翻译的文章：<a target="_blank" href="https://segmentfault.com/a/1190000004329594">https://segmentfault.com/a/1190000004329594</a>，阅读后可以对Angular 2 有一个大致的了解。
+
+Angular 2是对WebComponent的渐进，通过WebComponent，我们可以导入和使用各种成熟的组件，而不用关心它的具体实现，就像黑盒一样进行使用：例如我们想嵌入一个百度地图的WebComponent，可以这么写：
+
+<pre class="brush:javascript">&lt;BaiduMap [width]=300 [height]=300 [user-scalable]=false [latitude]=... [longitude]=... /&gt;</pre>
+于是就I生成一个指定大小和位置的地图组件（百度地图没有这东西，我YY的，股沟有）。
+
+Vue
+
+这个框架我不是很了解，开发者是尤雨溪大神，在github上stars超过10,000。 
+手机淘宝的勾股大神一直在布道、推广、实践。个人觉得Vue的核心贡献者太少了，拉上阿里巴巴是一个明智的选择，毕竟很多前端大神可以共同完善它。
+
+脱离浏览器的 JavaScript Libraries
+
+再看Virtual DOM这个概念，就像是薛定谔的猫，在渲染前什么都是、什么都不是。Virtual DOM是一个抽象的概念，也组成了另一个抽象概念—— Component。（这个堪称是FB的野心，以后估计很多人被这个东西搞失业）。
+
+一个视觉元素，一个用户事件，可以做如下抽象：
+           
+<pre class="brush:javascript">/*****
+		  &lt;div&gt;&lt;/div&gt;
+	/(html)
+View
+	\(iOS)
+		   UIView
+
+		  click
+	/(html)
+Click
+	\(iOS)
+		  TouchUpInside
+
+*****/</pre>
+
+我们发现，如果在编译时View、Click才与运行环境相关，那么app、web app的开发其实是可以共享大部分代码的，这个时候JavaScript变为了中间语言。
+
+这个想法早在cocos2d中就已经实现，进行游戏开发的同学使用c++进行游戏开发，编译后产生安卓和 iOS 的版本平台相关的游戏。
+
+React-Native就是这个思路的实践者，通过js绑定了OC或者安卓的运行环境，开发出性能接近于原生的原生应用。React-Native大法延展了JS的广度，也填补了iOS和安卓开发间的技术沟壑。
+
+另一个黑魔法是热更新，以往大幅度更新App只能在App Store、安卓各大渠道发布更新，然后从应用商店提示用户升级，每一次提交都需要被审核，更何况并不是每一个用户都知道或者想去安装每一个更新版本（比如我妈）。通过React-Native可以直接下载新的bundle，实现热更新。
+
+论坛里，有人讨论React-Native热度骤减，你们去官网看看，人家才v0.25。很多公司用不好驾驭不了React-Native原因出在缺少既了解客户端开发有了解前端开发的程序猿（媛）：不能否认，Reactive-Natvie的产生是大势所趋。
+
+说道阿里在搞的Weex，也是在向这个方向探索，如果特别成功并且使用广泛的话一定会把Vue搞得更大：尤雨溪大神在这个问题上相当的明智的。
+
+再回到Angular 2，DomRenderer.getNativeElementSync(elementRef)也不是在做同样的事情吗？相关项目详见：NativeScript <a target="_blank" href="https://www.nativescript.org/">https://www.nativescript.org/</a>。
+
+除了JavaScript，CSS 也在尝试成为与平台无关的样式语言。React-Native就实现了CSS 的部分子集与iOS、Android的绑定。
+
+大前端
+
+未来的前端是一个包含但不仅限于app和web，从事多端构建任务的程序员工种。团队中单一技能的人员会越来越少，客户端与web端的界限也会越来越模糊。
+
+同时新的技术大多会在不同领域交叉点产生。网络提速，设别处理能力提高后，应用大小、性能可能退居第二，用户体验和开发效率提升到第一。
+
+比如很多公司，由于担心js、css打包后过大，放弃使用框架。这点我持保留意见，快速迭代的产品必须有敏捷的技术栈和稳定的框架。
+
+目前新版本的Chrome、Node.js对ES6标准的支持已经超过90%，Babel这一类工具的生命周期不会很长，TypeScript可能会越走越远。
+
+给大家的建议
+
+1. 道阻且长，冰冻三尺非一日之寒；
+2. 广泛地学习，有条件和能力的同学尽早地接触客户端开发，更多地了解服务端开发；
+3. 前端大有可为，新技术的发明者大多不是老东西，老东西经验足但是历史包袱重；
+4. 只在浏览器中思考必死无疑；
+5. 像一位同学提到的，打好基础，offer就有。学校里倒腾几年真的很难搞出什么大新闻，面试官也不会刻意为难你；
+6. 测试测试测试，前端测试值得学习掌握，比如e2e，这是一个机会：我能告诉你很多公司的前端测试都瞎JB点吗？
+7. 学习一些函数式编程的思想，例如：lodash、Redux、RxJS； 
+8. 拿到offer只是开始不要嘚瑟。
+
+番外篇——理性看待前端紧缺的现象
+
+刚入职淘宝时，团队里有许多前端外包同学，后来很大一部分转正了，有经验的前端工程师一直稀缺。
+
+2012年，PC购物还是主流，我们见证了无线成交额（GMV）逐渐赶超PC的时刻：端的重心越来越向mobile（App）移动。
+
+Hybrid App很流行，部分是因为Native开发更为复杂，同时审核、更新机制缓慢。每一次手淘release都要考虑与老版本的兼容性，几百号人同时开发二个（安卓、iOS）App想想多复杂。
+
+H5在webview中运行，随时可以更新、快速迭代，新产品或者是活动页面大多数会采用H5的形式进行发布；甚至很多小公司由于财力和技术储备有限，直接用App做壳，里面全是用H5来开发：因此市场上产生了很大的H5程序员的需求。
+
+且慢，没有任何人说过H5比Native更好，也没有什么H5的春天，一切的一切都是因为Native 开发、更新不够成熟。但也仅限在一个时间段内。
+
+如果一切问题都不是问题了，干嘛不全做Native？目前看来类似于React-Native、JsPatch这样的技术逐渐会让很多前端失业或是是被动转岗到纯PC业务。
+
+番外篇——推荐学习资源
+
+https://github.com/getify/You-Dont-Know-JS，clone下来以后用markdone阅读器阅读；
+http://es6.ruanyifeng.com/，阮一峰大神的ES6教程，纸质书可以在京东啥的买到；
+https://leanpub.com/，自出版书籍网站，每次更新都会发布新版本。支持Visa支付；
+https://manning.com/，特别是MEAP系列的图书，按章节更新，最新一手资料，支持Visa、PayPal支付；
+https://www.codeschool.com/，在线学习网站，覆盖前端、iOS、Ruby等，可以先试试免费课程，支持Visa、PayPal支付；
+https://egghead.io/，在线学习网站，先试试免费课程，授课人大神极多，基本涵盖了最新的前端技术，支持Visa支付，200刀一年略贵；
+要是觉得贵，想想火麒麟。
+
+番外篇——F&amp;Q
+
+Q：楼楼现在在干嘛？
+A：五道口，创业狗。负责公司的技术和产品。
+
+Q：还有什么想说的？
+A：帖子还会更新维护；用steam，玩PS4的同学请留下ID。
+
+Q：联系方式？
+A：caolixiang@yeyetech.net，微信请加mumuzhenzhen，告诉我你是谁。
+※ 修改:·Caolixiang 于 May  9 12:00:11 2016 修改本文·[FROM: 125.34.51.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 123.114.53.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/stevesasuke"><img src="https://bbs.byr.cn/uploadFace/S/stevesasuke.4254.jpg"></a><a href="/user/query/stevesasuke"><strong style="color:red;">stevesasuke</strong></a>前端变化日新月异...现在已经不是做做静态页面（然后让后端拼模板），实现些动态效果，发发 ajax 之类那么简单了。
+
+1. 海量新知识：HTML5、CSS3、ES6 这些得懂吧？ps 几乎每家都会问了解哪些 HTML5 的新特性...╮(╯▽╰)╭
+2. 基本 MV* 框架：Angular、React、Vue 这些就算不会用，至少要知道它们的思想吧？
+3. 工程化：grunt、gulp、browserify、webpack、npm script 至少会一个吧？模块化要知道吧？Less/Sass/Stylus 这三个知道是啥吧？
+4. 工具：chrome 各项调试功能怎么样要会用吧？不管 IDE 还是编辑器，至少有捣鼓过一些方便的插件吧？
+5. 测试：mocha、jasmine、karma...
+6. 网络和浏览器知识：网络协议规范（主要是 http）、比如超常见的跨域问题、浏览器如何加载执行的等等。
+7. 加分项：node 或其他后端、移动端经验（框架、适配等）、桌面端经验（nw、electron啥的...）
+
+想到再补充吧╮(╯▽╰)╭
+]
+]
+<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/WWWTechnology/35955?s=35962">第4楼</a></li><li><a href="/article/WWWTechnology/ajax_voteup/35962.json" class="a-func-like" id="like_list35962"><samp class="ico-pos-zaninactive" id="icon_like_list35962"></samp>赞(8)</a></li><li><a href="/article/WWWTechnology/ajax_votedown/35962.json" id="listCai35962" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai35962"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/WWWTechnology/post/35962" class="a-post">回复</a></li></ul><a class="a-nice-comment-face" href="/user/query/PiEgg"><img src="https://bbs.byr.cn/uploadFace/P/PiEgg.9489.jpg"></a><a href="/user/query/PiEgg">PiEgg</a>仅仅以上这些要求，我觉得不够啊。尤其是这四年前端的变化已经很大了。论坛里前段时间各种找不到前端实习的同学呢。我觉得如今前端的要求不再只是你会个HTML+CSS，用用jquery操作DOM，跑跑bootstrap就能找校招的年代了。
+
+对于楼内很多同学问的如今校招需要什么水平，我自己还没有经历校招我没有办法给出自己的体会。但是根据最近前方的同学反馈回来的信息来看，你们所需要的水平真的不是仅仅会会我所说的那些就够了。请看如下跟找前端实习相关的帖子：
+
+http://bbs.byr.cn/#!article/WWWTechnology/35576
+http://bbs.byr.cn/#!article/WWWTechnology/35195
+http://bbs.byr.cn/#!article/WWWTechnology/32365
+http://bbs.byr.cn/#!article/WWWTechnology/20507<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/WWWTechnology/35955?s=35958">第1楼</a></li><li><a href="/article/WWWTechnology/ajax_voteup/35958.json" class="a-func-like" id="like_list35958"><samp class="ico-pos-zaninactive" id="icon_like_list35958"></samp>赞(6)</a></li><li><a href="/article/WWWTechnology/ajax_votedown/35958.json" id="listCai35958" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai35958"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/WWWTechnology/post/35958" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">不求最好，但求最贵！ 8/10</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 【文章标题】：算法题语言没有js的都是耍流氓\(^o^)/ 【文章地址】：https://bbs.byr.cn/article/WWWTechnology/38728 【创建时间】：2016-09-06 【作者】：being 【评论】：15 【内容】：发信人: being (羅囉邏鑼), 信区: WWWTechnology
+标  题: 算法题语言没有js的都是耍流氓\(^o^)/
+发信站: 北邮人论坛 (Tue Sep  6 23:53:27 2016), 站内
+
+RT.  会做的题目只能眼睁睁的看着，本宝宝就是笨，就是不会c，不会c++，更不会java，~~(&gt;_&lt;)~~
+
+肿么破～ 现在学什么后端语言来恶补！笔试要全跪的节奏啊，好high！！
+
+<a target="_blank" href="http://guiyou.wangx.in">发自「贵邮」</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.215.19.*]
+ 
+
