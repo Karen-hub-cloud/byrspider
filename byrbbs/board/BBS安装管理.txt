@@ -822,3 +822,427 @@ then physics is its poetry.
 --
 ※ 转载:．天大求实BBS bbs.tju.edu.cn．[FROM: 202.113.13.188]
  
+【文章标题】：穿梭人数又没有限制 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/433 【创建时间】：2005-12-15 【作者】：hyangl. 【评论】：0 【内容】：发信人: hyangl@newsmth.net-SPAM.no (明诚), 信区: BBSMan_Dev
+标  题: 穿梭人数又没有限制
+发信站: 水木社区 (Thu Dec 15 22:21:24 2005)
+转信站: BYR!news.happynet.org!news.neu.edu.cn!news.newsmth.org!NEWSMTH
+
+会不会穿梭人太多以后，再穿梭就不行了？
+
+--
+
+※ 修改:·hyangl 于 Dec 15 22:21:24 修改本文·[FROM: 211.151.90.*]
+※ 来源:·水木社区 newsmth.net·[FROM: 211.151.90.*]
+ 
+【文章标题】：现有的KBS-BLOG是不是必须在MYSQL4.0.X下运行？ 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/408 【创建时间】：2005-12-15 【作者】：ukbee. 【评论】：4 【内容】：发信人: ukbee@newsmth.net-SPAM.no (小蜜蜂), 信区: BBSMan_Dev
+标  题: 现有的KBS-BLOG是不是必须在MYSQL4.0.X下运行？
+发信站: 水木社区 (Thu Dec 15 20:49:15 2005)
+转信站: BYR!news.happynet.org!news.neu.edu.cn!news.newsmth.org!NEWSMTH
+
+用的是FC4的LINUX
+自带MYSQL4.1.X
+是不是一定得卸载了4.1.x
+安装4.0.x才可以用现有的KBS的BLOG？
+--
+欢迎光临零时区BBS站
+http://zzonebbs.net
+telnet:zzonebbs.net
+诚征热爱KBS技术的朋友加盟零时区一起开发建设。
+
+※ 来源:·水木社区 <a target="_blank" href="http://newsmth.net">http://newsmth.net</a>·[FROM: 130.88.102.*]
+ 
+【文章标题】：编译时出错，这时什么原因阿 ？ 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/414 【创建时间】：2005-12-15 【作者】：lzuxz. 【评论】：10 【内容】：发信人: lzuxz@newsmth.net-SPAM.no (亡命小猪), 信区: BBSMan_Dev
+标  题: 编译时出错，这时什么原因阿 ？
+发信站: 水木社区 (Thu Dec 15 21:01:05 2005)
+转信站: BYR!news.happynet.org!news.neu.edu.cn!news.newsmth.org!NEWSMTH
+
+
+
+ [Compiling mgrep.lo]
+ gcc -DHAVE_CONFIG_H -I. -I. -I.. -DINVISIBLE -DSAFE_KILL -D_DETAIL_UINFO_ -DSHOW_IDLE_TIME -I../src -Wall -DLINUX -I/usr/include/mysql -MT mgrep.lo -MD -MP -MF .deps/mgrep.Tpo -c mgrep.c  -fPIC -DPIC -o .libs/mgrep.o
+mgrep.c: In function 'prepf':
+mgrep.c:146: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness
+mgrep.c: In function 'mgrep_str':
+mgrep.c:176: warning: pointer targets in passing argument 1 of 'monkey1' differ in signedness
+mgrep.c: In function 'mgrep':
+mgrep.c:221: warning: pointer targets in passing argument 1 of 'strncpy' differ in signedness
+mgrep.c:221: warning: pointer targets in passing argument 2 of 'strncpy' differ in signedness
+ gcc -DHAVE_CONFIG_H -I. -I. -I.. -DINVISIBLE -DSAFE_KILL -D_DETAIL_UINFO_ -DSHOW_IDLE_TIME -I../src -Wall -DLINUX -I/usr/include/mysql -MT mgrep.lo -MD -MP -MF .deps/mgrep.Tpo -c mgrep.c -o mgrep.o &gt;/dev/null 2&gt;&amp;1
+  [Compiling default.lo]
+ gcc -DHAVE_CONFIG_H -I. -I. -I.. -DINVISIBLE -DSAFE_KILL -D_DETAIL_UINFO_ -DSHOW_IDLE_TIME -I../src -Wall -DLINUX -I/usr/include/mysql -MT default.lo -MD -MP -MF .deps/default.Tpo -c default.c  -fPIC -DPIC -o .libs/default.o
+default.c: In function 'get_mail_limit':
+default.c:530: error: 'PERM_LARGEMAIL' undeclared (first use in this function)
+default.c:530: error: (Each undeclared identifier is reported only once
+default.c:530: error: for each function it appears in.)
+default.c: In function 'def_list':
+default.c:689: warning: integer constant is too large for 'long' type
+make[2]: *** [default.lo] 错误 1
+make[1]: *** [all-recursive] 错误 1
+make: *** [all] 错误 2
+[lzuxz@localhost kbs_bbs]$ ./configure --prefix=/mnt/pub/bbs1 --enable-site=devel  --with-mysql=/usr/include/mysql3/ --enable-ssh --enable-ssl --with-www=/usr/local/apache/ --with-php=/usr/local/php/include/php/ --with-libesmtp
+
+
+--
+
+※ 来源:·水木社区 newsmth.net·[FROM: 219.246.80.*]
+ 
+【文章标题】：[Tue Aug 11] GB BBS 列表(华东地区) 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/10429 【创建时间】：2009-08-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Tue Aug 11] GB BBS 列表(华东地区)
+发信站: SMTH News (Tue Aug 11 20:00:03 2009)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist02
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/2">http://bbslist.googlecode.com/svn/trunk/2</a> $
+$Id: 2 61 2009-06-10 14:31:52Z tianyx159 $
+
+华东地区(21站):
+┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
+┃学    校    │站    名│域                  名│   I P 地 址    │备    注┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃上海交通大学│饮水思源│bbs.sjtu.edu.cn       │202.120.58.161  │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃            │        │bbs.fudan.edu.cn      │202.120.225.9   │CERNET  ┃
+┃复旦大学    │日月光华├───────────┼────────┼────┨
+┃            │        │bbs.fudan.sh.cn       │61.129.42.9     │非CERNET┃
+┠──────┼────┼───────────┼────────┼────┨
+┃复旦大学    │枫林在线│bbs.fenglin.info      │218.81.113.192  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃复旦大学    │燕曦BBS │bbs.yanxi.org         │221.130.202.80  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃同济大学    │同舟共济│bbs.tongji.edu.cn     │202.120.189.87  │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃华东理工大学│梅陇客站│bbs.ecust.edu.cn      │202.120.111.2   │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中科院上海  │生命玄机│bbs.cst.sh.cn         │202.127.16.22   │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃            │        │freecity.cnzju.net    │10.13.21.88     │校内    ┃
+┃浙江大学    │ 飘渺   ├───────────┼────────┼────┨
+┃            │水云间  │www.zju88.net         │124.160.36.30   │网通    ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃浙江大学    │海纳百川│bbs.zju.edu.cn        │210.32.133.3    │WWW     ┃* 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃浙江大学    │听雨轩  │bbs.yymm.net          │202.96.107.4    │        ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃浙江大学    │三潭映月│bbs.shinemoon.com     │125.118.52.39   │        ┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃宁波大学    │白鹭林  │bbs.nbu.edu.cn        │210.33.16.30    │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃东南大学    │虎踞龙蟠│bbs.seu.edu.cn        │58.192.114.8    │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃南京大学    │小百合  │bbs.nju.edu.cn        │202.119.32.102  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃南京邮电学院│紫金飞鸿│bbs.njupt.edu.cn      │202.119.230.80  │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中国矿业大学│放鹤亭  │bbs.cumt.edu.cn       │202.119.199.87  │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃山东大学    │泉韵心声│bbs.sdu.edu.cn        │202.194.15.150  │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃山东大学    │岱北聆泉│www.daibei.net        │122.102.6.149   │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中国科技大学│瀚海星云│bbs.ustc.edu.cn       │202.38.64.3     │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃厦门大学    │鼓浪听涛│bbs.xmu.edu.cn        │210.34.0.13     │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃厦门大学    │山涧云雪│F13.cn-bbs.org        │218.193.13.41   │WWW     ┃
+┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛ 
+ 
+【文章标题】：[Tue Aug 11] GB BBS 列表(华南地区) 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/10430 【创建时间】：2009-08-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Tue Aug 11] GB BBS 列表(华南地区)
+发信站: SMTH News (Tue Aug 11 20:00:03 2009)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist03
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/3">http://bbslist.googlecode.com/svn/trunk/3</a> $
+$Id: 3 51 2008-08-16 07:32:58Z tianyx159 $
+
+华南地区(11站):
+┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
+┃学    校    │站    名│域                  名│   I P 地 址    │备    注┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃华南理工大学│木棉站  │bbs.gznet.edu.cn      │202.112.17.137  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃暨南大学    │暨南园  │bbs.jnu.edu.cn        │202.116.9.61    │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃广州中山大学│逸仙时空│bbs.zsu.edu.cn        │202.116.64.6    │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨  
+┃华南农业大学│东篱采菊│bbs.scau.edu.cn       │202.116.160.57  │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃广东工业大学│南国飘香│bbs.gdut.edu.cn       │222.200.98.60   │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃汕头大学    │郁金香  │bbs.stu.edu.cn        │202.192.157.41  │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨
+┃广西师范大学│烟雨漓江│bbs.gxnu.edu.cn       │202.193.160.35  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃深圳大学    │荔园晨风│bbs.szu.edu.cn        │210.39.3.50     │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨
+┃香港中文大学│人间仙境│bbs.oal.cuhk.edu.hk   │137.189.178.189 │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃香港数据中心│红磨坊  │redbbs.org            │202.181.239.18  │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃香港科技大学│清水湾  │msss.ust.hk           │143.89.52.222   │8000 WWW┃
+┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛
+ 
+【文章标题】：[Tue Aug 11] GB BBS 列表(西南地区) 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/10431 【创建时间】：2009-08-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Tue Aug 11] GB BBS 列表(西南地区)
+发信站: SMTH News (Tue Aug 11 20:00:04 2009)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist04
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/4">http://bbslist.googlecode.com/svn/trunk/4</a> $
+$Id: 4 57 2008-12-14 09:58:48Z tianyx159 $
+
+西南地区(4站):
+┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
+┃学    校    │站    名│域                  名│   I P 地 址    │备    注┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃重庆邮电学院│黄桷兰  │bbs.cqupt.edu.cn      │202.202.43.121  │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃电子科技大学│一网深情│bbs.uestc.edu.cn      │202.112.14.174  │WWW     ┃* 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃四川大学    │蓝色星空│bbs.scu.edu.cn        │202.115.44.194  │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃黔西南民族师│笔山书院│bbs.qxntc.edu.cn      │218.194.248.3   │WWW     ┃*
+┃专          │BBS     │                      │                │        ┃
+┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛ 
+ 
+【文章标题】：[Tue Aug 11] GB BBS 列表(华中地区) 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/10432 【创建时间】：2009-08-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Tue Aug 11] GB BBS 列表(华中地区)
+发信站: SMTH News (Tue Aug 11 20:00:04 2009)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist05
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/5">http://bbslist.googlecode.com/svn/trunk/5</a> $
+$Id: 5 62 2009-06-13 08:43:40Z tianyx159 $
+
+华中地区(4站):
+┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
+┃学    校    │站    名│域                  名│   I P 地 址    │备    注┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃华中科技大学│白云黄鹤│bbs.whnet.edu.cn      │202.114.0.248   │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃武汉大学    │珞珈山水│bbs.whu.edu.cn        │218.197.148.4   │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中南大学    │云麓园  │bbs.csu.edu.cn        │202.197.75.216  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中国地质大学│侏罗纪  │bbs.cug.edu.cn        │202.114.200.126 │WWW     ┃ 
+┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛ 
+ 
+【文章标题】：[Tue Aug 11] GB BBS 列表(西北地区) 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/10433 【创建时间】：2009-08-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Tue Aug 11] GB BBS 列表(西北地区)
+发信站: SMTH News (Tue Aug 11 20:00:04 2009)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist06
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/6">http://bbslist.googlecode.com/svn/trunk/6</a> $
+$Id: 6 60 2009-05-10 01:48:57Z tianyx159 $
+
+西北地区(3站):
+┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓
+┃学    校    │站    名│域                  名│   I P 地 址    │备    注┃
+┠──────┼────┼───────────┼────────┼────┨
+┃西安交通大学│兵马俑  │ bbs.xjtu.edu.cn      │202.117.1.8     │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨
+┃兰州大学    │西北望  │ bbs.lzu.edu.cn       │202.201.1.235   │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃兰州交通大学│大漠孤烟│ bbs.lzjtu.edu.cn     │202.201.18.45   │WWW     ┃*
+┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛
+ 
+【文章标题】：BBS刚装好需要建些什么板面来着？ 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/13761 【创建时间】：2012-06-06 【作者】：askthesky. 【评论】：8 【内容】：发信人: askthesky@newsmth.net-SPAM.no (花粉一枚), 信区: BBSMan_Dev
+标  题: BBS刚装好需要建些什么板面来着？
+发信站: 水木社区 (Wed Jun  6 14:48:21 2012)
+转信站: BYR!news.byr.edu.cn!news.shec6.edu.cn!news.newsmth.net!NEWSMTH
+
+精华区好像缺少这么篇文章
+--
+ 江 ┌  ─┼—─ ┌─┬┴┬╮╭╋╭━┓┓┌┼┬╮┬╮ 越剧协会十周年专场演出弦
+ 南     ─┼—─ ┌─┴─┴┐┏╋┌━╋┓┌┴┴┐╯│  2011.5.21(周六)18:30 歌
+ 越 │╰┬┴—┬ ╭────┐┏┣┃╰╋  ╭──┐\ │    蒙民伟楼多功能厅   雅
+ 色     ├──┤ ├────┤┃┃┗╯╰┛├──┤/ │        免票入场       韵
+ 浓 ╰╰┘──┤ └────╯┗┗━━━╯└──╯─┘   敬请关注 THAxiqu版  惬
+
+
+※ 来源:·水木社区 newsmth.net·[FROM: 61.135.255.83]
+ 
+【文章标题】：wForum的php报错，该重编译下谁？ 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/13766 【创建时间】：2012-06-07 【作者】：askthesky. 【评论】：3 【内容】：发信人: askthesky@newsmth.net-SPAM.no (花粉一枚), 信区: BBSMan_Dev
+标  题: wForum的php报错，该重编译下谁？
+发信站: 水木社区 (Thu Jun  7 15:32:50 2012)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!NEWSMTH
+
+硬盘坏了
+在新硬盘上新装了ubuntu
+想把旧盘上的bbs拷去用
+
+目前启动了telnet服务。apache服务能启动，php文件看起来也可用，但wForum里的php报错，典型的错误是：
+
+Fatal error: Call to undefined function: bbs_ext_initialized() in /home/bbs/down_packs/wForum/inc/funcs.php on line 57
+
+我php用的是4.4.7，拷过来直接用的，是版本问题吗？
+Build Date是当年的时间。我现在的系统是去年底装的
+System  Linux yh-desktop 3.2.0-24-generic #39-Ubuntu SMP Mon May 21 16:51:22 UTC 2012 i686
+Build Date      Feb 2 2008 16:47:56
+Configure Command       './configure' '--prefix=/home/bbs/down_packs/php-4.4.7/' '--with-apxs=/home/bbs/down_packs/apache_1.3.37//bin/apxs' '--disable-debug' '--enable-pic' '--disable-rpath' '--enable-inline-optimization' '--with-dom' '--with-gd' '--with-freetype-dir=/usr/lib' '--with-png-dir' '--with-iconv' '--with-zlib' 
+--
+ 江 ┌  ─┼—─ ┌─┬┴┬╮╭╋╭━┓┓┌┼┬╮┬╮ 越剧协会十周年专场演出弦
+ 南     ─┼—─ ┌─┴─┴┐┏╋┌━╋┓┌┴┴┐╯│  2011.5.21(周六)18:30 歌
+ 越 │╰┬┴—┬ ╭────┐┏┣┃╰╋  ╭──┐\ │    蒙民伟楼多功能厅   雅
+ 色     ├──┤ ├────┤┃┃┗╯╰┛├──┤/ │        免票入场       韵
+ 浓 ╰╰┘──┤ └────╯┗┗━━━╯└──╯─┘   敬请关注 THAxiqu版  惬
+
+
+※ 修改:·askthesky 于 Jun  7 15:32:49 2012 修改本文·[FROM: 61.135.255.83]
+※ 来源:·水木社区 newsmth.net·[FROM: 61.135.255.83]
+ 
+【文章标题】：请教一个问题，关于禁止全站发帖。 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/13749 【创建时间】：2012-06-05 【作者】：yunluo. 【评论】：12 【内容】：发信人: yunluo@newsmth.net-SPAM.no (云落), 信区: BBSMan_Dev
+标  题: 请教一个问题，关于禁止全站发帖。
+发信站: 水木社区 (Tue Jun  5 19:54:21 2012)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!NEWSMTH
+
+我们学校的论坛最近已更换为discuz的论坛，对于旧KBS论坛的处理是只供浏览。
+所以我想请问一下怎么全天24小时禁止全站发帖。
+
+或者，有办法可以把帖子的数据导入discuz么？用户数据倒不必。
+--
+
+※ 来源:·水木社区 <a target="_blank" href="http://newsmth.net">http://newsmth.net</a>·[FROM: 58.251.166.*]
+ 
+【文章标题】：[Mon Jun 11] 中文 BBS 列表说明 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/13778 【创建时间】：2012-06-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Mon Jun 11] 中文 BBS 列表说明
+发信站: SMTH News (Mon Jun 11 20:00:01 2012)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist00
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/0">http://bbslist.googlecode.com/svn/trunk/0</a> $
+$Id: 0 49 2008-07-17 10:28:51Z chenzz $
+
+   ★ 中文 BBS 列表：
+
+   [关于中文 BBS 列表]
+
+     本列表致力于整理中文 BBS ( 以 telnet 为主，包含 GB &amp; BIG5 )。
+     每月十一日发布于
+         cn.bbs.admin.installbbs
+         cn.bbs.admin.lists
+     请参考最新版本。
+
+     网页版本发布于
+         <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/">http://bbslist.googlecode.com/svn/trunk/</a>
+
+     本列表包含以下文件：
+         00. 中文 BBS 列表说明
+         01. GB BBS 列表(华北地区)
+         02. GB BBS 列表(华东地区)
+         03. GB BBS 列表(华南地区)
+         04. GB BBS 列表(西南地区)
+         05. GB BBS 列表(华中地区)
+         06. GB BBS 列表(西北地区)
+         07. GB BBS 列表(东北地区)
+         08. GB BBS 列表(其他地区)
+
+     目前由 tian@cn-bbs.org 维护，关于这部分的修正请直接回复于
+     cn.bbs.admin.installbbs 组。
+
+   [版权声明]
+
+     1. 本列表欢迎转载于各种媒体上，但必须连同本说明文件完整转载；
+     2. 本列表不得用于商业用途或者任何形式的金钱交易；
+     3. 若有引用，希望事先联系维护者，谢谢！
+
+   [附加说明]
+
+     参考资料：
+         1. CERNET BBS列表(yimao@smth.org)；
+         2. 更新列表(mayi.bbs@qmxbbs.org)；
+         3. cn.bbs.admin.installbbs 组网友所提供的修正；
+         4. yimao@smth.org 在 2002年5月～7月 的维护；
+         5. mayi.bbs@qmxbbs.org 在 2002年8月 的维护；
+         6. jjk.bbs@bbs.szu.edu.cn 在 2003年9月～2006年10月 的维护。
+ 
+【文章标题】：[Mon Jun 11] GB BBS 列表(华北地区) 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/13779 【创建时间】：2012-06-11 【作者】：lists. 【评论】：0 【内容】：发信人: lists@cn-bbs.org (中文 BBS 列表), 信区: BBSMan_Dev
+标  题: [Mon Jun 11] GB BBS 列表(华北地区)
+发信站: SMTH News (Mon Jun 11 20:00:01 2012)
+转信站: BYR!news.byr.edu.cn!news.neu.edu.cn!news.newsmth.net!not-for-mail
+出  处: www.newsmth.org
+
+Archive-name: cn/bbs/bbslist01
+Posting-frequency: monthly (11th of each month)
+Source: $HeadURL: <a target="_blank" href="http://bbslist.googlecode.com/svn/trunk/1">http://bbslist.googlecode.com/svn/trunk/1</a> $
+$Id: 1 79 2011-03-30 14:31:09Z tianyx159 $
+
+华北地区(23站):
+┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
+┃学    校    │站    名│域                  名│   I P 地 址    │备    注┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃            │        │smth.edu.cn           │ 166.111.8.238  │WWW     ┃*
+┃清华大学    │水木清华├───────────┼────────┼────┨
+┃            │        │bbs.tsinghua.edu.cn   │ 202.112.58.200 │        ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃清华大学    │听涛站  │bbs.tingtao.net       │ 59.66.174.112  │        ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃清华大学    │KissU   │bbs.thu.cn            │ 166.111.3.243  │        ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃清华大学    │自由空间│thuee.net             │ 166.111.64.66  │电子系  ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃清华大学    │第六星际│ns.6test.edu.cn       │ 202.112.54.2   │        ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃清华大学    │绿缘BBS │thuenv.org            │ 166.111.42.12  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃北京大学    │北大未名│bbs.pku.edu.cn        │ 162.105.205.23 │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中科院      │曙光站  │bbs.ncic.ac.cn        │ 159.226.41.99  │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃中科院      │科苑星空│bbs.gucas.ac.cn       │ 210.77.16.7    │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨
+┃北京邮电大学│新真情  │newbupt.org           │ 222.35.3.162   │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃北京邮电大学│北邮人  │bbs.byr.edu.cn        │ 211.68.71.66   │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨
+┃中国人民大学│天地人大│bbs.ruc.edu.cn        │ 202.112.126.210│WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨ 
+┃外经贸大学  │小天鹅  │bbs.uibe.edu.cn       │ 202.204.175.11 │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃北京科技大学│幻想空间│bbs.ustb.edu.cn       │ 202.204.59.204 │WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃南开大学    │我爱南开│bbs.nankai.edu.cn     │ 202.113.16.117 │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃天津大学    │天大求实│bbs.tju.edu.cn        │ 202.113.13.188 │SSH 2000┃*
+┠──────┼────┼───────────┼────────┼────┨ 
+┃            │        │bbs.hbu.edu.cn        │ 202.206.1.26   │教育网  ┃ 
+┃河北大学    │燕赵BBS ├───────────┼────────┼────┨ 
+┃            │        │bbs.hbu.cn            │ 221.192.237.132│公网    ┃ 
+┠──────┼────┼───────────┼────────┼────┨ 
+┃山西大学    │亦狐BBS │bbs.sxu.edu.cn        │ 202.207.208.100│WWW     ┃ 
+┠──────┼────┼───────────┼────────┼────┨
+┃北京化工大学│胜古朝阳│bbs.buct.edu.cn       │ 202.4.130.191  │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃中国农业大学│五色土  │wusetu.cn             │ 202.205.80.137 │WWW     ┃*
+┠──────┼────┼───────────┼────────┼────┨
+┃北京交通大学│红果园  │bbs.bjtu.edu.cn       │ 202.112.154.61 │WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃北京航空航天│未来花园│bbs.buaa.edu.cn       │ 202.112.128.249│WWW     ┃
+┠──────┼────┼───────────┼────────┼────┨
+┃中北大学    │寒泉BBS │bbs.nuc.edu.cn        │ 202.207.177.9  │WWW     ┃
+┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛ 
+ 
+【文章标题】：小bug，xyz.c 1200行有误 【文章地址】：https://bbs.byr.cn/article/BBSMan_Dev/13737 【创建时间】：2012-05-17 【作者】：xxkxxkc. 【评论】：6 【内容】：发信人: xxkxxkc@newsmth.net-SPAM.no (升级了), 信区: BBSMan_Dev
+标  题: 小bug，xyz.c 1200行有误
+发信站: 水木社区 (Thu May 17 12:15:50 2012)
+转信站: BYR!news.byr.edu.cn!news.newsmth.net!NEWSMTH
+
+        "../innd/newsfeeds.bbs", "deny_reason", "initial_favboard","tonewuser", "../" USER_TITLE_FILE, &lt;----这里
+
+--
+
+※ 来源:·水木社区 newsmth.net·[FROM: 219.136.248.*]
+ 

@@ -1603,3 +1603,18 @@ void GetAngle(){  //互补滤波函数
 
 
 <a target="_blank" href="/att/Smartcar/0/352/367"><img border="0" title="upload113_54_43.png" src="/att/Smartcar/0/352/367" alt="upload113_54_43.png" class="resizeable"></a> 
+【文章标题】：提问前必读 【文章地址】：https://bbs.byr.cn/article/Smartcar/268 【创建时间】：2017-11-11 【作者】：Ncer 【评论】：1 【内容】：发信人: Ncer (战战兢兢，如临深渊，如履薄冰), 信区: Smartcar
+标  题: 提问前必读
+发信站: 北邮人论坛 (Sat Nov 11 22:26:46 2017), 站内
+
+欢迎大家在做车期间遇到问题时在此提问
+
+提问前请先阅读下图
+
+我们鼓励提问和交流，但拒绝伸手
+
+<a target="_blank" href="http://bbs.byr.cn/att/Linux/0/44416/1363?.jpg"><img border="0" title="单击此在新窗口浏览图片" src="http://bbs.byr.cn/att/Linux/0/44416/1363?.jpg" alt="http://bbs.byr.cn/att/Linux/0/44416/1363?.jpg" class="resizeable"></a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.41.*]
+ 

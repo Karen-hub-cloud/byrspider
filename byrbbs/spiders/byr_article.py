@@ -98,7 +98,7 @@ class ByrArticleSpider(scrapy.Spider):
         #     item['comments'] = result
 
         fileName = item['partion']+'.txt'  # 爬取的内容存入文件，文件名为：作者-语录.txt
-        path = r'E:\Python\信息系统实训\byrspider\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
+        path = r'F:\Users\Karen\byrbbs-py2-master\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
 
         if not os.path.exists(path):  # 没有这个文件目录则新建一个
             os.mkdir(path)  #

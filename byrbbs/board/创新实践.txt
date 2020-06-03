@@ -393,3 +393,374 @@ PS还差两个队友，现在希望计算机的同学加入我们
 
 ※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.110.211.*]
  
+【文章标题】：Android 全国大学生移动互联网创业挑战赛启动 【文章地址】：https://bbs.byr.cn/article/Innovation/5478 【创建时间】：2015-06-26 【作者】：Hydroxygen 【评论】：0 【内容】：发信人: Hydroxygen (Hy), 信区: Innovation
+标  题: Android 全国大学生移动互联网创业挑战赛启动
+发信站: 北邮人论坛 (Fri Jun 26 11:58:19 2015), 站内
+
+Android 全国大学生移动互联网创业挑战赛启动
+               ——在Android平台上，实现最初衷的创业梦想
+
+作为Google 支持教育部实施大学生创新创业培育项目的一部分，Android全国大学生移动互联网创业挑战赛在2015年5月正式启动。为立志创业的大学生提供一个锻炼和展示的平台，促进大学生创业精神和实践培养，并为后续挖掘创业项目的商业价值进行铺路。全国总决赛一等奖将获得十万元创业奖金，另设其它奖项。参加挑战赛，实现创业梦想！
+
+大赛主页：www.google.cn/daxue
+
+大赛背景:
+大赛面向在校大专生和本科生，围绕移动互联领域，提交移动互联网（基于Android开源平台） 产品原型和商业策划书，可以是 Android 应用类解决方案或者 Android 应用与硬件相结合的解决方案（比如基于ARM系统）。
+全国总决赛一等奖将获得十万元创业奖金，另设其它奖项。
+参加挑战赛，实现创业梦想！
+
+参赛资格：
+在校大专生和本科生
+个人或团队（团队人数不可超过三人）均可参加挑战赛
+参赛者仅可提交一个参赛方案
+参赛方案尚未进入孵化阶段（即已经公司运作或已获得融资的参赛方案不符合参赛资格）
+
+提交内容：
+商业策划书
+Android 应用原型（Prototype，APK文件）
+演示视频链接（3分钟之内）
+
+评审标准：
+行业/市场
+技术/产品/服务
+商业模式/盈利模式
+创业团队
+财务/融资计划
+
+大赛奖项：
+一等奖（1名）：100000元创业奖金（税前）
+二等奖（3名）：50000元创业奖金（税前）
+三等奖（5名）：20000元创业奖金（税前）
+优秀奖（约11名）：5000元创业奖金（税前）
+参与奖（按提交要求成功提交参赛方案）：Google 纪念品
+优秀组织奖：针对参赛者指导老师的奖项，获奖的指导老师可获得奖牌一枚
+
+大赛日程（2015年）：
+现在～10月15日：报名及提交
+11月中旬：公布晋级总决赛名单
+12月中旬：全国总决赛
+
+更多大赛信息，欢迎访问大赛主页 www.google.cn/daxue。
+
+如果你在参赛过程中有任何问题，欢迎发邮件至 gdaxue@google.com，请在邮件主题中注明“创业挑战赛提问：XX 问题”，我们将及时回复。
+
+祝大家取得好成绩！
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 180.168.218.*]
+ 
+【文章标题】：咨询下有关提前毕设的事儿 【文章地址】：https://bbs.byr.cn/article/Innovation/5472 【创建时间】：2015-06-23 【作者】：ALLINforever 【评论】：5 【内容】：发信人: ALLINforever (ALLIN), 信区: Innovation
+标  题: 咨询下有关提前毕设的事儿
+发信站: 北邮人论坛 (Tue Jun 23 14:43:20 2015), 站内
+
+有木有人了解相关信息呢？具体的做毕设时间？导师要求？或者其他相关的，感激不尽啊，过来人多多指点
+
+<a target="_blank" href="http://guiyou.ichon.me">发自「贵邮」</a>
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.180.*]
+ 
+【文章标题】：【可盖章】今晚六点半，创客大赛与你不见不散~到场就送暖宝宝和 【文章地址】：https://bbs.byr.cn/article/Innovation/6649 【创建时间】：2016-11-01 【作者】：quantou808 【评论】：119 【内容】：发信人: quantou808 (【意涵团】| 我是一只小拳头呀咿呀咿呀哟), 信区: Innovation
+标  题: 【可盖章】今晚六点半，创客大赛与你不见不散~到场就送暖宝宝和
+发信站: 北邮人论坛 (Tue Nov  1 22:12:46 2016), 站内
+
+
+<a target="_blank" href="/att/Innovation/0/6649/7235"><img border="0" title="1.png" src="/att/Innovation/0/6649/7235" alt="1.png" class="resizeable"></a>
+
+<b>博耳杯第二届全国大学生创客大赛</b>
+巡回宣传第一站
+---北京邮电大学
+
+由<b>中国人工智能学会</b>主办的大赛进校园系列活动之博耳杯第二届全国大学生创客大赛火热回归~！！今年大赛进校园的活动将走遍华北华东共计20所高校，本周即将迎来巡回宣讲第一站---北京邮电大学。本届宣讲会由北京邮电大学研究生会组织筹办
+
+<b>时间：11月3日（本周四） 18：30-20：30
+地点：北邮教三楼，237室</b>
+
+强势开讲~不见不散~
+
+首届获奖同学将现场展示获奖作品，并与大家交流获奖经验，分享参赛心得
+<b>凡是到场的同学就有<u>暖宝宝和手机支架</u>送呢~~  互动环节更有<u>自拍杆、台灯等礼品</u>相送。走过路过，不要错过哦~~~</b><img src="/img/ubb/emc/5.gif" alt="emc5" style="display:inline;border-style:none">
+
+
+<a target="_blank" href="/att/Innovation/0/6649/168279"><img border="0" title="2.jpg" src="/att/Innovation/0/6649/168279" alt="2.jpg" class="resizeable"></a>
+
+2016年是AI爆炸式发展的一年，被人们称为AI元年，作为中科协唯一一家人工智能学会--中国人工智能学会对于中国的AI发展起着举足轻重的引领作用。在促进中国AI技术发展的时间点里，“智能改变生活”大学生创客大赛应运而生。该项大赛广泛吸纳大学在校学生，以自身专业特长结合创新理念和人工智能前沿科技，打造出可以改变或颠覆未来生活的全新产品或技术方案。它将充分体现高校在人工智能领域的优势，以比赛促进创客文化在高校的建设，以比赛促进各高校之间人工智能领域的交流，让人工智能技术渗透到我们生活的方方面面，让我们的家居生活因智能而变得更轻松、快乐、幸福。大赛去年已成功举办了首届，取得了良好的比赛效果和社会反响。
+<b>小编忍不住要插播一句，大赛的规模和影响力正处于迅速成长的阶段，参赛性价比还是相当的高的，有技术的可以施展技术，没技术的可以贡献想法，最重要的是，奖金相当的丰厚呀！ 什么，没听明白什么叫参赛性价比？那就来宣讲会现场吧，学长学姐会亲身竞赛经历告诉你，如何挑选一个正确的竞赛“姿势”，躺着名利双收！
+另外，偷偷说一句，所有北邮的报名团队，只要最后提交了作品，我们都有参赛福利相赠哦~（参赛福利又是什么鬼？奖金？礼品？小编负责任的告诉你，嘿嘿，都会有，没错，我们就是这么简单粗暴。）</b>
+
+
+<b>一、大赛介绍：</b>
+<b>主题</b>：“智能改变生活”大学生创客大赛
+<b>宣传口号</b>：让我们一起“造”动起来
+<b>意义</b>：
+o      你创新 我助力！在大众创业、万众创新的时代背景下，希望本次大赛能充分激发学生们的创造激情和创新活力，为他们在实现梦想的道路上加油、助力。
+o      你创造 我投资！大赛中涌现出的创新成果，将有机会对接包括博耳电力在内的众多科技企业和优质社会资本，以帮助学生将象牙塔中的方案和闪光的“点子”转化为更具发展前景的产品，从而获得更广阔的商业化空间。
+o      你是骏马 我是伯乐！大赛还将为莘莘学子提供展示才华的平台。大赛中涌现出的创新人才，将优先获得进入企业实习和就业的机会。
+
+
+<b>二、奖项设置</b>
+技术竞赛（产品设计）、外观设计（工业设计）
+一等奖：两种选题方式各设1名, 奖金12000元RMB/提案
+二等奖：两种选题方式各设2名, 奖金8000元RMB/提案
+三等奖：两种选题方式各设3名，奖金5000元RMB/提案
+优秀奖：共预计100名，所有进入决赛的方案均获此优秀奖，奖励600元/提案（或等值礼品）
+网络人气奖：所有进入决赛的提案，组委会提供网络平台供选手进行网络投票征集，针对网络投票的人次，评定网络人气大奖1名:2000元RMB。
+对获奖个人或团队发放奖金和荣誉证书。
+
+奖金相当丰厚哦~~<img src="/img/ubb/emc/49.gif" alt="emc49" style="display:inline;border-style:none">
+
+<b>三、参赛办法</b>
+<b>1．参赛对象</b>
+2017年6月底前在大学就读的本科生、研究生、博士生。 
+
+<b>2．参赛组队形式</b>
+以个人或团队形式参赛，以学校为单位报名。参赛学生自由组队，队员人数不限，每支参赛队须设置 1 名队长及 1 -2名指导教师，队长和指导教师由各参赛团队自行选定。各高校参赛人数、队数不限。
+
+<b>3. 参赛选题</b>
+两种选题方式：技术竞赛（产品设计）、外观设计（工业设计），要求紧紧围绕“智能改变生活”主题并进行延伸。 
+（1）技术竞赛（产品设计）参赛选手自主命题，完整呈现出具有创新性的智能化产品或技术，作品要求是技术论文、演示视频，产品样机可一并提供，有能力的选手可以提交商业计划书；
+（2）外观设计（工业设计）参赛选手以工学、美学、经济学为基础对工业产品进行外观设计，制作符合设计方案的演示视频和作品照片的电子文件，作品实物可一并提供。
+详细的命题引导详见附录。
+
+<b>4. 参赛方式</b>
+（1）参赛个人或团队从大赛网站（文末有链接）上下载并按要求填写《参赛信息表》。
+（2）参赛者将参赛作品文件夹与《参赛信息表》一同压缩，名称格式统一为“学校+参赛人/团队名称+作品名称.rar”（如：北京邮电大学+博耳杯小队1+ 个性化家务机器人.rar），初赛资料必须于2017 年 4 月 20 日前发送至各高校对接老师邮箱。<u><b>北邮对接老师邮箱</b></u>：guojunyan93@qq.com
+
+<b>扫描二维码可了解更多参赛信息~</b>
+
+<a target="_blank" href="/att/Innovation/0/6649/27625"><img border="0" title="43144179771909915.jpg" src="/att/Innovation/0/6649/27625" alt="43144179771909915.jpg" class="resizeable"></a>
+
+<b>四．作品要求</b>
+参赛队的参赛内容应该是参赛队员独立设计、开发完成的作品，严禁抄袭、剽窃等行为。谢绝已经商业化（即已完成作品的概念规划和框架设计，而已进入基于市场化运作的项目精细开发阶段）或者已经获得投资的项目参赛。
+
+
+<b>五．竞赛时间安排</b>
+参赛作品提交截止日期：2017 年 4 月 20 日
+初赛入围公布日期：2017 年 6 月 1 日
+决赛名单公布日期：2017 年 6 月 20 日
+决赛和颁奖典礼：2017 年 6 月底
+采用各高校评审初赛、专家组二次评审、现场决赛。
+
+<b>六．大赛机构及联系方式</b>
+<b>1．主办单位</b>
+    中国人工智能学会
+<b>2．组织单位</b>
+    博耳电力控股有限公司
+    博耳智能科技(无锡)有限公司
+<b>3. 协办单位</b>
+    中国人工智能学会智慧医疗专业委员会
+    国家人口与健康空军总医院平台中心
+<b>4. 宣讲会筹办单位</b>
+    北京邮电大学研究生会
+<b>5. 联系我们</b>
+<b>大赛官网</b>：<a target="_blank" href="http://brcup.caai.cn/">http://brcup.caai.cn/</a>
+<b>联系邮箱</b>：brcup@caai.cn， qingsong.liu@boerpower.com
+<b>联系电话</b>：010-62281360, 15811539507（手机）
+<b>联系地址</b>：北京市海淀区西土城路10号教一楼122室
+大赛指南及报名表下载欢迎访问中国人工智能学会官网：<a target="_blank" href="http://caai.cn/index.php?s=/Home/Article/detail/id/239.html">http://caai.cn/index.php?s=/Home/Article/detail/id/239.html</a>
+
+<b>附 参赛选题建议：</b>
+（一）技术竞赛（产品设计）分为以下四个参赛方向，参赛队可自行选择参赛方向：
+1. 设计技术类，包括但不限于各种具有较强创新的家用、电子、时尚、生活科学等智能产品的设计，如智能电子秤、智能空气净化器、智能安防产品等；
+2. 智能终端类，包括但不限于针对某一功能应用所开展的具有较强创新创意的支持多媒体、智能交互的终端设备或系统实现等，如可视电话、智能门口机、智能音箱、智能相册、智能家庭控制主机等；
+3. 自动控制与机电一体化类，包括但不限于实现自动控制与自主运行的创新创意软硬件系统与电气工程类，如环境自动控制、提供全方位家庭娱乐、现代化的厨卫环境、家庭绿植养护系统、老人智能看护、宠物智能照看系统等；
+4. 技术探索及工程应用类，包括但不限于物联网技术、通信技术、语音识别技术、图像识别技术、数据挖掘、云技术等新技术探索，应用于智能家居、智慧校园建设等领域，如通过语音识别技术实现智能家电的语音控制;通过各种主动式传感器（如温度、声音、动作等）实现智能家居的主动性动作响应；校园的智能管理、节能减排等。
+（二）外观设计（工业设计）外观设计主要围绕以下智能产品展开：
+o   智能环境感应器，包括温湿度、PM2.5、甲醛、二氧化碳、氧气、烟雾、可燃气体等传感器
+o   移动探测器
+o   可视对讲单元门口机
+o   智能主机，将所有智能设备联系在一起，形成一个有机整体
+o   红外转发器，随时随地无线远程控制家电
+o   智能开关
+o   智能门锁
+o   语音传感器
+
+--
+※ 修改:·quantou808 于 Nov  3 09:26:47 2016 修改本文·[FROM: 10.108.43.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.108.43.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/lutaoz"><img src="https://bbs.byr.cn/img/face_default_m.jpg"></a><a href="/user/query/lutaoz"><strong style="color:red;">lutaoz</strong></a>听说楼主是个单身萌妹子<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Innovation/6649?s=6683">第32楼</a></li><li><a href="/article/Innovation/ajax_voteup/6683.json" class="a-func-like" id="like_list6683"><samp class="ico-pos-zaninactive" id="icon_like_list6683"></samp>赞(3)</a></li><li><a href="/article/Innovation/ajax_votedown/6683.json" id="listCai6683" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai6683"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Innovation/post/6683" class="a-post">回复</a></li></ul><a class="a-nice-comment-face" href="/user/query/Swift601"><img src="https://bbs.byr.cn/img/face_default_m.jpg"></a><a href="/user/query/Swift601">Swift601</a>性价比很高的比赛，现在还在推广阶段，躺着就能拿钱，不要问我怎么知道的，上届获奖学长的亲身经历！<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Innovation/6649?s=6693">第42楼</a></li><li><a href="/article/Innovation/ajax_voteup/6693.json" class="a-func-like" id="like_list6693"><samp class="ico-pos-zaninactive" id="icon_like_list6693"></samp>赞(5)</a></li><li><a href="/article/Innovation/ajax_votedown/6693.json" id="listCai6693" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai6693"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Innovation/post/6693" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">听过无数的道理，可依然过不好这一生 2/10</a></li></ul><a class="a-nice-comment-face" href="/user/query/fu92811"><img src="https://bbs.byr.cn/img/face_default_m.jpg"></a><a href="/user/query/fu92811">fu92811</a>奖金确实很多
+【 在 Swift601 的大作中提到: 】
+: 性价比很高的比赛，现在还在推广阶段，躺着就能拿钱，不要问我怎么知道的，上届获奖学长的亲身经历！<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Innovation/6649?s=6695">第44楼</a></li><li><a href="/article/Innovation/ajax_voteup/6695.json" class="a-func-like" id="like_list6695"><samp class="ico-pos-zaninactive" id="icon_like_list6695"></samp>赞(3)</a></li><li><a href="/article/Innovation/ajax_votedown/6695.json" id="listCai6695" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai6695"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Innovation/post/6695" class="a-post">回复</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 
+【文章标题】：未来已来，我要的现在就要！  ——2016年QQ浏览器杯T派创新创业 【文章地址】：https://bbs.byr.cn/article/Innovation/6295 【创建时间】：2016-05-12 【作者】：ZQH 【评论】：12 【内容】：发信人: ZQH (郑狸子), 信区: Innovation
+标  题: 未来已来，我要的现在就要！  ——2016年QQ浏览器杯T派创新创业
+发信站: 北邮人论坛 (Thu May 12 11:00:38 2016), 站内
+
+未来已来，我要的现在就要！ 
+——2016年QQ浏览器杯T派创新创业大赛，等你来战！
+
+BTW  我们最后会在文章下面的评论里抽取幸运的同学发红包福利哟  一起来拉低中奖率吧~~
+
+他们说你锋芒毕露、想法太多
+
+<a target="_blank" href="/att/Innovation/0/6295/1471"><img border="0" title="图片1.png" src="/att/Innovation/0/6295/1471" alt="图片1.png" class="resizeable"></a>
+我们邀你所向披靡、勇往直前哇！
+因为星爷说了没有梦想就都是咸鱼！
+
+<a target="_blank" href="/att/Innovation/0/6295/47158"><img border="0" title="图片2.png" src="/att/Innovation/0/6295/47158" alt="图片2.png" class="resizeable"></a>
+
+
+
+这里是
+创星人的乐园
+挑战者的疆场
+梦想家的乌托邦
+
+<a target="_blank" href="/att/Innovation/0/6295/121227"><img border="0" title="图片3.png" src="/att/Innovation/0/6295/121227" alt="图片3.png" class="resizeable"></a>
+额。。。这里简直是等着咸鱼翻身的海鲜市场啊！
+
+<a target="_blank" href="/att/Innovation/0/6295/237547"><img border="0" title="图片4.png" src="/att/Innovation/0/6295/237547" alt="图片4.png" class="resizeable"></a>
+
+够了！我们不要慢动作！
+    火速报名参加“2016年QQ浏览器杯T派创新创业大赛“！
+让你的创想，热血释放！
+
+<a target="_blank" href="/att/Innovation/0/6295/311578"><img border="0" title="图片5.png" src="/att/Innovation/0/6295/311578" alt="图片5.png" class="resizeable"></a>
+
+疯狂点击报名地址：http://tpai.qq.com/race/qbc2016
+
+赛事三大命题，总有一款适合你
+根据领域的不同，本届大赛分为未来浏览、未来娱乐、未来硬件三个方向的命题，选手可根据团队兴趣选择某个方向设计作品。
+
+赛事流程扣人心弦，誓将创意进行到底
+
+<a target="_blank" href="/att/Innovation/0/6295/332034"><img border="0" title="图片6.png" src="/att/Innovation/0/6295/332034" alt="图片6.png" class="resizeable"></a>
+
+奖金无比丰厚，用手根本数不过来
+
+<a target="_blank" href="/att/Innovation/0/6295/357539"><img border="0" title="图片7.png" src="/att/Innovation/0/6295/357539" alt="图片7.png" class="resizeable"></a>
+--
+※ 修改:·ZQH 于 May 13 00:01:50 2016 修改本文·[FROM: 114.255.40.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 114.255.40.*]
+ 
+【文章标题】：“我创新，我分享”-- 北京邮电大学第八届大创展等你来！ 【文章地址】：https://bbs.byr.cn/article/Innovation/6305 【创建时间】：2016-05-12 【作者】：chenweiran 【评论】：20 【内容】：发信人: chenweiran (Archer), 信区: Innovation
+标  题: “我创新，我分享”-- 北京邮电大学第八届大创展等你来！
+发信站: 北邮人论坛 (Thu May 12 16:41:48 2016), 站内
+
+5月19日，我邮大学生第八届大创展就要开幕啦！
+
+<a target="_blank" href="/att/Innovation/0/6305/1501"><img border="0" title="11.jpg" src="/att/Innovation/0/6305/1501" alt="11.jpg" class="resizeable"></a>
+这是一场属于大家的头脑风暴，
+所有的创新梦想家，
+都在用行动昭示着创新创业的理念。
+
+<a target="_blank" href="/att/Innovation/0/6305/54088"><img border="0" title="22.jpg" src="/att/Innovation/0/6305/54088" alt="22.jpg" class="resizeable"></a>
+
+这个五月，我们等你来，一起分享梦想！
+ 
+本届展示交流会共有参展项目160余项，
+这是所有参展同学一年的心血结晶，
+是属于每位创新人的骄傲，
+也是每个北邮人的骄傲！
+
+<a target="_blank" href="/att/Innovation/0/6305/72681"><img border="0" title="33.jpg" src="/att/Innovation/0/6305/72681" alt="33.jpg" class="resizeable"></a>
+北京电视台采访马蹄铁团队
+
+<a target="_blank" href="/att/Innovation/0/6305/332269"><img border="0" title="44.jpg" src="/att/Innovation/0/6305/332269" alt="44.jpg" class="resizeable"></a>
+中国科学院院士和中国工程院院士陈俊亮参观第七届创新展
+
+<a target="_blank" href="/att/Innovation/0/6305/429661"><img border="0" title="55.jpg" src="/att/Innovation/0/6305/429661" alt="55.jpg" class="resizeable"></a>
+中国工程院资深院士、中国信息论研究奠基人周炯槃先生生前参观第二届创新展
+
+<a target="_blank" href="/att/Innovation/0/6305/780622"><img border="0" title="66.jpg" src="/att/Innovation/0/6305/780622" alt="66.jpg" class="resizeable"></a>
+中小学生也积极加入进创新的行列
+
+展区共分为创业邮我、助残助老、传统文化、媒体艺术、智慧生活、智能硬件、机电设计、电子信息、软件设计、理论研究、创意设计、联展区等12个主题展区，这是一场属于思想的饕餮盛宴，来到这里，寻找你的热爱。
+ 
+会爬楼的行李箱、智能婴儿床、“即扫即唱”乐谱扫描笔、“功夫道场”等等，这些项目是否令你好奇万分呢？告诉你，精彩的项目远不止这些。所以千万不要错过即将开始的大创展！
+
+本届展会将持续到5月21日。展会后还将举行创新创业论坛，进行更深入的技术及学术交流哦！
+ 
+另外，我们也将于5月13号（本周五）中午在小松林举行路演，
+40组优秀项目等你竞猜，答对问题，精美礼品属于你。
+ 
+我创新，我分享!
+北京邮电大学第八届创新展期待你的参与！
+
+扫描下方二维码能获取更多关于大创展的信息~
+
+
+<a target="_blank" href="/att/Innovation/0/6305/1753299"><img border="0" title="77.jpg" src="/att/Innovation/0/6305/1753299" alt="77.jpg" class="resizeable"></a>
+
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.202.5.*]
+
+ 
+【文章标题】：【已满/大创招人】基于IOS系统的终端APP开发 【文章地址】：https://bbs.byr.cn/article/Innovation/6336 【创建时间】：2016-05-13 【作者】：InStyle 【评论】：15 【内容】：发信人: InStyle (【意涵团】缘分), 信区: Innovation
+标  题: 【已满/大创招人】基于IOS系统的终端APP开发
+发信站: 北邮人论坛 (Fri May 13 09:50:09 2016), 站内
+
+大学英语实验教学与评估平台的IOS版本开发（即各位上英语课提交实验的平台APP版）
+
+我是指导老师，项目最多5人。
+
+该项目为滚动项目，安卓版本已经开发好，并于去年获评国家级，今年旨在开发IOS版本，安卓师兄们会在最开始给你们交接一下前期工作，一方面是学习另一方面对IOS的开发也有帮助。
+
+对于人员的要求
+1.不单纯为了加分，主要为了提升能力，学习开发技能，积攒项目经验
+2.绝对不收闲人，只想挂名的请勿联系，即便进组，没有贡献的会在项目中期被PASS
+3.我希望组员可以分工明确，共同分担任务，享受最终成果，大家有所收获，这个最重要
+4.责任感，肯定需要时间的投入，一激动加组，忙了就想撤的，请三思，对自己负责，对团队负责
+
+技能要求：
+1.有编程基础是大前提，有一定的自学能力，有APP开发经验优先，熟悉数据库优先，专门UI设计人员不需要
+2.团队最好都是一个班一个宿舍的，平时沟通起来会方便太多，经验之谈
+
+既然有人问有啥意义，我就说两句：
+平台依托的中心是国家级实验教学示范中心，是全国首个语言类的实验中心，可以说，靠实验教学荣获此殊荣。
+1.受众广、受益大：实验平台作为全校本科生大英公共课必用的平台，受众广，且从目前的实效评估来看，实验平台方式下的任务教学无论从问卷还是成绩反馈，都对学生英语听说能力提升非常有帮助；
+2.移动终端版需求迫切：无论是教师布置作业、学生视频提交以及评分环节，在校园内实时可操作，便捷性不言而喻
+3.易于推广：目前英语实验教学模式国内首屈一指，无论是模式还是平台都是未来推广的实体，而APP在推广方面更加方便，直接扫码安装即可体验（安卓版本曾在全国研讨会上有过展示了）
+4.个人认为，大创，可以走创意也可以走应用，以上三点我不知道学生会多在乎，而我重视的是于学生的技能培养，而非其他边缘效应，其他有更好，但并不是重点。
+
+
+
+个人认为，基于已有的安卓版本，只要有编程基础，有心想学好IOS开发，具备一定的自学能力，以及我尽可能提供的帮助，完成项目没有问题，关键在于你加入项目的初衷，我希望团队的出发点是一致的，希望项目结束的时候大家有所收获，这个最重要！
+
+有意私信联系，说一下编程方面的技能基础，男女，院系，参与项目的目的等等
+
+
+
+--
+※ 修改:·InStyle 于 May 19 08:14:47 2016 修改本文·[FROM: 10.125.214.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.125.214.*]
+ 
+【文章标题】：大创招募队友 【文章地址】：https://bbs.byr.cn/article/Innovation/6371 【创建时间】：2016-05-18 【作者】：wqy18 【评论】：0 【内容】：发信人: wqy18 (玉喵), 信区: Innovation
+标  题: 大创招募队友
+发信站: 北邮人论坛 (Wed May 18 09:08:17 2016), 站内
+
+本人树莓院大二 目前我们想做一个有交互性的装置 已经有一个电子院和一个理学院的小伙伴加入 参照学长们建议现在需要计算机学院及数技专业同学加入 我们的计划是先立项 平时最多就是大家一起讨论一下创意 等暑假再开始正式做 啊哈 我们是奔着玩为目标的呀 是一个愉快的团体 希望想加入的同学可以找我了解一下啦 qq1078563917      微信18801255292
+--
+
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.8.65.*]
+ 
+【文章标题】：[心得]一年的创新历程「楼内热评征友～」 【文章地址】：https://bbs.byr.cn/article/Innovation/6402 【创建时间】：2016-05-22 【作者】：yo1995 【评论】：59 【内容】：发信人: yo1995 (yo ), 信区: Innovation
+标  题: [心得]一年的创新历程「楼内热评征友～」
+发信站: 北邮人论坛 (Sun May 22 21:13:44 2016), 站内
+
+@caicai617 
+--
+
+第一楼留给队友。
+
+这一年里麻烦你太多太多。自己是个不喜欢麻烦别人的人，所以每次找你帮忙都有点开不了口。很多时候，我会提一些刁钻的问题，脑洞大开的问题，然后想当然推着你去做，一会儿又变了主意……<img src="/img/ubb/em/19.gif" alt="em19" style="display:inline;border-style:none">效率低的锅我得背7分。
+
+有时候自己张口就会胡来，说的话很不中听，甚至粗鄙。还是在这道个歉吧，希望你能接受。说了什么伤人心的话，说了什么丧气话不合时宜的话，说了什么有损您尊严的话，希望在此打住，别影响了以后的关系。当然，这都是我一厢情愿。
+
+我总觉得做小项目一个人足矣。就像一张以前看过的描写多线程理想与实际的趣图那样，多一个队友，就会多一分不确定因素。做项目时大家都喜欢抱大腿，奈何大腿不是独来独往就是懒于和不懂流程化操作的队友合作。到最后，项目经常烂尾，或者差强人意，或者草草收场。能够最终脱颖而出的项目，光靠一行行代码，一点一滴努力的积累还不够，还需要默契配合减少内耗，再加上那么一点点灵光闪现，运气使然。然而，当一个团队运转起来的时候，其能量往往超出想象。一个配合默契的团队…需要每个人都是“大腿”。哪里缺人哪里就要有成员顶上去。
+
+做项目时最怕谁也不服谁。都以为自己是对的，拒不合作，最后只会是耽误进度。在这方面我做的确实不好，很多时候非要倔到底，非得撞南墙才会调头。如果以后还能合作，希望和你和或者其他队友议事时能够更高效，更理性吧。
+
+最后的最后，不容易，辛苦了！谢谢队友！
+--
+
+<a target="_blank" href="/att/Innovation/0/6402/1513"><img border="0" title="" src="/att/Innovation/0/6402/1513" alt="" class="resizeable"></a>
+※ 修改:·yo1995 于 May 24 08:01:25 2016 修改本文·[FROM: 10.8.194.*]
+※ 来源:·北邮人论坛 <a target="_blank" href="http://bbs.byr.cn">http://bbs.byr.cn</a>·[FROM: 10.202.17.*]
+<h3><span>精彩回复</span></h3><h5><a class="a-func-toggle" style="color:#555;" href="#">收起 ▲</a></h5><a class="a-nice-comment-face" href="/user/query/caicai617"><img src="https://bbs.byr.cn/uploadFace/C/caicai617.2497.jpg"></a><a href="/user/query/caicai617"><strong style="color:red;">caicai617</strong></a>这贴要是能在十大待一整天 我就借贵楼征友 禁止改回复
+
+2016.5.23 22:36更新
+骗了十来个赞，咱不能说话不算数不是，来来来，借楼征友
+本人男，爱好女，属猪。征友要求：女的，活的，剩下看眼缘。
+有意站内，嗯。<ul class="a-func a-nice-comment-func"><li><a class="a-nice-comment-floor" style="color:#888;" title="点击跳转" href="/article/Innovation/6402?s=6415">第12楼</a></li><li><a href="/article/Innovation/ajax_voteup/6415.json" class="a-func-like" id="like_list6415"><samp class="ico-pos-zaninactive" id="icon_like_list6415"></samp>赞(17)</a></li><li><a href="/article/Innovation/ajax_votedown/6415.json" id="listCai6415" class="a-func-cai"><samp class="ico-pos-caiinactive" id="icon_list_cai6415"></samp>踩(0)</a></li><li><samp class="ico-pos-reply"></samp><a href="/article/Innovation/post/6415" class="a-post">回复</a></li><li><a href="#" style="color:white;margin:0px 50px;">下一个彩蛋线索见网页源代码。 10/10</a></li></ul><!--成就解锁：彩蛋2号获得！输入魂斗罗秘籍可解锁彩蛋3号。hint： IE 0=A  1=B--来自bbs.byr.cn----> 

@@ -5,7 +5,8 @@ from elasticsearch_dsl import Document, Date, Completion, Keyword, Text, Integer
 
 from elasticsearch_dsl.analysis import CustomAnalyzer
 # 使用ik分词
-ik_analyzer = CustomAnalyzer("ik_max_word", filter=["lowercase"])
+# ik_analyzer = CustomAnalyzer("ik_max_word")
+
 
 from elasticsearch_dsl.connections import connections
 # 本地服务器
@@ -34,7 +35,7 @@ class bbsType(Document):
     content = Text(analyzer="ik_max_word")  # 内容
     comments = Text(analyzer="ik_smart")  # 评论
 
-    suggest = Completion(analyzer=ik_analyzer)  # 搜索建议
+    s = Completion()  # 搜索建议
 
 
     def __init__(self,item):
@@ -69,7 +70,8 @@ class bbsType(Document):
         #     vars(self)[key]=item[key]
 
         # TODO：生成搜索建议词
-        # self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
+        self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
+        item ['suggest'] = self.suggest
 
     def gen_suggests(self, info_tuple):
         # 根据字符串生成搜索建议数组
@@ -78,7 +80,7 @@ class bbsType(Document):
         for text, weight in info_tuple:
             if text:
                 # 字符串不为空时，调用elasticsearch的analyze接口分析字符串（分词、大小写转换）
-                words = es.indices.analyze(body={'text': text, 'analyzer': "ik_max_word"},params={'filter':["lowercase"]})
+                words = es.indices.analyze(body={'text': text, 'analyzer': "ik_max_word"})
                 print("words",words)
                 # anylyzed_words = set([r["token"] for r in words["tokens"] if len(r["token"]) > 1])
                 analyzed_words = []
