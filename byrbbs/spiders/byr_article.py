@@ -78,6 +78,17 @@ class ByrArticleSpider(scrapy.Spider):
         article = re.sub('</?(font|div).*?>', '', article)
         article = re.sub('<br>', '\n', article)
         # 截取帖子中的内容
+        # content = re.findall(r"\),(.+?)※",article.split("发信站")[1])[0]
+        # print("!!!!!!!!!",content)
+        item['content'] = article
+        # 追贴
+        lists = response.css('div.b-content')
+        list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
+        result = "".join(list_content)
+        result = re.sub('</?(font|div).*?>', '', result)
+        result = re.sub('<br>', '\n', result)
+        comment = ByrArticleSpider.getComments(self,result)
+        item['comments'] = comment
         content = re.findall(r"\),(.+?)※",article.split("发信站")[1])
         item['content'] = article
 
@@ -105,17 +116,6 @@ class ByrArticleSpider(scrapy.Spider):
         f.write('【内容】：' + item['content'] + ' ')
         f.write('\n')
         yield item
-
-    def parse_article_comment(self,response):
-        item = response.meta['item']
-        # 追贴
-        lists = response.css('div.b-content')
-        list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
-        result = "".join(list_content)
-        result = re.sub('</?(font|div).*?>', '', result)
-        result = re.sub('<br>', '\n', result)
-        comment = ByrArticleSpider.getComments(result)
-        item['comments'] += comment
 
     def getComments(self, comments):
         result = ""
