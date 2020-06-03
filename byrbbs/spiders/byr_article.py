@@ -73,17 +73,22 @@ class ByrArticleSpider(scrapy.Spider):
     def parse_article_content(self, response):
         item = response.meta['item']
 
+        # 楼主发帖
         article = response.xpath('//div[3]/div[1]/table/tr[2]/td[2]/div[1]').extract()[0]
         article = re.sub('</?(font|div).*?>', '', article)
         article = re.sub('<br>', '\n', article)
-        item['content'] = article
+        # 截取帖子中的内容
+        content = re.findall(r"\),(.+?)※",article.split("发信站")[1])
+        item['content'] = content
 
+        # 追贴
         lists = response.css('div.b-content')
         list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
         result = "".join(list_content)
         result = re.sub('</?(font|div).*?>', '', result)
         result = re.sub('<br>', '\n', result)
-        item['comments'] = result
+        comment = ByrArticleSpider.getComments(result)
+        item['comments'] = comment
 
         # for list in lists:
         #     list_content = list.css('div[class*=a-content-wrap] ::text').extract()
@@ -107,5 +112,21 @@ class ByrArticleSpider(scrapy.Spider):
         f.write('【内容】：' + item['content'] + ' ')
         f.write('\n')
         yield item
+
+    def getComments(self, comments):
+        result = ""
+        lists = comments.split('发信人')
+        lists.remove(lists[0])
+        lists.remove(lists[0])
+        if len(lists) > 0:
+            for _list in lists:
+                name = re.findall(r":(.+?), 信区", _list)
+                text = _list.split("发信站")[1]
+                comment = re.findall(r"\),(.+?)※", text)
+                result += name[0]
+                result += "||"
+                result += comment[0]
+                result += "|||"
+        return result
 
 
