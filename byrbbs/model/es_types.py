@@ -70,8 +70,8 @@ class bbsType(Document):
         #     vars(self)[key]=item[key]
 
         # TODO：生成搜索建议词
-        self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
-        item ['suggest'] = self.suggest
+        # self.suggest = self.gen_suggests(((self.title, 10), (self.content, 7)))
+        # item ['suggest'] = self.suggest
 
     def gen_suggests(self, info_tuple):
         # 根据字符串生成搜索建议数组
