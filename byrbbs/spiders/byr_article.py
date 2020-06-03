@@ -79,23 +79,16 @@ class ByrArticleSpider(scrapy.Spider):
         article = re.sub('<br>', '\n', article)
         # 截取帖子中的内容
         content = re.findall(r"\),(.+?)※",article.split("发信站")[1])
-        item['content'] = content
+        item['content'] = article
 
-        # 追贴
-        lists = response.css('div.b-content')
-        list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
-        result = "".join(list_content)
-        result = re.sub('</?(font|div).*?>', '', result)
-        result = re.sub('<br>', '\n', result)
-        comment = ByrArticleSpider.getComments(result)
-        item['comments'] = comment
+        item['comments'] = ""
 
-        # for list in lists:
-        #     list_content = list.css('div[class*=a-content-wrap] ::text').extract()
-        #     result = "".join(list_content)
-        #     result = re.sub('</?(font|div).*?>', '', result)
-        #     result = re.sub('<br>', '\n', result)
-        #     item['comments'] = result
+        # 获取评论页数
+        num = response.xpath('/html/body/section/section/div[4]/div[1]/ul/li[2]/ol/li[10]/a/text()').extract()[0]
+        total_page = int(num)
+        for i in range(1,total_page+1):
+            crawl_list_url = item['url']+'?p='+str(i)
+            yield scrapy.Request(crawl_list_url, meta={'cookiejar': response.meta['cookiejar'],'item':response.meta['item']}, headers=HEADERS,callback=self.parse_article_comment)
 
         fileName = item['partion']+'.txt'  # 爬取的内容存入文件，文件名为：作者-语录.txt
         path = r'F:\Users\Karen\byrbbs-py2-master\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
@@ -112,6 +105,17 @@ class ByrArticleSpider(scrapy.Spider):
         f.write('【内容】：' + item['content'] + ' ')
         f.write('\n')
         yield item
+
+    def parse_article_comment(self,response):
+        item = response.meta['item']
+        # 追贴
+        lists = response.css('div.b-content')
+        list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
+        result = "".join(list_content)
+        result = re.sub('</?(font|div).*?>', '', result)
+        result = re.sub('<br>', '\n', result)
+        comment = ByrArticleSpider.getComments(result)
+        item['comments'] += comment
 
     def getComments(self, comments):
         result = ""
