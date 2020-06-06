@@ -1,4 +1,5 @@
 import scrapy
+from scrapy import Selector
 from urllib3.connectionpool import xrange
 
 from byrbbs.spiders.byr_config import URL_HEAD,HEADERS,LOGIN_FORMDATA
@@ -76,33 +77,48 @@ class ByrArticleSpider(scrapy.Spider):
         # 楼主发帖
         article = response.xpath('//div[3]/div[1]/table/tr[2]/td[2]/div[1]').extract()[0]
         article = re.sub('</?(font|div).*?>', '', article)
-        article = re.sub('<br>', '\n', article)
-        # 截取帖子中的内容
-        # content = re.findall(r"\),(.+?)※",article.split("发信站")[1])[0]
-        # print("!!!!!!!!!",content)
+        article = re.sub('<br>', '\t', article)    #str类型
+        article = re.sub(" ", "", article)
+        article = re.sub("\"","\\"+"\"", article)
         item['content'] = article
-        # 追贴
+
+        # 获取第一页追贴（包括楼主发的贴）
         lists = response.css('div.b-content')
         list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
         result = "".join(list_content)
         result = re.sub('</?(font|div).*?>', '', result)
         result = re.sub('<br>', '\n', result)
-        comment = ByrArticleSpider.getComments(self,result)
-        item['comments'] = comment
-        content = re.findall(r"\),(.+?)※",article.split("发信站")[1])
-        item['content'] = article
+        result = re.sub(" ", "", result)
+        result = re.sub("\"", "\\" + "\"", result)
+        item['comments'] = result
 
-        item['comments'] = ""
 
-        # 获取评论页数
-        num = response.xpath('/html/body/section/section/div[4]/div[1]/ul/li[2]/ol/li[10]/a/text()').extract()[0]
-        total_page = int(num)
-        for i in range(1,total_page+1):
-            crawl_list_url = item['url']+'?p='+str(i)
-            yield scrapy.Request(crawl_list_url, meta={'cookiejar': response.meta['cookiejar'],'item':response.meta['item']}, headers=HEADERS,callback=self.parse_article_comment)
+        # 获取最后一页的追贴
+        # reply_count = item['reply_count']
+        # num = int((int(reply_count) + 1) / 10) + 1
+        # crawl_list_url = item['url'] + '?p=' + str(num)
+        # yield scrapy.Request(url=crawl_list_url,
+        #                      headers=HEADERS,
+        #                      callback=self.parse_article_comment,
+        #                      meta={'cookiejar': response.meta['cookiejar'],
+        #                            'item': item})
+
+        # 获取其他页面的追贴（有问题未解决）
+        # reply_count = item['reply_count']
+        # num = int((int(reply_count) + 1) / 10) + 1
+        # if num > 1:
+        #     for i in range(2, num + 1):
+        #         crawl_list_url = item['url'] + '?p=' + str(i)
+        #         # print(crawl_list_url)  # url是正确的
+        #         yield scrapy.Request(url=crawl_list_url,
+        #                              headers=HEADERS,
+        #                              callback=self.parse_article_comment,
+        #                              priority= -i,
+        #                              meta={'cookiejar': response.meta['cookiejar'],
+        #                                    'item': item})
 
         fileName = item['partion']+'.txt'  # 爬取的内容存入文件，文件名为：作者-语录.txt
-        path = r'F:\Users\Karen\byrbbs-py2-master\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
+        path = r'E:\Python\信息系统实训\byrbbs-py2-master\byrbbs\board'  # 定义一个变量储存要指定的文件夹目录
 
         if not os.path.exists(path):  # 没有这个文件目录则新建一个
             os.mkdir(path)  #
@@ -115,22 +131,37 @@ class ByrArticleSpider(scrapy.Spider):
         f.write('【评论】：' + item['reply_count'] + ' ')
         f.write('【内容】：' + item['content'] + ' ')
         f.write('\n')
+        # yield item
+
+    def parse_article_comment(self,response):
+        selector = Selector(response)
+        item = response.meta['item']
+        # 追贴
+        lists = selector.css('div.b-content')
+        list_content = lists[0].css('div[class*=a-content-wrap] ::text').extract()
+        result = "".join(list_content)
+        result = re.sub('</?(font|div).*?>', '', result)
+        result = re.sub('<br>', '\n', result)
+        # comment = ByrArticleSpider.getComments(result)
+        item['comments'] = result
+        print(item['comments'])
         yield item
 
-    def getComments(self, comments):
-        result = ""
-        lists = comments.split('发信人')
-        lists.remove(lists[0])
-        lists.remove(lists[0])
-        if len(lists) > 0:
-            for _list in lists:
-                name = re.findall(r":(.+?), 信区", _list)
-                text = _list.split("发信站")[1]
-                comment = re.findall(r"\),(.+?)※", text)
-                result += name[0]
-                result += "||"
-                result += comment[0]
-                result += "|||"
-        return result
+    # 对追评进行处理，可以不在爬虫时处理，所以先不管了
+    # def getComments(self, comments):
+    #     result = ""
+    #     lists = comments.split('发信人')
+    #     lists.remove(lists[0])
+    #     lists.remove(lists[0])
+    #     if len(lists) > 0:
+    #         for _list in lists:
+    #             name = re.findall(r":(.+?), 信区", _list)
+    #             text = _list.split("发信站")[1]
+    #             comment = re.findall(r"\),(.+?)※", text)
+    #             result += name[0]
+    #             result += "||"
+    #             result += comment[0]
+    #             result += "|||"
+    #     return result
 
 

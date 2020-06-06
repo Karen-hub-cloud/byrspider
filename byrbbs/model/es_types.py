@@ -48,7 +48,7 @@ class bbsType(Document):
     # TODO:将item转换为es的数据
     def assignment(self, item):
         # TODO：给没爬到的字段赋默认值：空串
-        keys = ['partion', 'title', 'url', 'send_time', 'sender', 'reply_count', 'content','latest_reply_time']
+        keys = ['partion', 'title', 'url', 'send_time', 'sender', 'reply_count', 'content','comments','latest_reply_time']
         for key in keys:
             try:
                 item[key]
@@ -63,7 +63,8 @@ class bbsType(Document):
         self.sender = item['sender']
         self.reply_count = item['reply_count']
         self.content = item['content']
-        self.latest_reply_time = "2020-01-11"
+        self.comments = item['comments']
+        self.latest_reply_time = item['latest_reply_time']
 
         # # 或者简化代码为
         # for key in keys:
