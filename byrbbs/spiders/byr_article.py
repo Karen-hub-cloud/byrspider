@@ -39,6 +39,8 @@ class ByrArticleSpider(scrapy.Spider):
         page_list_num = response.xpath('//*[@class="t-pre-bottom"]/div[1]/ul/li[1]/i/text()').extract()[0]
         total_num = int(page_list_num)//self.article_per_list+1  #页数从1到total_num
         first_list = response._get_url()
+        if(total_num > 10):
+            total_num = 10
         for i in range(1,total_num+1):
             crawl_list_url = first_list+'?p='+str(i)
             # print(crawl_list_url)
